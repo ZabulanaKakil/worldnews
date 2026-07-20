@@ -1,0 +1,41 @@
+name: Fetch news feed
+
+on:
+  schedule:
+    # Hourly — target freshness within ~1 hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch and normalize RSS
+        run: npm run fetch-news
+
+      - name: Commit updated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/news.json
+          if git diff --staged --quiet; then
+            echo "No feed changes"
+          else
+            git commit -m "chore: update hourly news feed"
+            git push
+          fi
