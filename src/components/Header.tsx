@@ -4,6 +4,7 @@ interface HeaderProps {
   feedGeneratedAt: string | null
   lastRefreshedAt: string | null
   isRefreshing: boolean
+  syncMessage?: string | null
   onRefresh: () => void
 }
 
@@ -11,6 +12,7 @@ export function Header({
   feedGeneratedAt,
   lastRefreshedAt,
   isRefreshing,
+  syncMessage,
   onRefresh,
 }: HeaderProps) {
   return (
@@ -30,6 +32,7 @@ export function Header({
           <span>
             You refreshed {formatRelativeTime(lastRefreshedAt)}
           </span>
+          {syncMessage && <span className="sync-message">{syncMessage}</span>}
         </div>
         <button
           type="button"
@@ -37,7 +40,7 @@ export function Header({
           onClick={onRefresh}
           disabled={isRefreshing}
         >
-          {isRefreshing ? 'Refreshing…' : 'Refresh feed'}
+          {isRefreshing ? 'Pulling RSS…' : 'Refresh feed'}
         </button>
       </div>
     </header>

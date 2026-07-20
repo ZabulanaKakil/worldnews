@@ -1,4 +1,5 @@
 import { lazy, Suspense, useMemo, useState } from 'react'
+import { GitHubSettings } from './components/GitHubSettings'
 import { CategoryFilter } from './components/CategoryFilter'
 import { Header } from './components/Header'
 import { NewsDetailModal } from './components/NewsDetailModal'
@@ -17,7 +18,7 @@ const VisualPanel = lazy(async () => {
 const TAB_COPY: Record<AppTab, { title: string; body: string }> = {
   live: {
     title: 'Live desk',
-    body: 'Current batch from the hourly feed. Refresh archives stories that left Live into Older News.',
+    body: 'Refresh pulls live RSS from outlets worldwide, updates this desk, and commits news.json to GitHub.',
   },
   older: {
     title: 'Archived refreshes',
@@ -30,7 +31,7 @@ const TAB_COPY: Record<AppTab, { title: string; body: string }> = {
 }
 
 export default function App() {
-  const { feed, status, error, refresh, reload, markSeen, unmarkSeen } =
+  const { feed, status, error, syncMessage, refresh, reload, markSeen, unmarkSeen } =
     useNewsFeed()
   const [tab, setTab] = useState<AppTab>('live')
   const [category, setCategory] = useState<CategoryId | 'all'>('all')
@@ -97,11 +98,14 @@ export default function App() {
         feedGeneratedAt={feed.feedGeneratedAt}
         lastRefreshedAt={feed.lastRefreshedAt}
         isRefreshing={status === 'refreshing'}
+        syncMessage={syncMessage}
         onRefresh={() => {
           void refresh()
           setTab('live')
         }}
       />
+
+      <GitHubSettings />
 
       <TabNav
         tab={tab}

@@ -1,5 +1,7 @@
 import { useCallback, useEffect, useState } from 'react'
 import { fetchNewsFeed } from '../lib/news/fetchFeed'
+import { commitNewsFeedToGitHub } from '../lib/news/githubSync'
+import { fetchLiveRssFeed } from '../lib/news/rssPipeline'
 import {
   archiveLiveBatch,
   loadPersistedFeed,
@@ -19,10 +21,12 @@ export function useNewsFeed() {
   )
   const [status, setStatus] = useState<Status>('loading')
   const [error, setError] = useState<string | null>(null)
+  const [syncMessage, setSyncMessage] = useState<string | null>(null)
 
   const loadInitial = useCallback(async () => {
     setStatus('loading')
     setError(null)
+    setSyncMessage(null)
     try {
       const data = await fetchNewsFeed(false)
       const persisted = loadPersistedFeed()
@@ -64,17 +68,20 @@ export function useNewsFeed() {
   const refresh = useCallback(async () => {
     setStatus('refreshing')
     setError(null)
+    setSyncMessage('Pulling live RSS from sources…')
     try {
       const persisted = loadPersistedFeed()
       const seen = loadSeenArticles()
-      const data = await fetchNewsFeed(true)
-      const newLiveIds = new Set(data.articles.map((a) => a.id))
-      const archivedOlder = archiveLiveBatch(
-        feed.live,
-        persisted.older,
-        newLiveIds,
-      )
+      const data = await fetchLiveRssFeed()
 
+      if (data.articles.length === 0) {
+        throw new Error('No articles fetched from RSS feeds. Try again in a moment.')
+      }
+
+      setSyncMessage(`Fetched ${data.articles.length} stories. Saving to GitHub…`)
+
+      const newLiveIds = new Set(data.articles.map((a) => a.id))
+      const archivedOlder = archiveLiveBatch(feed.live, persisted.older, newLiveIds)
       const newIds = data.articles.map((a) => a.id)
 
       const nextPersisted = {
@@ -86,9 +93,24 @@ export function useNewsFeed() {
 
       savePersistedFeed(nextPersisted)
       setFeed(toFeedState(data.articles, nextPersisted, data.generatedAt, seen))
+
+      try {
+        await commitNewsFeedToGitHub(data)
+        setSyncMessage(
+          `Saved ${data.articles.length} stories to GitHub. Site redeploy will follow shortly.`,
+        )
+      } catch (syncErr) {
+        setSyncMessage(
+          syncErr instanceof Error
+            ? `Live feed updated here, but GitHub save failed: ${syncErr.message}`
+            : 'Live feed updated here, but GitHub save failed.',
+        )
+      }
+
       setStatus('idle')
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Refresh failed')
+      setSyncMessage(null)
       setStatus('error')
     }
   }, [feed.live])
@@ -118,6 +140,7 @@ export function useNewsFeed() {
     feed,
     status,
     error,
+    syncMessage,
     refresh,
     reload: loadInitial,
     markSeen,
