@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useState } from 'react'
 import { fetchNewsFeed } from '../lib/news/fetchFeed'
 import {
+  isAuthError,
   pollNewsFeedFromGitHub,
   triggerFetchNewsWorkflow,
 } from '../lib/news/githubSync'
@@ -45,6 +46,7 @@ export function useNewsFeed() {
   const [status, setStatus] = useState<Status>('loading')
   const [error, setError] = useState<string | null>(null)
   const [syncMessage, setSyncMessage] = useState<string | null>(null)
+  const [needsTokenSetup, setNeedsTokenSetup] = useState(false)
 
   const loadInitial = useCallback(async () => {
     setStatus('loading')
@@ -92,6 +94,7 @@ export function useNewsFeed() {
     setStatus('refreshing')
     setError(null)
     setSyncMessage('Starting RSS fetch on GitHub…')
+    setNeedsTokenSetup(false)
 
     try {
       const persisted = loadPersistedFeed()
@@ -109,7 +112,9 @@ export function useNewsFeed() {
       setFeed(applyRefresh(data, feed.live, persisted, seen))
       setStatus('idle')
     } catch (err) {
-      setError(err instanceof Error ? err.message : 'Refresh failed')
+      const message = err instanceof Error ? err.message : 'Refresh failed'
+      setError(message)
+      if (isAuthError(message)) setNeedsTokenSetup(true)
       setSyncMessage(null)
       setStatus('error')
     }
@@ -141,6 +146,7 @@ export function useNewsFeed() {
     status,
     error,
     syncMessage,
+    needsTokenSetup,
     refresh,
     reload: loadInitial,
     markSeen,

@@ -5,14 +5,22 @@ const FILE_PATH = 'public/data/news.json'
 const TOKEN_KEY = 'globebrief_gh_token'
 const RAW_URL = `https://raw.githubusercontent.com/${REPO}/main/${FILE_PATH}`
 
-function getToken(): string | null {
-  const fromEnv = import.meta.env.VITE_GITHUB_TOKEN
-  if (typeof fromEnv === 'string' && fromEnv.length > 0) return fromEnv
+function normalizeToken(raw: string | null | undefined): string | null {
+  const token = raw?.trim()
+  if (!token) return null
+  if (token === 'undefined' || token === 'null') return null
+  return token
+}
+
+/** Session token wins so you can override a bad baked-in deploy token. */
+export function getToken(): string | null {
   try {
-    return sessionStorage.getItem(TOKEN_KEY)
+    const saved = normalizeToken(sessionStorage.getItem(TOKEN_KEY))
+    if (saved) return saved
   } catch {
-    return null
+    // ignore
   }
+  return normalizeToken(import.meta.env.VITE_GITHUB_TOKEN)
 }
 
 export function hasGitHubToken(): boolean {
@@ -27,11 +35,49 @@ export function clearGitHubToken(): void {
   sessionStorage.removeItem(TOKEN_KEY)
 }
 
+export function isLikelyGitHubToken(token: string): boolean {
+  const t = token.trim()
+  return /^(ghp_[A-Za-z0-9]{20,}|github_pat_[A-Za-z0-9_]{20,})$/i.test(t)
+}
+
 function authHeaders(token: string): HeadersInit {
   return {
     Accept: 'application/vnd.github+json',
     Authorization: `Bearer ${token}`,
     'X-GitHub-Api-Version': '2022-11-28',
+  }
+}
+
+function authError(status: number, context: string): Error {
+  if (status === 401) {
+    return new Error(
+      'GitHub token rejected (401 Bad credentials). Open GitHub sync below, paste a new fine-grained PAT (Contents + Actions: Read and write), Save, then Retry.',
+    )
+  }
+  if (status === 403) {
+    return new Error(
+      `GitHub denied access (403) while ${context}. Your PAT needs Contents + Actions (Read and write) on ${REPO}.`,
+    )
+  }
+  return new Error(`GitHub API error (${status}) while ${context}.`)
+}
+
+/** Quick check that the token is valid before starting a workflow. */
+export async function verifyGitHubToken(token: string): Promise<void> {
+  const normalized = normalizeToken(token)
+  if (!normalized) {
+    throw new Error('Token is empty.')
+  }
+  if (!isLikelyGitHubToken(normalized)) {
+    throw new Error('Token format looks wrong. Use a fine-grained PAT (github_pat_…) or classic ghp_….')
+  }
+
+  const response = await fetch('https://api.github.com/user', {
+    headers: authHeaders(normalized),
+  })
+
+  if (!response.ok) {
+    throw authError(response.status, 'verifying token')
   }
 }
 
@@ -51,8 +97,7 @@ async function getExistingSha(token: string): Promise<string | undefined> {
   )
   if (response.status === 404) return undefined
   if (!response.ok) {
-    const err = await response.text()
-    throw new Error(`Could not read news.json (${response.status}): ${err}`)
+    throw authError(response.status, 'reading news.json')
   }
   const data = (await response.json()) as { sha: string }
   return data.sha
@@ -63,9 +108,11 @@ export async function triggerFetchNewsWorkflow(): Promise<void> {
   const token = getToken()
   if (!token) {
     throw new Error(
-      'No GitHub token. Add repo secret GH_PAGES_COMMIT_TOKEN, then redeploy — or paste a token in GitHub sync.',
+      'No GitHub token. Open GitHub sync below and paste a fine-grained PAT with Contents + Actions (Read and write).',
     )
   }
+
+  await verifyGitHubToken(token)
 
   const response = await fetch(
     `https://api.github.com/repos/${REPO}/actions/workflows/fetch-news.yml/dispatches`,
@@ -80,13 +127,10 @@ export async function triggerFetchNewsWorkflow(): Promise<void> {
   )
 
   if (!response.ok) {
-    const err = await response.text()
-    if (response.status === 403 || response.status === 404) {
-      throw new Error(
-        'Token cannot start Actions. Use a fine-grained PAT with Contents + Actions (Read and write).',
-      )
+    if (response.status === 404) {
+      throw new Error('fetch-news.yml workflow not found on main branch.')
     }
-    throw new Error(`Could not start RSS workflow (${response.status}): ${err}`)
+    throw authError(response.status, 'starting RSS workflow')
   }
 }
 
@@ -129,9 +173,7 @@ export async function pollNewsFeedFromGitHub(
 export async function commitNewsFeedToGitHub(feed: NewsFeedFile): Promise<void> {
   const token = getToken()
   if (!token) {
-    throw new Error(
-      'No GitHub token. Add repo secret GH_PAGES_COMMIT_TOKEN for deploy, or paste a token in Settings.',
-    )
+    throw new Error('No GitHub token configured.')
   }
 
   const json = `${JSON.stringify(feed, null, 2)}\n`
@@ -155,7 +197,10 @@ export async function commitNewsFeedToGitHub(feed: NewsFeedFile): Promise<void> 
   )
 
   if (!response.ok) {
-    const err = await response.text()
-    throw new Error(`GitHub commit failed (${response.status}): ${err}`)
+    throw authError(response.status, 'committing news.json')
   }
+}
+
+export function isAuthError(message: string): boolean {
+  return /401|403|token|credentials/i.test(message)
 }

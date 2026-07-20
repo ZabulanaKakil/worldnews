@@ -30,17 +30,17 @@ npm run fetch-news
 
 ### GitHub token (required for Refresh)
 
-Add a repository secret:
+Refresh needs a **personal access token** pasted in **GitHub sync** on the site (saved for that browser session only).
 
-| Secret name | Permission |
-|-------------|------------|
-| `GH_PAGES_COMMIT_TOKEN` | Fine-grained PAT with **Contents: Read and write** and **Actions: Read and write** on `worldnews` |
+Create a **fine-grained PAT**:
 
-The deploy workflow injects this at build time as `VITE_GITHUB_TOKEN`.
+| Setting | Value |
+|---------|--------|
+| Repository | `ZabulanaKakil/worldnews` only |
+| Contents | Read and write |
+| Actions | Read and write |
 
-Alternatively, open **GitHub sync · setup** on the site and paste a token (stored in session storage for that browser session only).
-
-> **Note:** The token is embedded in the deployed JS bundle so Refresh can start Actions. Use a fine-grained PAT limited to this repo only.
+Paste it in **GitHub sync → Save token**, then click **Refresh feed**.
 
 ## GitHub Pages setup
 

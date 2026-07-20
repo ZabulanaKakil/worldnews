@@ -175,6 +175,21 @@ button {
   margin-top: 0.75rem;
 }
 
+.settings-steps {
+  margin: 0 0 0.75rem 1.1rem;
+  padding: 0;
+  color: var(--muted);
+  font-size: 0.88rem;
+  line-height: 1.5;
+}
+
+.settings-status {
+  margin: 0.75rem 0 0;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--accent-deep);
+}
+
 .refresh-btn {
   border: none;
   border-radius: 999px;

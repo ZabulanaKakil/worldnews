@@ -30,8 +30,6 @@ jobs:
 
       - name: Build for GitHub Pages
         run: npm run build
-        env:
-          VITE_GITHUB_TOKEN: ${{ secrets.GH_PAGES_COMMIT_TOKEN }}
 
       - name: Deploy to gh-pages branch
         uses: peaceiris/actions-gh-pages@v4
