@@ -1,15 +1,195 @@
 {
-  "generatedAt": "2026-07-20T20:26:24.437Z",
+  "generatedAt": "2026-07-20T22:07:36.551Z",
   "articles": [
     {
-      "id": "b796efd12c5caab6",
-      "title": "Trump warns Iran will pay 'many times over' for deaths of US soldiers",
-      "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+      "id": "4e6f26e38346004e",
+      "title": "Trump imposes 50% tariff on Canadian imports",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "economy_business",
+      "region": "americas",
+      "publishedAt": "2026-07-20T22:02:42.000Z",
+      "summary": "The duties take effect within 30 days and mark a major escalation in trade tensions between the North American neighbours."
+    },
+    {
+      "id": "66e928655fd0f49f",
+      "title": "World Cup champions Spain return to royal welcome, parade through Madrid",
+      "url": "https://www.aljazeera.com/sports/2026/7/20/world-cup-champions-spain-return-to-royal-welcome-parade-through-madrid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-07-20T21:52:02.000Z",
+      "summary": "Tens of thousands of fans greet La Roja as they travel down Madrid's historic avenues to Cibeles Square."
+    },
+    {
+      "id": "b8cf69d272a5cabd",
+      "title": "Gallery: Spain celebrate World Cup triumph in Madrid",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgje79d6q64o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "americas",
+      "publishedAt": "2026-07-20T21:50:12.000Z",
+      "summary": "Thousands of fans take to the streets of Madrid as the Spain squad enjoy a bus parade after winning the World Cup."
+    },
+    {
+      "id": "c32f577c178ac501",
+      "title": "Burnham has big ideas - but what will they cost?",
+      "url": "https://www.bbc.co.uk/news/articles/c9357rlk494o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-07-20T21:47:14.000Z",
+      "summary": "Every tricky decision and trade off is being watched by the country and the markets at the same time"
+    },
+    {
+      "id": "f2aa52d081f657e7",
+      "title": "Humphries suffers shock first-round exit at Matchplay",
+      "url": "https://www.bbc.co.uk/sport/darts/articles/cx2jn8p1v1yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-20T21:36:03.000Z",
+      "summary": "World number two Luke Humphries is out of the World Matchplay after a shock first-round loss to Scotland's Cameron Menzies."
+    },
+    {
+      "id": "056fb8fb5a9ab0ea",
+      "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs",
+      "source": "The Guardian World",
+      "category": "economy_business",
+      "region": "americas",
+      "publishedAt": "2026-07-20T21:30:41.000Z",
+      "summary": "Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products Donald Trump is imposing 50% tariffs on most Canadian goods, White House officials said on Monday, declaring Canada has unfairly discriminated against American autos, alcohol and dairy products. The move could unleash a new wave of economic chaos, with risks of higher inflation and further fraying of relat"
+    },
+    {
+      "id": "72bb69f717946855",
+      "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-07-20T21:30:19.000Z",
+      "summary": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen."
+    },
+    {
+      "id": "76b2ac2daca22216",
+      "title": "Albanian protesters pelt lawmakers’ cars over resort projects",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/albanian-protesters-pelt-lawmakers-cars-over-resort-projects?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-07-20T21:19:41.000Z",
+      "summary": "Protesters threw eggs at lawmakers' vehicles outside Albania's parliament, demanding changes to laws."
+    },
+    {
+      "id": "3f2654c64d5bfc82",
+      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
+      "url": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
+      "source": "BleepingComputer",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-07-20T21:14:42.000Z",
+      "summary": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two Antigravity findings. [...]"
+    },
+    {
+      "id": "cc5e12025572d52d",
+      "title": "FIFA investigating on-pitch brawl after Spain vs Argentina World Cup final",
+      "url": "https://www.aljazeera.com/sports/2026/7/20/fifa-investigating-on-pitch-brawl-after-spain-vs-argentina-world-cup-final?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-07-20T21:12:22.000Z",
+      "summary": "Argentina's Paredes was seen shoving Spanish players, which led to an on-field melee, while Spain's Yamal prayed calmly."
+    },
+    {
+      "id": "d428ddce2e281fcd",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "war_conflict",
       "region": "middle_east",
-      "publishedAt": "2026-07-20T20:14:57.000Z",
-      "summary": "The US president spoke just hours after the two warring sides exchanged strikes for the ninth consecutive day."
+      "publishedAt": "2026-07-20T21:09:31.000Z",
+      "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz."
+    },
+    {
+      "id": "e5946771a7b91ad5",
+      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
+      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-07-20T21:08:02.000Z",
+      "summary": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]"
+    },
+    {
+      "id": "e2b4975dc0b91b48",
+      "title": "Trump rejects Mamdani threat to arrest Israel’s Netanyahu for war crimes",
+      "url": "https://www.aljazeera.com/news/2026/7/20/trump-rejects-mamdani-threat-to-arrest-israels-netanyahu-for-war-crimes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-20T21:06:42.000Z",
+      "summary": "US president insists Netanyahu will not be arrested, despite ICC warrant."
+    },
+    {
+      "id": "08273c983788c707",
+      "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-07-20T21:03:24.000Z",
+      "summary": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to the US."
+    },
+    {
+      "id": "780bdb7922228135",
+      "title": "King of Spain celebrates World Cup winners in Madrid",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/king-of-spain-celebrates-world-cup-winners-in-madrid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-07-20T21:01:01.000Z",
+      "summary": "Spain’s World Cup-winning team received a royal reception from King Felipe VI in Madrid ahead of a victory parade."
+    },
+    {
+      "id": "20b36c9dffbc1c73",
+      "title": "SpaceX in your index fund, explained",
+      "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+      "source": "The Verge",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-07-20T21:00:00.000Z",
+      "summary": "AUUUUUGH | Image: Cath Virginia / The Verge, Getty Images Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion, terribly overpriced - is fast-tracked into the Nasdaq-100? Does it suddenly threaten the stability of index funds based"
+    },
+    {
+      "id": "20e6552849253d58",
+      "title": "Gaza residents weigh in on election of new Hamas leader",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/gaza-residents-weigh-in-on-election-of-new-hamas-leader?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-07-20T20:53:29.000Z",
+      "summary": "Gaza residents weigh in on election of new Hamas leader"
+    },
+    {
+      "id": "dc7aebce2db726dd",
+      "title": "How will Zelenskyy handle the growing political crisis at home?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/20/how-will-zelenskyy-handle-the-growing-political-crisis-at-home?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-07-20T20:50:31.000Z",
+      "summary": "Ukraine strikes Russian oil sites after major missile attack, as President Zelenskyy faces crisis over sacked minister."
+    },
+    {
+      "id": "c41d987c6515a857",
+      "title": "Indian police attack Cockroach Janta Party’s parliament march",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/indian-police-attack-cockroach-janta-partys-parliament-march?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "americas",
+      "publishedAt": "2026-07-20T20:21:30.000Z",
+      "summary": "Police used batons to disperse protesters as thousands of people joined the Cockroach Janta Party's march in New Delhi."
     },
     {
       "id": "051c7ef8552803a9",
@@ -20,6 +200,16 @@
       "region": "americas",
       "publishedAt": "2026-07-20T20:08:56.000Z",
       "summary": "More than 1,000 illegal streaming sites were shut down in the US during the tournament, with a similar amount blocked in Colombia."
+    },
+    {
+      "id": "6373063118e5288b",
+      "title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
+      "url": "https://www.theverge.com/tech/967989/hallmark-keepsake-playstation-ornament-hands-on",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-07-20T20:06:40.000Z",
+      "summary": "The ornament requires three 1.5-volt coin batteries, which are included in the box. | Photo: Cameron Faulkner/The Verge You probably know the signature PlayStation boot sound. Did you know that it's technically a multi-part chime? There's the synthy section where \"Sony Computer Entertainment\" shows onscreen with a white background. You only get to the next screen with the echo-y chimes and the color-filled PlayStatio"
     },
     {
       "id": "53f17f2a04532447",
@@ -42,26 +232,6 @@
       "summary": "US court temporarily stops Paramount and Warner Bros merging after 12 states launched legal action."
     },
     {
-      "id": "1cc4c56f67d68832",
-      "title": "What does Khalil al-Hayya’s election win mean for Gaza?",
-      "url": "https://www.aljazeera.com/news/2026/7/20/what-does-khalil-al-hayyas-election-win-mean-for-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "middle_east",
-      "publishedAt": "2026-07-20T19:43:02.000Z",
-      "summary": "Al-Hayya wins Hamas leadership with a single-vote margin, signalling a focus on Gaza amidst continued Israeli aggression"
-    },
-    {
-      "id": "2c341847ef95d4ce",
-      "title": "Yemeni women support families through enterprise as economic crisis bites",
-      "url": "https://www.aljazeera.com/economy/2026/7/20/yemeni-women-support-families-through-enterprise-as-economic-crisis-bites?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-07-20T19:36:37.000Z",
-      "summary": "Amid Yemen’s harsh economic crisis, securing viable employment has become increasingly difficult for men."
-    },
-    {
       "id": "ad6cfe85169366fa",
       "title": "Fifa opens investigation into Argentina post-final trouble - what happens next?",
       "url": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss",
@@ -70,36 +240,6 @@
       "region": "americas",
       "publishedAt": "2026-07-20T19:32:37.000Z",
       "summary": "Argentina will face an investigation into the ugly scenes at the end of the World Cup final, Fifa has confirmed."
-    },
-    {
-      "id": "dc2c3650d2b61b4e",
-      "title": "EU pauses methane penalties amid energy crisis, US pressure",
-      "url": "https://www.aljazeera.com/news/2026/7/20/eu-pauses-methane-penalties-amid-energy-crisis-us-pressure?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "environment",
-      "region": "europe",
-      "publishedAt": "2026-07-20T19:29:37.000Z",
-      "summary": "The European Commission says waiving penalties will ensure the security of energy supply."
-    },
-    {
-      "id": "ea91f8922b468578",
-      "title": "US judge orders pause on Paramount–Warner Bros merger",
-      "url": "https://www.aljazeera.com/economy/2026/7/20/us-judge-orders-pause-on-paramount-warner-bros?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-07-20T19:20:31.000Z",
-      "summary": "Paramount risks $650m quarterly fees if merger delays extend beyond September, as per the merger agreement terms."
-    },
-    {
-      "id": "11d24d601f42ebeb",
-      "title": "A tournament of contradictions: What did we learn at World Cup 2026?",
-      "url": "https://www.aljazeera.com/sports/2026/7/20/a-tournament-of-contradictions-what-did-we-learn-at-world-cup-2026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-07-20T19:15:38.000Z",
-      "summary": "A look back at the World Cup's moments of glory and controversy, and their impact on fans, teams and the sport."
     },
     {
       "id": "312d5e1f925d6a3f",
@@ -132,26 +272,6 @@
       "summary": "Scientists recorded slower reduction over past 20 years, but study finds this was ‘temporary rather than sustained’ A previously recorded slowdown in Arctic sea ice decline has ended, according to a new study, with the largest year-to-year wintertime reduction ever recorded. In a study published last summer, researchers found that melting sea ice in the Arctic had slowed down over the past 20 years, with no statistic"
     },
     {
-      "id": "3932f6e4199398dd",
-      "title": "Protests in Italy after Moroccan man dies during arrest",
-      "url": "https://www.aljazeera.com/news/2026/7/20/protests-in-italy-after-moroccan-man-dies-during-arrest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-07-20T18:53:13.000Z",
-      "summary": "Outrage across Italy's political spectrum following death in Bologna likened to killing of George Floyd in 2020."
-    },
-    {
-      "id": "3f386951002eaa91",
-      "title": "Houthis announce maritime blockade on Saudi Arabia",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/houthis-announce-maritime-blockade-on-saudi-arabia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-07-20T18:32:05.000Z",
-      "summary": "Yemen’s Iran-backed Houthi rebels have announced a maritime blockade on Saudi Arabia after the two sides traded fire"
-    },
-    {
       "id": "104fd0d308f74fe2",
       "title": "Burnham promises help with your money. How could it affect you?",
       "url": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
@@ -160,36 +280,6 @@
       "region": "global",
       "publishedAt": "2026-07-20T18:22:46.000Z",
       "summary": "The new PM says he will look at how much people can earn before paying tax but admitted changing it would be difficult."
-    },
-    {
-      "id": "41f7aeda52784aa4",
-      "title": "Trump vows Iran will ‘pay’ for killing US soldiers",
-      "url": "https://www.aljazeera.com/news/2026/7/20/trump-vows-iran-will-pay-for-killing-us-soldiers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-07-20T18:21:39.000Z",
-      "summary": "The US intensifies air strikes on Iran, targeting critical sites after the deaths of American soldiers in the region."
-    },
-    {
-      "id": "c32f577c178ac501",
-      "title": "Burnham has big ideas - but what will they cost?",
-      "url": "https://www.bbc.co.uk/news/articles/c9357rlk494o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-07-20T18:21:31.000Z",
-      "summary": "Every tricky decision and trade off is being watched by the country and the markets at the same time"
-    },
-    {
-      "id": "f5289bdedfa4f7da",
-      "title": "‘Now or never’: Students defy Delhi lockdown to march on India’s parliament",
-      "url": "https://www.aljazeera.com/news/2026/7/20/now-or-never-students-defy-delhi-lockdown-to-march-on-indias-parliament?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-20T18:10:03.000Z",
-      "summary": "Youth-led protesters answer call of Cockroach Janta Party to demand accountability, sweeping reforms after exam scandal."
     },
     {
       "id": "16928a5c548e63db",
@@ -202,36 +292,6 @@
       "summary": "Chelsea accelerate their interest in defender Maxence Lacroix after a fresh round of talks with Crystal Palace."
     },
     {
-      "id": "25a654f90f0b65c2",
-      "title": "Petrol prices climb as US–Iran tensions disrupt markets",
-      "url": "https://www.aljazeera.com/economy/2026/7/20/petrol-prices-climb-as-us-iran-tensions-disrupt?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-07-20T17:40:29.000Z",
-      "summary": "US petrol prices reach $4.00 per gallon (3.78 litres), marking the second week of increased costs for consumers."
-    },
-    {
-      "id": "72bb69f717946855",
-      "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "middle_east",
-      "publishedAt": "2026-07-20T17:33:02.000Z",
-      "summary": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen."
-    },
-    {
-      "id": "a3fa6749bed54d0f",
-      "title": "FIFA World Cup: Five key takeaways from 2026 edition won by Spain",
-      "url": "https://www.aljazeera.com/sports/2026/7/20/fifa-world-cup-five-key-takeaways-from-2026-edition-won-by-spain?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "americas",
-      "publishedAt": "2026-07-20T17:31:43.000Z",
-      "summary": "Spain beat Argentina, but talking points remain. Should there be 48 or 64 teams? Hydration breaks? The 'dark arts'?"
-    },
-    {
       "id": "a3a464f63a84b6fb",
       "title": "Afghanistan floods kill at least 20 people, with more than 100 missing",
       "url": "https://www.theguardian.com/world/2026/jul/20/deadly-floods-nuristan-afghanistan",
@@ -240,16 +300,6 @@
       "region": "global",
       "publishedAt": "2026-07-20T17:31:06.000Z",
       "summary": "National disaster agency confirms ‘severe financial and human losses’ in remote province of Nuristan At least 20 people have been killed and more than 80 injured in flooding that hit Afghanistan’s Nuristan province, the country’s disaster management agency said on Monday. In Parun, the provincial capital, a further 105 people including the mayor were missing, said Feraidon Samim, a spokesperson for the Nuristan gover"
-    },
-    {
-      "id": "08273c983788c707",
-      "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-07-20T17:21:27.000Z",
-      "summary": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to the US."
     },
     {
       "id": "4b6ce4b2d08488af",
@@ -280,16 +330,6 @@
       "region": "americas",
       "publishedAt": "2026-07-20T16:55:04.000Z",
       "summary": "Depression set to become tropical storm later on Monday as separate storm strengthens off Mexico’s Pacific coast A tropical depression was continuing to develop along the US Gulf coast on Monday as Tropical Storm Fausto strengthened off Mexico’s south-west Pacific coast. The National Hurricane Center (NHC) in Miami said that the depression was expected to become a tropical storm later on Monday, prompting new watches"
-    },
-    {
-      "id": "9517ca3550065a67",
-      "title": "Thank you for making this a World Cup to remember on the BBC",
-      "url": "https://www.bbc.co.uk/sport/articles/c1l1g3pjl3yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-20T16:51:31.000Z",
-      "summary": "BBC Director of Sport Alex Kay-Jelski's message as BBC Sport delivers a record-breaking World Cup across TV, radio, online and social."
     },
     {
       "id": "2064b1c3288d8c61",
@@ -352,14 +392,14 @@
       "summary": "Welcome to the “what is a photo” debate, Adobe. | Image: Adobe Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI tools. And the change doesn't rely upon Adobe's own Firefly AI models. Adobe describes the new \"AI Playground\""
     },
     {
-      "id": "8a63473cfeed3169",
-      "title": "Canada issues air quality warnings over US wildfire smoke after Trump tariff threat",
-      "url": "https://www.theguardian.com/world/2026/jul/20/canada-air-quality-warnings-us-wildfire-smoke-trump-tariffs",
+      "id": "a3c2305703cacf7b",
+      "title": "Mexican drug lord ‘El Mayo’ sentenced to life in prison in US federal court",
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/el-mayo-prison-sentence",
       "source": "The Guardian World",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-07-20T15:52:58.000Z",
-      "summary": "Officials say smoke from US fires has crossed border days after US president accused Canada of improper fire management After days of acrid smoke from northern wildfires choking major US cities and inspiring Donald Trump to threaten Canada with tariffs, officials now say the reverse is also happening as parts of Canada issue air quality warnings caused by American fires to the south. Officials in the Canadian provinc"
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-07-20T15:58:42.000Z",
+      "summary": "Case against Ismael Zambada García, who helped co-found and lead the violent Sinaloa cartel, unfolded in New York The Mexican drug kingpin, Ismael Zambada García, known as “El Mayo”, was sentenced in a US federal court on Monday to life in prison, after a plea deal last year in which he admitted ⁠to shipping vast amounts of cocaine and other substances as leader of the violent Sinaloa cartel. Zambada is 76 and one of"
     },
     {
       "id": "ee9b1198b790ddc0",
@@ -380,16 +420,6 @@
       "region": "global",
       "publishedAt": "2026-07-20T15:00:33.000Z",
       "summary": "The positivity and vibrancy Kevin Keegan brought made him a cherished figure within the game, writes chief football writer Phil McNulty."
-    },
-    {
-      "id": "37cf1a2a67f81721",
-      "title": "Newcastle, Liverpool and England legend Keegan dies",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-07-20T14:38:28.000Z",
-      "summary": "Former England captain and manager Kevin Keegan dies at the age of 75, seven weeks after he revealed he had been diagnosed with stage four cancer."
     },
     {
       "id": "6cddae75e3edfb59",
@@ -460,16 +490,6 @@
       "region": "global",
       "publishedAt": "2026-07-20T11:37:32.000Z",
       "summary": "Sixty-seven people have been rescued but the ferry is thought to have had more than 130 people on board."
-    },
-    {
-      "id": "6a762812b3774023",
-      "title": "Microsoft confirms Windows Server Update Services sync delays",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-07-20T10:47:28.000Z",
-      "summary": "Microsoft is working to fix a known issue affecting Windows Server Update Services (WSUS) servers, which has caused synchronization problems for more than a week. [...]"
     },
     {
       "id": "530a8607dd945afa",
@@ -870,16 +890,6 @@
       "region": "global",
       "publishedAt": "2026-07-11T01:45:59.000Z",
       "summary": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback."
-    },
-    {
-      "id": "b879bce62e7d4236",
-      "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?",
-      "url": "https://www.bbc.co.uk/news/articles/cjrg9r80908o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-07-11T00:08:51.000Z",
-      "summary": "The BBC's Tom Gerken plays the much-anticipated pirate game which has been remade from the ground up."
     },
     {
       "id": "aa8304f4d62d8241",
