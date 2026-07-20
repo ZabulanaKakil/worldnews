@@ -1,8 +1,10 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// Relative base works for GitHub project Pages and local preview.
-export default defineConfig({
+// Project Pages URL: https://zabulanakakil.github.io/worldnews/
+const repoBase = '/worldnews/'
+
+export default defineConfig(({ mode }) => ({
   plugins: [react()],
-  base: './',
-})
+  base: mode === 'production' ? repoBase : '/',
+}))

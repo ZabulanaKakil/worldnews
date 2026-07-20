@@ -21,11 +21,21 @@ npm run fetch-news
 
 ## GitHub Pages setup
 
-1. Push this repo to GitHub.
-2. **Settings → Pages → Build and deployment → Source:** GitHub Actions.
-3. Ensure the default branch is `main` or `master` (deploy workflow listens to both).
-4. After the first deploy, open the Pages URL.
-5. The `Fetch news feed` workflow runs hourly and on manual dispatch; it commits updated `public/data/news.json`.
+Live site: **https://zabulanakakil.github.io/worldnews/**
+
+1. Push to `main` — the **Deploy to GitHub Pages** workflow builds `dist/` and pushes it to the `gh-pages` branch.
+2. In the repo: **Settings → Pages → Build and deployment**
+   - **Source:** Deploy from a branch
+   - **Branch:** `gh-pages` / `/ (root)`
+3. Do **not** serve from the `main` branch root — that exposes dev `index.html` instead of the built app.
+4. The `Fetch news feed` workflow runs hourly and updates `public/data/news.json` on `main`; push triggers a fresh deploy.
+
+Preview the production build locally:
+
+```bash
+npm run build
+npm run preview:pages
+```
 
 ## Scripts
 

@@ -193,6 +193,15 @@ export default function App() {
           backend. Seen items use session storage (cleared when the site session
           ends or site data is cleared).
         </p>
+        <p>
+          <a
+            href="https://github.com/ZabulanaKakil/worldnews"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            View source on GitHub
+          </a>
+        </p>
       </footer>
 
       <NewsDetailModal
