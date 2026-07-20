@@ -1,7 +1,9 @@
 import { useCallback, useEffect, useState } from 'react'
 import { fetchNewsFeed } from '../lib/news/fetchFeed'
-import { commitNewsFeedToGitHub } from '../lib/news/githubSync'
-import { fetchLiveRssFeed } from '../lib/news/rssPipeline'
+import {
+  pollNewsFeedFromGitHub,
+  triggerFetchNewsWorkflow,
+} from '../lib/news/githubSync'
 import {
   archiveLiveBatch,
   loadPersistedFeed,
@@ -14,6 +16,27 @@ import {
 import type { FeedState, NewsArticle } from '../types/news'
 
 type Status = 'idle' | 'loading' | 'refreshing' | 'error'
+
+function applyRefresh(
+  data: { articles: NewsArticle[]; generatedAt: string },
+  live: NewsArticle[],
+  persisted: ReturnType<typeof loadPersistedFeed>,
+  seen: NewsArticle[],
+) {
+  const newLiveIds = new Set(data.articles.map((a) => a.id))
+  const archivedOlder = archiveLiveBatch(live, persisted.older, newLiveIds)
+  const newIds = data.articles.map((a) => a.id)
+
+  const nextPersisted = {
+    older: archivedOlder,
+    newIds,
+    previousLiveIds: data.articles.map((a) => a.id),
+    lastRefreshedAt: new Date().toISOString(),
+  }
+
+  savePersistedFeed(nextPersisted)
+  return toFeedState(data.articles, nextPersisted, data.generatedAt, seen)
+}
 
 export function useNewsFeed() {
   const [feed, setFeed] = useState<FeedState>(() =>
@@ -68,52 +91,29 @@ export function useNewsFeed() {
   const refresh = useCallback(async () => {
     setStatus('refreshing')
     setError(null)
-    setSyncMessage('Pulling live RSS from sources…')
+    setSyncMessage('Starting RSS fetch on GitHub…')
+
     try {
       const persisted = loadPersistedFeed()
       const seen = loadSeenArticles()
-      const data = await fetchLiveRssFeed()
+      const previousGeneratedAt = feed.feedGeneratedAt
 
-      if (data.articles.length === 0) {
-        throw new Error('No articles fetched from RSS feeds. Try again in a moment.')
-      }
+      await triggerFetchNewsWorkflow()
 
-      setSyncMessage(`Fetched ${data.articles.length} stories. Saving to GitHub…`)
+      const data = await pollNewsFeedFromGitHub(previousGeneratedAt, (msg) => {
+        setSyncMessage(msg)
+      })
 
-      const newLiveIds = new Set(data.articles.map((a) => a.id))
-      const archivedOlder = archiveLiveBatch(feed.live, persisted.older, newLiveIds)
-      const newIds = data.articles.map((a) => a.id)
+      setSyncMessage(`Loaded ${data.articles.length} stories from GitHub.`)
 
-      const nextPersisted = {
-        older: archivedOlder,
-        newIds,
-        previousLiveIds: data.articles.map((a) => a.id),
-        lastRefreshedAt: new Date().toISOString(),
-      }
-
-      savePersistedFeed(nextPersisted)
-      setFeed(toFeedState(data.articles, nextPersisted, data.generatedAt, seen))
-
-      try {
-        await commitNewsFeedToGitHub(data)
-        setSyncMessage(
-          `Saved ${data.articles.length} stories to GitHub. Site redeploy will follow shortly.`,
-        )
-      } catch (syncErr) {
-        setSyncMessage(
-          syncErr instanceof Error
-            ? `Live feed updated here, but GitHub save failed: ${syncErr.message}`
-            : 'Live feed updated here, but GitHub save failed.',
-        )
-      }
-
+      setFeed(applyRefresh(data, feed.live, persisted, seen))
       setStatus('idle')
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Refresh failed')
       setSyncMessage(null)
       setStatus('error')
     }
-  }, [feed.live])
+  }, [feed.live, feed.feedGeneratedAt])
 
   const markSeen = useCallback((article: NewsArticle) => {
     setFeed((prev) => {

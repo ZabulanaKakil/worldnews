@@ -40,7 +40,7 @@ export function Header({
           onClick={onRefresh}
           disabled={isRefreshing}
         >
-          {isRefreshing ? 'Pulling RSS…' : 'Refresh feed'}
+          {isRefreshing ? 'Fetching RSS…' : 'Refresh feed'}
         </button>
       </div>
     </header>

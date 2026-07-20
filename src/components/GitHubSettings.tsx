@@ -19,8 +19,12 @@ export function GitHubSettings() {
       {open && (
         <div className="settings-panel">
           <p>
-            Refresh pulls live RSS, then commits <code>public/data/news.json</code> to{' '}
-            <strong>main</strong> on GitHub. Deploy runs automatically after that.
+            Refresh starts the GitHub Actions RSS fetch (server-side, no CORS issues),
+            then loads the updated <code>news.json</code> from the repo.
+          </p>
+          <p>
+            Token needs <strong>Contents</strong> and <strong>Actions</strong> (Read and write)
+            on this repository.
           </p>
           <label className="settings-label" htmlFor="gh-token">
             GitHub token (optional if built-in token is configured)

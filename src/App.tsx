@@ -18,7 +18,7 @@ const VisualPanel = lazy(async () => {
 const TAB_COPY: Record<AppTab, { title: string; body: string }> = {
   live: {
     title: 'Live desk',
-    body: 'Refresh pulls live RSS from outlets worldwide, updates this desk, and commits news.json to GitHub.',
+    body: 'Refresh starts a GitHub Action that pulls live RSS, updates news.json, and reloads the desk.',
   },
   older: {
     title: 'Archived refreshes',

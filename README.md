@@ -23,24 +23,24 @@ npm run fetch-news
 
 **Refresh feed** now:
 
-1. Pulls **live RSS** in the browser (BBC, Al Jazeera, Guardian, Bangladesh sources, etc.)
-2. Updates the desk immediately
-3. Commits `public/data/news.json` to the **`main`** branch on GitHub
-4. Triggers redeploy to Pages automatically
+1. Starts the **Fetch news feed** GitHub Action (RSS pulled on GitHub’s servers — no browser CORS limits)
+2. Waits for `public/data/news.json` to update on `main`
+3. Loads the new stories into the desk (Live / Older / New)
+4. Redeploy to Pages runs automatically after the commit
 
-### GitHub token (required for saving to repo)
+### GitHub token (required for Refresh)
 
 Add a repository secret:
 
 | Secret name | Permission |
 |-------------|------------|
-| `GH_PAGES_COMMIT_TOKEN` | Fine-grained PAT with **Contents: Read and write** on `worldnews` |
+| `GH_PAGES_COMMIT_TOKEN` | Fine-grained PAT with **Contents: Read and write** and **Actions: Read and write** on `worldnews` |
 
 The deploy workflow injects this at build time as `VITE_GITHUB_TOKEN`.
 
 Alternatively, open **GitHub sync · setup** on the site and paste a token (stored in session storage for that browser session only).
 
-> **Note:** A built-in token is embedded in the deployed JS bundle so Refresh can commit from the browser. Use a fine-grained PAT limited to this repo only.
+> **Note:** The token is embedded in the deployed JS bundle so Refresh can start Actions. Use a fine-grained PAT limited to this repo only.
 
 ## GitHub Pages setup
 
