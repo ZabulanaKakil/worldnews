@@ -1,15 +1,55 @@
 {
-  "generatedAt": "2026-07-21T12:41:22.976Z",
+  "generatedAt": "2026-07-21T19:43:14.390Z",
   "articles": [
     {
-      "id": "fe513810ca38e8cb",
-      "title": "UK borrows less than expected in June but public finances remain a challenge",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "europe",
-      "publishedAt": "2026-07-21T12:36:29.000Z",
-      "summary": "Public finances for last month were better than expected but the UK is carrying major debt."
+      "id": "f3de82776c474dea",
+      "title": "Substack adds an AI detector to help spot blogs written by no one",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-07-21T19:22:28.000Z",
+      "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post published on Tuesday. The tool is powered by an AI detection company called Pangram and is rolling out across the web and the "
+    },
+    {
+      "id": "a1489927c611a0aa",
+      "title": "Trump says he’s open to talks with Hezbollah, vows to help Lebanon",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/trump-says-hes-open-to-talks-with-hezbollah-vows-to-help-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-07-21T19:16:08.000Z",
+      "summary": "US President Trump said he is open to direct talks with Hezbollah."
+    },
+    {
+      "id": "db14557306fd5915",
+      "title": "'They want us gone' - Man Utd fans' fury over ticket ultimatum",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2elxzrpw4eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-21T19:05:39.000Z",
+      "summary": "Fans tell BBC Sport that a crackdown on touting is affecting some of the club's most loyal fans."
+    },
+    {
+      "id": "7ed5184e6fb160d0",
+      "title": "Instagram on trial for allegedly harming kids",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/instagram-on-trial-for-allegedly-harming-kids?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-07-21T18:59:51.000Z",
+      "summary": "The trial between the state of Tennessee and Instagram is kicking off this week."
+    },
+    {
+      "id": "0da02c4620d2ae54",
+      "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
+      "url": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-07-21T18:50:54.000Z",
+      "summary": "The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ransom. [...]"
     },
     {
       "id": "844334ecc55ed5de",
@@ -18,18 +58,328 @@
       "source": "BBC World",
       "category": "world_politics",
       "region": "europe",
-      "publishedAt": "2026-07-21T12:33:15.000Z",
+      "publishedAt": "2026-07-21T18:49:19.000Z",
       "summary": "Protesters are demanding Oleksandr Syrskyi be removed and former defence minister Mykhailo Fedorov reinstated by Friday."
     },
     {
-      "id": "88c1ada282281f2b",
-      "title": "Canada ready to ‘intensify’ trade talks as Trump reportedly prepares to hit more countries with new tariffs – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
+      "id": "57a9b317fe910c0c",
+      "title": "Netherlands to sanction trade with illegal Israeli settlements",
+      "url": "https://www.aljazeera.com/news/2026/7/21/netherlands-to-sanction-trade-with-illegal-israeli-settlements?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "diplomacy",
+      "region": "middle_east",
+      "publishedAt": "2026-07-21T18:41:52.000Z",
+      "summary": "Dutch ban on Israeli goods from occupied territory comes as efforts to implement EU-wide sanctions remain stalled."
+    },
+    {
+      "id": "304701e88ba37808",
+      "title": "Peak Design’s modular Field Bracket has a finder tag built-in",
+      "url": "https://www.theverge.com/gadgets/968771/peak-design-camera-field-bracket-kickstarter",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-07-21T18:12:02.000Z",
+      "summary": "I am a very clumsy man. So clumsy, that I have AirTags hanging off practically every camera I own. Have I left my camera in an Uber? Yes. Have I left it on an airplane? Also yes. For me, finder tags are essential for my cameras. The problem is, strapping a finder tag to a camera is always cumbersome. I currently have them hanging off my camera straps like a phone charm circa 2001. They're ugly, and very much get in t"
+    },
+    {
+      "id": "33d4afa7b569340f",
+      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-21T18:07:34.000Z",
+      "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah."
+    },
+    {
+      "id": "013118d6fb15a6ff",
+      "title": "The Houthis may soon discover the limits of Saudi strategic patience",
+      "url": "https://www.aljazeera.com/opinions/2026/7/21/the-houthis-may-soon-discover-the-limits-of-saudi-strategic-patience?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-21T17:57:53.000Z",
+      "summary": "Saudi Arabia has so far ignored provocations to preserve regional stability. But it may soon be pushed into action."
+    },
+    {
+      "id": "5e68b1d810fda25c",
+      "title": "Liverpool FC in talks to sell minority stake to Mittal-backed consortium",
+      "url": "https://www.aljazeera.com/sports/2026/7/21/liverpool-fc-in-talks-to-sell-minority-stake-to-mittal-backed-consortium?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-07-21T17:55:53.000Z",
+      "summary": "The consortium is led by British-Indian investor Amit Bhatia, the son-in-law of Indian steel billionaire Lakshmi Mittal."
+    },
+    {
+      "id": "4f15782e19518d13",
+      "title": "Iranians struggle to get by amid US war and domestic woes",
+      "url": "https://www.aljazeera.com/news/2026/7/21/iranians-struggle-to-get-by-amid-us-war-and-domestic-woes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-21T17:49:33.000Z",
+      "summary": "People are facing mounting pressures, including rising living costs, electricity cuts and bombarded infrastructure."
+    },
+    {
+      "id": "507266fdcc30e1df",
+      "title": "Returning Stokes hits ton as Durham beat Derbyshire",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cd0xedekm7no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-21T17:38:41.000Z",
+      "summary": "Ben Stokes marks his return to competitive cricket for the first time since retiring from Test matches with a stunning century to help Durham beat Derbyshire in the One-Day Cup."
+    },
+    {
+      "id": "ee0e1c8856c16d2a",
+      "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "economy_business",
+      "region": "americas",
+      "publishedAt": "2026-07-21T17:33:22.000Z",
+      "summary": "The duties mark a major escalation in trade tensions between the North American neighbours."
+    },
+    {
+      "id": "eba27e33ce0ce194",
+      "title": "Salah to Besiktas? Football’s transfer window centre stage after World Cup",
+      "url": "https://www.aljazeera.com/sports/2026/7/21/salah-to-besiktas-footballs-transfer-window-centre-stage-after-world-cup?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-21T17:23:04.000Z",
+      "summary": "Mohamed Salah's future tops the latest news, contract, salary rumours, and transfer agenda ahead of the new football season."
+    },
+    {
+      "id": "926f664ea8fd2be7",
+      "title": "Nearly every Kindle is steeply discounted at Best Buy",
+      "url": "https://www.theverge.com/gadgets/968356/kindle-paperwhite-colorsoft-scribe-deal-sale",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-07-21T17:13:23.000Z",
+      "summary": "The Kindle Paperwhite, our favorite Kindle, is down to $124.99. | Image: The Verge If you’ve been thinking about picking up a Kindle before school starts, or for your next vacation, now’s a good time to do it. As part of its Black Friday in July sale, Best Buy has brought the Kindle Paperwhite back down to its all-time low of $124.99 ($35 off). It’s the Kindle we recommend for most people because it has a bunch of fe"
+    },
+    {
+      "id": "358cc5b245e71b17",
+      "title": "Apple’s rumored ‘Upgrade’ program brings lease-to-own pricing for iPhones, Macs, and iPads",
+      "url": "https://www.theverge.com/tech/968750/apple-upgrade-program",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-07-21T17:12:06.000Z",
+      "summary": "As component and RAM shortages drive prices higher, Apple is reportedly launching an \"Apple Upgrade\" program for leasing new devices. According to Bloomberg's Mark Gurman, it will work similar to a car lease, with options to upgrade to a new device early, or keep or return the device at the end of the lease. Gurman says Klarna will be Apple's financial backer for the new program, which will require a soft credit chec"
+    },
+    {
+      "id": "6044e86c321aa00f",
+      "title": "Evenepoel cuts Pogacar's lead with time-trial win",
+      "url": "https://www.bbc.co.uk/sport/cycling/articles/c3v0r1xgwp0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-07-21T17:06:17.000Z",
+      "summary": "Remco Evenepoel cuts Tadej Pogacar's lead at the top of the general classification by 28 seconds with a dominant victory in the time-trial on stage 16 of the Tour de France."
+    },
+    {
+      "id": "8c9a848ca81a807e",
+      "title": "Millions face long-term coastal flooding risk in UK without climate action, scientists warn",
+      "url": "https://www.theguardian.com/environment/2026/jul/21/millions-long-term-coastal-flooding-risk-uk-climate-action",
+      "source": "The Guardian Environment",
+      "category": "environment",
+      "region": "europe",
+      "publishedAt": "2026-07-21T17:00:51.000Z",
+      "summary": "A ‘reasonable worst-case scenario’ suggests need for large-scale movement of populations away from reshaped coast Up to 13 million people in the UK face the long-term risk of coastal flooding due to the climate crisis, scientists have warned, with a “reasonable worst-case scenario” suggesting the need for the large-scale movement of populations away from a dramatically reshaped coast. Even if today’s global pledges t"
+    },
+    {
+      "id": "5b3a38013a8997fa",
+      "title": "Twitch will let parents stop their teens going live",
+      "url": "https://www.theverge.com/tech/968480/twitch-parental-controls-block-streaming-live-dms",
+      "source": "The Verge",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-07-21T17:00:00.000Z",
+      "summary": "Parents will also get a weekly email summarizing their teen’s Twitch activity. | Illustration by Nick Barclay / The Verge Twitch is giving parents more control over how their children are using the streaming platform, including the ability to block them from broadcasting entirely. Parental controls are now available that allow guardians to link Twitch accounts with their 13- to 17-year-old children, providing account"
+    },
+    {
+      "id": "3fe32498c3eb588c",
+      "title": "Biman Bangladesh Airlines to Acquire 10 Airbus Aircraft",
+      "url": "https://www.bd24live.com/biman-bangladesh-airlines-to-acquire-10-airbus-aircraft/",
+      "source": "BD24Live",
+      "category": "creativity_arts",
+      "region": "bangladesh",
+      "publishedAt": "2026-07-21T16:55:13.000Z",
+      "summary": "National flag carrier Biman Bangladesh Airlines will add 10 new aircraft from European aircraft manufacturer Airbus to its fleet. These aircraft are being purchased as part of the government’s mixed-fleet… The post Biman Bangladesh Airlines to Acquire 10 Airbus Aircraft appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "ca59e78c575b553b",
+      "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-07-21T16:53:37.000Z",
+      "summary": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. In an order on Monday, Judge Araceli Martínez-Olguín writes that the settlement will provide \"meaningful relief,\" offering authors around $3,000 for each book allegedly pirated by Anthropic. The $1.5 billion settlement i"
+    },
+    {
+      "id": "9f919bc2c0a04193",
+      "title": "Tours form new alliance in latest blow to LIV Golf",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/c1l1nq0y025o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "diplomacy",
+      "region": "global",
+      "publishedAt": "2026-07-21T16:49:10.000Z",
+      "summary": "LIV Golf suffers another setback with the announcement of a global alliance between three of the leading men's tours."
+    },
+    {
+      "id": "f23ffbc72f519c01",
+      "title": "Two French firefighters die tackling blaze near Bordeaux airport",
+      "url": "https://www.bbc.co.uk/news/articles/cy0j9yyed1lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-07-21T16:44:30.000Z",
+      "summary": "The blaze close to the parking lots at Bordeaux-Mérignac Airport is said to have originated from a brush fire."
+    },
+    {
+      "id": "df42a49a2eaddb1c",
+      "title": "Critical wp2shell WordPress flaws exploited to install webshells",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-07-21T16:41:50.000Z",
+      "summary": "Hackers are exploiting the \"wp2shell\" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected servers. [...]"
+    },
+    {
+      "id": "69553f6b66aeeece",
+      "title": "Instagram will let users endlessly swap the audio on old posts",
+      "url": "https://www.theverge.com/news/968243/instagram-creators-replace-audio-tiktok-competition",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-07-21T16:15:00.000Z",
+      "summary": "There's a symbiotic - and sometimes frustrating - relationship between social media sites and the creators that depend on them. Platforms need influencers' and creators' content to keep consumers on their apps; the creators, in turn, need to be able to reach those audiences to justify creating their content in the first place. Creators want a seamless way to make and disseminate their content while being able to make"
+    },
+    {
+      "id": "82eaea67ce5ba213",
+      "title": "Tesla Robotaxis go to Florida",
+      "url": "https://www.theverge.com/transportation/968624/tesla-robotaxis-orlando-tampa-florida-earnings",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-07-21T16:11:41.000Z",
+      "summary": "It must be earnings day, because Tesla is making a Robotaxi announcement. The company said in a post on X that it was launching its Robotaxi service in Orlando and Tampa, attaching a pair of maps that show each city's service area. No word on fleet size or whether interested customers would be able to hail a vehicle right away. The timing of the post is noteworthy, considering later today Tesla CEO Elon Musk is expec"
+    },
+    {
+      "id": "d428ddce2e281fcd",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-21T16:10:56.000Z",
+      "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan."
+    },
+    {
+      "id": "93429249d042f948",
+      "title": "The Dink review – Jake Johnson’s pickleball comedy serves up engagingly silly laughs",
+      "url": "https://www.theguardian.com/film/2026/jul/21/the-dink-review-pickleball-comedy-serves-up-engagingly-silly-laughs",
+      "source": "The Guardian Culture",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-07-21T16:00:50.000Z",
+      "summary": "Johnson is delusional ex-tennis player The Hammer, who has to switch to the sport he loathes after injury There’s some funny stuff here in this engagingly silly sports comedy from producer-star Jake Johnson about the world of pickleball, and how this (allegedly) facile pseudo-tennis game for children and old people threatens to infantilise and dumb down the world of tennis itself. Dusty (Johnson) is a middle-aged los"
+    },
+    {
+      "id": "5dbf50bbe2171586",
+      "title": "Tick bites are on the rise in the US and UK. Here’s how to protect yourself",
+      "url": "https://www.theguardian.com/wellness/2026/jul/21/tick-bites-how-to-protect-yourself",
+      "source": "The Guardian Environment",
+      "category": "disasters",
+      "region": "americas",
+      "publishedAt": "2026-07-21T16:00:50.000Z",
+      "summary": "Experts share tips to avoid the blood-sucking pests that can transmit Lyme disease and other illnesses on to humans I won’t go into gory detail about the tick I found latched behind my ear approximately 35 hours after a hike in early June. Suffice it to say, the parasite was well fed, and I was horrified. I am far from alone in making such a disgusting discovery. According to the Centers for Disease Control and Preve"
+    },
+    {
+      "id": "237e3055aa4c0ed3",
+      "title": "Brazil's Amazon sees sharp decline in size of area burned in 2025",
+      "url": "https://www.bbc.co.uk/news/articles/cqx78eplqqlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-07-21T15:57:29.000Z",
+      "summary": "The amount of land burned in the world's largest rainforest was the smallest since MapBiomas records began in 1985."
+    },
+    {
+      "id": "16347f1a9362c366",
+      "title": "Israeli strikes in Gaza kill 12, including family of six, medics say",
+      "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-21T15:54:11.000Z",
+      "summary": "Firas al-Masri, his wife and their four children died in one attack, which the Israeli military says targeted a Hamas operative."
+    },
+    {
+      "id": "7de782818004cb16",
+      "title": "The defining moments of the 2026 World Cup",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cdrv06y1pdlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-21T15:45:11.000Z",
+      "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 Fifa World Cup."
+    },
+    {
+      "id": "8d14a6b111406057",
+      "title": "Lindt's Easter chocolate sales fall after price hike",
+      "url": "https://www.bbc.co.uk/news/articles/c74gxj937mmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-07-21T15:37:58.000Z",
+      "summary": "The Swiss chocolate maker adjusts its strategy in response to weaker demand after its price rises."
+    },
+    {
+      "id": "89255fb468457255",
+      "title": "'Pressure is intense and scrutiny constant' - referee Taylor retires",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c87n8ydlegqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-21T15:33:42.000Z",
+      "summary": "Anthony Taylor announces his retirement from refereeing with immediate effect - ending a 20-year career."
+    },
+    {
+      "id": "f39c4a3e7f82e395",
+      "title": "Samsung can&#8217;t afford to play it safe with Apple&#8217;s first foldable looming",
+      "url": "https://www.theverge.com/tech/968583/samsung-galaxy-unpacked-wide-z-fold-8-iphone",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-07-21T15:20:33.000Z",
+      "summary": "Samsung’s latest foldable is expected to be shorter and wider than last year’s Z Fold 7. | Photo: Allison Johnson / The Verge Tomorrow's foldable-centric Galaxy Unpacked event looks like it will be Samsung's biggest in years. The company is expected to launch new versions of its Fold and Flip phones while also introducing a brand new Fold form factor that's shorter and wider. It would be the second upheaval to Samsun"
+    },
+    {
+      "id": "524967fe774b9ee1",
+      "title": "Ozempic-maker accuses rival of false advertising",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0rzd2l17o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-07-21T15:20:10.000Z",
+      "summary": "Novo Nordisk has launched legal action accusing Eli Lilly of creating \"misleading\" ads, a claim its rival denies."
+    },
+    {
+      "id": "174892b1e801694c",
+      "title": "Spanish hotel chain ceases operations in Cuba under pressure from Washington",
+      "url": "https://www.theguardian.com/world/2026/jul/21/spanish-hotel-chain-ceases-operations-cuba-sanctions-trump",
       "source": "The Guardian World",
       "category": "economy_business",
       "region": "americas",
-      "publishedAt": "2026-07-21T12:23:29.000Z",
-      "summary": "Mark Carney says Canada has made proposals to resolve dispute as tariffs are due to be imposed on wide range of goods Sign up for US Breaking News email Donald Trump is in Washington today. We’ll hear from him when he welcomes Lebanon’s president, Joseph Aoun, to the White House at 11am ET. We’ll bring you the latest lines from their bilateral meeting. Later, Trump will meet with House Republican lawmakers in the Ova"
+      "publishedAt": "2026-07-21T15:10:35.000Z",
+      "summary": "Meliá group says Donald Trump’s sanctions make it ‘impossible’ to keep any of its 34 sites open A Spanish hotel chain is to cease all operations in Cuba at the end of the week due to “major difficulties” in doing business on the island under growing pressure from Washington. The latest US sanctions make it “impossible, de facto and de jure, to maintain even minimal operational stability”, the Meliá group explained in"
     },
     {
       "id": "2efe53b0ed9d89fa",
@@ -38,18 +388,48 @@
       "source": "BBC Science & Environment",
       "category": "weather_climate",
       "region": "europe",
-      "publishedAt": "2026-07-21T12:10:08.000Z",
+      "publishedAt": "2026-07-21T13:46:05.000Z",
       "summary": "Eight areas across England are now in prolonged dry weather – the stage before drought."
     },
     {
-      "id": "c6e164b20c70fb72",
-      "title": "How a 64-team World Cup could transform football’s economics",
-      "url": "https://www.aljazeera.com/sports/2026/7/21/how-a-64-team-world-cup-could-transform-footballs-economics?traffic_source=rss",
-      "source": "Al Jazeera",
+      "id": "cc4dd851754ddffa",
+      "title": "EC Proposes Major Changes to Local Government Election Law",
+      "url": "https://www.bd24live.com/ec-proposes-major-changes-to-local-government-election-law/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-07-21T13:45:15.000Z",
+      "summary": "The Election Commission (EC) has finalized a set of amendment proposals to the relevant laws to make local government elections more transparent, accountable, and orderly. The proposals recommend several significant… The post EC Proposes Major Changes to Local Government Election Law appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "7cb6a0f4c28976c1",
+      "title": "US claims of Cuba’s ‘unique threat’ jar with reality of hunger and blackouts",
+      "url": "https://www.theguardian.com/world/2026/jul/21/us-state-department-report-cuba",
+      "source": "The Guardian World",
+      "category": "creativity_arts",
+      "region": "americas",
+      "publishedAt": "2026-07-21T13:33:35.000Z",
+      "summary": "State department’s 100-page report is latest push in Trump administration campaign to bring down government The US government’s latest allegations that Cuba is behind “many of the most significant upheavals in recent American political history” and that its leaders pose “a unique threat to American homeland security” have come as startling revelations to those living under the six-month-long US oil blockade in Havana"
+    },
+    {
+      "id": "d720b276f96d53d9",
+      "title": "Fernandez defends Argentina as Messi questions remain",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8jn91e9mdyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-07-21T12:03:39.000Z",
-      "summary": "Spain, Portugal and Morocco are the cohosts of the 2030 edition, but we await confirmation of 48 or 64 competitors."
+      "region": "americas",
+      "publishedAt": "2026-07-21T13:19:17.000Z",
+      "summary": "Midfielder Enzo Fernandez claims Argentina represented their nation \"in the best possible way\" in the World Cup."
+    },
+    {
+      "id": "0629ff0ba53b7e7e",
+      "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+      "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-07-21T12:48:37.000Z",
+      "summary": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday."
     },
     {
       "id": "5867b24f766a4aa4",
@@ -72,18 +452,8 @@
       "summary": "Bernard Antwi Boasiako, known as \"Chairman Wontumi\", was also fined more than $10,000 (£7,450)."
     },
     {
-      "id": "c709a6df091dc958",
-      "title": "India’s ‘cockroach’ protest movement halts marches after police violence",
-      "url": "https://www.aljazeera.com/news/2026/7/21/indias-cockroach-protest-movement-halts-marches-after-police-violence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-21T11:51:37.000Z",
-      "summary": "Leaders of the movement say they will continue campaigning but will not stage another march through New Delhi."
-    },
-    {
-      "id": "9a809fcd6c24b1b0",
-      "title": "First Nations groups devastated by Canada’s wildfires say government did not help",
+      "id": "4590dcae9ababf4b",
+      "title": "We received no alert, say leaders of First Nations communities razed by Canadian wildfires",
       "url": "https://www.theguardian.com/world/2026/jul/21/first-nations-ontario-canada-wildfires-evacuations-government",
       "source": "The Guardian World",
       "category": "disasters",
@@ -92,104 +462,14 @@
       "summary": "Chiefs in Ontario say they were left to self-evacuate before homes burned to ground, after being told there was no imminent threat Fast-moving wildfires have burned two First Nations communities in Canada to the ground, as members said they were left to self-evacuate without government help or emergency alerts. Thirteen communities in Ontario province have been ordered to evacuate because of wildfires, most of them F"
     },
     {
-      "id": "df0192c9ff6f22b6",
-      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "economy_business",
-      "region": "americas",
-      "publishedAt": "2026-07-21T11:42:41.000Z",
-      "summary": "The duties mark a major escalation in trade tensions between the North American neighbours."
-    },
-    {
-      "id": "7f210f3010db8613",
-      "title": "Traffic officers arrested for allegedly seeking bribe from Nigeria's anti-corruption boss",
+      "id": "ea034e2be6ece398",
+      "title": "Police officers arrested for allegedly seeking roadside bribe from Nigeria's anti-corruption boss",
       "url": "https://www.bbc.co.uk/news/articles/c9q97028ex5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world_politics",
       "region": "americas",
       "publishedAt": "2026-07-21T11:40:53.000Z",
       "summary": "They are accused of stopping Musa Aliyu at a fake roadblock and telling him to drive to a cash machine."
-    },
-    {
-      "id": "aef4ea5ebe42ffc3",
-      "title": "Hunger is falling but is still higher than pre-COVID levels: UN report",
-      "url": "https://www.aljazeera.com/news/2026/7/21/hunger-is-falling-but-is-still-higher-than-pre-covid-levels-un-report?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-07-21T11:32:47.000Z",
-      "summary": "Global hunger has declined, yet millions of people are still going hungry."
-    },
-    {
-      "id": "3bfd02dcb07c484d",
-      "title": "Hamas’s new leader must bridge a movement divided over Iran",
-      "url": "https://www.aljazeera.com/opinions/2026/7/21/hamass-new-leader-must-bridge-a-movement-divided-over-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "middle_east",
-      "publishedAt": "2026-07-21T11:24:05.000Z",
-      "summary": "After a one-vote victory, Khalil al-Hayya must reconcile rival currents while preserving Hamas’s independence."
-    },
-    {
-      "id": "b1e462502b239508",
-      "title": "America needs to stop getting shocked by Chinese AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "americas",
-      "publishedAt": "2026-07-21T11:08:56.000Z",
-      "summary": "SHANGHAI, CHINA - JULY 20 2026: People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, Monday, July 20, 2026. | Image: LONG WEI/ Feature China/Future Publishing via Getty Images Last week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predic"
-    },
-    {
-      "id": "33d4afa7b569340f",
-      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-21T10:43:48.000Z",
-      "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah."
-    },
-    {
-      "id": "a3eb987099289c96",
-      "title": "FIFA World Cup 2026: Who had the most goals and assists at the tournament?",
-      "url": "https://www.aljazeera.com/sports/2026/7/21/who-scored-the-most-goals-kept-clean-sheets-made-assists-fifa-world-cup-yellow-cards-saves?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-07-21T10:25:18.000Z",
-      "summary": "FIFA’s biggest global showpiece saw 1,039 players from 48 nations play across 16 venues and score 308 goals."
-    },
-    {
-      "id": "75a3a7659a173020",
-      "title": "Can AI systems make moral decisions in war?",
-      "url": "https://www.aljazeera.com/news/2026/7/21/can-ai-systems-make-moral-decisions-in-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-07-21T10:21:08.000Z",
-      "summary": "As more militaries adopt AI technology into their kill chain, Al Jazeera asks if they are capable of moral judgement."
-    },
-    {
-      "id": "a0125daa54f9be71",
-      "title": "Andy Burnham to cut taxes on electricity bills, announces new UK cabinet",
-      "url": "https://www.aljazeera.com/news/2026/7/21/andy-burnham-to-cut-taxes-on-electricity-bills-announces-new-uk-cabinet?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-07-21T10:20:22.000Z",
-      "summary": "Burnham is attempting to act quickly ​to deliver on promises to tackle the UK's cost-of-living crisis."
-    },
-    {
-      "id": "1e1d886616fe467d",
-      "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-07-21T10:12:24.000Z",
-      "summary": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]"
     },
     {
       "id": "514b0b37750dfdfc",
@@ -202,36 +482,6 @@
       "summary": "National disaster agency confirms ‘severe financial and human losses’ in eastern province of Nuristan Rescue crews in Afghanistan are searching for survivors and bodies among the rubble of houses destroyed by devastating flash floods that authorities said had killed nearly two dozen people and left more than 100 people missing. The Afghanistan national disaster management authority said on Tuesday that 23 people had "
     },
     {
-      "id": "e94531e8078a0a17",
-      "title": "‘His chords are like sheets of diamond ice’: the beguiling psych-folk of late cult songwriter Ed Askew",
-      "url": "https://www.theguardian.com/music/2026/jul/21/ed-askew-psych-folk-bill-callahan",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-07-21T10:00:43.000Z",
-      "summary": "The late songwriter released around 50 records, writing gay love songs and effortless folk songs from folk’s fringes. Fans including Bill Callahan explain his singular brilliance In a grainy television clip from 1986, a flame-haired and neckerchiefed troubadour plucks away at a lute-like instrument, harmonica under chin, the gentle ripples giving way to a voice full of longing. This performance, uploaded to YouTube i"
-    },
-    {
-      "id": "5e0e8ba886ad7ad8",
-      "title": "Who’s afraid of the big, bad GPU?",
-      "url": "https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact",
-      "source": "The Verge",
-      "category": "environment",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-21T10:00:01.000Z",
-      "summary": "How does AI make you feel? Are you excited to “vibe-code” your smart home? Or anxious about all the added pollution and billions of gallons of water used by data centers? Dig a little deeper and you’ll start to question the actual value of the GPUs that underpin all the leaps and promises of generative AI. Right now, GPUs, hundreds of thousands of them, are being crammed into data centers around the world to power th"
-    },
-    {
-      "id": "d428ddce2e281fcd",
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-21T09:48:20.000Z",
-      "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan."
-    },
-    {
       "id": "267b36c64497f1a2",
       "title": "AI minister role boosted but tech department axed in Burnham shake-up",
       "url": "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo?at_medium=RSS&at_campaign=rss",
@@ -242,26 +492,6 @@
       "summary": "Kanishka Narayan will attend cabinet - but no longer have the leadership of a technology secretary."
     },
     {
-      "id": "9ac7afad7b9518a1",
-      "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-07-21T09:05:50.000Z",
-      "summary": "Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that causes Windows Update scans to fail or time out. [...]"
-    },
-    {
-      "id": "1a10f25d866ad276",
-      "title": "The Odyssey: jaw-dropping action, dark magic and dolphin cameos – discuss with spoilers",
-      "url": "https://www.theguardian.com/film/2026/jul/21/odyssey-christopher-nolan-discussion",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-07-21T09:00:07.000Z",
-      "summary": "Inside all the blink-and-you-miss-it moments, subtle easter eggs and poignant takeaways from Christopher Nolan’s ancient epic This article contains spoilers for The Odyssey The Odyssey looks set to be the blockbuster hit of the summer, with global opening weekend grosses of $264m, critical rave reviews including five stars from the Guardian’s Peter Bradshaw, and reports of fans traversing continents to experience Chr"
-    },
-    {
       "id": "766e38ddc7d221ca",
       "title": "India's 'cockroach' protest continues a day after police crackdown",
       "url": "https://www.bbc.co.uk/news/articles/c98v349r9lro?at_medium=RSS&at_campaign=rss",
@@ -270,56 +500,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-07-21T08:44:43.000Z",
       "summary": "Delhi witnessed overwhelming violence on Monday, with at least 60 protesters wounded. Police said 118 of their men were also injured."
-    },
-    {
-      "id": "75cd6512f8592cef",
-      "title": "Why England teenager Parkinson has a mindset coach",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c775dvm2gn0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-21T08:32:18.000Z",
-      "summary": "Why England teenager Erica Meg Parkinson has a mindset coach who has worked with the All Blacks and ex-England cricketer Ashley Giles."
-    },
-    {
-      "id": "d8eb78d6199cc1c9",
-      "title": "Bournemouth midfielder Scott rejects new contract",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-21T08:10:01.000Z",
-      "summary": "Bournemouth midfielder Alex Scott rejects a new contract amid growing Premier League interest in the England Under-21 international."
-    },
-    {
-      "id": "73511766ba1fdcbe",
-      "title": "Why was Hamilton penalised but not Leclerc? - F1 Q&A",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cn4n21ye3w2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-21T07:00:48.000Z",
-      "summary": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Hungarian Grand Prix."
-    },
-    {
-      "id": "6908a045c268a91f",
-      "title": "The country that doesn't play football ... yet",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y03dermmeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-21T05:47:13.000Z",
-      "summary": "Nauru is the only nation to have never played an official international football match and hardly anyone there plays the game. Is that about to change?"
-    },
-    {
-      "id": "e0feefb1c6cb3d3a",
-      "title": "Climate and rock art advocates take on Woodside’s ‘carbon bomb’ WA gas project in federal court",
-      "url": "https://www.theguardian.com/environment/2026/jul/21/north-west-shelf-gas-project-woodside-wa-federal-court-challenge",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-21T04:18:09.000Z",
-      "summary": "Albanese government’s approval of North West Shelf gas extension being challenged by the Australian Conservation Foundation and Friends of Australian Rock Art The Albanese government’s decision to approve one of the world’s largest gas projects in Western Australia is being challenged in the federal court, setting up a significant test of how Australia’s environment law deals with the climate crisis. The Australian C"
     },
     {
       "id": "a799d908a30835c9",
@@ -359,7 +539,7 @@
       "category": "diplomacy",
       "region": "americas",
       "publishedAt": "2026-07-21T02:29:47.000Z",
-      "summary": "Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products Donald Trump is imposing 50% tariffs on most Canadian goods in response to the country retaliating against previous US tariffs, the White House announced Monday, declaring Canada has unfairly discriminated against American cars, alcohol and dairy products. The tariffs will hit a wide range of products, the"
+      "summary": "Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products Donald Trump is imposing 50% tariffs on most Canadian goods in response to the country retaliating against previous US tariffs, the White House announced on Monday, declaring Canada has unfairly discriminated against American cars, alcohol and dairy products. The tariffs will hit a wide range of products, "
     },
     {
       "id": "6bde6454526712d9",
@@ -372,16 +552,6 @@
       "summary": "Andrew Arrabaca, 43, was armed with two axes, a machete, three knives and fireworks, says the FBI."
     },
     {
-      "id": "86844438881baec1",
-      "title": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-07-21T02:07:48.000Z",
-      "summary": "An investigation into the tragedy has been launched, the island's prime minister says, adding he hopes more will be found alive."
-    },
-    {
       "id": "2cdf6cc0fef5b320",
       "title": "Bumblebees are struggling in UK heatwaves - but you can help them",
       "url": "https://www.bbc.co.uk/news/articles/c141lymnl2yo?at_medium=RSS&at_campaign=rss",
@@ -390,66 +560,6 @@
       "region": "europe",
       "publishedAt": "2026-07-21T00:01:32.000Z",
       "summary": "The furry bodies of UK bumblebees are specially adapted for cold weather - making heatwaves a struggle."
-    },
-    {
-      "id": "07a03a66483cb01a",
-      "title": "Ex-Villa striker Duran joins seventh club aged 22",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c75gwl3n50qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "middle_east",
-      "publishedAt": "2026-07-20T23:11:08.000Z",
-      "summary": "Former Aston Villa striker Jhon Duran joins Benfica on a season-long loan from Saudi Arabian side Al-Nassr."
-    },
-    {
-      "id": "e556c8395fbb86ad",
-      "title": "‘Front groups and fellow travelers’: state department attacks US left over Cuba",
-      "url": "https://www.theguardian.com/world/2026/jul/20/us-state-department-list-leftists-cuba",
-      "source": "The Guardian World",
-      "category": "creativity_arts",
-      "region": "americas",
-      "publishedAt": "2026-07-20T22:50:46.000Z",
-      "summary": "New report denounces Havana and claims ‘campaign of subversion’ has infiltrated highest levels of US government As part of the Trump administration’s continuing attack on left-leaning groups, the US state department has listed several activists and organizations as “front groups and fellow travelers” for Cuba, including Hasan Piker and Amazon Labor Union founder Chris Smalls. In a 100-page report released on Monday, "
-    },
-    {
-      "id": "2c126739871e9b21",
-      "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
-      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-      "source": "The Verge",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-07-20T22:19:12.000Z",
-      "summary": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyoncé's Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on Monday, claims that this list represents \"only a small portion of Plaintiffs' works that Udio infringed,\" as reported earlier"
-    },
-    {
-      "id": "05c614071cf270ef",
-      "title": "Earl wants changes to 'brutal' Nations Championship format",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c74g58vzjj4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-20T22:16:19.000Z",
-      "summary": "Ben Earl calls for a change to the Nations Championship format after England's \"brutal\" schedule in the summer leg of the inaugural competition."
-    },
-    {
-      "id": "3031be18b8f1fe50",
-      "title": "The FCC is planning to retroactively ban disguised DJI gadgets",
-      "url": "https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "americas",
-      "publishedAt": "2026-07-20T22:16:14.000Z",
-      "summary": "The Skyrover X1 vs the DJI Mini 4 Pro. | Image: AirPhotography Last October, we told you how the FCC had given itself the power to retroactively ban gadgets that have already received its approval to be imported and sold in the United States. Now, the FCC's getting ready to wield that power for the first time, by cracking down on the \"DJI front companies\" suspected of sneaking the Chinese company's tech past its fore"
-    },
-    {
-      "id": "72bb69f717946855",
-      "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "middle_east",
-      "publishedAt": "2026-07-20T21:30:19.000Z",
-      "summary": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen."
     },
     {
       "id": "3f2654c64d5bfc82",
@@ -462,26 +572,6 @@
       "summary": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two Antigravity findings. [...]"
     },
     {
-      "id": "08273c983788c707",
-      "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-07-20T21:03:24.000Z",
-      "summary": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to the US."
-    },
-    {
-      "id": "20b36c9dffbc1c73",
-      "title": "SpaceX in your index fund, explained",
-      "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
-      "source": "The Verge",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-07-20T21:00:00.000Z",
-      "summary": "AUUUUUGH | Image: Cath Virginia / The Verge, Getty Images Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion, terribly overpriced - is fast-tracked into the Nasdaq-100? Does it suddenly threaten the stability of index funds based"
-    },
-    {
       "id": "051c7ef8552803a9",
       "title": "Thousands of websites taken down for illegal World Cup streams",
       "url": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o?at_medium=RSS&at_campaign=rss",
@@ -490,46 +580,6 @@
       "region": "americas",
       "publishedAt": "2026-07-20T20:08:56.000Z",
       "summary": "More than 1,000 illegal streaming sites were shut down in the US during the tournament, with a similar amount blocked in Colombia."
-    },
-    {
-      "id": "57670dfdd624100a",
-      "title": "Get Borderlands 3, Risk of Rain 2 and 13 other great PC games for $15",
-      "url": "https://www.theverge.com/gadgets/968191/humble-2k-megahits-bundle-xcom-borderlands-duke-nukem-deal-sale",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-07-20T20:08:51.000Z",
-      "summary": "Borderlands 3 is among the 15 games in the 2K Megahits 2026 Bundle. | 2K Games The aptly-named “2K Megahits 2026 Bundle” from Humble includes 15 Steam games for $15. It’s a smattering of the publisher 2K’s biggest games of the 2010s, including BioShock Infinite, Risk of Rain 2, Borderlands 3, and XCOM: Enemy Unknown. The bundle will be available until August 7th, though the bundle page notes that keys for some games "
-    },
-    {
-      "id": "6373063118e5288b",
-      "title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
-      "url": "https://www.theverge.com/tech/967989/hallmark-keepsake-playstation-ornament-hands-on",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-07-20T20:06:40.000Z",
-      "summary": "The ornament requires three 1.5-volt coin batteries, which are included in the box. | Photo: Cameron Faulkner/The Verge You probably know the signature PlayStation boot sound. Did you know that it's technically a multi-part chime? There's the synthy section where \"Sony Computer Entertainment\" shows onscreen with a white background. You only get to the next screen with the echo-y chimes and the color-filled PlayStatio"
-    },
-    {
-      "id": "ad6cfe85169366fa",
-      "title": "Fifa opens investigation into Argentina post-final trouble - what happens next?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "americas",
-      "publishedAt": "2026-07-20T19:32:37.000Z",
-      "summary": "Argentina will face an investigation into the ugly scenes at the end of the World Cup final, Fifa has confirmed."
-    },
-    {
-      "id": "5a0401e6009946ed",
-      "title": "Tate brothers appear in US court for extradition proceedings",
-      "url": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-07-20T19:05:50.000Z",
-      "summary": "They were arrested on Saturday after the UK announced dozens of new charges, including rape and sex trafficking, which they deny."
     },
     {
       "id": "c3fe878554325d6b",
@@ -560,16 +610,6 @@
       "region": "global",
       "publishedAt": "2026-07-20T14:36:39.000Z",
       "summary": "Bald eagle found hurt in California after fight with other birds, says group, as eagle called Jackie not seen on cameras A beloved female bald eagle missing for several days in California’s Big Bear Lake is believed to have been found alive but injured after a fight with other birds, according to the advocacy group that operates a live, viral nestcam. Friends of Big Bear Valley said on Facebook on Sunday that observe"
-    },
-    {
-      "id": "5a28c1f38bb6eef0",
-      "title": "An AI SOC Evaluation Guide for Security Leaders",
-      "url": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
-      "source": "BleepingComputer",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-07-20T14:01:11.000Z",
-      "summary": "Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation. Prophet Security shares a practical framework for assessing AI SOC solutions, including how to validate accuracy, operating models, long-term reliability, and production readiness. [...]"
     },
     {
       "id": "edacd9ba8566b1b9",
@@ -620,16 +660,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-07-20T05:35:12.000Z",
       "summary": "Prime Minister Tarique Rahman has extended an invitation to the top leaders of political parties that participated in the simultaneous movement against the fascist government, for a dinner. The event… The post Prime Minister invites top leaders of allied parties appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "989c6b47dcfd224d",
-      "title": "The Odyssey storms global box office with $264m opening",
-      "url": "https://www.theguardian.com/film/2026/jul/20/the-odyssey-box-office",
-      "source": "The Guardian Culture",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-07-20T01:39:48.000Z",
-      "summary": "Epic film marks Christopher Nolan’s best opening since 2012’s The Dark Knight Rises when adjusted for inflation • Peter Bradshaw’s five-star review and a less enthused classicist’s take • Will women also enjoy Nolan’s Odyssey? • Christopher Nolan interviewed • Why shooting on occupied land feels like a betrayal • What Nolan left out – and put in The Odyssey has stormed the global box office, taking US$264m (£196m, A$"
     },
     {
       "id": "481b56136c3306c6",
@@ -702,16 +732,6 @@
       "summary": "The International Monetary Fund (IMF) is providing $346 million in aid for the reconstruction and emergency relief efforts in earthquake-devastated Venezuela. The country’s Acting President, Delcy Rodriguez, and IMF chief… The post IMF Provides $346 Million in Emergency Aid to Venezuela appeared first on Bangla Online News Portal."
     },
     {
-      "id": "03e4f5a0d3bc7a09",
-      "title": "Toronto, New York and Washington top list of most polluted cities as wildfires burn",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "disasters",
-      "region": "americas",
-      "publishedAt": "2026-07-18T17:18:47.000Z",
-      "summary": "Canadian officials say that fire activity in Ontario is beginning to ease, with air quality expected to improve in US cities too."
-    },
-    {
       "id": "7a82b63b329f09d5",
       "title": "Pilot Program for ‘Probashi Card’ to Begin Next Month",
       "url": "https://www.bd24live.com/pilot-program-for-probashi-card-to-begin-next-month/",
@@ -720,26 +740,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-07-18T14:05:22.000Z",
       "summary": "The government is set to launch the pilot program for the ‘Probashi Card’ by next month. In the initial phase, an initiative has been taken to introduce debit cards specifically… The post Pilot Program for ‘Probashi Card’ to Begin Next Month appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "acaa9ac849d61598",
-      "title": "Kuwaiti Oil Facility Hit by Iranian Attacks, Extensive Damage; Workers Injured",
-      "url": "https://www.bd24live.com/kuwaiti-oil-facility-hit-by-iranian-attacks-extensive-damage-workers-injured/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-07-18T11:25:09.000Z",
-      "summary": "Kuwait Petroleum Corporation (KPC) has announced that one of its oil facilities has been damaged by a series of attacks from Iran. The attacks caused significant infrastructural damage to the… The post Kuwaiti Oil Facility Hit by Iranian Attacks, Extensive Damage; Workers Injured appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "8342844fa65215d4",
-      "title": "PM Directs Rapid Rollout of Automatic Traffic Lights at 50 More Dhaka Points",
-      "url": "https://www.bd24live.com/pm-directs-rapid-rollout-of-automatic-traffic-lights-at-50-more-dhaka-points/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-07-18T10:20:16.000Z",
-      "summary": "Prime Minister Tareq Rahman has instructed the rapid implementation of ‘Automatic Traffic Light Systems’ at at least 50 more key intersections in Dhaka to alleviate traffic congestion and ensure modern… The post PM Directs Rapid Rollout of Automatic Traffic Lights at 50 More Dhaka Points appeared first on Bangla Online News Portal."
     },
     {
       "id": "c93f9679945edf7e",
