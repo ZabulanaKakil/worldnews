@@ -1,6 +1,86 @@
 {
-  "generatedAt": "2026-07-21T07:37:49.769Z",
+  "generatedAt": "2026-07-21T10:31:37.757Z",
   "articles": [
+    {
+      "id": "ab28c44ec9a47ccb",
+      "title": "UK borrowing falls in June but public finances remain a challenge",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "europe",
+      "publishedAt": "2026-07-21T10:31:06.000Z",
+      "summary": "Public finances for last month were better than expected but the UK is carrying major debt."
+    },
+    {
+      "id": "1e1d886616fe467d",
+      "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-07-21T10:12:24.000Z",
+      "summary": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]"
+    },
+    {
+      "id": "514b0b37750dfdfc",
+      "title": "Rescuers in Afghanistan search for missing and dead after flash floods destroy homes",
+      "url": "https://www.theguardian.com/world/2026/jul/20/deadly-floods-nuristan-afghanistan",
+      "source": "The Guardian Environment",
+      "category": "disasters",
+      "region": "global",
+      "publishedAt": "2026-07-21T10:09:22.000Z",
+      "summary": "National disaster agency confirms ‘severe financial and human losses’ in eastern province of Nuristan Rescue crews in Afghanistan are searching for survivors and bodies among the rubble of houses destroyed by devastating flash floods that authorities said had killed nearly two dozen people and left more than 100 people missing. The Afghanistan national disaster management authority said on Tuesday that 23 people had "
+    },
+    {
+      "id": "878f3e7230b749b9",
+      "title": "Huge fire at Ukraine shopping centre after Russian drone strike",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/huge-fire-at-ukraine-shopping-centre-after-russian-drone-strike?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-07-21T09:52:56.000Z",
+      "summary": "A fire engulfed a shopping centre in Ukraine's Sumy after Russian drone strikes hit the building."
+    },
+    {
+      "id": "1a16df8cf21202c8",
+      "title": "Argentina deny World Cup villains’ role after Samuel Jackson-led slants",
+      "url": "https://www.aljazeera.com/sports/2026/7/21/argentina-grapple-with-world-cup-villainy-amid-samuel-l-jackson-led-slant?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-07-21T09:48:55.000Z",
+      "summary": "Hollywood actor Samuel L Jackson was among those who criticised Argentina at World Cup, with racism among allegations."
+    },
+    {
+      "id": "d428ddce2e281fcd",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-21T09:48:20.000Z",
+      "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan."
+    },
+    {
+      "id": "33d4afa7b569340f",
+      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-21T09:41:11.000Z",
+      "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah."
+    },
+    {
+      "id": "c9293efd6ee7f1a6",
+      "title": "Philippine Foreign Secretary says ASEAN must work together",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/philippine-foreign-secretary-says-asean-must-work-together-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-07-21T09:18:50.000Z",
+      "summary": "Philippine Foreign Secretary says ASEAN must work together"
+    },
     {
       "id": "df0192c9ff6f22b6",
       "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
@@ -8,8 +88,78 @@
       "source": "BBC World",
       "category": "economy_business",
       "region": "americas",
-      "publishedAt": "2026-07-21T07:12:14.000Z",
+      "publishedAt": "2026-07-21T09:16:21.000Z",
       "summary": "The duties mark a major escalation in trade tensions between the North American neighbours."
+    },
+    {
+      "id": "5d6dfb22b72f4c61",
+      "title": "Philippine Foreign Secretary says ASEAN must work together",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/philippine-foreign-secretary-says-asean-must-work-together?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-07-21T09:16:11.000Z",
+      "summary": "Philippine Foreign Secretary says ASEAN must work together"
+    },
+    {
+      "id": "267b36c64497f1a2",
+      "title": "AI minister role boosted but tech department axed in Burnham shake-up",
+      "url": "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-07-21T09:15:55.000Z",
+      "summary": "Kanishka Narayan will attend cabinet - but no longer have the leadership of a technology secretary."
+    },
+    {
+      "id": "9ac7afad7b9518a1",
+      "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-07-21T09:05:50.000Z",
+      "summary": "Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that causes Windows Update scans to fail or time out. [...]"
+    },
+    {
+      "id": "0a55464a51ab0403",
+      "title": "Hormuz tankers on fire, as US, Iran continue attacks: What’s the latest?",
+      "url": "https://www.aljazeera.com/news/2026/7/21/hormuz-tankers-on-fire-as-us-iran-continue-attacks-whats-the-latest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-21T09:04:50.000Z",
+      "summary": "The White House told Al Jazeera that the US would continue its attacks unless Trump decides otherwise."
+    },
+    {
+      "id": "1b221968b2ec63c9",
+      "title": "Bangladesh face Australia Test might as Cummins, Hazlewood and Lyon return",
+      "url": "https://www.aljazeera.com/sports/2026/7/21/bangladesh-face-australia-test-might-as-cummins-hazlewood-and-lyon-return?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "bangladesh",
+      "publishedAt": "2026-07-21T08:25:34.000Z",
+      "summary": "Australia return to full strength for two-Test series against Bangladesh, as injured trio return to strengthen squad."
+    },
+    {
+      "id": "d8eb78d6199cc1c9",
+      "title": "Bournemouth midfielder Scott rejects new contract",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-21T08:10:01.000Z",
+      "summary": "Bournemouth midfielder Alex Scott rejects a new contract amid growing Premier League interest in the England Under-21 international."
+    },
+    {
+      "id": "613e357fb07d4258",
+      "title": "Five Palestinians killed in fire after Israeli attack in Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/five-palestinians-die-in-fire-after-israeli-attack-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "middle_east",
+      "publishedAt": "2026-07-21T07:55:43.000Z",
+      "summary": "An Israeli air attack on an apartment in Gaza City set the building on fire, killing five people."
     },
     {
       "id": "73511766ba1fdcbe",
@@ -22,54 +172,14 @@
       "summary": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Hungarian Grand Prix."
     },
     {
-      "id": "3e0e3049b496ba88",
-      "title": "World Cup: Messi thanks Argentina fans but ‘wound will take time to heal’",
-      "url": "https://www.aljazeera.com/sports/2026/7/21/world-cup-messi-thanks-argentina-fans-wound-will-take-time-to-heal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-07-21T06:52:38.000Z",
-      "summary": "Argentina were beaten 1-0 in the final by Spain in what has been rumoured to be Lionel Messi's final World Cup game."
-    },
-    {
-      "id": "36d5f10db0395536",
-      "title": "‘Active in BDS’: Document reveals how Israel scrutinised global NGOs",
-      "url": "https://www.aljazeera.com/news/2026/7/21/critic-to-israel-document-reveals-how-israel-scrutinised-global-ngos?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "middle_east",
-      "publishedAt": "2026-07-21T06:26:35.000Z",
-      "summary": "An internal government file obtained by Al Jazeera shows how Israel collected data on groups it suspected supported BDS."
-    },
-    {
-      "id": "59c3640bab989a78",
-      "title": "‘We just want to live’: Palestinians in Gaza react to Hamas election",
-      "url": "https://www.aljazeera.com/news/2026/7/21/we-just-want-to-live-palestinians-in-gaza-react-to-hamas-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "middle_east",
-      "publishedAt": "2026-07-21T06:18:42.000Z",
-      "summary": "There are mixed reactions in Gaza after Khalil al-Hayya is elected Hamas leader."
-    },
-    {
-      "id": "d428ddce2e281fcd",
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-21T06:16:06.000Z",
-      "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz."
-    },
-    {
-      "id": "72c9166336879c7c",
-      "title": "Argentina players receive heroes’ welcome home despite World Cup defeat",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/argentina-players-receive-heroes-welcome-home-despite-world-cup-defeat?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-07-21T04:40:39.000Z",
-      "summary": "Argentina’s players were welcomed home by fans lining the streets as the team travelled from the airport."
+      "id": "6908a045c268a91f",
+      "title": "The country that doesn't play football ... yet",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y03dermmeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-21T05:47:13.000Z",
+      "summary": "Nauru is the only nation to have never played an official international football match and hardly anyone there plays the game. Is that about to change?"
     },
     {
       "id": "e0feefb1c6cb3d3a",
@@ -92,16 +202,6 @@
       "summary": "Amidst all the drama surrounding the Spain-Argentina match in the 2026 World Cup final, a crucial moment unfolded even before the players stepped onto the field. At the heart of… The post Messi’s Pre-Final Statement Generates New Discussion appeared first on Bangla Online News Portal."
     },
     {
-      "id": "53520b5b209413b2",
-      "title": "China and Philippines trade accusations after sailor injured at sea",
-      "url": "https://www.aljazeera.com/news/2026/7/21/china-and-philippines-trade-accusations-after-sailor-injured-at-sea?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-21T03:49:57.000Z",
-      "summary": "Dispute erupts in South China Sea after incident near Second Thomas Shoal involving Chinese and Philippine vessels."
-    },
-    {
       "id": "f7116b77c666a8a0",
       "title": "One Year of Milestone Tragedy: Many Students Suffer from Mental Trauma",
       "url": "https://www.bd24live.com/one-year-of-milestone-tragedy-many-students-suffer-from-mental-trauma/",
@@ -110,36 +210,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-07-21T03:20:18.000Z",
       "summary": "Today marks one year since the Milestone Tragedy. On July 21 last year, 35 people were killed when an air force training plane crashed into the Haider Ali Academic Building… The post One Year of Milestone Tragedy: Many Students Suffer from Mental Trauma appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "401f5d1de8a0f343",
-      "title": "Spain’s World Cup heroes welcomed by millions in Madrid",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/spains-world-cup-heroes-welcomed-by-millions-in-madrid?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-07-21T03:16:56.000Z",
-      "summary": "More than half of Madrid’s population turned out to celebrate La Roja as the players returned to Spain"
-    },
-    {
-      "id": "00cd7378aa907452",
-      "title": "US military releases footage of tenth consecutive night of strikes on Iran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_us-military-releases-footage-of-strikes-on-iran-200726?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-21T03:15:23.000Z",
-      "summary": "US Central Command (CENTCOM) released footage of its forces launching the latest round of strikes against Iran."
-    },
-    {
-      "id": "dab5e6d9f98d23b0",
-      "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea, and why?",
-      "url": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "diplomacy",
-      "region": "africa",
-      "publishedAt": "2026-07-21T02:52:44.000Z",
-      "summary": "A series of diplomatic consultations in Cairo underscores the Horn of Africa's growing strategic importance."
     },
     {
       "id": "155f4f3d808a1604",
@@ -162,6 +232,16 @@
       "summary": "Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products Donald Trump is imposing 50% tariffs on most Canadian goods in response to the country retaliating against previous US tariffs, the White House announced Monday, declaring Canada has unfairly discriminated against American cars, alcohol and dairy products. The tariffs will hit a wide range of products, the"
     },
     {
+      "id": "6bde6454526712d9",
+      "title": "'Anti-ICE' army veteran started fire outside Manhattan federal building, say officials",
+      "url": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-07-21T02:16:05.000Z",
+      "summary": "Andrew Arrabaca, 43, was armed with two axes, a machete, three knives and fireworks, says the FBI."
+    },
+    {
       "id": "86844438881baec1",
       "title": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
       "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
@@ -170,16 +250,6 @@
       "region": "global",
       "publishedAt": "2026-07-21T02:07:48.000Z",
       "summary": "An investigation into the tragedy has been launched, the island's prime minister says, adding he hopes more will be found alive."
-    },
-    {
-      "id": "f9675005a86fa66c",
-      "title": "Guyana recovers 27 bodies after ferry disaster as crew comes under scrutiny",
-      "url": "https://www.aljazeera.com/news/2026/7/21/guyana-recovers-27-bodies-after-ferry-disaster-as-crew-comes-under-scrutiny?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "disasters",
-      "region": "global",
-      "publishedAt": "2026-07-21T01:47:30.000Z",
-      "summary": "Authorities detain ferry crew members after drug tests reveal violations in Guyana's worst marine disaster in decades."
     },
     {
       "id": "aa12a5141e256475",
@@ -232,26 +302,6 @@
       "summary": "New report denounces Havana and claims ‘campaign of subversion’ has infiltrated highest levels of US government As part of the Trump administration’s continuing attack on left-leaning groups, the US state department has listed several activists and organizations as “front groups and fellow travelers” for Cuba, including Hasan Piker and Amazon Labor Union founder Chris Smalls. In a 100-page report released on Monday, "
     },
     {
-      "id": "296861ce4406f1c8",
-      "title": "Estée Lauder discloses data breach via Oracle E-Business flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-07-20T22:39:30.000Z",
-      "summary": "Cosmetics giant Estée Lauder is notifying customers of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used for human resources (HR) operations. [...]"
-    },
-    {
-      "id": "58d094889504e5ae",
-      "title": "Hackers steal $23.7 million in crypto from Ostium in off-chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-07-20T22:22:56.000Z",
-      "summary": "The Ostium trading platform announced that an attacker stole $23.75 million from its liquidity provider vault last week, after compromising off-chain infrastructure used to feed prices into the protocol. [...]"
-    },
-    {
       "id": "2c126739871e9b21",
       "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
       "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
@@ -290,6 +340,16 @@
       "region": "americas",
       "publishedAt": "2026-07-20T22:16:14.000Z",
       "summary": "The Skyrover X1 vs the DJI Mini 4 Pro. | Image: AirPhotography Last October, we told you how the FCC had given itself the power to retroactively ban gadgets that have already received its approval to be imported and sold in the United States. Now, the FCC's getting ready to wield that power for the first time, by cracking down on the \"DJI front companies\" suspected of sneaking the Chinese company's tech past its fore"
+    },
+    {
+      "id": "a26428179466fcc8",
+      "title": "Nicaragua’s president says country will not hold any more elections",
+      "url": "https://www.theguardian.com/world/2026/jul/20/nicaraguas-president-says-country-will-not-hold-any-more-elections",
+      "source": "The Guardian World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-07-20T21:36:47.000Z",
+      "summary": "Daniel Ortega, the 80-year-old authoritarian leader, says move will ‘build a wall’ against the opposition Nicaragua’s long-serving president, Daniel Ortega, has said the country will hold no further elections to prevent the opposition from coming to power. The 80-year-old authoritarian leader, who has been in office since 2007, also said he would work with the congress he controls to pass new laws that would “build a"
     },
     {
       "id": "72bb69f717946855",
@@ -352,16 +412,6 @@
       "summary": "The ornament requires three 1.5-volt coin batteries, which are included in the box. | Photo: Cameron Faulkner/The Verge You probably know the signature PlayStation boot sound. Did you know that it's technically a multi-part chime? There's the synthy section where \"Sony Computer Entertainment\" shows onscreen with a white background. You only get to the next screen with the echo-y chimes and the color-filled PlayStatio"
     },
     {
-      "id": "82348f4667df15b9",
-      "title": "Merger deal between Paramount and Warner Bros paused by judge",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-07-20T19:48:13.000Z",
-      "summary": "US court temporarily stops Paramount and Warner Bros merging after 12 states launched legal action."
-    },
-    {
       "id": "ad6cfe85169366fa",
       "title": "Fifa opens investigation into Argentina post-final trouble - what happens next?",
       "url": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss",
@@ -372,16 +422,6 @@
       "summary": "Argentina will face an investigation into the ugly scenes at the end of the World Cup final, Fifa has confirmed."
     },
     {
-      "id": "312d5e1f925d6a3f",
-      "title": "Messi says 'pain is immense' after losing World Cup final",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz97gwpk01yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "americas",
-      "publishedAt": "2026-07-20T19:13:58.000Z",
-      "summary": "Lionel Messi says \"the pain is immense\" and that it \"will take time to heal\" after Argentina lost 1-0 to Spain in the World Cup final."
-    },
-    {
       "id": "5a0401e6009946ed",
       "title": "Tate brothers appear in US court for extradition proceedings",
       "url": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss",
@@ -390,16 +430,6 @@
       "region": "europe",
       "publishedAt": "2026-07-20T19:05:50.000Z",
       "summary": "They were arrested on Saturday after the UK announced dozens of new charges, including rape and sex trafficking, which they deny."
-    },
-    {
-      "id": "99cf4a22d2048d5c",
-      "title": "Slowdown in Arctic ice melt ends after largest winter decline on record",
-      "url": "https://www.theguardian.com/environment/2026/jul/20/slowdown-arctic-sea-ice-melt-largest-winter-decline-record",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-07-20T19:00:48.000Z",
-      "summary": "Scientists recorded slower reduction over past 20 years, but study finds this was ‘temporary rather than sustained’ A previously recorded slowdown in Arctic sea ice decline has ended, according to a new study, with the largest year-to-year wintertime reduction ever recorded. In a study published last summer, researchers found that melting sea ice in the Arctic had slowed down over the past 20 years, with no statistic"
     },
     {
       "id": "4b6ce4b2d08488af",
@@ -452,16 +482,6 @@
       "summary": "Case against Ismael Zambada García, who helped co-found and lead the violent Sinaloa cartel, unfolded in New York The Mexican drug kingpin, Ismael Zambada García, known as “El Mayo”, was sentenced in a US federal court on Monday to life in prison, after a plea deal last year in which he admitted ⁠to shipping vast amounts of cocaine and other substances as leader of the violent Sinaloa cartel. Zambada is 76 and one of"
     },
     {
-      "id": "8a63473cfeed3169",
-      "title": "Canada issues air quality warnings over US wildfire smoke after Trump tariff threat",
-      "url": "https://www.theguardian.com/world/2026/jul/20/canada-air-quality-warnings-us-wildfire-smoke-trump-tariffs",
-      "source": "The Guardian World",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-07-20T15:52:58.000Z",
-      "summary": "Officials say smoke from US fires has crossed border days after US president accused Canada of improper fire management After days of acrid smoke from northern wildfires choking major US cities and inspiring Donald Trump to threaten Canada with tariffs, officials now say the reverse is also happening as parts of Canada issue air quality warnings caused by American fires to the south. Officials in the Canadian provinc"
-    },
-    {
       "id": "ee9b1198b790ddc0",
       "title": "AliExpress fined record €550m by EU for allowing sale of illegal goods",
       "url": "https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&at_campaign=rss",
@@ -472,16 +492,6 @@
       "summary": "The Chinese retailer allowed unsafe toys and counterfeit clothes to be sold on its site, says the EU."
     },
     {
-      "id": "77611c7c6b80adf4",
-      "title": "Gifted, charismatic and passionate amid highs and lows - Keegan obituary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20z4d87vp3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-20T15:00:33.000Z",
-      "summary": "The positivity and vibrancy Kevin Keegan brought made him a cherished figure within the game, writes chief football writer Phil McNulty."
-    },
-    {
       "id": "6cddae75e3edfb59",
       "title": "Big Bear’s missing bald eagle believed to have been found alive but injured",
       "url": "https://www.theguardian.com/us-news/2026/jul/20/bald-eagle-jackie-big-bear-lake",
@@ -490,16 +500,6 @@
       "region": "global",
       "publishedAt": "2026-07-20T14:36:39.000Z",
       "summary": "Bald eagle found hurt in California after fight with other birds, says group, as eagle called Jackie not seen on cameras A beloved female bald eagle missing for several days in California’s Big Bear Lake is believed to have been found alive but injured after a fight with other birds, according to the advocacy group that operates a live, viral nestcam. Friends of Big Bear Valley said on Facebook on Sunday that observe"
-    },
-    {
-      "id": "c2c70589e125e7aa",
-      "title": "Hamas names Khalil al-Hayya as new overall leader",
-      "url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-20T14:02:31.000Z",
-      "summary": "The Palestinian armed group's Qatar-based chief negotiator replaces Yahya Sinwar, who was killed by Israeli forces in Gaza in 2024."
     },
     {
       "id": "5a28c1f38bb6eef0",
@@ -530,16 +530,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-07-20T12:57:32.000Z",
       "summary": "The parents of the four naturally conceived girls were taken by \"immense surprise\" with the pregnancy, the hospital said."
-    },
-    {
-      "id": "530a8607dd945afa",
-      "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
-      "source": "BleepingComputer",
-      "category": "disasters",
-      "region": "global",
-      "publishedAt": "2026-07-20T10:06:17.000Z",
-      "summary": "Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security updates. [...]"
     },
     {
       "id": "1f3beaaa3cc9403b",
@@ -662,6 +652,16 @@
       "summary": "The Perseid meteor shower will light up the night sky over the next five weeks."
     },
     {
+      "id": "8f117baf99c5869e",
+      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
+      "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
+      "source": "The Guardian World",
+      "category": "world_politics",
+      "region": "africa",
+      "publishedAt": "2026-07-19T04:00:16.000Z",
+      "summary": "Incumbent Carlos Vila Nova hopes to defeat his former party and secure second term as independent Voters in São Tomé and Príncipe go to the polls for a presidential election on Sunday as one of Africa’s least populous countries seeks to burnish its democratic credentials. According to the National Election Commission, about 142,000 people are registered to vote in the tiny African state’s elections, approximately 15%"
+    },
+    {
       "id": "f9bd210e24efb47b",
       "title": "IMF Provides $346 Million in Emergency Aid to Venezuela",
       "url": "https://www.bd24live.com/imf-provides-346-million-in-emergency-aid-to-venezuela/",
@@ -710,16 +710,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-07-18T11:25:09.000Z",
       "summary": "Kuwait Petroleum Corporation (KPC) has announced that one of its oil facilities has been damaged by a series of attacks from Iran. The attacks caused significant infrastructural damage to the… The post Kuwaiti Oil Facility Hit by Iranian Attacks, Extensive Damage; Workers Injured appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "8342844fa65215d4",
-      "title": "PM Directs Rapid Rollout of Automatic Traffic Lights at 50 More Dhaka Points",
-      "url": "https://www.bd24live.com/pm-directs-rapid-rollout-of-automatic-traffic-lights-at-50-more-dhaka-points/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-07-18T10:20:16.000Z",
-      "summary": "Prime Minister Tareq Rahman has instructed the rapid implementation of ‘Automatic Traffic Light Systems’ at at least 50 more key intersections in Dhaka to alleviate traffic congestion and ensure modern… The post PM Directs Rapid Rollout of Automatic Traffic Lights at 50 More Dhaka Points appeared first on Bangla Online News Portal."
     },
     {
       "id": "f4bc73cda7f71bed",
@@ -790,16 +780,6 @@
       "region": "global",
       "publishedAt": "2026-07-16T12:10:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other…"
-    },
-    {
-      "id": "47cfbf5ed8fead59",
-      "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
-      "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
-      "source": "The Guardian World",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-07-16T11:33:27.000Z",
-      "summary": "Country begins 42-day countdown to outbreak being declared officially over, as numbers continue to rise in neighbouring Democratic Republic of the Congo Uganda has started lobbying countries to lift Ebola-related travel restrictions after discharging its last confirmed Ebola patient from hospital. The discharge of a Congolese national from the Mulago national referral hospital’s isolation centre in Kampala on Thursda"
     },
     {
       "id": "57fbc84a69fdca6b",
@@ -880,16 +860,6 @@
       "region": "global",
       "publishedAt": "2026-07-11T01:45:59.000Z",
       "summary": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback."
-    },
-    {
-      "id": "b879bce62e7d4236",
-      "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?",
-      "url": "https://www.bbc.co.uk/news/articles/cjrg9r80908o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-07-11T00:08:51.000Z",
-      "summary": "The BBC's Tom Gerken plays the much-anticipated pirate game which has been remade from the ground up."
     },
     {
       "id": "aa8304f4d62d8241",
