@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-07-23T21:14:18.613Z",
+  "generatedAt": "2026-07-23T23:04:33.113Z",
   "articles": [
+    {
+      "id": "c7ebda9a9a00e319",
+      "title": "Is this Italy’s ‘George Floyd moment’?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/is-this-italys-george-floyd?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-07-23T22:07:52.000Z",
+      "summary": "The death of Moroccan-born Abderrahim Fakir after he was restrained by police in Bologna has sparked protests."
+    },
+    {
+      "id": "e3ecb044c8ec8bb5",
+      "title": "US war on Iran: The $110 billion price tag",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-war-on-iran-the-110-billion-price-tag?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-07-23T22:04:23.000Z",
+      "summary": "America's war on Iran has cost the US nearly $110 billion. Now, the Trump administration wants another $67 billion."
+    },
+    {
+      "id": "3fa4a178571aac0e",
+      "title": "Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf",
+      "url": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-23T21:43:28.000Z",
+      "summary": "The US president's threat comes after another day of Iranian attacks on Bahrain, Kuwait and Jordan."
+    },
+    {
+      "id": "9c7f08568549eac2",
+      "title": "India activist ends hunger strike after 26 days",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-07-23T21:27:04.000Z",
+      "summary": "Sonam Wangchuk, a supporter of youth-led protesters demanding education reforms, says he wants to avert \"possible violence\"."
+    },
+    {
+      "id": "cb82f6bb937d74d3",
+      "title": "New Dolphin X malware uses AI to rank high-value targets",
+      "url": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-07-23T21:20:34.000Z",
+      "summary": "A new Dolphin X remote access trojan claims to use an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first. [...]"
+    },
+    {
+      "id": "ce5612d3145f953a",
+      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+      "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-07-23T21:15:06.000Z",
+      "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to the correct device. In an example shared by Amazon, a person with a supported washing machine "
+    },
+    {
+      "id": "4a7926468c11126c",
+      "title": "France wildfires force evacuation of over 20,000 people from tourist town",
+      "url": "https://www.aljazeera.com/news/2026/7/23/france-wildfires-force-evacuation-of-over-20000-people-from-tourist-town?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "disasters",
+      "region": "europe",
+      "publishedAt": "2026-07-23T21:07:31.000Z",
+      "summary": "About 800 firefighters and hundreds of gendarmes and soldiers deployed to battle the flames west of Bordeaux."
+    },
+    {
+      "id": "6fa34186d8452303",
+      "title": "Videos show the moment police officer shoots man on street in Wisconsin",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/videos-show-the-moment-police-officer-shoots-man-on-street-in-wisconsin?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-07-23T21:04:26.000Z",
+      "summary": "Outrage is growing after videos show a police officer fatally shooting a man in the US state of Wisconsin."
+    },
+    {
+      "id": "567dbe91018229d5",
+      "title": "White House says will not block Tate brothers’ extradition to UK",
+      "url": "https://www.aljazeera.com/news/2026/7/23/white-house-says-will-not-block-tate-brothers-extradition-to-uk?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-07-23T21:02:16.000Z",
+      "summary": "Social media influencers to be extradited after UK authorities file dozens of new sex crime charges against them."
+    },
     {
       "id": "49bbfafa5c4ece64",
       "title": "Defoe leaves Woking after 'eye-opening' first managerial role",
@@ -22,16 +112,6 @@
       "summary": "Manchester Super Giants beat London Spirit by seven runs in The Hundred at Lord's, as Liam Livingstone's big-hitting effort falls just short."
     },
     {
-      "id": "9c7f08568549eac2",
-      "title": "India activist ends hunger strike after 26 days",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-23T20:59:54.000Z",
-      "summary": "Sonam Wangchuk, a supporter of youth-led protesters demanding education reforms, says he wants to avert \"possible violence\"."
-    },
-    {
       "id": "d791b36a4fb15ece",
       "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
       "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
@@ -39,7 +119,17 @@
       "category": "ai_innovation",
       "region": "global",
       "publishedAt": "2026-07-23T20:58:35.000Z",
-      "summary": "A new bill would let the US government order the shutdown AI models that pose a major public threat."
+      "summary": "A new bill would let the US government order the shutdown of AI models that pose a public threat."
+    },
+    {
+      "id": "ed23a6bde07748ad",
+      "title": "Deadly monsoon floods kill at least 40 in India",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/deadly-monsoon-floods-kill-at-least-40-in-india?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-07-23T20:56:00.000Z",
+      "summary": "At least 40 people have died and up to 80 remain missing after heavy monsoon rains triggered severe flooding."
     },
     {
       "id": "d6f7e7a7efb747a5",
@@ -82,16 +172,6 @@
       "summary": "Manchester Super Giants fielders Jos Buttler and Liam Dawson inadvertently teach a vital lesson in communication after a huge fielding mix-up, missing a simple catch that would have removed London Spirit's Kiran Carlson in the men's Hundred."
     },
     {
-      "id": "e472ac825bfb2279",
-      "title": "Indian activist Wangchuk ends 26-day hunger strike over exam paper leaks",
-      "url": "https://www.aljazeera.com/news/2026/7/23/indian-activist-wangchuk-ends-26-day-hunger-strike-over-exam-paper-leaks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-07-23T19:58:34.000Z",
-      "summary": "⁠Sonam ⁠Wangchuk says he ended his fast to demand education minister's resignation 'in view of possible violence'."
-    },
-    {
       "id": "974e62b7c188cd0e",
       "title": "Trump says nearly 200 firms have signed pledge to protect Americans from costs arising from datacenters",
       "url": "https://www.theguardian.com/us-news/2026/jul/23/trump-datacenter-costs-big-tech",
@@ -100,26 +180,6 @@
       "region": "americas",
       "publishedAt": "2026-07-23T19:56:50.000Z",
       "summary": "‘Ratepayer Protection Pledge’ president has touted is non-binding as people continue to struggle with rising bills Donald Trump has announced that about 200 entities have signed on to his non-binding “Ratepayer Protection Pledge”, expanding a voluntary commitment which claims to ensure US consumers will not bear the cost of the AI datacenter build-out. Trump delivered remarks on Thursday at the Environmental Protecti"
-    },
-    {
-      "id": "93cd6eac3995bf59",
-      "title": "Minnesota man who killed Democratic lawmaker sentenced to life in US prison",
-      "url": "https://www.aljazeera.com/news/2026/7/23/minnesota-man-who-killed-democratic-lawmaker-sentenced-to-life-in-us-prison?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-07-23T19:50:30.000Z",
-      "summary": "Judge says that long sentence is merited for slaying of state Democratic lawmaker Melissa Hortman and her husband Mark."
-    },
-    {
-      "id": "f4e0e09c446b4cdd",
-      "title": "Journalist killed in Mexico after years of exposing corruption",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/journalist-killed-in-mexico-after-years-of-exposing-corruption?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-07-23T19:40:27.000Z",
-      "summary": "Mexican journalist Alejandro Leyva Aguilar was shot dead while eating at a street food stall in Oaxaca."
     },
     {
       "id": "cb673ad7aee171c5",
@@ -132,16 +192,6 @@
       "summary": "Some hospitality firms will get a discount from next April but hotels and restaurants won't get a cut."
     },
     {
-      "id": "1522e3a366876778",
-      "title": "Resumption of oil exports: Will Yemen recover its economic lifeline?",
-      "url": "https://www.aljazeera.com/economy/2026/7/23/resumption-of-oil-exports-will-yemen-recover-its-economic-lifeline?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "environment",
-      "region": "middle_east",
-      "publishedAt": "2026-07-23T19:28:24.000Z",
-      "summary": "Yemen has proven oil reserves estimated at three billion barrels, but the security environment hinders its export."
-    },
-    {
       "id": "8b1ce012a2143934",
       "title": "France evacuates 20,000 as wildfires spread in south-west",
       "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
@@ -150,16 +200,6 @@
       "region": "europe",
       "publishedAt": "2026-07-23T19:17:42.000Z",
       "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region."
-    },
-    {
-      "id": "ffaf03d9708dbf33",
-      "title": "Can India’s youth-led protest movement bring lasting change?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/23/can-indias-youth-led-protest-movement-bring-lasting-change?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-23T19:11:37.000Z",
-      "summary": "Protesters refuse to back down until Education Minister Dharmendra Pradhan resigns."
     },
     {
       "id": "c266d79e7b623d84",
@@ -180,56 +220,6 @@
       "region": "europe",
       "publishedAt": "2026-07-23T18:57:04.000Z",
       "summary": "Italy held discussions with Carlo Ancelotti to become their national team manager before opening talks with Pep Guardiola."
-    },
-    {
-      "id": "491b0f420f2af036",
-      "title": "Children wounded in Israeli strike on Khan Younis",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/children-wounded-in-israeli-strike-on-khan-younis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-23T18:55:53.000Z",
-      "summary": "Children were rushed to hospital after an Israeli strike hit a tent sheltering displaced people in Khan Younis."
-    },
-    {
-      "id": "a1ec321a43b5e44f",
-      "title": "World Bank estimates Venezuela earthquakes caused $19.6bn in damage",
-      "url": "https://www.aljazeera.com/news/2026/7/23/world-bank-estimates-venezuela-earthquakes-caused-19-6bn-in-damage?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-07-23T18:41:22.000Z",
-      "summary": "Report says 47 percent of physical damage from pair of earthquakes impacted residential buildings."
-    },
-    {
-      "id": "cf998513ac40145e",
-      "title": "Iraqi PM makes first official visit to Iran in bid to deepen ties",
-      "url": "https://www.aljazeera.com/news/2026/7/23/iraqi-pm-makes-first-official-visit-to-iran-to-deepen-ties?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-23T18:34:41.000Z",
-      "summary": "Ali al-Zaidi holds talks with senior Iranian officials on bilateral cooperation, shared interests and security."
-    },
-    {
-      "id": "a6218b7b83624435",
-      "title": "Bordeaux wildfire burns 3,100 hectares, 20,000 evacuated",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/bordeaux-wildfire-burns-3100-hectares-20000-evacuated?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "disasters",
-      "region": "europe",
-      "publishedAt": "2026-07-23T18:14:16.000Z",
-      "summary": "A wildfire near Bordeaux, France, has burned 3,100 hectares (7,660 acres) of forest"
-    },
-    {
-      "id": "a12e1526dfed2fe4",
-      "title": "UK’s Burnham tells Scotland new independence vote is off limits",
-      "url": "https://www.aljazeera.com/news/2026/7/23/uks-burnham-tells-scotland-new-independence-vote-is-off-limits?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-07-23T18:07:09.000Z",
-      "summary": "Visiting Scotland, Burnham says a new referendum would detract from efforts to grow the economy."
     },
     {
       "id": "04d99453a09a301c",
@@ -352,16 +342,6 @@
       "summary": "Okoth Obado was found guilty of killing Sharon Otieno with whom he had had an affair."
     },
     {
-      "id": "cd9e42baae47ba11",
-      "title": "Microsoft is testing free, ad-supported cloud gaming for Xbox Insiders",
-      "url": "https://www.theverge.com/games/969969/xbox-testing-ad-supported-streaming",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-07-23T16:00:00.000Z",
-      "summary": "Xbox Insiders can stream games from their libraries for free in ad-supported streaming sessions starting today. The free streaming sessions are limited to games you already own, and sessions are capped at one hour. However, ads will only play \"before sessions begin.\" It's also optional - you won't need to watch ads if you have a paid cloud gaming subscription. Microsoft says the ad-supported streaming option will onl"
-    },
-    {
       "id": "286d30f3f95bbcbd",
       "title": "Nicaragua's legislature debates barring opposition from elections",
       "url": "https://www.bbc.co.uk/news/articles/cd694w0l30do?at_medium=RSS&at_campaign=rss",
@@ -380,16 +360,6 @@
       "region": "global",
       "publishedAt": "2026-07-23T15:39:11.000Z",
       "summary": "Ben Rich looks at what is and isn't allowed during a hosepipe ban."
-    },
-    {
-      "id": "56918479f12b9ceb",
-      "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "americas",
-      "publishedAt": "2026-07-23T15:34:43.000Z",
-      "summary": "Microsoft is impacted by a massive outage affecting Teams and Microsoft 365 services, primarily affecting users in North America. [...]"
     },
     {
       "id": "720927c7e3afe370",
@@ -582,14 +552,34 @@
       "summary": "The woman, who had wanted to end her pregnancy at 36 weeks, gave birth to a baby who doctors later killed."
     },
     {
-      "id": "8723ebc3016cbd8b",
-      "title": "The power line that could reshape New York’s grid is hitting snags",
-      "url": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
-      "source": "MIT Tech Review",
-      "category": "ai_innovation",
-      "region": "americas",
-      "publishedAt": "2026-07-23T09:00:00.000Z",
-      "summary": "On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens called the Champlain Hudson Power Express (CHPE).…"
+      "id": "ff9913b80f5467e8",
+      "title": "The music in Nolan’s Odyssey is as well-crafted – and bloodlessly forgettable – as the film itself",
+      "url": "https://www.theguardian.com/film/2026/jul/23/the-odysssey-music-ludwig-goransson-christopher-nolan",
+      "source": "The Guardian Culture",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-07-23T09:01:12.000Z",
+      "summary": "Ludwig Göransson’s meticulous score uses instruments of the era to create an earthy, raw and bleak soundscape, but it merely supports the portrayal of an uncomplicated hero A few weeks ago I came across a video of Professor Armand D’Angour, associate professor of classics at Oxford university. He explained how, through groundbreaking research involving fragments of melody and rhythms found on papyrus and stone and th"
+    },
+    {
+      "id": "7cf498fb3b6a5fca",
+      "title": "The end of Heartstopper is a bittersweet loss – it’s never felt scarier to be young and queer | Alim Kheraj",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/23/heartstopper-netflix-end",
+      "source": "The Guardian Culture",
+      "category": "creativity_arts",
+      "region": "europe",
+      "publishedAt": "2026-07-23T09:00:41.000Z",
+      "summary": "The gay Netflix romance maintained a political edge despite rollbacks to queer and trans rights After six books, three seasons of television and a film-length finale, Heartstopper has come to an end. Often dubbed the most wholesome show on TV, Netflix’s adaptation of Alice Oseman’s young adult LGBTQ+ graphic novel series, which itself began life as a web comic, is a legitimate cultural phenomenon, turning its two lea"
+    },
+    {
+      "id": "12bfd88d8bc48f65",
+      "title": "NT minister claims Earth’s magnetic poles could flip if territory doesn’t use more groundwater",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/23/australia-politician-claims-northern-territory-water-could-flip-earths-magnetic-poles",
+      "source": "The Guardian Environment",
+      "category": "economy_business",
+      "region": "asia_pacific",
+      "publishedAt": "2026-07-23T07:10:18.000Z",
+      "summary": "Business minister Robyn Cahill wants to make NT ‘datacentre capital of the globe’, but Environment Centre says scientific claim is ‘completely cooked’ Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A Northern Territory minister has been criticised for scientifically inaccurate claims that groundwater in the Northern Territory needs to be used to prev"
     },
     {
       "id": "3cf46e06c11bc695",
