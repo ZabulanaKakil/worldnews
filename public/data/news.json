@@ -1,16 +1,6 @@
 {
-  "generatedAt": "2026-07-24T16:48:33.968Z",
+  "generatedAt": "2026-07-24T18:23:59.141Z",
   "articles": [
-    {
-      "id": "e858c4ee6efbfd2f",
-      "title": "Hamilton leads Ferrari one-two in Hungary practice",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c3v0wp9yvdgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-24T16:44:55.000Z",
-      "summary": "Lewis Hamilton leads team-mate Charles Leclerc to a Ferrari one-two in Friday practice at the Hungarian Grand Prix."
-    },
     {
       "id": "086c644523429d5d",
       "title": "Four Palestinians and two Israelis killed in West Bank shooting",
@@ -18,8 +8,168 @@
       "source": "BBC World",
       "category": "war_conflict",
       "region": "middle_east",
-      "publishedAt": "2026-07-24T16:37:17.000Z",
+      "publishedAt": "2026-07-24T18:19:23.000Z",
       "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers."
+    },
+    {
+      "id": "5eda91efd32a757e",
+      "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
+      "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-24T18:13:02.000Z",
+      "summary": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages."
+    },
+    {
+      "id": "d06b77fd899fbbbf",
+      "title": "Nothing confirms layoffs, but calls market exit rumors &#8216;fake news&#8217;",
+      "url": "https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b",
+      "source": "The Verge",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-07-24T18:10:22.000Z",
+      "summary": "raw | Photo: Dominic Preston / The Verge In response to a report that Nothing is planning to \"exit 12 markets as global shipments decline,\" Nothing cofounder Akis Evangelidis said the company is \"reorganizing\" and laying off some of its staff, but that \"the reported numbers are way overblown.\" Evangelidis disputed a claim about underwhelming sales for Nothing's Phone 4B, saying it \"sold 29,537 units on Day 1 only, br"
+    },
+    {
+      "id": "58fc140f69f62e94",
+      "title": "Huge crater after back-to-back Israeli strikes on Gaza refugee camp",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/huge-crater-after-back-to-back-israeli-strikes-on-gaza-refugee-camp?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-24T18:01:18.000Z",
+      "summary": "Huge crater after back-to-back Israeli strikes on Gaza refugee camp."
+    },
+    {
+      "id": "30d86bdcfed1d729",
+      "title": "Israel raids hospital, shuts off Nablus following deadly settler attack",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israel-raids-hospital-shuts-off-nablus-following-deadly-settler-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-24T17:59:43.000Z",
+      "summary": "Israel has arrested wounded Palestinians in a hospital as it shuts off Nablus following Friday’s deadly settler attack"
+    },
+    {
+      "id": "02059c74d04a6043",
+      "title": "Thousands of lightning strikes trigger fresh wildfires in western Canada",
+      "url": "https://www.theguardian.com/world/2026/jul/24/thousands-of-lightning-strikes-trigger-fresh-wildfires-in-western-canada",
+      "source": "The Guardian World",
+      "category": "disasters",
+      "region": "americas",
+      "publishedAt": "2026-07-24T17:58:00.000Z",
+      "summary": "At least 90 active blazes in British Columbia in what PM says is one of the country’s most intense seasons on record How dangerous are wildfires and how can we stop them from getting worse? Fresh wildfires have broken out in western Canada and forests continued to ⁠burn in Ontario as the country ⁠battled what the prime ​minister, Mark Carney, called one of the most intense wildfire seasons on record. Nearly 34,000 li"
+    },
+    {
+      "id": "9cde894942de1c7d",
+      "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-07-24T17:50:37.000Z",
+      "summary": "Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]"
+    },
+    {
+      "id": "ccd89591cb718590",
+      "title": "More than 90,000 people flee as wildfires spread in south-west France and Spain",
+      "url": "https://www.theguardian.com/world/2026/jul/24/france-evacuation-cap-ferret-peninsula-wildfire",
+      "source": "The Guardian Environment",
+      "category": "disasters",
+      "region": "europe",
+      "publishedAt": "2026-07-24T17:48:53.000Z",
+      "summary": "‘Unpredictable’ blaze forces evacuation of holiday spot Cap Ferret and Spain declares emergency over fires near Madrid More than 90,000 people have fled huge wildfires in Spain and France as Madrid declared a national emergency and French authorities ordered the total evacuation, by land and sea, of one of the country’s best-known holiday spots. Authorities in south-west France ordered the Cap Ferret peninsula on the"
+    },
+    {
+      "id": "404722eda25817b3",
+      "title": "You can’t ignore Google Zero anymore",
+      "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-07-24T17:29:48.000Z",
+      "summary": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems to be dead. And the web is being forced to reckon with what happens when the Google traffic dries up. On this episode of The Vergecast, David"
+    },
+    {
+      "id": "253bf4c27a5f598d",
+      "title": "Sciver-Brunt feels 'mum guilt' as coaching career begins",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/ce8kmgzm3g2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-24T17:04:33.000Z",
+      "summary": "Former fast bowler Katherine Sciver-Brunt and wife of England captain Nat discusses the difficulties of balancing her coaching ambitions with being a mum."
+    },
+    {
+      "id": "58244851fd7e5868",
+      "title": "Meta is making its AI chatbot more like an assistant",
+      "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-07-24T17:00:00.000Z",
+      "summary": "Meta says its AI chatbot is going beyond just answering questions and generating images. | Image: Meta Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as it progresses. In "
+    },
+    {
+      "id": "5bf3bfab81d0874e",
+      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "source": "The Verge",
+      "category": "diplomacy",
+      "region": "global",
+      "publishedAt": "2026-07-24T17:00:00.000Z",
+      "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much better at complex coding tasks. (Fable 5 is the public-facing Mythos-class model th"
+    },
+    {
+      "id": "6b69b798e229488c",
+      "title": "PlayStation Network down, leaving thousands of gamers unable to play",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "region": "americas",
+      "publishedAt": "2026-07-24T16:59:25.000Z",
+      "summary": "Sony's status page read that it was \"working to resolve the issue as soon as possible\"."
+    },
+    {
+      "id": "b5e614d2968cddc4",
+      "title": "Romanian jet fighter shoots down suspected Russian drone",
+      "url": "https://www.aljazeera.com/news/2026/7/24/romanian-jet-fighter-shoots-down-suspected-russian-drone?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-07-24T16:53:55.000Z",
+      "summary": "The incident adds to concern that Moscow’s war on Ukraine risks spilling over to entangle neighbouring NATO states."
+    },
+    {
+      "id": "81dccff586c5596b",
+      "title": "EC Masud: Presidential Election Schedule to be Announced Soon",
+      "url": "https://www.bd24live.com/ec-masud-presidential-election-schedule-to-be-announced-soon/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-07-24T16:50:12.000Z",
+      "summary": "Following the resignation of President Md. Shahabuddin, an election for the vacant presidential post will be held within 90 days, as per the constitution. To this end, the Election Commission… The post EC Masud: Presidential Election Schedule to be Announced Soon appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "eddb5cd8d81acbdc",
+      "title": "'Buck Moon' set to light up sky",
+      "url": "https://www.bbc.co.uk/news/videos/cqjxdzvk1deo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-07-24T16:48:48.000Z",
+      "summary": "July's full Moon is set to be a special one - Sophia Herod explains why."
+    },
+    {
+      "id": "cbebd01034bb0e3e",
+      "title": "‘Extremely disappointing’: US trade partners respond to Trump’s new tariffs",
+      "url": "https://www.aljazeera.com/news/2026/7/24/extremely-disappointing-us-trade-partners-respond-to-trumps-new-tariffs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-07-24T16:30:20.000Z",
+      "summary": "Countries question Trump administration's latest round of tariffs, which relate to forced labour claims."
     },
     {
       "id": "dbef61924151ae36",
@@ -42,16 +192,6 @@
       "summary": "Rain is returning for some of us this weekend – but is it enough for places that have seen little or now rain for weeks?"
     },
     {
-      "id": "688a82ec8176127d",
-      "title": "Yemen’s valleys and farms are full of dangerous plastic waste",
-      "url": "https://www.aljazeera.com/features/2026/7/24/yemens-valleys-and-farms-are-full-of-dangerous-plastic-waste?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-24T16:10:27.000Z",
-      "summary": "Yemen's eastern Wadi Dawan valley is picturesque, but on closer inspection the scourge of plastic waste is clear to see."
-    },
-    {
       "id": "1a2cf9849ef8ed67",
       "title": "World chess chief faces endgame after EU announces Russia war sanctions",
       "url": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
@@ -69,17 +209,7 @@
       "category": "sports",
       "region": "global",
       "publishedAt": "2026-07-24T16:07:33.000Z",
-      "summary": "Former Lakers basketball star LeBron James will be joining the Philadelphia 76ers."
-    },
-    {
-      "id": "468d01dcdda474e5",
-      "title": "LeBron James is heading to the Philadelphia 76ers from Los Angeles Lakers",
-      "url": "https://www.aljazeera.com/sports/2026/7/24/lebron-james-is-heading-to-the-philadelphia-76ers-saying-it-will-be-his-last-decision?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-07-24T16:07:17.000Z",
-      "summary": "James's move comes after saying he was 'done' after his 23rd NBA season and it was his last with Los Angeles Lakers."
+      "summary": "Basketball superstar LeBron James announces he will join the Philadelphia 76ers for what he says will be his final contract in the NBA."
     },
     {
       "id": "a5f44a2033443a38",
@@ -102,16 +232,6 @@
       "summary": "Four Palestinians and two Israelis killed after about 20 settlers raid the village of Tal in occupied West Bank."
     },
     {
-      "id": "e652824ffd3cbb1c",
-      "title": "Netanyahu to meet Trump at White House next week amid Iran war escalation",
-      "url": "https://www.aljazeera.com/news/2026/7/24/netanyahu-to-meet-trump-at-white-house-next-week-amid-iran-war-escalation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-24T16:01:18.000Z",
-      "summary": "Visit will be Netanyahu's seventh to White House, underscoring US commitment during war with Iran, genocide in Gaza."
-    },
-    {
       "id": "52b34865daaf2b91",
       "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
@@ -120,16 +240,6 @@
       "region": "global",
       "publishedAt": "2026-07-24T15:41:44.000Z",
       "summary": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services. [...]"
-    },
-    {
-      "id": "c6c082ecf3256803",
-      "title": "More than 80,000 people flee as wildfires spread in south-west France and Spain",
-      "url": "https://www.theguardian.com/world/2026/jul/24/france-evacuation-cap-ferret-peninsula-wildfire",
-      "source": "The Guardian Environment",
-      "category": "disasters",
-      "region": "europe",
-      "publishedAt": "2026-07-24T15:33:03.000Z",
-      "summary": "‘Unpredictable’ blaze forces evacuation of holiday spot Cap Ferret and Spain declares emergency over fires near Madrid More than 80,000 people have fled huge wildfires in Spain and France as Madrid declared a national emergency and French authorities ordered the total evacuation, by land and sea, of one of the country’s best-known holiday spots. Authorities in south-west France ordered the Cap Ferret peninsula on the"
     },
     {
       "id": "11504d08eda3103c",
@@ -162,16 +272,6 @@
       "summary": "The government is under intense pressure to tackle a slew of armed groups, many of whom attack civilians."
     },
     {
-      "id": "5eda91efd32a757e",
-      "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-      "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-24T15:22:40.000Z",
-      "summary": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages."
-    },
-    {
       "id": "cacde8fb76d8739a",
       "title": "Senegal appeal date set after Afcon win overturned",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce9788dmyndo?at_medium=RSS&at_campaign=rss",
@@ -190,6 +290,16 @@
       "region": "europe",
       "publishedAt": "2026-07-24T15:09:33.000Z",
       "summary": "French evacuees using hundreds of mobilised boats or the only road linking the area with the mainland as evacuation also ordered in areas near Spanish capital Over in France, it’s not just the south-west that gets affected, but the country’s south-east regions are also being hard hit, AFP noted. Dozens of fires flared up and are being fanned by the mistral wind around the historic village of Cotignac – officials sayi"
+    },
+    {
+      "id": "68debbcfd01e1fbc",
+      "title": "Boox is taking on Xteink with its own tiny e-reader",
+      "url": "https://www.theverge.com/tech/970618/onyx-boox-picco-ereader-xteink",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-07-24T15:00:03.000Z",
+      "summary": "Boox's new Tile lineup will take on Xteink's popular e-readers that are small enough to stick on the back of an iPhone with MagSafe. As spotted by Good E-Reader, the first one is the Picco, which will feature a 3.97-inch front-lit, black-and-white e-paper display and expandable storage with an SD card slot. Boox confirmed to The Verge that the Picco is in the works, noting that it's part of a new Tile lineup and will"
     },
     {
       "id": "91a57d9978eea4f8",
@@ -252,14 +362,14 @@
       "summary": "While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal."
     },
     {
-      "id": "4a2588aa47c32ba9",
-      "title": "Canadian government urged to block data-sharing deal between Thomson Reuters and US ICE",
+      "id": "b24ec94a4eb94699",
+      "title": "Canadian government urged to block Thomson Reuters data deal with US ICE",
       "url": "https://www.theguardian.com/world/2026/jul/24/canada-government-mark-carney-block-data-sharing-deal-thomson-reuters-us-ice-avi-lewis",
       "source": "The Guardian World",
       "category": "creativity_arts",
       "region": "americas",
       "publishedAt": "2026-07-24T13:53:34.000Z",
-      "summary": "ICE will pay Canadian media giant US$125m to use its investigative database to identify ‘immigration fraud’ A Canadian federal opposition party leader has called on Mark Carney’s government to block the latest data-sharing deal between US Immigration and Customs Enforcement (ICE) and the Canadian media company Thomson Reuters. Avi Lewis, the federal leader of the New Democratic party (NDP), demanded on Tuesday that O"
+      "summary": "US agency is to pay Canadian media company US$125m for use of investigative database to detect ‘immigration fraud’ A Canadian federal opposition party leader has called on Mark Carney’s government to block the latest data-sharing deal between US Immigration and Customs Enforcement (ICE) and the Canadian media company Thomson Reuters. Avi Lewis, the federal leader of the New Democratic party (NDP), demanded on Tuesday"
     },
     {
       "id": "15889a5a1c3dc804",
@@ -280,36 +390,6 @@
       "region": "global",
       "publishedAt": "2026-07-24T13:33:02.000Z",
       "summary": "Hannah and Max continued to pool finances after Max was made redundant but took \"drastic measures\" to cut spending."
-    },
-    {
-      "id": "b043bb1756a8e858",
-      "title": "Indian student protests: What’s next after Modi’s promise on exam leaks?",
-      "url": "https://www.aljazeera.com/news/2026/7/24/indian-student-protests-whats-next-after-modis-promise-on-exam-leaks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-24T13:19:29.000Z",
-      "summary": "Leaders of the Cockroach Janta Party (CJP) insist on the removal of Education Minister Dharmendra Pradhan."
-    },
-    {
-      "id": "f380b6190faa51b5",
-      "title": "Five killed in occupied West Bank after Israeli settlers attack",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/five-killed-in-occupied-west-bank-after-israeli-settlers-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-07-24T13:19:17.000Z",
-      "summary": "Four Palestinians and one Israeli were killed in a shooting in the occupied West Bank village of Tal"
-    },
-    {
-      "id": "d2cf5b6ab1d16715",
-      "title": "Europol flags 4,340 URLs for removal in 'The Com' crackdown",
-      "url": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-07-24T12:56:53.000Z",
-      "summary": "Europol has flagged 4,340 URLs for removal during a multi-week operation targeting online content linked to \"The Com,\" a loosely organized network of nihilistic violent extremist groups. [...]"
     },
     {
       "id": "c5b5ec32e0648778",
@@ -462,26 +542,6 @@
       "summary": "Fires remain out of control in Northwest Territories and Ontario, while Argentina endures record night-time heat Recent hot, dry weather in Canada has triggered hundreds of wildfires across the country. As of Wednesday, more than 900 were burning, scorching about 3m hectares of land. While fires have broken out in several provinces, the greatest concern is in the Northwest Territories and Ontario, where several remai"
     },
     {
-      "id": "7e6d3efc7dcae153",
-      "title": "The two days which could make or break Fury-Joshua",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/c2k758w1xdzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-24T05:56:01.000Z",
-      "summary": "BBC Sport looks at how a proposed bout between Tyson Fury and Anthony Joshua hinges on a 24-hour-period between Friday and Saturday."
-    },
-    {
-      "id": "6c427743b3facf39",
-      "title": "Replacing gas stove can help asthmatics as much as some drugs, US experts find",
-      "url": "https://www.theguardian.com/environment/2026/jul/24/replacing-gas-stove-can-help-asthmatics-as-much-as-some-drugs-us-experts-find",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-07-24T05:00:04.000Z",
-      "summary": "Team in Ohio finds swapping to electric has ‘very large’ impact, despite study being scaled back by Trump cuts A US study has found a 70% drop in hospital admissions and days off from work or school when people with poorly controlled asthma had their gas stove and hob replaced with electric. Ohio’s publicly owned MetroHealth began the study in December 2024 but funding was terminated early by the incoming Trump admin"
-    },
-    {
       "id": "c1fcc4d0f3c6e99a",
       "title": "Fuel Oil Prices Surge Past $100",
       "url": "https://www.bd24live.com/fuel-oil-prices-surge-past-100/",
@@ -510,16 +570,6 @@
       "region": "europe",
       "publishedAt": "2026-07-23T23:10:09.000Z",
       "summary": "It is the first major enforcement action against the tech giant under the EU's new digital rules."
-    },
-    {
-      "id": "ce5612d3145f953a",
-      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-      "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-      "source": "The Verge",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-07-23T21:15:06.000Z",
-      "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to the correct device. In an example shared by Amazon, a person with a supported washing machine "
     },
     {
       "id": "85250ef33acd28af",
@@ -560,16 +610,6 @@
       "region": "middle_east",
       "publishedAt": "2026-07-23T17:58:02.000Z",
       "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords."
-    },
-    {
-      "id": "55dc8fa463ef2d79",
-      "title": "Mayor shot dead in Mexico months after surviving assassination attempt",
-      "url": "https://www.theguardian.com/world/2026/jul/23/mayor-shot-dead-mexico-after-surviving-assassination",
-      "source": "The Guardian World",
-      "category": "creativity_arts",
-      "region": "americas",
-      "publishedAt": "2026-07-23T16:32:53.000Z",
-      "summary": "Valentín Lavín Romero is the 14th mayor to be murdered since Claudia Sheinbaum became president in 2024 A mayor was shot dead on Wednesday in the Mexican state of Morelos after having survived a previous assassination attempt earlier this year. He is the 14th mayor to be murdered since Claudia Sheinbaum became president in October 2024. Valentín Lavín Romero, who was from the Green party, an ally of the ruling leftwi"
     },
     {
       "id": "b79b3b956761b096",
@@ -722,16 +762,6 @@
       "summary": "Bollywood veteran actor Naseeruddin Shah has erupted in anger over the indiscriminate lathi-charge on young students protesting on the streets of Delhi. Strongly condemning the violent role of the Delhi… The post Naseeruddin Shah Calls Delhi Police ‘Goons’ appeared first on Bangla Online News Portal."
     },
     {
-      "id": "2fb7705ce824a2b4",
-      "title": "Even camels can't cope: Africa's ships of the desert hit by rising temperatures",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxvvw06pqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "africa",
-      "publishedAt": "2026-07-22T23:22:53.000Z",
-      "summary": "Herders and experts tell the BBC how Africa's camels are suffering because of extreme heat."
-    },
-    {
       "id": "7e117c164cf0b0a0",
       "title": "Teenager drops social media addiction lawsuit against Meta",
       "url": "https://www.bbc.co.uk/news/articles/c5yrdg4q9vgo?at_medium=RSS&at_campaign=rss",
@@ -772,16 +802,6 @@
       "summary": "The Argentine Football Association (AFA) has adopted a stringent position against the spread of misleading information and defamation targeting the Argentina national team and its footballers on social media and… The post Argentina Takes Strict Stance, Legal Action Against Misinformation Targeting Messi and Team appeared first on Bangla Online News Portal."
     },
     {
-      "id": "9b6cb187b2bbe055",
-      "title": "Prime Minister Forms Committee to Resolve Textile Sector Issues",
-      "url": "https://www.bd24live.com/prime-minister-forms-committee-to-resolve-textile-sector-issues/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-07-22T15:35:14.000Z",
-      "summary": "Prime Minister Tareque Rahman has formed a committee comprising the Finance Advisor and the Commerce Minister to resolve the issues of the textile sector. Bangladesh Textile Mills Association (BTMA) President… The post Prime Minister Forms Committee to Resolve Textile Sector Issues appeared first on Bangla Online News Portal."
-    },
-    {
       "id": "944c735e686621a0",
       "title": "British woman jailed in Hong Kong for blackmail after accusing banker of rape",
       "url": "https://www.theguardian.com/world/2026/jul/22/british-woman-jailed-hong-kong-false-allegations",
@@ -800,16 +820,6 @@
       "region": "global",
       "publishedAt": "2026-07-22T11:40:11.000Z",
       "summary": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement."
-    },
-    {
-      "id": "a6eed70497bc8d83",
-      "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
-      "url": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
-      "source": "MIT Tech Review",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-07-22T09:00:00.000Z",
-      "summary": "When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a star during photography. It will allow astronomers…"
     },
     {
       "id": "c9e81a41da89cf7e",
@@ -840,16 +850,6 @@
       "region": "global",
       "publishedAt": "2026-07-21T09:15:55.000Z",
       "summary": "Kanishka Narayan will attend cabinet - but no longer have the leadership of a technology secretary."
-    },
-    {
-      "id": "051c7ef8552803a9",
-      "title": "Thousands of websites taken down for illegal World Cup streams",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "region": "americas",
-      "publishedAt": "2026-07-20T20:08:56.000Z",
-      "summary": "More than 1,000 illegal streaming sites were shut down in the US during the tournament, with a similar amount blocked in Colombia."
     },
     {
       "id": "8f117baf99c5869e",
