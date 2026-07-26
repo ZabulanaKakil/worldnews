@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-07-26T09:21:44.099Z",
+  "generatedAt": "2026-07-26T13:45:27.313Z",
   "articles": [
+    {
+      "id": "c5dfd266aeecccd8",
+      "title": "Gatwick Airport left without running water after major outage",
+      "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-07-26T13:44:01.000Z",
+      "summary": "Bottled water is being handed out to passengers and staff while the issue is investigated."
+    },
     {
       "id": "dfdb99a64eb28d1b",
       "title": "What we know so far about the Berlin Pride ramming attack",
@@ -8,18 +18,188 @@
       "source": "BBC World",
       "category": "world_politics",
       "region": "europe",
-      "publishedAt": "2026-07-26T09:18:33.000Z",
-      "summary": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night."
+      "publishedAt": "2026-07-26T13:40:29.000Z",
+      "summary": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night."
     },
     {
-      "id": "f2e3403e9b20e2be",
-      "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
+      "id": "7a063aad7e0be424",
+      "title": "England suffer heavy netball defeat by Australia",
+      "url": "https://www.bbc.co.uk/sport/netball/articles/cdrvg3ypx5yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "asia_pacific",
+      "publishedAt": "2026-07-26T13:02:04.000Z",
+      "summary": "England captain Fran Williams says her team were \"far from our best\" in a 66-47 defeat by defending Commonwealth champions Australia."
+    },
+    {
+      "id": "483ac9d9cb21ce78",
+      "title": "Firefighters in France battle to prevent huge blaze from approaching Bordeaux",
+      "url": "https://www.theguardian.com/world/2026/jul/26/firefighters-in-france-battle-to-prevent-huge-blaze-from-approaching-bordeaux",
+      "source": "The Guardian Environment",
+      "category": "disasters",
+      "region": "europe",
+      "publishedAt": "2026-07-26T12:56:30.000Z",
+      "summary": "Efforts to contain wildfire that has consumed an area of four times the size of Paris impeded by windy conditions Europe wildfires live – latest updates Authorities are battling to contain a huge wildfire near Bordeaux in south-west France that has consumed an area of land four times the size of Paris. Efforts to extinguish the blaze in the Gironde region, where nearly 220,000 people have been evacuated, were hampere"
+    },
+    {
+      "id": "dfb267a28aec4d1f",
+      "title": "Israeli crackdown in occupied West Bank intensifies, settlers cause mayhem",
+      "url": "https://www.aljazeera.com/news/2026/7/26/israeli-crackdown-in-occupied-west-bank-intensifies-settlers-cause-mayhem?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "middle_east",
+      "publishedAt": "2026-07-26T12:52:29.000Z",
+      "summary": "The surge in violence comes after four Palestinians and two soldiers were killed in a gunfight on Friday."
+    },
+    {
+      "id": "80059d292ff49825",
+      "title": "Eighteen people missing in South China Sea after Vietnamese ship sank",
+      "url": "https://www.aljazeera.com/news/2026/7/26/eighteen-people-missing-in-south-china-sea-after-vietnamese-ship-sank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-07-26T12:50:26.000Z",
+      "summary": "There were 62 people aboard the vessel when it sank, all of them Vietnamese nationals."
+    },
+    {
+      "id": "d897af8d5d6e441e",
+      "title": "President Ahmed al-Sharaa: Syria seeking security deal with Israel",
+      "url": "https://www.aljazeera.com/news/2026/7/26/president-ahmed-al-sharaa-syria-seeking-security-deal-with-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-26T12:34:13.000Z",
+      "summary": "Syrian President al-Sharaa tells Al Jazeera Damascus seeks a security deal with Israel, and warns of chaos in Lebanon."
+    },
+    {
+      "id": "82de4c2fbfa4dec7",
+      "title": "What is the AI Kill Switch Act proposed in the US and how will it work?",
+      "url": "https://www.aljazeera.com/news/2026/7/26/what-is-the-ai-kill-switch-act-proposed-in-the-us-and-how-will-it-work?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-07-26T12:30:28.000Z",
+      "summary": "US lawmakers introduce a bill aimed at giving the government power to order companies to shut down 'rogue' AI systems."
+    },
+    {
+      "id": "78f165489e798177",
+      "title": "Casemiro makes Inter Miami debut despite MLS investigation into transfer",
+      "url": "https://www.aljazeera.com/sports/2026/7/26/casemiro-makes-inter-miami-debut-despite-mls-investigation-into-transfer?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-07-26T12:20:19.000Z",
+      "summary": "Casemiro plays, Messi sits out during his post-World Cup rest, and Suarez scores to give Miami a sixth straight MLS win."
+    },
+    {
+      "id": "01f3eebcea46a72b",
+      "title": "Iran’s army issues warning ahead of Netanyahu’s US visit",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/irans-army-issues-warning-ahead-of-netanyahus-us-visit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-26T11:56:50.000Z",
+      "summary": "Iran says it has stopped retaliatory operations in the Gulf, but warns the war could expand if US strikes continue."
+    },
+    {
+      "id": "bfc8af711e78ce08",
+      "title": "Highlights - Joshua beats Prenga after early scare",
+      "url": "https://www.bbc.co.uk/sport/boxing/videos/cvgvp7n45e5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "middle_east",
+      "publishedAt": "2026-07-26T11:33:43.000Z",
+      "summary": "In his comeback fight, Anthony Joshua suffered two early knockdowns but recovered to dramatically stop Kristian Prenga in the second round in Saudi Arabia."
+    },
+    {
+      "id": "42d0a6fcf378aca1",
+      "title": "‘No accountability for settler war crimes against Palestinians’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/no-accountability-for-settler-war-crimes-against?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-07-26T11:31:17.000Z",
+      "summary": "‘No accountability for settler war crimes against Palestinians’"
+    },
+    {
+      "id": "a66031a0bd91d7dd",
+      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
       "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "disasters",
       "region": "europe",
-      "publishedAt": "2026-07-26T09:16:46.000Z",
-      "summary": "More than 340,000 people have now been evacuated from wildfires in France and Spain."
+      "publishedAt": "2026-07-26T11:29:07.000Z",
+      "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain."
+    },
+    {
+      "id": "05aaacccfa7ab97c",
+      "title": "Female football referee suffers concussion amid male players’ melee",
+      "url": "https://www.aljazeera.com/news/2026/7/26/female-football-referee-suffers-concussion-amid-male-players-melee?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-07-26T11:00:32.000Z",
+      "summary": "Referee Mathilde Demoncay was knocked down as the players fought during a friendly club match in France."
+    },
+    {
+      "id": "e529f36fe56056a1",
+      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "economy_business",
+      "region": "middle_east",
+      "publishedAt": "2026-07-26T10:26:05.000Z",
+      "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead."
+    },
+    {
+      "id": "32dee7af0dff9ce2",
+      "title": "Kuwait Denies Claims of Participating in US Aggression in Iran",
+      "url": "https://www.bd24live.com/kuwait-denies-claims-of-participating-in-us-aggression-in-iran/",
+      "source": "BD24Live",
+      "category": "creativity_arts",
+      "region": "bangladesh",
+      "publishedAt": "2026-07-26T10:15:19.000Z",
+      "summary": "Kuwait has strongly rejected claims that it participated in the US aggression carried out in Iran. Kuwait’s Ambassador to the United States, Sheikha Al-Zain Al-Sabah, stated that such claims are… The post Kuwait Denies Claims of Participating in US Aggression in Iran appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "59366792583f3157",
+      "title": "Bad News After Brace: Neymar Banned",
+      "url": "https://www.bd24live.com/bad-news-after-brace-neymar-banned/",
+      "source": "BD24Live",
+      "category": "sports",
+      "region": "bangladesh",
+      "publishedAt": "2026-07-26T10:15:12.000Z",
+      "summary": "Leaving behind his World Cup disappointment, Neymar returned to the field with an outstanding performance. In his comeback match for Santos, he scored a brace. However, immediately after that match,… The post Bad News After Brace: Neymar Banned appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "6e6982440cd8c8e6",
+      "title": "Tisha Expresses Desire to Star Opposite Emraan Hashmi",
+      "url": "https://www.bd24live.com/tisha-expresses-desire-to-star-opposite-emraan-hashmi/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-07-26T09:55:08.000Z",
+      "summary": "Bangladeshi small-screen popular actress Tasnuva Tisha has expressed her desire to work with Bollywood actor Emraan Hashmi. She is a fan of the acting and romantic screen presence of the… The post Tisha Expresses Desire to Star Opposite Emraan Hashmi appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "3a122ec52820d850",
+      "title": "Britain will be a legitimate target for Iran if it assists the US, IRGC warns",
+      "url": "https://www.bd24live.com/britain-will-be-a-legitimate-target-for-iran-if-it-assists-the-us-irgc-warns/",
+      "source": "BD24Live",
+      "category": "war_conflict",
+      "region": "bangladesh",
+      "publishedAt": "2026-07-26T09:50:09.000Z",
+      "summary": "The Islamic Revolutionary Guard Corps (IRGC) of Iran has warned that any country, including the United Kingdom, that assists the United States in a military operation against Iran will be… The post Britain will be a legitimate target for Iran if it assists the US, IRGC warns appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "edc066bfa7489bfa",
+      "title": "India is now the world’s trusted defense partner: Narendra Modi",
+      "url": "https://www.bd24live.com/india-is-now-the-worlds-trusted-defense-partner-narendra-modi/",
+      "source": "BD24Live",
+      "category": "creativity_arts",
+      "region": "bangladesh",
+      "publishedAt": "2026-07-26T09:40:07.000Z",
+      "summary": "Indian Prime Minister Narendra Modi has commented that India is emerging as the world’s trusted defense partner. He also stated that India is strengthening its own defense system. Modi made… The post India is now the world’s trusted defense partner: Narendra Modi appeared first on Bangla Online News Portal."
     },
     {
       "id": "310d7b58ea3f15ae",
@@ -32,76 +212,6 @@
       "summary": "Md. Sahabuddin left Bangabhaban, the official presidential residence, two days after resigning from his post. On Sunday (July 26) at 2:25 PM, he departed from Bangabhaban for his private residence,… The post Md. Sahabuddin Vacates Bangabhaban Two Days After Resignation appeared first on Bangla Online News Portal."
     },
     {
-      "id": "198ad24f1c88ba83",
-      "title": "The Cockroach Effect: Modi vs India’s Gen Z",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/7/26/the-cockroach-effect-modi-vs-indias-gen-z?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-26T09:08:52.000Z",
-      "summary": "Protests by India's Cockroach Janta Party suggest the young generation is becoming harder to intimidate and to silence."
-    },
-    {
-      "id": "0346d0f51034a7d5",
-      "title": "Thousands rally against Tunisia’s president five years after power grab",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/thousands-rally-against-tunisias-president-five-years-after-power-grab?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-07-26T08:55:46.000Z",
-      "summary": "Thousands marched in Tunisia’s capital to demand the resignation of President Kais Saied."
-    },
-    {
-      "id": "2de9e902c8054728",
-      "title": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
-      "url": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-26T08:55:10.000Z",
-      "summary": "Gaza journalists injured or battling illness during the war are demanding urgent medical evacuation abroad."
-    },
-    {
-      "id": "0c773ed5c975a2f1",
-      "title": "Israel debate boils over in the United States",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/7/26/israel-debate-boils-over-in-the-united-states?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-07-26T08:53:39.000Z",
-      "summary": "How far have US politics - and media - really shifted on the topic of Israel?"
-    },
-    {
-      "id": "1515e0e71361a099",
-      "title": "Israel raids West Bank live: Dozens of Palestinians detained during assault",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/26/israel-raids-west-bank-live-dozens-of-palestinians-detained-during-assault?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-26T07:55:30.000Z",
-      "summary": "Incursions and arrests ongoing as terrified Palestinian residents brace for military and settler attacks."
-    },
-    {
-      "id": "2d194625b1dba40d",
-      "title": "Tour de France final stage shortened as emergency teams tackle wildfires",
-      "url": "https://www.aljazeera.com/sports/2026/7/26/tour-de-france-final-stage-shortened-as-emergency-teams-tackle-wildfires?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "disasters",
-      "region": "europe",
-      "publishedAt": "2026-07-26T07:55:22.000Z",
-      "summary": "Sunday’s traditional stage in Paris has been shortened to reduce pressure on emergency services tackling wildfires."
-    },
-    {
-      "id": "0f75616f07b21419",
-      "title": "Spence Jr to retire after losing comeback fight",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/cz05133k3nxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-26T07:41:20.000Z",
-      "summary": "Former welterweight world champion Errol Spence Jr will retire from boxing after losing his comeback fight to Tim Tszyu in Sydney."
-    },
-    {
       "id": "88598085e45e89c4",
       "title": "After chaotic return, where does Joshua win leave Fury fight?",
       "url": "https://www.bbc.co.uk/sport/boxing/articles/cgr7gyv8zq0o?at_medium=RSS&at_campaign=rss",
@@ -110,26 +220,6 @@
       "region": "global",
       "publishedAt": "2026-07-26T07:33:35.000Z",
       "summary": "Where does Anthony Joshua's chaotic comeback win over Kristian Prenga leave the super-fight with Tyson Fury?"
-    },
-    {
-      "id": "2aa8468de3a2fec4",
-      "title": "Israeli settlers set fire to mosque in occupied West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-set-fire-to-mosque-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-07-26T07:12:26.000Z",
-      "summary": "Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, as Israeli forces arrested dozens of Palestinians"
-    },
-    {
-      "id": "8b179deba81437ea",
-      "title": "Cape Verde World Cup star Vozinha agrees deal with Chile’s Colo Colo",
-      "url": "https://www.aljazeera.com/sports/2026/7/26/cape-verde-world-cup-star-vozinha-agrees-deal-with-chiles-colo-colo?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-07-26T07:04:11.000Z",
-      "summary": "The 40-year-old goalkeeper made global headlines after starring in Cape Verde’s historic run at the World Cup."
     },
     {
       "id": "523006315eb9be5f",
@@ -172,18 +262,8 @@
       "summary": "Prime Minister Tareque Rahman has officially inaugurated the ‘Army Headquarters Selection Board-2026’ of the Bangladesh Army. He inaugurated the selection board on Sunday (July 26) at the Army Headquarters, attending… The post Prime Minister Inaugurates Army Headquarters Selection Board-2026 appeared first on Bangla Online News Portal."
     },
     {
-      "id": "0203a17b507e8f91",
-      "title": "https://drive.google.com/drive/folders/17KZlAAj-H_rMiqJSrup6WfcERG75cAjR?us",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/https-drive-google-com-drive-folders-17kzlaaj?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "disasters",
-      "region": "europe",
-      "publishedAt": "2026-07-26T05:14:32.000Z",
-      "summary": "At least 14 people have died as wildfires continue to devastate Spain. Two blazes merged into one massive fire."
-    },
-    {
-      "id": "7eb9f50a18f2524b",
-      "title": "Venezuela men sue aviation firms who flew them to notorious Salvadorian jail",
+      "id": "850effba49b624d4",
+      "title": "Venezuelan men sue aviation firms who flew them to notorious Salvadorian jail",
       "url": "https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation",
       "source": "The Guardian World",
       "category": "creativity_arts",
@@ -210,26 +290,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-07-26T04:10:07.000Z",
       "summary": "US President Donald Trump has ordered a temporary halt to new military strikes on Iran, according to reports in various US media outlets. This decision comes after 13 consecutive days… The post Concern over Missile Stockpile, Trump Halts New Attack on Iran appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "7cce8662beca341f",
-      "title": "Palestinian Seizes Weapons, Kills Two Israeli Soldiers",
-      "url": "https://www.bd24live.com/palestinian-seizes-weapons-kills-two-israeli-soldiers/",
-      "source": "BD24Live",
-      "category": "economy_business",
-      "region": "bangladesh",
-      "publishedAt": "2026-07-26T03:00:07.000Z",
-      "summary": "Four Palestinians were killed by Israeli illegal settlers’ gunfire in the ‘Tel’ village of the occupied West Bank. Following this incident, a Palestinian reportedly seized weapons from the settlers and… The post Palestinian Seizes Weapons, Kills Two Israeli Soldiers appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "f66fa1a8b5cca039",
-      "title": "For the First Time, a Night Passes in Iran Without New US Airstrikes",
-      "url": "https://www.bd24live.com/for-the-first-time-a-night-passes-in-iran-without-new-us-airstrikes/",
-      "source": "BD24Live",
-      "category": "war_conflict",
-      "region": "bangladesh",
-      "publishedAt": "2026-07-26T02:50:13.000Z",
-      "summary": "For the first time since continuous US military operations, a night has passed in Iran without any new American airstrikes. However, simultaneously, tensions in the Middle East have escalated with… The post For the First Time, a Night Passes in Iran Without New US Airstrikes appeared first on Bangla Online News Portal."
     },
     {
       "id": "bffe63c53739d8e0",
@@ -312,26 +372,6 @@
       "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years."
     },
     {
-      "id": "6c96cab203a60db7",
-      "title": "Paris awaits as Pogacar poised to join Tour greats with fifth title",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/c1d141dl2qro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-07-25T16:25:59.000Z",
-      "summary": "Tadej Pogacar is set to win a record-equalling fifth Tour de France after Ecuador's Richard Carapaz takes a dramatic stage 20 to Alpe d'Huez."
-    },
-    {
-      "id": "a84a5699e88f3df0",
-      "title": "England ready for 'world's best' Australia after thrashing NI",
-      "url": "https://www.bbc.co.uk/sport/netball/articles/cpw9d98kk4zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-25T16:07:39.000Z",
-      "summary": "England open their Commonwealth Games netball campaign with a comprehensive victory over Northern Ireland."
-    },
-    {
       "id": "b476928c1b756709",
       "title": "Synth historian Oli Freke will spend big on a good bicycle",
       "url": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
@@ -340,6 +380,16 @@
       "region": "global",
       "publishedAt": "2026-07-25T15:15:00.000Z",
       "summary": "Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone scale and deep dives on effects plug-ins. He's even written a book tracing the evolution of the synthesizer from 1963 through 1995, charting the change from analog to digital and back. His new project is Beat Gems, a coffee-ta"
+    },
+    {
+      "id": "cc737c0a9b7ca0ed",
+      "title": "Teenage Engineering’s unique music machines are 30 percent off",
+      "url": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-07-25T15:00:00.000Z",
+      "summary": "Teenage Engineering’s OP-XY has a huge number of functions. | Photo by Terrence O’Brien / The Verge With elements from synthesizers, loopers, and effects pedals, Teenage Engineering’s devices lie somewhere between musical instrument and modern art. These grooveboxes, as they’re often called, are capable of helping you produce songs in real time from a single unit, with an eye-catching design language. A wide swath of"
     },
     {
       "id": "30f81575349d1072",
@@ -382,16 +432,6 @@
       "summary": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]"
     },
     {
-      "id": "629ff6d15ad8406a",
-      "title": "Government Aims to Advance the Country, Overcoming All Barriers: Prime Minister",
-      "url": "https://www.bd24live.com/government-aims-to-advance-the-country-overcoming-all-barriers-prime-minister/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-07-25T07:10:09.000Z",
-      "summary": "Prime Minister Tareque Rahman has stated that the government considers the semiconductor industry a national priority sector to build Bangladesh into a technology-driven and self-reliant nation. He emphasized that the… The post Government Aims to Advance the Country, Overcoming All Barriers: Prime Minister appeared first on Bangla Online News Portal."
-    },
-    {
       "id": "af7babeecf81ecff",
       "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
       "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
@@ -410,26 +450,6 @@
       "region": "global",
       "publishedAt": "2026-07-25T06:14:54.000Z",
       "summary": "BuzzBallz cannot be recycled because the metal lid and plastic body are attached, say experts."
-    },
-    {
-      "id": "e25c38ffdb85a98d",
-      "title": "Bangladesh to Get New President within 90 Days",
-      "url": "https://www.bd24live.com/bangladesh-to-get-new-president-within-90-days/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-07-25T03:50:12.000Z",
-      "summary": "Md. Shahabuddin has stepped down from the presidency almost two years before the end of his term, citing serious health reasons. His resignation marks the beginning of a new chapter… The post Bangladesh to Get New President within 90 Days appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "09240c6743469e77",
-      "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-      "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-07-25T02:23:09.000Z",
-      "summary": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias."
     },
     {
       "id": "faff6ffa251d5450",
@@ -542,16 +562,6 @@
       "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\""
     },
     {
-      "id": "f149bcfdc3a1cabe",
-      "title": "Trump: Iran Showing More Sincerity in Talks Than Before",
-      "url": "https://www.bd24live.com/trump-iran-showing-more-sincerity-in-talks-than-before/",
-      "source": "BD24Live",
-      "category": "war_conflict",
-      "region": "bangladesh",
-      "publishedAt": "2026-07-24T20:15:10.000Z",
-      "summary": "US President Donald Trump has announced that discussions are underway between the United States and Iran to end the ongoing conflict between the two countries. However, he claimed that Tehran… The post Trump: Iran Showing More Sincerity in Talks Than Before appeared first on Bangla Online News Portal."
-    },
-    {
       "id": "6832cf93be6cb921",
       "title": "OnTrac notifies customers of data breach after network hack",
       "url": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
@@ -640,26 +650,6 @@
       "region": "americas",
       "publishedAt": "2026-07-24T13:53:34.000Z",
       "summary": "US agency is to pay Canadian media company US$125m for use of investigative database to detect ‘immigration fraud’ A Canadian federal opposition party leader has called on Mark Carney’s government to block the latest data-sharing deal between US Immigration and Customs Enforcement (ICE) and the Canadian media company Thomson Reuters. Avi Lewis, the federal leader of the New Democratic party (NDP), demanded on Tuesday"
-    },
-    {
-      "id": "3c84e1f3e8452c7c",
-      "title": "Watch: Another day, more Trump tariffs - but are they working?",
-      "url": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-07-24T10:21:31.000Z",
-      "summary": "The BBC's Samira Hussain explains how President Trump's tariffs affect US economy, who pays the price, and whether they're working."
-    },
-    {
-      "id": "787c0dac28e8f05a",
-      "title": "UK mortgage rates rise to highest level for a month",
-      "url": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "europe",
-      "publishedAt": "2026-07-24T09:44:53.000Z",
-      "summary": "Renewed tensions in the Middle East feed through to the costs faced by lenders, pushing up borrowing costs."
     },
     {
       "id": "e97d9dafb83f9179",
