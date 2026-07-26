@@ -1,6 +1,116 @@
 {
-  "generatedAt": "2026-07-26T17:10:23.273Z",
+  "generatedAt": "2026-07-26T19:22:44.840Z",
   "articles": [
+    {
+      "id": "b2d2f3cfbf18da1a",
+      "title": "Netanyahu vows to go to New York City despite ICC arrest warrant, Mamdani",
+      "url": "https://www.aljazeera.com/news/2026/7/26/netanyahu-vows-to-go-to-new-york-city-despite-icc-arrest-warrant-mamdani?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-26T19:13:02.000Z",
+      "summary": "Israeli prime minister slams New York Mayor Zohran Mamdani, accusing him of 'fomenting hate' with criticism of Israel."
+    },
+    {
+      "id": "ac1994acd295b797",
+      "title": "Israeli settlers burn two mosques in occupied West Bank",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-burn-two-mosques-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "middle_east",
+      "publishedAt": "2026-07-26T18:51:34.000Z",
+      "summary": "Israeli settlers set fire to two mosques in separate attacks across the occupied West Bank, causing significant damage."
+    },
+    {
+      "id": "a7308d79bed6e884",
+      "title": "Water returning to Gatwick Airport after major outage",
+      "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-07-26T18:50:47.000Z",
+      "summary": "Gatwick Airport has faced a day of disruptions with toilets and restaurants closed to passengers."
+    },
+    {
+      "id": "a66031a0bd91d7dd",
+      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "disasters",
+      "region": "europe",
+      "publishedAt": "2026-07-26T18:40:08.000Z",
+      "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain."
+    },
+    {
+      "id": "a00304dcbe685bda",
+      "title": "Romania summons Russian envoy as it shoots down third intruding drone",
+      "url": "https://www.aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-07-26T18:17:22.000Z",
+      "summary": "The ongoing violations of Romanian airspace raise concerns over impact on NATO states of Russia-Ukraine war."
+    },
+    {
+      "id": "fb69cc43ab6623f8",
+      "title": "Al-Sharaa praises Trump’s decision to remove Syria from terrorism list",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-praises-trumps-decision-to-remove-syria-from-terrorism-list?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-26T18:08:48.000Z",
+      "summary": "Al-Sharaa praises Trump's decision to remove Syria from terrorism list."
+    },
+    {
+      "id": "61d5c8c2f465cad9",
+      "title": "Berlin police shoot dead suspect in car-ramming attack at Pride event",
+      "url": "https://www.aljazeera.com/news/2026/7/26/berlin-police-shoot-dead-suspect-in-car-ramming-attack-on-pride-event?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-07-26T17:51:37.000Z",
+      "summary": "Abdul Ballout was hunted for 'Islamic terror attack' after he drove a van into crowds at LGBT event in German capital."
+    },
+    {
+      "id": "dfdb99a64eb28d1b",
+      "title": "What we know so far about the Berlin Pride ramming attack",
+      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-07-26T17:45:30.000Z",
+      "summary": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night."
+    },
+    {
+      "id": "c2c22f124cab215b",
+      "title": "Israel launches military incursion into Syria amid UN condemnation",
+      "url": "https://www.aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-26T17:40:15.000Z",
+      "summary": "The UN's Guterres condemned violations of Syria's sovereignty as he visited and called for sanctions to be lifted."
+    },
+    {
+      "id": "6a34560475aa0b52",
+      "title": "Buttler at his best as Super Giants thrash Phoenix",
+      "url": "https://www.bbc.co.uk/sport/cricket/videos/c9d859dx622o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-26T17:19:37.000Z",
+      "summary": "Jos Buttler stars with 90 from 50 balls as Manchester Super Giants ease past Birmingham Phoenix at Old Trafford - winning by 87 runs in the men's Hundred."
+    },
+    {
+      "id": "df2d0e93f8d0d097",
+      "title": "Complete weekend for Norris but poor result for Sainz - driver ratings",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c74yr33vvy1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-26T17:16:23.000Z",
+      "summary": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Hungarian Grand Prix."
+    },
     {
       "id": "06cfc5c6a4b97da7",
       "title": "Norris wins his first grand prix of year in Hungary",
@@ -10,16 +120,6 @@
       "region": "global",
       "publishedAt": "2026-07-26T17:02:14.000Z",
       "summary": "Lando Norris takes his and McLaren's first victory of the year in a compelling Hungarian Grand Prix."
-    },
-    {
-      "id": "a66031a0bd91d7dd",
-      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "disasters",
-      "region": "europe",
-      "publishedAt": "2026-07-26T16:48:16.000Z",
-      "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain."
     },
     {
       "id": "547ac1062e346b8b",
@@ -32,34 +132,24 @@
       "summary": "Extreme heat is fuelling wildfires across North Africa, with major fires burning in Tunisia, Algeria and Morocco."
     },
     {
-      "id": "1c9044b9364bfb33",
-      "title": "Darfur: Weaponising Identity",
-      "url": "https://www.aljazeera.com/video/aljazeerauntangles/2026/7/26/darfur-weaponising-identity?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
+      "id": "85329ff43ee006ab",
+      "title": "Holders St Mirren draw Rangers in League Cup last 16",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp87vyrgvzlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
       "region": "global",
-      "publishedAt": "2026-07-26T16:20:27.000Z",
-      "summary": "How land conflict, state neglect and racist ideology have driven Darfur towards alleged genocide."
+      "publishedAt": "2026-07-26T16:32:13.000Z",
+      "summary": "Holders St Mirren are drawn away to Rangers in the last 16 of the Premier Sports Cup, while Celtic visit Dundee United."
     },
     {
-      "id": "a89ea4a42d177f35",
-      "title": "Typhoon Noul batters Southeast China",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/typhoon-noul-batters-southeast-china?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-26T16:19:07.000Z",
-      "summary": "Footage shows the aftermath of Typhoon Noul after it battered southern China's coastal regions."
-    },
-    {
-      "id": "14da2f77f6142a17",
-      "title": "Who is India’s new education minister Pralhad Joshi?",
-      "url": "https://www.aljazeera.com/news/2026/7/26/who-is-indias-new-education-minister-pralhad-joshi?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-26T16:18:03.000Z",
-      "summary": "Joshi has been a member of the cabinet since 2019 and is seen as close to powerful PM Modi."
+      "id": "7838566a624bc51f",
+      "title": "Mayo beat Kerry in thriller to end 75-year All-Ireland wait",
+      "url": "https://www.bbc.co.uk/sport/articles/c70gzrpky87o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-26T16:12:43.000Z",
+      "summary": "Mayo end a 75-year wait for the county's fourth All-Ireland Senior Football title with a 1-20 to 1-17 victory over Kerry in a captivating and intense final that went down to the wire at a raucous Croke Park."
     },
     {
       "id": "193f413ea242e324",
@@ -72,36 +162,6 @@
       "summary": "Beau Greaves wins the Women's World Matchplay for the third time after coming through a thrilling last-leg decider to beat Fallon Sherrock."
     },
     {
-      "id": "33e6cc966752cbd0",
-      "title": "Gittens keen to impress 'world-class' Alonso",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y3gg1083no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-26T16:00:27.000Z",
-      "summary": "Chelsea winger Jamie Gittens says he will be involved in Xabi Alonso's squad next season and describes his new manager as \"one of the best to do it\"."
-    },
-    {
-      "id": "c5dfd266aeecccd8",
-      "title": "Gatwick Airport left without running water after major outage",
-      "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-07-26T15:59:08.000Z",
-      "summary": "Bottled water is being handed out to passengers and staff while the issue is investigated."
-    },
-    {
-      "id": "97b0467b50a37517",
-      "title": "Raining sixes - Buttler goes big against Birmingham Phoenix",
-      "url": "https://www.bbc.co.uk/sport/cricket/videos/cwyl6expd6wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-26T15:37:12.000Z",
-      "summary": "Jos Buttler scores 90 off 50 balls, in an innings that included five sixes, as he helps his Manchester Super Giants side reach 187-5 against Birmingham Phoenix in the men's Hundred."
-    },
-    {
       "id": "b2107146283e545b",
       "title": "Carrie is just trying to make a friend in the new trailer",
       "url": "https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con",
@@ -110,66 +170,6 @@
       "region": "global",
       "publishedAt": "2026-07-26T15:33:27.000Z",
       "summary": "The latest adaptation debuts October 7th. | Image: Amazon Mike Flanagan's latest Stephen King adaptation, Carrie (this will be his fourth), is slated to make its debut on Amazon Prime on October 7th. The new trailer dropped at Comic-Con 2026 and doesn't contain many surprises. If you're familiar with Carrie at all, it hits all the expected notes. Though it's clearly been updated for the modern era. According to Deadl"
-    },
-    {
-      "id": "1deb842737da87ca",
-      "title": "Senator Whitehouse: Netanyahu a ‘walking provocation’ for Americans",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/7/26/senator-whitehouse-netanyahu-a-walking-provocation-for-americans?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-07-26T15:26:57.000Z",
-      "summary": "Democratic lawmaker Sheldon Whitehouse says the US is turning into one of the world’s ‘worst-behaved countries’."
-    },
-    {
-      "id": "781c777327f7ffb1",
-      "title": "Lando Norris wins Hungarian Grand Prix for first F1 triumph in 2026",
-      "url": "https://www.aljazeera.com/sports/2026/7/26/lando-norris-wins-hungarian-grand-prix-for-first-f1-triumph-in-2026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-07-26T15:04:12.000Z",
-      "summary": "Defending champion Norris wins his first race of the year as Verstappen finishes second, and leader Antonelli third."
-    },
-    {
-      "id": "b083a47285786b29",
-      "title": "Maynard loses York job three months after dramatic title win",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp87v9ddqvvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-26T14:59:58.000Z",
-      "summary": "York City confirm the exit of manager Stuart Maynard, three months after he guided the club back into the English Football League."
-    },
-    {
-      "id": "0bfe624f2f5b094d",
-      "title": "More than 360,000 evacuated as wildfires rage in France and Spain",
-      "url": "https://www.aljazeera.com/news/2026/7/26/more-than-360000-evacuated-as-wildfires-rage-in-france-and-spain?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "weather_climate",
-      "region": "europe",
-      "publishedAt": "2026-07-26T14:49:41.000Z",
-      "summary": "French and Spanish authorities are struggling to contain the blazes, which are partly caused by successive heatwaves."
-    },
-    {
-      "id": "b270299ccffdc114",
-      "title": "Tunisia grapples with five years of crisis since Saied’s power grab",
-      "url": "https://www.aljazeera.com/economy/2026/7/26/tunisia-grapples-with-five-years-of-crisis-since-saieds-power-grab?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-07-26T14:39:30.000Z",
-      "summary": "Tunisians protest five years of President Kais Saied's rule amid economic crisis and political arrests."
-    },
-    {
-      "id": "0cfd43b843bf9cd8",
-      "title": "Senegal’s Faye launches a new party, formalising his split with Sonko",
-      "url": "https://www.aljazeera.com/news/2026/7/26/senegals-faye-launches-a-new-party-formalising-his-split-with-sonko?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-07-26T14:22:03.000Z",
-      "summary": "Months of tensions between president and ex-ally culminate in split that will reshape Senegal's political landscape."
     },
     {
       "id": "8b5bc99c2d7f01b7",
@@ -192,34 +192,14 @@
       "summary": "A female referee is injured and has to leave the pitch after being knocked to the ground during a friendly."
     },
     {
-      "id": "dfdb99a64eb28d1b",
-      "title": "What we know so far about the Berlin Pride ramming attack",
-      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-07-26T13:40:29.000Z",
-      "summary": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night."
-    },
-    {
-      "id": "7a063aad7e0be424",
-      "title": "England suffer heavy netball defeat by Australia",
-      "url": "https://www.bbc.co.uk/sport/netball/articles/cdrvg3ypx5yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-26T13:02:04.000Z",
-      "summary": "England captain Fran Williams says her team were \"far from our best\" in a 66-47 defeat by defending Commonwealth champions Australia."
-    },
-    {
-      "id": "483ac9d9cb21ce78",
-      "title": "Firefighters in France battle to prevent huge blaze from approaching Bordeaux",
+      "id": "ba23f89e6540daea",
+      "title": "Pedro Sánchez says Spain is suffering effects of climate crisis as firefighters battle wildfires in France",
       "url": "https://www.theguardian.com/world/2026/jul/26/firefighters-in-france-battle-to-prevent-huge-blaze-from-approaching-bordeaux",
       "source": "The Guardian Environment",
       "category": "disasters",
       "region": "europe",
       "publishedAt": "2026-07-26T12:56:30.000Z",
-      "summary": "Efforts to contain wildfire that has consumed an area four times the size of Paris impeded by windy conditions Authorities in France are battling to contain a huge wildfire near Bordeaux in the south-west as prime minister Pedro Sánchez of Spain – where blazes near Madrid are coming under control – warned his country was suffering the effects of the climate emergency. Efforts to extinguish the blaze in the Gironde re"
+      "summary": "Blazes near Madrid coming under control but efforts to contain huge fire near Bordeaux hampered by windy conditions Authorities in France are battling to contain a huge wildfire near Bordeaux in the south-west as Spain’s prime minister, Pedro Sánchez, warned Spain and the Iberian peninsula were suffering the effects of the climate emergency. Efforts to extinguish the blaze in the Gironde region of France – which has "
     },
     {
       "id": "e529f36fe56056a1",
@@ -412,6 +392,16 @@
       "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years."
     },
     {
+      "id": "b476928c1b756709",
+      "title": "Synth historian Oli Freke will spend big on a good bicycle",
+      "url": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-07-25T15:15:00.000Z",
+      "summary": "Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone scale and deep dives on effects plug-ins. He's even written a book tracing the evolution of the synthesizer from 1963 through 1995, charting the change from analog to digital and back. His new project is Beat Gems, a coffee-ta"
+    },
+    {
       "id": "30f81575349d1072",
       "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
@@ -500,6 +490,16 @@
       "region": "europe",
       "publishedAt": "2026-07-25T00:06:53.000Z",
       "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day."
+    },
+    {
+      "id": "8291946e23a0e582",
+      "title": "Long overdue, life-changing or frivolous? Your thoughts on wedding rule changes",
+      "url": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-07-24T23:31:11.000Z",
+      "summary": "The government wants to relax wedding laws so couples can get married almost anywhere."
     },
     {
       "id": "5340674eadd62d44",
@@ -662,14 +662,14 @@
       "summary": "US agency is to pay Canadian media company US$125m for use of investigative database to detect ‘immigration fraud’ A Canadian federal opposition party leader has called on Mark Carney’s government to block the latest data-sharing deal between US Immigration and Customs Enforcement (ICE) and the Canadian media company Thomson Reuters. Avi Lewis, the federal leader of the New Democratic party (NDP), demanded on Tuesday"
     },
     {
-      "id": "787c0dac28e8f05a",
-      "title": "UK mortgage rates rise to highest level for a month",
-      "url": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "europe",
-      "publishedAt": "2026-07-24T09:44:53.000Z",
-      "summary": "Renewed tensions in the Middle East feed through to the costs faced by lenders, pushing up borrowing costs."
+      "id": "e97d9dafb83f9179",
+      "title": "Scientists find the secret of birdsong's 'spectacular diversity'",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-07-23T23:55:29.000Z",
+      "summary": "A scientific study has revealed the acoustic secret that connects all birdsong - and it is surprisingly simple"
     },
     {
       "id": "54700bd36efa5dd2",
