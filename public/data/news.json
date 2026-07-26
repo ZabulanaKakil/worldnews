@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-07-26T13:45:27.313Z",
+  "generatedAt": "2026-07-26T15:11:47.831Z",
   "articles": [
+    {
+      "id": "06cfc5c6a4b97da7",
+      "title": "Norris wins his first grand prix of year in Hungary",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm2gnkyl8j1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-26T15:11:20.000Z",
+      "summary": "Lando Norris takes his and McLaren's first victory of the year in a compelling Hungarian Grand Prix."
+    },
     {
       "id": "c5dfd266aeecccd8",
       "title": "Gatwick Airport left without running water after major outage",
@@ -8,8 +18,98 @@
       "source": "BBC Business",
       "category": "economy_business",
       "region": "global",
-      "publishedAt": "2026-07-26T13:44:01.000Z",
+      "publishedAt": "2026-07-26T15:03:00.000Z",
       "summary": "Bottled water is being handed out to passengers and staff while the issue is investigated."
+    },
+    {
+      "id": "0bfe624f2f5b094d",
+      "title": "More than 360,000 evacuated as wildfires rage in France and Spain",
+      "url": "https://www.aljazeera.com/news/2026/7/26/more-than-360000-evacuated-as-wildfires-rage-in-france-and-spain?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "weather_climate",
+      "region": "europe",
+      "publishedAt": "2026-07-26T14:49:41.000Z",
+      "summary": "French and Spanish authorities are struggling to contain the blazes, which are partly caused by successive heatwaves."
+    },
+    {
+      "id": "6eb7c6b799bf6d35",
+      "title": "Israel carries out double tap strike in central Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-26T14:47:02.000Z",
+      "summary": "Israel carries out double tap strike in central Gaza"
+    },
+    {
+      "id": "b270299ccffdc114",
+      "title": "Tunisia grapples with five years of crisis since Saied’s power grab",
+      "url": "https://www.aljazeera.com/economy/2026/7/26/tunisia-grapples-with-five-years-of-crisis-since-saieds-power-grab?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-07-26T14:39:30.000Z",
+      "summary": "Tunisians protest five years of President Kais Saied's rule amid economic crisis and political arrests."
+    },
+    {
+      "id": "0cfd43b843bf9cd8",
+      "title": "Senegal’s Faye launches a new party, formalising his split with Sonko",
+      "url": "https://www.aljazeera.com/news/2026/7/26/senegals-faye-launches-a-new-party-formalising-his-split-with-sonko?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-07-26T14:22:03.000Z",
+      "summary": "Months of tensions between president and ex-ally culminate in split that will reshape Senegal's political landscape."
+    },
+    {
+      "id": "8b5bc99c2d7f01b7",
+      "title": "GitHub, PyPI add time-absed defenses against supply chain attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-07-26T14:13:39.000Z",
+      "summary": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]"
+    },
+    {
+      "id": "5497169ae5fe16b6",
+      "title": "Female referee injured in melee during friendly",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2gemrn7jdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-26T14:11:47.000Z",
+      "summary": "A female referee is injured and has to leave the pitch after being knocked to the ground during a friendly."
+    },
+    {
+      "id": "4081a5d2cbfa9718",
+      "title": "Controversial Argentina World Cup banner gets new life in print",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/controversial-argentina-world-cup-banner-gets-new-life-in-print?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-07-26T14:05:03.000Z",
+      "summary": "A workshop in Buenos Aires is offering fans free prints of ‘The Malvinas are Argentine’, recreating the divisive banner"
+    },
+    {
+      "id": "88d54882a3525534",
+      "title": "Israel and the cost paradox of the Iran war",
+      "url": "https://www.aljazeera.com/opinions/2026/7/26/israel-and-the-cost-paradox-of-the-iran-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-26T14:04:39.000Z",
+      "summary": "Israel instigated the war on Iran and yet it has borne few of its costs."
+    },
+    {
+      "id": "67b6648dc4d57a45",
+      "title": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
+      "url": "https://www.aljazeera.com/news/2026/7/26/israeli-air-strike-on-a-vehicle-in-gaza-kills-two-hamas-security-officials?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-26T13:51:53.000Z",
+      "summary": "The head of internal security for Hamas in central Gaza was among the dead."
     },
     {
       "id": "dfdb99a64eb28d1b",
@@ -20,6 +120,36 @@
       "region": "europe",
       "publishedAt": "2026-07-26T13:40:29.000Z",
       "summary": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night."
+    },
+    {
+      "id": "4e3c8e4d97593ed5",
+      "title": "Yemen’s health workers race to halt latest outbreak of deadly dengue fever",
+      "url": "https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-26T13:39:17.000Z",
+      "summary": "Health workers are battling to contain the mosquito-borne disease amid growing concern over rising infections."
+    },
+    {
+      "id": "f37c5a9c62fdefcc",
+      "title": "From paradise to ‘pilot zone’ disaster: Returning to destroyed Lebanon home",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/from-paradise-to-pilot-zone-disaster-returning-to-destroyed-lebanon-home?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "disasters",
+      "region": "middle_east",
+      "publishedAt": "2026-07-26T13:34:45.000Z",
+      "summary": "Sumaya Yaghi returns to what's left of her destroyed home in southern Lebanon."
+    },
+    {
+      "id": "d291d71d981dff2d",
+      "title": "Why are Israeli settlers on a rampage in the occupied West Bank?",
+      "url": "https://www.aljazeera.com/news/2026/7/26/why-are-israeli-settlers-on-a-rampage-in-the-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "middle_east",
+      "publishedAt": "2026-07-26T13:31:04.000Z",
+      "summary": "Settlers torch two mosques in the Palestinian territory as Israeli PM Benjamin Netanyahu threatens 'more broad action'."
     },
     {
       "id": "7a063aad7e0be424",
@@ -42,66 +172,6 @@
       "summary": "Efforts to contain wildfire that has consumed an area of four times the size of Paris impeded by windy conditions Europe wildfires live – latest updates Authorities are battling to contain a huge wildfire near Bordeaux in south-west France that has consumed an area of land four times the size of Paris. Efforts to extinguish the blaze in the Gironde region, where nearly 220,000 people have been evacuated, were hampere"
     },
     {
-      "id": "dfb267a28aec4d1f",
-      "title": "Israeli crackdown in occupied West Bank intensifies, settlers cause mayhem",
-      "url": "https://www.aljazeera.com/news/2026/7/26/israeli-crackdown-in-occupied-west-bank-intensifies-settlers-cause-mayhem?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-07-26T12:52:29.000Z",
-      "summary": "The surge in violence comes after four Palestinians and two soldiers were killed in a gunfight on Friday."
-    },
-    {
-      "id": "80059d292ff49825",
-      "title": "Eighteen people missing in South China Sea after Vietnamese ship sank",
-      "url": "https://www.aljazeera.com/news/2026/7/26/eighteen-people-missing-in-south-china-sea-after-vietnamese-ship-sank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-26T12:50:26.000Z",
-      "summary": "There were 62 people aboard the vessel when it sank, all of them Vietnamese nationals."
-    },
-    {
-      "id": "d897af8d5d6e441e",
-      "title": "President Ahmed al-Sharaa: Syria seeking security deal with Israel",
-      "url": "https://www.aljazeera.com/news/2026/7/26/president-ahmed-al-sharaa-syria-seeking-security-deal-with-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-26T12:34:13.000Z",
-      "summary": "Syrian President al-Sharaa tells Al Jazeera Damascus seeks a security deal with Israel, and warns of chaos in Lebanon."
-    },
-    {
-      "id": "82de4c2fbfa4dec7",
-      "title": "What is the AI Kill Switch Act proposed in the US and how will it work?",
-      "url": "https://www.aljazeera.com/news/2026/7/26/what-is-the-ai-kill-switch-act-proposed-in-the-us-and-how-will-it-work?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-07-26T12:30:28.000Z",
-      "summary": "US lawmakers introduce a bill aimed at giving the government power to order companies to shut down 'rogue' AI systems."
-    },
-    {
-      "id": "78f165489e798177",
-      "title": "Casemiro makes Inter Miami debut despite MLS investigation into transfer",
-      "url": "https://www.aljazeera.com/sports/2026/7/26/casemiro-makes-inter-miami-debut-despite-mls-investigation-into-transfer?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-07-26T12:20:19.000Z",
-      "summary": "Casemiro plays, Messi sits out during his post-World Cup rest, and Suarez scores to give Miami a sixth straight MLS win."
-    },
-    {
-      "id": "01f3eebcea46a72b",
-      "title": "Iran’s army issues warning ahead of Netanyahu’s US visit",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/irans-army-issues-warning-ahead-of-netanyahus-us-visit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-26T11:56:50.000Z",
-      "summary": "Iran says it has stopped retaliatory operations in the Gulf, but warns the war could expand if US strikes continue."
-    },
-    {
       "id": "bfc8af711e78ce08",
       "title": "Highlights - Joshua beats Prenga after early scare",
       "url": "https://www.bbc.co.uk/sport/boxing/videos/cvgvp7n45e5o?at_medium=RSS&at_campaign=rss",
@@ -112,16 +182,6 @@
       "summary": "In his comeback fight, Anthony Joshua suffered two early knockdowns but recovered to dramatically stop Kristian Prenga in the second round in Saudi Arabia."
     },
     {
-      "id": "42d0a6fcf378aca1",
-      "title": "‘No accountability for settler war crimes against Palestinians’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/no-accountability-for-settler-war-crimes-against?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-07-26T11:31:17.000Z",
-      "summary": "‘No accountability for settler war crimes against Palestinians’"
-    },
-    {
       "id": "a66031a0bd91d7dd",
       "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
       "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
@@ -130,16 +190,6 @@
       "region": "europe",
       "publishedAt": "2026-07-26T11:29:07.000Z",
       "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain."
-    },
-    {
-      "id": "05aaacccfa7ab97c",
-      "title": "Female football referee suffers concussion amid male players’ melee",
-      "url": "https://www.aljazeera.com/news/2026/7/26/female-football-referee-suffers-concussion-amid-male-players-melee?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-07-26T11:00:32.000Z",
-      "summary": "Referee Mathilde Demoncay was knocked down as the players fought during a friendly club match in France."
     },
     {
       "id": "e529f36fe56056a1",
@@ -332,16 +382,6 @@
       "summary": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]"
     },
     {
-      "id": "f2dbc4b6a6b4ecf7",
-      "title": "Littler sets up Price final at World Matchplay",
-      "url": "https://www.bbc.co.uk/sport/darts/articles/cx2dgz20n2ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-25T22:02:12.000Z",
-      "summary": "Luke Littler is on course to beat Phil Taylor's tournament average record after another impressive victory saw him reach the final."
-    },
-    {
       "id": "02a336af851c3dc9",
       "title": "Arsenal explore Vinicius Jr move - Sunday's gossip",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yw2wqxvjwo?at_medium=RSS&at_campaign=rss",
@@ -380,16 +420,6 @@
       "region": "global",
       "publishedAt": "2026-07-25T15:15:00.000Z",
       "summary": "Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone scale and deep dives on effects plug-ins. He's even written a book tracing the evolution of the synthesizer from 1963 through 1995, charting the change from analog to digital and back. His new project is Beat Gems, a coffee-ta"
-    },
-    {
-      "id": "cc737c0a9b7ca0ed",
-      "title": "Teenage Engineering’s unique music machines are 30 percent off",
-      "url": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-07-25T15:00:00.000Z",
-      "summary": "Teenage Engineering’s OP-XY has a huge number of functions. | Photo by Terrence O’Brien / The Verge With elements from synthesizers, loopers, and effects pedals, Teenage Engineering’s devices lie somewhere between musical instrument and modern art. These grooveboxes, as they’re often called, are capable of helping you produce songs in real time from a single unit, with an eye-catching design language. A wide swath of"
     },
     {
       "id": "30f81575349d1072",
@@ -562,16 +592,6 @@
       "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\""
     },
     {
-      "id": "6832cf93be6cb921",
-      "title": "OnTrac notifies customers of data breach after network hack",
-      "url": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-07-24T19:55:01.000Z",
-      "summary": "OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]"
-    },
-    {
       "id": "02059c74d04a6043",
       "title": "Thousands of lightning strikes trigger fresh wildfires in western Canada",
       "url": "https://www.theguardian.com/world/2026/jul/24/thousands-of-lightning-strikes-trigger-fresh-wildfires-in-western-canada",
@@ -700,16 +720,6 @@
       "region": "americas",
       "publishedAt": "2026-07-23T19:56:50.000Z",
       "summary": "‘Ratepayer Protection Pledge’ president has touted is non-binding as people continue to struggle with rising bills Donald Trump has announced that about 200 entities have signed on to his non-binding “Ratepayer Protection Pledge”, expanding a voluntary commitment which claims to ensure US consumers will not bear the cost of the AI datacenter build-out. Trump delivered remarks on Thursday at the Environmental Protecti"
-    },
-    {
-      "id": "b79b3b956761b096",
-      "title": "Can you be fined for using a hosepipe?",
-      "url": "https://www.bbc.co.uk/news/videos/cvg9l035jxxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-07-23T15:39:11.000Z",
-      "summary": "Ben Rich looks at what is and isn't allowed during a hosepipe ban."
     },
     {
       "id": "9c31a652509ace40",
