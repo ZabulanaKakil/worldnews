@@ -1,6 +1,276 @@
 {
-  "generatedAt": "2026-07-27T11:33:59.738Z",
+  "generatedAt": "2026-07-27T14:53:49.010Z",
   "articles": [
+    {
+      "id": "a82598266bfa0b59",
+      "title": "Chinese RAM company CXMT makes a $484 billion stock market debut",
+      "url": "https://www.theverge.com/tech/971358/cxmt-china-ram-stock-market-debut",
+      "source": "The Verge",
+      "category": "economy_business",
+      "region": "asia_pacific",
+      "publishedAt": "2026-07-27T14:27:16.000Z",
+      "summary": "The China-based memory firm ChangXin Memory Technologies (CXMT) had a massive first day on the Shanghai stock exchange after its shares surged 466 percent, as reported earlier by The Wall Street Journal and CNBC. The stock market frenzy boosted CXMT's valuation to $484 billion, making it the most valuable Chinese company listed on the exchange. CXMT looks to challenge Samsung, Micron, and SK Hynix, which currently co"
+    },
+    {
+      "id": "80d76e1437283289",
+      "title": "Honduras’s Hernandez returns home after Trump pardon: How it happened",
+      "url": "https://www.aljazeera.com/news/2026/7/27/hondurass-hernandez-returns-home-after-trump-pardon-how-it-happened?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-07-27T14:24:50.000Z",
+      "summary": "Sentenced to 45 years in the US, Hernandez returns home to his family, party and supporters after Trump pardons him."
+    },
+    {
+      "id": "95f120ed99d18b4d",
+      "title": "Oil price dives as US and Iran pause attacks",
+      "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-27T14:22:24.000Z",
+      "summary": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict."
+    },
+    {
+      "id": "71f6f0473459ac55",
+      "title": "Devastating European wildfires in maps - and how they're being tackled",
+      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "disasters",
+      "region": "europe",
+      "publishedAt": "2026-07-27T14:21:32.000Z",
+      "summary": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever."
+    },
+    {
+      "id": "a0d358dbc22e6475",
+      "title": "Businessman and philanthropist Sir Ian Wood dies aged 84",
+      "url": "https://www.bbc.co.uk/news/articles/ce3qv0p9105o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-07-27T14:17:56.000Z",
+      "summary": "The Aberdeen-based businessman turned his family's boat repair firm into an oil and gas engineering giant."
+    },
+    {
+      "id": "b901942a280d52bd",
+      "title": "'Give him his passport' - Hearn backs British champion's citizenship fight",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/c75gwq7l0rno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-07-27T14:07:32.000Z",
+      "summary": "British champion Bilal Fawaz has lived in the UK for more than 20 years but is fighting for British citizenship - his story features in a new BBC documentary."
+    },
+    {
+      "id": "75810d9cdca5afec",
+      "title": "Five decades of Israeli covert strategy to push US, Iran into confrontation",
+      "url": "https://www.aljazeera.com/opinions/2026/7/27/five-decades-of-israeli-covert-strategy-to-push-us-iran-into-confrontation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "diplomacy",
+      "region": "middle_east",
+      "publishedAt": "2026-07-27T14:04:43.000Z",
+      "summary": "Successive Israeli governments have undermined diplomatic efforts and stoked tensions between Washington and Tehran."
+    },
+    {
+      "id": "90d73ce0cff80599",
+      "title": "Carly Simon reveals Parkinson's diagnosis",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-07-27T14:04:01.000Z",
+      "summary": "The singer also reveals she has received treatment for skin cancer, but vows to keep singing."
+    },
+    {
+      "id": "e13abf0668c80b99",
+      "title": "Five years after Saied’s power grab, Tunisians are no better off",
+      "url": "https://www.aljazeera.com/opinions/2026/7/27/five-years-after-saieds-power-grab-tunisians-are-no-better-off?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-07-27T14:03:09.000Z",
+      "summary": "Tunisia has seen no economic benefit from power consolidation, while liberties have dwindled."
+    },
+    {
+      "id": "f64428dc65e255ed",
+      "title": "Prime Minister: New Generation Must Lead to Build a Prosperous Nation",
+      "url": "https://www.bd24live.com/prime-minister-new-generation-must-lead-to-build-a-prosperous-nation/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-07-27T13:55:13.000Z",
+      "summary": "Prime Minister Tareq Rahman has stated that the new generation must lead in the country’s development and future building. He expressed hope that the current generation will achieve success both… The post Prime Minister: New Generation Must Lead to Build a Prosperous Nation appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "8ac39a01384be96b",
+      "title": "Australian court rejects racial discrimination appeal by Pauline Hanson",
+      "url": "https://www.aljazeera.com/news/2026/7/27/australian-court-rejects-racial-discrimination-appeal-by-pauline-hanson?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-07-27T13:46:06.000Z",
+      "summary": "⁠Court upholds earlier ruling ⁠that a post directed at Greens Senator Mehreen Faruqi was unlawful."
+    },
+    {
+      "id": "b1ce3bc8df03bd0d",
+      "title": "Former Honduras president returns home after Trump pardon",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/former-honduras-president-returns-home-after-trump-pardon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-07-27T13:32:15.000Z",
+      "summary": "Former Honduras president returns home after Trump pardon"
+    },
+    {
+      "id": "afe454034d6e2556",
+      "title": "More than 600 US military service members injured since Iran War began in February",
+      "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-27T13:31:57.000Z",
+      "summary": "The latest figure includes casualties from Operation Fury and a new category called \"Overseas Operations\"."
+    },
+    {
+      "id": "b88cb9089389220e",
+      "title": "Chelsea open talks to sign Brighton striker Welbeck",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2d79ddvg4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-27T13:24:43.000Z",
+      "summary": "Chelsea are in talks to sign Brighton & Hove Albion striker Danny Welbeck, with the 35-year-old keen to join new manager Xabi Alonso at Stamford Bridge."
+    },
+    {
+      "id": "7cfc8d6b97622a60",
+      "title": "English football agrees trial to end goalkeeper tactical timeouts",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyjxd53zkpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-27T13:22:05.000Z",
+      "summary": "English football is set to implement a radical trial to try to eradicate the goalkeeper tactical timeout this season, BBC Sport can reveal."
+    },
+    {
+      "id": "35b696132b13d923",
+      "title": "How wildfires in France and Spain might affect your travel plans",
+      "url": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "disasters",
+      "region": "europe",
+      "publishedAt": "2026-07-27T13:21:49.000Z",
+      "summary": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans."
+    },
+    {
+      "id": "28331b3766720455",
+      "title": "Second again - why has Scheffler stopped winning?",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cm2ge4pv94lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-27T13:06:46.000Z",
+      "summary": "World number one Scottie Scheffler has not won a tournament since January, but what's the reason?"
+    },
+    {
+      "id": "9244e7c6cc39aa65",
+      "title": "Israel’s approval of limited Gaza force a calculated manoeuvre, experts say",
+      "url": "https://www.aljazeera.com/news/2026/7/27/israels-approval-of-limited-gaza-force-a-calculated-manoeuvre-experts-say?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-27T12:58:20.000Z",
+      "summary": "Analysts say Israeli cabinet's decision aims to deflect US pressure and fragment the Gaza Strip."
+    },
+    {
+      "id": "cff5890b9d4d0e42",
+      "title": "Dutch pair banned from Bali after run club ‘excludes locals’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/dutch-pair-banned-from-bali-after-run-club-excludes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-07-27T12:56:14.000Z",
+      "summary": "Two Dutch men have been banned from re-entering Indonesia over alleged violations and discrimination."
+    },
+    {
+      "id": "3886872a2556aea3",
+      "title": "Three killed in suspected shootout in US city of Seattle, police say",
+      "url": "https://www.aljazeera.com/news/2026/7/27/three-killed-in-suspected-shootout-in-us-city-of-seattle-police-say?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-07-27T12:49:37.000Z",
+      "summary": "Police say one suspect surrendered at the scene of the shooting, while the other remains on the loose."
+    },
+    {
+      "id": "31a7c70b978754c0",
+      "title": "Mercedes driver scout Lagrue to join Red Bull",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cvg7kdnv4p2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-27T12:48:10.000Z",
+      "summary": "The Mercedes driver scout involved in discovering Kimi Antonelli is leaving the team to join rivals Red Bull."
+    },
+    {
+      "id": "eeb60f4927d08956",
+      "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-07-27T12:33:31.000Z",
+      "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison."
+    },
+    {
+      "id": "d3b088c74588a52e",
+      "title": "'Dr Death', Body Worlds creator Gunther von Hagens, dies at 81",
+      "url": "https://www.bbc.co.uk/news/articles/czjlnrn47lwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-07-27T12:28:07.000Z",
+      "summary": "The family of the anatomist vowed to carry out his wish for his body to be preserved using the plastination technique he developed himself."
+    },
+    {
+      "id": "434b56ee33b62a96",
+      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-07-27T12:06:22.000Z",
+      "summary": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct response to mounting concerns over the safety of advanced AI systems after a rogue OpenAI model escaped containment and attac"
+    },
+    {
+      "id": "ddf0dd30b2198947",
+      "title": "Ad-din Hospital Gets License Back",
+      "url": "https://www.bd24live.com/ad-din-hospital-gets-license-back/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-07-27T11:35:06.000Z",
+      "summary": "The government has reinstated the license of Ad-din Medical College Hospital in Magbazar, Dhaka, subject to three conditions. On Monday (July 27), the relevant authorities decided to return the hospital’s… The post Ad-din Hospital Gets License Back appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "01f184dab1d85555",
+      "title": "Wildfires in southwest Europe: What we know so far",
+      "url": "https://www.aljazeera.com/news/2026/7/27/wildfires-in-southwest-europe-what-we-know-so-far?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "disasters",
+      "region": "europe",
+      "publishedAt": "2026-07-27T11:32:00.000Z",
+      "summary": "More than 300,000 people have been evacuated from their homes to safety in France and Spain."
+    },
+    {
+      "id": "3339635bc60e9bb5",
+      "title": "Sooryavanshi praised by Laxman after teen stars against Zimbabwe in T20",
+      "url": "https://www.aljazeera.com/sports/2026/7/27/india-zimbabwe-t20-cricket-match-vaibhav-sooryavanshi-vvs-laxman?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-07-27T11:25:48.000Z",
+      "summary": "After a difficult start to his international career in England, teen prodigy Sooryavanshi stepped up against Zimbabwe."
+    },
     {
       "id": "24dbfbcf5a6b10d0",
       "title": "How 'fire-generated thunderstorms' make wildfires more deadly",
@@ -22,14 +292,14 @@
       "summary": "The uproar throws the Italian Football Federation into further disarray following Italy's third consecutive failure to qualify for the World Cup."
     },
     {
-      "id": "e1b479cc0c899531",
-      "title": "Moment Ukrainian drones strike Russia’s Belgorod",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/moment-ukrainian-drones-strike-russias-belgorod?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-07-27T10:59:17.000Z",
-      "summary": "Dramatic videos captured the moment Ukrainian drones hit Belgorod, a Russian city near the Ukrainian border."
+      "id": "12aedfc788a6a4f7",
+      "title": "Brighton captain Symonds signs new 'long-term' deal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpvwrg0kmgro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-27T11:00:39.000Z",
+      "summary": "Brighton captain Maisie Symonds signs a new contract, described by the club as long-term."
     },
     {
       "id": "6641e784c55e8318",
@@ -52,16 +322,6 @@
       "summary": "The authorities say the ex-sportsman had overstayed his visa and had been arrested multiple times."
     },
     {
-      "id": "94fa028cf74930c9",
-      "title": "Why has the US halted its bombing of Iran?",
-      "url": "https://www.aljazeera.com/news/2026/7/27/why-has-the-us-halted-its-bombing-of-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-27T10:55:52.000Z",
-      "summary": "Tit-for-tat strikes have halted in the Middle East even as the scope of the US-Israel war on Iran widens."
-    },
-    {
       "id": "25c7115ecd83f1f9",
       "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
       "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
@@ -70,36 +330,6 @@
       "region": "global",
       "publishedAt": "2026-07-27T10:46:50.000Z",
       "summary": "Police say two suspects were shooting at each other and one of them is in custody and one at large."
-    },
-    {
-      "id": "95f120ed99d18b4d",
-      "title": "Oil price dives as US and Iran pause attacks",
-      "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-27T10:43:02.000Z",
-      "summary": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict."
-    },
-    {
-      "id": "ff178ff09c48504e",
-      "title": "Israeli forces storm multiple West Bank towns, settler violence worsens",
-      "url": "https://www.aljazeera.com/news/2026/7/27/israeli-forces-storm-multiple-west-bank-towns-settler-violence-worsens?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "weather_climate",
-      "region": "middle_east",
-      "publishedAt": "2026-07-27T10:41:01.000Z",
-      "summary": "At least 20 West Bank towns and villages have been raided, with homes demolished and dozens of Palestinians arrested."
-    },
-    {
-      "id": "a0d358dbc22e6475",
-      "title": "Businessman and philanthropist Sir Ian Wood dies aged 84",
-      "url": "https://www.bbc.co.uk/news/articles/ce3qv0p9105o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-07-27T10:33:08.000Z",
-      "summary": "The Aberdeen-based businessman turned his family's boat repair firm into an oil and gas engineering giant."
     },
     {
       "id": "7ae0b20e2e796aeb",
@@ -122,16 +352,6 @@
       "summary": "The company's shares soared by nearly 470% in its market debut, as the AI boom drives chip demand."
     },
     {
-      "id": "5c03dac023e76dd7",
-      "title": "Argentine leader calls Brazilian president a 'thief' and a 'convict'",
-      "url": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-07-27T10:19:34.000Z",
-      "summary": "Javier Milei spoke at a campaign rally for right-wing presidential candidate Flávio Bolsonaro, who is running against Lula."
-    },
-    {
       "id": "d3839bf1b0659d30",
       "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
       "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
@@ -140,36 +360,6 @@
       "region": "global",
       "publishedAt": "2026-07-27T09:59:15.000Z",
       "summary": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court."
-    },
-    {
-      "id": "d401021102aa6e3f",
-      "title": "Sam Altman says AI has entered ‘singularity’: Should we be worried?",
-      "url": "https://www.aljazeera.com/news/2026/7/27/sam-altman-says-ai-has-entered-singularity-should-we-be-worried?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-07-27T09:37:49.000Z",
-      "summary": "The 'singularity' refers to the point at which AI outpaces human intelligence and becomes difficult to control."
-    },
-    {
-      "id": "850d308bf53e45c4",
-      "title": "FIFA’s Infantino issues letter, accuses World Cup critics of spreading hate",
-      "url": "https://www.aljazeera.com/sports/2026/7/27/fifa-president-infantino-accuses-2026-world-cup-critics-of-spreading-hate-letter?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-07-27T09:33:55.000Z",
-      "summary": "FIFA faced criticism over several issues during the tournament, including a debate over US visa restrictions for teams."
-    },
-    {
-      "id": "bebdc27c50548280",
-      "title": "Macron calls crisis meeting of French cabinet as blaze approaches Bordeaux",
-      "url": "https://www.aljazeera.com/news/2026/7/27/macron-calls-crisis-meeting-of-french-cabinet-as-blaze-approaches-bordeaux?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "weather_climate",
-      "region": "europe",
-      "publishedAt": "2026-07-27T09:26:42.000Z",
-      "summary": "The situation in France is currently stable, authorities say, but another heatwave is on the way."
     },
     {
       "id": "7eeb94d6c51495ee",
@@ -182,46 +372,6 @@
       "summary": "Film studio Universal takes down a high-quality bootleg version of the film, which appeared on X."
     },
     {
-      "id": "827243d42b23a397",
-      "title": "The Ban: A censorship loophole during the conflict in Northern Ireland",
-      "url": "https://www.aljazeera.com/video/witness/2026/7/27/the-ban-a-censorship-loophole-during-the-conflict-in-northern-ireland?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-07-27T09:05:24.000Z",
-      "summary": "A censorship saga about how the voices of republican leaders in Northern Ireland were banned by the British government."
-    },
-    {
-      "id": "3aeb7b87648f92da",
-      "title": "Diomande, Real Madrid ‘agree terms’ for transfer of Leipzig winger",
-      "url": "https://www.aljazeera.com/sports/2026/7/27/yan-diomande-real-madrid-agree-terms-transfer-deal-football-leipzig?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-27T09:00:45.000Z",
-      "summary": "After an impressive campaign at the FIFA World Cup, Yan Diomande will reportedly join world's richest football club."
-    },
-    {
-      "id": "d2e7f99db25e4930",
-      "title": "Ferrari must 'do better' after errors in Hungary",
-      "url": "https://www.bbc.co.uk/sport/formula1/videos/c4gkrd4e8kno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-27T09:00:38.000Z",
-      "summary": "The BBC F1 team discuss Ferrari's performance at the Hungarian Grand Prix as, despite appearing to be the car to beat in practice, Charles Leclerc and Lewis Hamilton finish the race in fourth and fifth respectively."
-    },
-    {
-      "id": "c49a0522b35d747e",
-      "title": "Death toll from Pakistan monsoon rains, floods tops 100",
-      "url": "https://www.aljazeera.com/news/2026/7/27/death-toll-from-pakistan-monsoon-rains-floods-tops-100?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-27T08:53:05.000Z",
-      "summary": "Punjab’s monsoon season usually lasts until September, and more rain is expected this week."
-    },
-    {
       "id": "e507ad0babf2ce8b",
       "title": "Final Date Announced for Publication of SSC and Equivalent Examination Results",
       "url": "https://www.bd24live.com/final-date-announced-for-publication-of-ssc-and-equivalent-examination-results/",
@@ -230,46 +380,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-07-27T08:50:11.000Z",
       "summary": "The results of this year’s SSC and equivalent examinations will be published simultaneously across the country on August 10. This information was announced in a press release by the Bangladesh… The post Final Date Announced for Publication of SSC and Equivalent Examination Results appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "7c313552137a5465",
-      "title": "Greta Thunberg joins London rally in support of Indian students",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/greta-thunberg-joins-london-rally-in-support-of-indian-students?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "weather_climate",
-      "region": "europe",
-      "publishedAt": "2026-07-27T08:43:47.000Z",
-      "summary": "Climate activist Greta Thunberg joined a London rally in support of India’s Cockroach Janta Party-led student movement."
-    },
-    {
-      "id": "7ac067b017bd781f",
-      "title": "Spanish PM Pedro Sanchez thanks young Gaza artist for painting him",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/spanish-pm-pedro-sanchez-thanks-young-gaza-artist-for-painting-him?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "middle_east",
-      "publishedAt": "2026-07-27T08:43:15.000Z",
-      "summary": "Spanish Prime Minister Pedro Sanchez has thanked Layan Al Quqa, a young artist in Gaza for painting a mural of him"
-    },
-    {
-      "id": "81b1dc9f98d3b4f6",
-      "title": "World’s oldest professional footballer scores first goal in years",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/worlds-oldest-professional-footballer-scores-first-goal-in-years?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-27T08:15:40.000Z",
-      "summary": "World’s oldest professional footballer scores first goal in years"
-    },
-    {
-      "id": "0872be630c6f2536",
-      "title": "Infantino tells Fifa critics to 'meditate, pray or watch football'",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz0515973gpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-27T08:07:28.000Z",
-      "summary": "Fifa president Gianni Infantino tells critics to \"meditate, pray or watch a football match\" instead of \"spreading hate and false rumours\" about him and the World Cup."
     },
     {
       "id": "fb13dd9560e20f78",
@@ -282,26 +392,6 @@
       "summary": "Birdwatchers tell the BBC how apps have changed their lifelong hobby - and attracted new birders."
     },
     {
-      "id": "1238175852085ddf",
-      "title": "Rapper Yung Filly tells trial 'vibes were good' with woman who accuses him of rape",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g044ydl4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-27T07:37:11.000Z",
-      "summary": "The rapper takes the witness stand at his trial in Australia where he denies raping a fan in a hotel room."
-    },
-    {
-      "id": "6037604cacf4943e",
-      "title": "Record Spurs spend shows new ambition - Van de Ven",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gw34l26xzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-27T07:00:41.000Z",
-      "summary": "Micky van de Ven says Tottenham's record spending highlights a \"new ambition\" after an \"unacceptable\" season."
-    },
-    {
       "id": "61a9d3799bc7e8b1",
       "title": "Uganda begins emergency food handouts after 19 die from hunger",
       "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
@@ -310,26 +400,6 @@
       "region": "global",
       "publishedAt": "2026-07-27T07:00:34.000Z",
       "summary": "Government move follows months of drought and crop failures in Karamoja, with 1.5m people facing malnutrition Uganda has launched emergency food relief distribution after at least 19 deaths from hunger were reported in an area of prolonged drought in the east of the country. A crisis has been building in the Karamoja region of Uganda as crops have failed without the season’s expected rains, leaving the region’s 1.5 m"
-    },
-    {
-      "id": "297e431cb18ea093",
-      "title": "UK PM pledges continued support for Ukraine ahead of Zelensky visit",
-      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-07-27T06:48:02.000Z",
-      "summary": "The Ukrainian president will be Andy Burnham's first international visitor since taking office."
-    },
-    {
-      "id": "9530087e1a08052a",
-      "title": "Diomande agrees Real Madrid terms as PSG step away",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqx74lpprd7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-07-27T05:46:37.000Z",
-      "summary": "RB Leipzig winger Yan Diomande agrees personal terms with Real Madrid after Paris St-Germain withdraw their interest."
     },
     {
       "id": "ca2135b7edd25131",
@@ -370,16 +440,6 @@
       "region": "global",
       "publishedAt": "2026-07-26T19:36:38.000Z",
       "summary": "Meta’s AI glasses have been the focus of controversy. | Photo: Amelia Holowaty Krales / The Verge According to Mark Gurman, Apple is planning to reveal its first smart glasses at WWDC next June, with an expectation that they'll launch by the end of 2027. Part of the hold-up may be around the company's efforts to get its privacy features and messaging in order. Smart glasses in general, and Meta's in particular, have "
-    },
-    {
-      "id": "0ac3018f76f9fb28",
-      "title": "Berlin Pride attack suspect shot and killed during police operation",
-      "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-07-26T19:21:26.000Z",
-      "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin."
     },
     {
       "id": "7ecd041efa2480e1",
@@ -462,26 +522,6 @@
       "summary": "There are currently 245 algae blooms across water systems in Northern Ireland."
     },
     {
-      "id": "d583fad43263194f",
-      "title": "Burkina Faso’s Military Ruler Declares War Against ‘Radical Islam’",
-      "url": "https://www.bd24live.com/burkina-fasos-military-ruler-declares-war-against-radical-islam/",
-      "source": "BD24Live",
-      "category": "war_conflict",
-      "region": "bangladesh",
-      "publishedAt": "2026-07-26T05:50:14.000Z",
-      "summary": "Burkina Faso’s President and military ruler, Ibrahim Traoré, has declared the start of a war against ‘radical Islam.’ He stated that the state would take stringent measures against those who… The post Burkina Faso’s Military Ruler Declares War Against ‘Radical Islam’ appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "bc6638005e81678e",
-      "title": "Prime Minister Inaugurates Army Headquarters Selection Board-2026",
-      "url": "https://www.bd24live.com/prime-minister-inaugurates-army-headquarters-selection-board-2026/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-07-26T05:25:13.000Z",
-      "summary": "Prime Minister Tareque Rahman has officially inaugurated the ‘Army Headquarters Selection Board-2026’ of the Bangladesh Army. He inaugurated the selection board on Sunday (July 26) at the Army Headquarters, attending… The post Prime Minister Inaugurates Army Headquarters Selection Board-2026 appeared first on Bangla Online News Portal."
-    },
-    {
       "id": "850effba49b624d4",
       "title": "Venezuelan men sue aviation firms who flew them to notorious Salvadorian jail",
       "url": "https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation",
@@ -522,16 +562,6 @@
       "summary": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]"
     },
     {
-      "id": "4741d075ed42fc92",
-      "title": "Google basically confirms the Pixel 11 is getting a price hike",
-      "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
-      "source": "The Verge",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-07-25T18:13:36.000Z",
-      "summary": "Google's vice president of devices and services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues due to the explosion of AI data centers, the rumored price hike is not a complete surprise. Companies from Apple to Nintendo and Microsoft to Roku have all raised their prices in response to the soaring"
-    },
-    {
       "id": "30f81575349d1072",
       "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
@@ -560,6 +590,36 @@
       "region": "global",
       "publishedAt": "2026-07-25T09:31:09.000Z",
       "summary": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]"
+    },
+    {
+      "id": "2c6d598250c5255e",
+      "title": "It's the cocktail taking young drinkers by storm - but the packaging is 'unrecyclable'",
+      "url": "https://www.bbc.co.uk/news/articles/cr490335z1eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-07-25T06:14:54.000Z",
+      "summary": "BuzzBallz cannot be recycled because the metal lid and plastic body are attached, say experts."
+    },
+    {
+      "id": "ccc2d79deeb0605e",
+      "title": "Watch: SpaceX's successful test flight and splashdown for Starship",
+      "url": "https://www.bbc.co.uk/news/articles/czxqnwzqqw8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "asia_pacific",
+      "publishedAt": "2026-07-25T00:41:50.000Z",
+      "summary": "The megarocket pulls off a soft splashdown in the Indian Ocean an hour after launch."
+    },
+    {
+      "id": "7c608f21ba593727",
+      "title": "Are BuzzBallz actually recyclable?",
+      "url": "https://www.bbc.co.uk/news/videos/c20e45g0ynqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-07-24T22:03:36.000Z",
+      "summary": "BuzzBallz cannot be recycled as the metal lid and plastic body are attached, say experts."
     },
     {
       "id": "0e9912687ae912b0",
@@ -600,16 +660,6 @@
       "region": "americas",
       "publishedAt": "2026-07-24T17:58:00.000Z",
       "summary": "At least 90 active blazes in British Columbia in what PM says is one of the country’s most intense seasons on record How dangerous are wildfires and how can we stop them from getting worse? Fresh wildfires have broken out in western Canada and forests continued to ⁠burn in Ontario as the country ⁠battled what the prime ​minister, Mark Carney, called one of the most intense wildfire seasons on record. Nearly 34,000 li"
-    },
-    {
-      "id": "9cd24b36c37e7939",
-      "title": "Rain returns for some parts of the UK",
-      "url": "https://www.bbc.co.uk/news/videos/c4gj0040xjjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "creativity_arts",
-      "region": "europe",
-      "publishedAt": "2026-07-24T16:12:53.000Z",
-      "summary": "Rain is returning for some of us this weekend – but is it enough for places that have seen little or now rain for weeks?"
     },
     {
       "id": "11504d08eda3103c",
@@ -712,16 +762,6 @@
       "summary": "The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last year Two Russian men have been found guilty by an Angolan court of terrorism and spying after being accused of planning a coup and helping to organise deadly demonstrations in the southern African country last year. Lev Lakshtanov and Igor Ratchin were sentenced to eight and 11 years in jail respectively. T"
     },
     {
-      "id": "62b1fb4de421602f",
-      "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
-      "source": "The Guardian World",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-07-23T14:06:01.000Z",
-      "summary": "September exercise called off after Kenya raises concerns over funding and jurisdiction for criminal offences The British army has been forced to cancel training for its troops in Kenya after the Kenyan government refused to ratify a bilateral defence agreement. While the UK government wanted to renew the existing agreement, Kenyan lawmakers had sought changes to give local authorities greater powers to hold British "
-    },
-    {
       "id": "a7abb6f2adb9d0d7",
       "title": "Amazon gaming boss predicts future where players no longer need consoles",
       "url": "https://www.bbc.co.uk/news/articles/c9803j74091o?at_medium=RSS&at_campaign=rss",
@@ -752,16 +792,6 @@
       "summary": "Talking to The Economist, Musk said he doesn't care if people hate him and said he was not a racist."
     },
     {
-      "id": "8723ebc3016cbd8b",
-      "title": "The power line that could reshape New York’s grid is hitting snags",
-      "url": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
-      "source": "MIT Tech Review",
-      "category": "ai_innovation",
-      "region": "americas",
-      "publishedAt": "2026-07-23T09:00:00.000Z",
-      "summary": "On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens called the Champlain Hudson Power Express (CHPE).…"
-    },
-    {
       "id": "b7b74201fd61eb0d",
       "title": "Total solar eclipse books out hotels two years in advance in New Zealand city",
       "url": "https://www.theguardian.com/world/2026/jul/23/total-solar-eclipse-new-zealand-2028-dunedin",
@@ -770,16 +800,6 @@
       "region": "global",
       "publishedAt": "2026-07-23T04:59:08.000Z",
       "summary": "Dunedin will be the focal point, having last experienced such an eclipse in 1163 – before any humans reached New Zealand Hotels are booking out two years in advance in the New Zealand city of Dunedin as it prepares for the region’s first total solar eclipse in more than 850 years. At 4.17pm on 22 July 2028, the moon will pass in front of the sun, casting a roughly 100km-wide shadowy band across parts of southern New "
-    },
-    {
-      "id": "7e117c164cf0b0a0",
-      "title": "Teenager drops social media addiction lawsuit against Meta",
-      "url": "https://www.bbc.co.uk/news/articles/c5yrdg4q9vgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-07-22T19:04:47.000Z",
-      "summary": "Claims from a 15-year-old boy were set to go to trial next week in Los Angeles, but the case has now been dropped."
     },
     {
       "id": "944c735e686621a0",
@@ -800,16 +820,6 @@
       "region": "global",
       "publishedAt": "2026-07-22T11:40:11.000Z",
       "summary": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement."
-    },
-    {
-      "id": "a6eed70497bc8d83",
-      "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
-      "url": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
-      "source": "MIT Tech Review",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-07-22T09:00:00.000Z",
-      "summary": "When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a star during photography. It will allow astronomers…"
     },
     {
       "id": "c9e81a41da89cf7e",
