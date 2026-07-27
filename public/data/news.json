@@ -1,55 +1,475 @@
 {
-  "generatedAt": "2026-07-27T14:53:49.010Z",
+  "generatedAt": "2026-07-27T23:12:24.125Z",
   "articles": [
     {
-      "id": "a82598266bfa0b59",
-      "title": "Chinese RAM company CXMT makes a $484 billion stock market debut",
-      "url": "https://www.theverge.com/tech/971358/cxmt-china-ram-stock-market-debut",
-      "source": "The Verge",
-      "category": "economy_business",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-27T14:27:16.000Z",
-      "summary": "The China-based memory firm ChangXin Memory Technologies (CXMT) had a massive first day on the Shanghai stock exchange after its shares surged 466 percent, as reported earlier by The Wall Street Journal and CNBC. The stock market frenzy boosted CXMT's valuation to $484 billion, making it the most valuable Chinese company listed on the exchange. CXMT looks to challenge Samsung, Micron, and SK Hynix, which currently co"
-    },
-    {
-      "id": "80d76e1437283289",
-      "title": "Honduras’s Hernandez returns home after Trump pardon: How it happened",
-      "url": "https://www.aljazeera.com/news/2026/7/27/hondurass-hernandez-returns-home-after-trump-pardon-how-it-happened?traffic_source=rss",
-      "source": "Al Jazeera",
+      "id": "234e6c2679297e01",
+      "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
+      "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "creativity_arts",
       "region": "global",
-      "publishedAt": "2026-07-27T14:24:50.000Z",
-      "summary": "Sentenced to 45 years in the US, Hernandez returns home to his family, party and supporters after Trump pardons him."
+      "publishedAt": "2026-07-27T23:04:41.000Z",
+      "summary": "One suspect is in custody, while a second is being sought and a third is thought to have died at the scene, court documents show."
     },
     {
-      "id": "95f120ed99d18b4d",
-      "title": "Oil price dives as US and Iran pause attacks",
-      "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+      "id": "cb894fc49e1c0a9b",
+      "title": "The prehistoric species fighting for survival in Lough Neagh",
+      "url": "https://www.bbc.co.uk/news/articles/ce97nze240vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "europe",
+      "publishedAt": "2026-07-27T23:01:36.000Z",
+      "summary": "Restrictions have been placed on fishing the critically-endangered European eel in Lough Neagh to try to restore the species"
+    },
+    {
+      "id": "5c81b40c2fd01664",
+      "title": "Is it time to stop using glue and labels on paper?",
+      "url": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-07-27T23:00:06.000Z",
+      "summary": "Labels and adhesives can prevent paper from being recycled but there's new tech aimed at changing that."
+    },
+    {
+      "id": "571b4db6a165a3e0",
+      "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
+      "url": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-07-27T22:58:49.000Z",
+      "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address."
+    },
+    {
+      "id": "a6b31893fe44bfe8",
+      "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-07-27T22:49:44.000Z",
+      "summary": "Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks. [...]"
+    },
+    {
+      "id": "7b80e13c93c173ac",
+      "title": "Shot fired outside US consulate in Canada for second time this year",
+      "url": "https://www.aljazeera.com/news/2026/7/27/shot-fired-outside-us-consulate-in-canada-for-second-time-this-year?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-07-27T22:34:38.000Z",
+      "summary": "Police have previously suggested a link between anti-Jewish attacks in the city and shootings at the US consulate."
+    },
+    {
+      "id": "f8738ef22dbdc2d9",
+      "title": "Greaves takes 5-0 in incredible Test bowling spell",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cx2rjv5599go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "asia_pacific",
+      "publishedAt": "2026-07-27T22:27:14.000Z",
+      "summary": "West Indies all-rounder Justin Greaves takes five wickets without conceding a run during an incredible spell of bowling on day three of the first Test against Pakistan."
+    },
+    {
+      "id": "6ee8dba983bf27b8",
+      "title": "Some people's chats with Claude AI found publicly available online",
+      "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-07-27T22:14:04.000Z",
+      "summary": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible."
+    },
+    {
+      "id": "de6f46819efd0b46",
+      "title": "A Japanese town wrestles with identity after protests over its first mosque",
+      "url": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "creativity_arts",
+      "region": "asia_pacific",
+      "publishedAt": "2026-07-27T22:08:21.000Z",
+      "summary": "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions."
+    },
+    {
+      "id": "f761a13284c8168e",
+      "title": "Gates smashed and crops destroyed as farmers threatened by gangs hunting hares",
+      "url": "https://www.bbc.co.uk/news/articles/cwylk005dg7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-07-27T21:40:30.000Z",
+      "summary": "Some barricade the entrances to their fields with concrete blocks and fallen trees."
+    },
+    {
+      "id": "1c928d1183a4a272",
+      "title": "Video shows man subdued after stabbing three women in Paris",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/video-shows-man-subdued-after-stabbing-three-women-in-paris?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-07-27T21:27:08.000Z",
+      "summary": "Three women were wounded, two of them seriously, in a knife attack near Porte de Clichy in Paris."
+    },
+    {
+      "id": "161dd6f8ee20e752",
+      "title": "Trump asks US Supreme Court to allow mail-in voting restrictions",
+      "url": "https://www.aljazeera.com/news/2026/7/27/trump-asks-us-supreme-court-to-allow-mail-in-voting-restrictions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-07-27T21:24:31.000Z",
+      "summary": "A lower court blocked the mail-in ballot restrictions, ruling Trump lacked authority to change state election rules."
+    },
+    {
+      "id": "28c53f7365856620",
+      "title": "UN slams Israel’s expansion of illegal settlements in occupied West Bank",
+      "url": "https://www.aljazeera.com/news/2026/7/27/un-slams-israels-expansion-of-illegal-settlements-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "middle_east",
+      "publishedAt": "2026-07-27T21:17:15.000Z",
+      "summary": "UN chief Guterres says settlements a 'flagrant violation' of international law, amid escalating violence."
+    },
+    {
+      "id": "0e19def31d30e703",
+      "title": "Trump says Iran war talks taking place during lull in strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "war_conflict",
       "region": "middle_east",
-      "publishedAt": "2026-07-27T14:22:24.000Z",
-      "summary": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict."
+      "publishedAt": "2026-07-27T21:10:56.000Z",
+      "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place."
+    },
+    {
+      "id": "638133f6a07c0b86",
+      "title": "Nvidia plans $250bn push to bolster OpenAI’s infrastructure ambitions",
+      "url": "https://www.aljazeera.com/economy/2026/7/27/nvidia-plans-250bn-push-to-bolster-openais-infrastructure-ambitions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-07-27T21:08:21.000Z",
+      "summary": "Political backlash grows as US states propose bans on new data centres, raising challenges for Nvidia and AI industry."
+    },
+    {
+      "id": "79e06f304a183203",
+      "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
+      "url": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-07-27T21:08:15.000Z",
+      "summary": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]"
+    },
+    {
+      "id": "7db54251926de661",
+      "title": "Hopes of return to diplomacy as US-Iran hold fire for third day",
+      "url": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-27T21:04:09.000Z",
+      "summary": "Mediators from Qatar and Pakistan work to restart ceasefire talks amid fragile pause in hostilities."
+    },
+    {
+      "id": "dd6f163101b2567b",
+      "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
+      "url": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-07-27T21:00:25.000Z",
+      "summary": "A proof-of-concept exploit for \"Certighost,\" a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain. [...]"
+    },
+    {
+      "id": "d425fa7d84814848",
+      "title": "Will Peru’s new leader Keiko Fujimori reject her father’s legacy?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/27/will-perus-new-leader-keiko-fujimori-reject-her-fathers-legacy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-07-27T20:47:26.000Z",
+      "summary": "Keiko Fujimori was elected president and many people are sceptical she will be able to unite Peru as promised."
+    },
+    {
+      "id": "b8d4d778c076d652",
+      "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
+      "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "disasters",
+      "region": "global",
+      "publishedAt": "2026-07-27T20:34:55.000Z",
+      "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\"."
+    },
+    {
+      "id": "26faa4eda70ddd0d",
+      "title": "British court dismisses Bahrain’s bid to block activists’ spyware lawsuit",
+      "url": "https://www.aljazeera.com/news/2026/7/27/british-court-dismisses-bahrains-bid-to-block-activists-spyware-lawsuit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-07-27T20:32:59.000Z",
+      "summary": "Ruling establishes that countries using spyware on people in the UK can be sued."
+    },
+    {
+      "id": "b9de115eeb152f4b",
+      "title": "Injured Draper withdraws on eve of another tournament",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cx25jndr1zyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-27T20:30:35.000Z",
+      "summary": "Former British number one Jack Draper withdraws from another event because of issues around his recurring long-term arm injury."
+    },
+    {
+      "id": "789d5e237714a751",
+      "title": "'Nothing makes sense' - Ramsay-Peaty beaten again",
+      "url": "https://www.bbc.co.uk/sport/swimming/articles/cqlx2r3l6z3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-27T20:29:33.000Z",
+      "summary": "Adam Ramsay-Peaty says \"nothing makes sense\" as he again has to settle for bronze at the Commonwealth Games in Glasgow."
+    },
+    {
+      "id": "d68c4af0178c26c7",
+      "title": "Hakeem Jeffries puts affordability at centre of Democrats’ midterm campaign",
+      "url": "https://www.aljazeera.com/economy/2026/7/27/hakeem-jeffries-puts-affordability-at-centre-of-democrats-midterm-campaign?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-07-27T20:27:29.000Z",
+      "summary": "US House Democratic leader unveils 'Fighting for an Affordable America' agenda, blaming Donald Trump for rising costs."
+    },
+    {
+      "id": "a3a049e7c8679e2b",
+      "title": "Trump takes economic message to Michigan amid dwindling popularity",
+      "url": "https://www.aljazeera.com/news/2026/7/27/trump-takes-economic-message-to-michigan-amid-dwindling-popularity?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-07-27T20:23:12.000Z",
+      "summary": "US president is suffering from low approval ratings in state that has become 'ground zero' for his trade policies."
+    },
+    {
+      "id": "fc7f81b6aac1e852",
+      "title": "Inter in advanced talks with England defender Stones",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgewgj8qwvjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-27T20:02:14.000Z",
+      "summary": "England defender John Stones is in advanced talks with Inter Milan about joining the Italian side on a free transfer."
+    },
+    {
+      "id": "3e53cb4db45dafc3",
+      "title": "'Do the right thing': Savannah Guthrie makes another plea to mother's kidnappers",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4grv7pp8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-07-27T19:54:24.000Z",
+      "summary": "The US journalist has made several social media pleas for the abductors of her mother Nancy to share where she is."
+    },
+    {
+      "id": "d522e589ef090d99",
+      "title": "Wildfire witnesses describe 'wall of flames', fear and stress",
+      "url": "https://www.bbc.co.uk/news/articles/cly5qwwdvr1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "disasters",
+      "region": "global",
+      "publishedAt": "2026-07-27T19:50:35.000Z",
+      "summary": "Local and visitors tell the BBC of disbelief and anxiety as wildfires force more than 300,000 people to evacuate."
+    },
+    {
+      "id": "600de0c78bdf34ee",
+      "title": "Nanoleaf&#8217;s colorful pegboard and shelf kit is half off",
+      "url": "https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "americas",
+      "publishedAt": "2026-07-27T19:24:55.000Z",
+      "summary": "Nanoleaf's Blocks Combo XL Smarter Kit comes with nine color-changing LED panels. | Image: Nanoleaf Nanoleaf’s Blocks Combo XL Smarter Kit is a fun back-to-school buy that can add pops of customizable light and storage to your wall. It combines colorful smart lighting panels with a low-profile shelf and pegboard, and right now you can buy the kit for half off at $99.99 from Nanoleaf, which marks a new low price. Nano"
+    },
+    {
+      "id": "5d34a1ecef474512",
+      "title": "Industrial chicken farming accelerating spread of diarrhoea bacteria, study finds",
+      "url": "https://www.theguardian.com/food/2026/jul/27/industrial-chicken-farming-accelerating-spread-of-diarrhoea-bacteria-study-finds",
+      "source": "The Guardian Environment",
+      "category": "environment",
+      "region": "global",
+      "publishedAt": "2026-07-27T19:00:17.000Z",
+      "summary": "Intensive nature of modern chicken farming creates ideal conditions for campylobacter, allowing bacteria to evolve Industrial chicken farming is accelerating the spread of the world’s most common bacterial cause of diarrhoea, scientists have found. The study found a dramatic increase in the exchange of campylobacter strains between wild birds and chickens as farming has intensified, creating the ideal conditions for "
+    },
+    {
+      "id": "1dd32dce66ea401b",
+      "title": "Chelsea open talks to sign Henderson and Welbeck",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2d79ddvg4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-27T18:54:31.000Z",
+      "summary": "Chelsea are in talks to sign Brentford midfielder Jordan Henderson and Brighton striker Danny Welbeck."
+    },
+    {
+      "id": "33cf4d0394339521",
+      "title": "Cracker Barrel chief executive steps down a year after rebrand chaos",
+      "url": "https://www.bbc.co.uk/news/articles/cr49z0r54nko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-07-27T18:49:54.000Z",
+      "summary": "Cracker Barrel CEO Julie Masino will exit following customer backlash over modern logo redesign."
+    },
+    {
+      "id": "bda1a4b1db663826",
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "source": "MIT Tech Review",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-07-27T18:00:00.000Z",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got…"
+    },
+    {
+      "id": "7cfc8d6b97622a60",
+      "title": "English football agrees trial to end goalkeeper tactical timeouts",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyjxd53zkpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-27T17:32:56.000Z",
+      "summary": "English football will implement a trial to try to eradicate the goalkeeper tactical timeout this season."
+    },
+    {
+      "id": "9367cec7dedc4257",
+      "title": "Liverpool's centre-back situation and why Iraola must act",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpw9zw972l2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-27T16:58:59.000Z",
+      "summary": "BBC Sport looks at Liverpool's issues at centre-back, and what Andoni Iraola might do to fix them."
+    },
+    {
+      "id": "1a40bbd304f6d43b",
+      "title": "Shots fired at US consulate in Toronto for a second time this year",
+      "url": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-07-27T16:56:57.000Z",
+      "summary": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack."
+    },
+    {
+      "id": "726c8a2b85d1ea66",
+      "title": "Why China is giving away its best AI models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "source": "The Verge",
+      "category": "economy_business",
+      "region": "americas",
+      "publishedAt": "2026-07-27T16:51:50.000Z",
+      "summary": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, July 20th. | Image: LONG WEI/ Feature China/Future Publishing via Getty Images Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a frac"
+    },
+    {
+      "id": "25efdff1651afd0c",
+      "title": "Europe wildfires: Officials warn that wildfires could still be burning in November – as it happened",
+      "url": "https://www.theguardian.com/world/live/2026/jul/27/europe-wildfires-france-spain-emmanuel-macron-crisis-meeting-pedro-sanchez-castillon-latest-news-updates",
+      "source": "The Guardian Environment",
+      "category": "disasters",
+      "region": "europe",
+      "publishedAt": "2026-07-27T16:42:23.000Z",
+      "summary": "Firefighters in France and Spain face another day battling wildfires, as another heatwave set to hit this week ‘It felt like being in a disaster movie’: inside the evacuation from France’s Bordeaux wildfires Provisional data on wildfires in Spain shows that more than 170,000 hectares of forest land have been affected since the beginning of the year – a nearly sixfold increase on the almost 29,000 recorded in the same"
+    },
+    {
+      "id": "4a5921e2a9df9f66",
+      "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+      "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-07-27T16:33:05.000Z",
+      "summary": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\"."
+    },
+    {
+      "id": "c92d03f0fcf0ed13",
+      "title": "Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago",
+      "url": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
+      "source": "The Guardian World",
+      "category": "diplomacy",
+      "region": "global",
+      "publishedAt": "2026-07-27T16:27:44.000Z",
+      "summary": "Nelson Haase Mazzei was sentenced for murdering Jara in 2023, but fled from authorities in Chile More than 50 years after the murder of the Chilean folk singer Víctor Jara, the last man wanted in connection with his death has been tracked down and brought to justice. Nelson Haase Mazzei, a retired colonel, fled from authorities in 2023 after he and six other retired soldiers were sentenced in absentia for murdering J"
+    },
+    {
+      "id": "42948933cefb9cd9",
+      "title": "Shots fired near US consulate in Canada for second time in four months",
+      "url": "https://www.theguardian.com/world/2026/jul/27/shots-fired-us-consulate-toronto",
+      "source": "The Guardian World",
+      "category": "diplomacy",
+      "region": "americas",
+      "publishedAt": "2026-07-27T16:20:56.000Z",
+      "summary": "No one was injured and no suspects have been identified in connection to shooting near Toronto compound, police say Shots were fired near the US consulate in Toronto early on Monday but no one was injured in the second shooting near the diplomatic compound in four months. “Officers heard a firearm being discharged in the area,” and “a white sedan was seen fleeing the scene”, Toronto police said on X. Continue reading"
+    },
+    {
+      "id": "de485ad2b1e440ea",
+      "title": "YouTube Premium will include Peacock starting next year",
+      "url": "https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-07-27T16:18:52.000Z",
+      "summary": "YouTube's ad-free Premium subscription is getting another perk: access to Peacock. In an announcement on Monday, NBCUniversal says the multi-year agreement will allow Premium subscribers to stream Peacock's ad-supported shows, movies, and live sports directly through the YouTube app in 2027. YouTube will bundle Peacock in its standard subscription, which increased to $15.99 / month in April, YouTube spokesperson Jess"
     },
     {
       "id": "71f6f0473459ac55",
       "title": "Devastating European wildfires in maps - and how they're being tackled",
       "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "source": "BBC Science & Environment",
       "category": "disasters",
       "region": "europe",
-      "publishedAt": "2026-07-27T14:21:32.000Z",
+      "publishedAt": "2026-07-27T15:59:27.000Z",
       "summary": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever."
     },
     {
-      "id": "a0d358dbc22e6475",
-      "title": "Businessman and philanthropist Sir Ian Wood dies aged 84",
-      "url": "https://www.bbc.co.uk/news/articles/ce3qv0p9105o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
+      "id": "6b843b882ba4b701",
+      "title": "Chile captures fugitive convicted of singer Victor Jara's murder under Pinochet",
+      "url": "https://www.bbc.co.uk/news/articles/c3w0xwj8vzyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
       "region": "global",
-      "publishedAt": "2026-07-27T14:17:56.000Z",
-      "summary": "The Aberdeen-based businessman turned his family's boat repair firm into an oil and gas engineering giant."
+      "publishedAt": "2026-07-27T15:49:45.000Z",
+      "summary": "Nelson Haase was one of those convicted over the kidnap and murder of folk singer Victor Jara after Chile's military coup in 1973."
+    },
+    {
+      "id": "784b8f6ac2b8ce11",
+      "title": "Amazon&#8217;s trying to launch a global satellite cellphone network in 2028",
+      "url": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-07-27T15:40:38.000Z",
+      "summary": "Amazon filed an FCC application on Saturday to launch a new Leo satellite constellation that will provide direct-to-device satellite service for \"voice, messaging, data, and emergency services.\" If approved, Amazon will begin deploying the new constellation of 5,105 satellites in 2028. It says it plans to partner with mobile network operators to offer direct-to-device satellite service, similar to Starlink's partners"
+    },
+    {
+      "id": "f990d13688babf19",
+      "title": "John Oliver on Trump’s crypto dealings: ‘Flagrantly corrupt and compromised’",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/27/john-oliver-trump-family-crypto-schemes",
+      "source": "The Guardian Culture",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-07-27T15:22:46.000Z",
+      "summary": "The Last Week Tonight host focused on the ‘shady shit’ the US president has been involved in with regards to crypto John Oliver took aim at Donald Trump and his family’s various crypto schemes on his return to Last Week Tonight, calling it all “corrupt and compromised”. The host joked that Trump looked as if he was “slowly turning into Mrs Doubtfire” before moving on to the night’s major theme, calling him “the first"
+    },
+    {
+      "id": "ad0d1df04948a7d9",
+      "title": "Tariffs didn’t bring manufacturing jobs back to the US",
+      "url": "https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada",
+      "source": "The Verge",
+      "category": "economy_business",
+      "region": "americas",
+      "publishedAt": "2026-07-27T15:00:00.000Z",
+      "summary": "Today, I’m talking with Evan Smith, who is cofounder and CEO of Altana, a company that develops software tools to manage big, messy supply chain networks around the world. We last had Evan on in early 2025 to talk about how Trump’s first few waves of tariffs were starting to affect global trade and what patterns Altana was seeing in all that macro-level data about shipping and trade. It was a very alarming and also v"
     },
     {
       "id": "b901942a280d52bd",
@@ -62,16 +482,6 @@
       "summary": "British champion Bilal Fawaz has lived in the UK for more than 20 years but is fighting for British citizenship - his story features in a new BBC documentary."
     },
     {
-      "id": "75810d9cdca5afec",
-      "title": "Five decades of Israeli covert strategy to push US, Iran into confrontation",
-      "url": "https://www.aljazeera.com/opinions/2026/7/27/five-decades-of-israeli-covert-strategy-to-push-us-iran-into-confrontation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "diplomacy",
-      "region": "middle_east",
-      "publishedAt": "2026-07-27T14:04:43.000Z",
-      "summary": "Successive Israeli governments have undermined diplomatic efforts and stoked tensions between Washington and Tehran."
-    },
-    {
       "id": "90d73ce0cff80599",
       "title": "Carly Simon reveals Parkinson's diagnosis",
       "url": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
@@ -80,16 +490,6 @@
       "region": "global",
       "publishedAt": "2026-07-27T14:04:01.000Z",
       "summary": "The singer also reveals she has received treatment for skin cancer, but vows to keep singing."
-    },
-    {
-      "id": "e13abf0668c80b99",
-      "title": "Five years after Saied’s power grab, Tunisians are no better off",
-      "url": "https://www.aljazeera.com/opinions/2026/7/27/five-years-after-saieds-power-grab-tunisians-are-no-better-off?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-07-27T14:03:09.000Z",
-      "summary": "Tunisia has seen no economic benefit from power consolidation, while liberties have dwindled."
     },
     {
       "id": "f64428dc65e255ed",
@@ -102,56 +502,6 @@
       "summary": "Prime Minister Tareq Rahman has stated that the new generation must lead in the country’s development and future building. He expressed hope that the current generation will achieve success both… The post Prime Minister: New Generation Must Lead to Build a Prosperous Nation appeared first on Bangla Online News Portal."
     },
     {
-      "id": "8ac39a01384be96b",
-      "title": "Australian court rejects racial discrimination appeal by Pauline Hanson",
-      "url": "https://www.aljazeera.com/news/2026/7/27/australian-court-rejects-racial-discrimination-appeal-by-pauline-hanson?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-27T13:46:06.000Z",
-      "summary": "⁠Court upholds earlier ruling ⁠that a post directed at Greens Senator Mehreen Faruqi was unlawful."
-    },
-    {
-      "id": "b1ce3bc8df03bd0d",
-      "title": "Former Honduras president returns home after Trump pardon",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/former-honduras-president-returns-home-after-trump-pardon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-07-27T13:32:15.000Z",
-      "summary": "Former Honduras president returns home after Trump pardon"
-    },
-    {
-      "id": "afe454034d6e2556",
-      "title": "More than 600 US military service members injured since Iran War began in February",
-      "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-27T13:31:57.000Z",
-      "summary": "The latest figure includes casualties from Operation Fury and a new category called \"Overseas Operations\"."
-    },
-    {
-      "id": "b88cb9089389220e",
-      "title": "Chelsea open talks to sign Brighton striker Welbeck",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2d79ddvg4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-27T13:24:43.000Z",
-      "summary": "Chelsea are in talks to sign Brighton & Hove Albion striker Danny Welbeck, with the 35-year-old keen to join new manager Xabi Alonso at Stamford Bridge."
-    },
-    {
-      "id": "7cfc8d6b97622a60",
-      "title": "English football agrees trial to end goalkeeper tactical timeouts",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyjxd53zkpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-27T13:22:05.000Z",
-      "summary": "English football is set to implement a radical trial to try to eradicate the goalkeeper tactical timeout this season, BBC Sport can reveal."
-    },
-    {
       "id": "35b696132b13d923",
       "title": "How wildfires in France and Spain might affect your travel plans",
       "url": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
@@ -162,58 +512,8 @@
       "summary": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans."
     },
     {
-      "id": "28331b3766720455",
-      "title": "Second again - why has Scheffler stopped winning?",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/cm2ge4pv94lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-27T13:06:46.000Z",
-      "summary": "World number one Scottie Scheffler has not won a tournament since January, but what's the reason?"
-    },
-    {
-      "id": "9244e7c6cc39aa65",
-      "title": "Israel’s approval of limited Gaza force a calculated manoeuvre, experts say",
-      "url": "https://www.aljazeera.com/news/2026/7/27/israels-approval-of-limited-gaza-force-a-calculated-manoeuvre-experts-say?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-27T12:58:20.000Z",
-      "summary": "Analysts say Israeli cabinet's decision aims to deflect US pressure and fragment the Gaza Strip."
-    },
-    {
-      "id": "cff5890b9d4d0e42",
-      "title": "Dutch pair banned from Bali after run club ‘excludes locals’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/dutch-pair-banned-from-bali-after-run-club-excludes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-27T12:56:14.000Z",
-      "summary": "Two Dutch men have been banned from re-entering Indonesia over alleged violations and discrimination."
-    },
-    {
-      "id": "3886872a2556aea3",
-      "title": "Three killed in suspected shootout in US city of Seattle, police say",
-      "url": "https://www.aljazeera.com/news/2026/7/27/three-killed-in-suspected-shootout-in-us-city-of-seattle-police-say?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-07-27T12:49:37.000Z",
-      "summary": "Police say one suspect surrendered at the scene of the shooting, while the other remains on the loose."
-    },
-    {
-      "id": "31a7c70b978754c0",
-      "title": "Mercedes driver scout Lagrue to join Red Bull",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cvg7kdnv4p2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-27T12:48:10.000Z",
-      "summary": "The Mercedes driver scout involved in discovering Kimi Antonelli is leaving the team to join rivals Red Bull."
-    },
-    {
-      "id": "eeb60f4927d08956",
-      "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
+      "id": "9227933e9688bb45",
+      "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
       "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world_politics",
@@ -222,24 +522,14 @@
       "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison."
     },
     {
-      "id": "d3b088c74588a52e",
-      "title": "'Dr Death', Body Worlds creator Gunther von Hagens, dies at 81",
-      "url": "https://www.bbc.co.uk/news/articles/czjlnrn47lwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "technology",
+      "id": "73ad4de84f51df26",
+      "title": "US environmental groups urge EPA to reject new Pfas to cool datacenters",
+      "url": "https://www.theguardian.com/us-news/2026/jul/27/pfas-datacenter-cooling-epa",
+      "source": "The Guardian Environment",
+      "category": "weather_climate",
       "region": "global",
-      "publishedAt": "2026-07-27T12:28:07.000Z",
-      "summary": "The family of the anatomist vowed to carry out his wish for his body to be preserved using the plastination technique he developed himself."
-    },
-    {
-      "id": "434b56ee33b62a96",
-      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "source": "The Verge",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-07-27T12:06:22.000Z",
-      "summary": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct response to mounting concerns over the safety of advanced AI systems after a rogue OpenAI model escaped containment and attac"
+      "publishedAt": "2026-07-27T12:00:09.000Z",
+      "summary": "Coalition says Chemours downplayed health and climate risks in bid to fast-track the compound’s use A coalition of 17 environmental groups is demanding the Environmental Protection Agency reject a new Pfas that chemical giant Chemours is attempting to fast-track for approval for use in cooling datacenters, and would almost certainly pollute regions around the facilities. In formal comments submitted to the agency, th"
     },
     {
       "id": "ddf0dd30b2198947",
@@ -252,26 +542,6 @@
       "summary": "The government has reinstated the license of Ad-din Medical College Hospital in Magbazar, Dhaka, subject to three conditions. On Monday (July 27), the relevant authorities decided to return the hospital’s… The post Ad-din Hospital Gets License Back appeared first on Bangla Online News Portal."
     },
     {
-      "id": "01f184dab1d85555",
-      "title": "Wildfires in southwest Europe: What we know so far",
-      "url": "https://www.aljazeera.com/news/2026/7/27/wildfires-in-southwest-europe-what-we-know-so-far?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "disasters",
-      "region": "europe",
-      "publishedAt": "2026-07-27T11:32:00.000Z",
-      "summary": "More than 300,000 people have been evacuated from their homes to safety in France and Spain."
-    },
-    {
-      "id": "3339635bc60e9bb5",
-      "title": "Sooryavanshi praised by Laxman after teen stars against Zimbabwe in T20",
-      "url": "https://www.aljazeera.com/sports/2026/7/27/india-zimbabwe-t20-cricket-match-vaibhav-sooryavanshi-vvs-laxman?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-07-27T11:25:48.000Z",
-      "summary": "After a difficult start to his international career in England, teen prodigy Sooryavanshi stepped up against Zimbabwe."
-    },
-    {
       "id": "24dbfbcf5a6b10d0",
       "title": "How 'fire-generated thunderstorms' make wildfires more deadly",
       "url": "https://www.bbc.co.uk/news/articles/c2350xnl4j5o?at_medium=RSS&at_campaign=rss",
@@ -280,96 +550,6 @@
       "region": "global",
       "publishedAt": "2026-07-27T11:11:07.000Z",
       "summary": "Certain types of severe wildfire can create pyrocumulonimbus - something that Nasa calls the \"fire-breathing dragon of clouds\"."
-    },
-    {
-      "id": "9380c001bd2363b7",
-      "title": "Pirlo out of Italy football top job after backlash over Russian betting firm links",
-      "url": "https://www.bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-07-27T11:03:15.000Z",
-      "summary": "The uproar throws the Italian Football Federation into further disarray following Italy's third consecutive failure to qualify for the World Cup."
-    },
-    {
-      "id": "12aedfc788a6a4f7",
-      "title": "Brighton captain Symonds signs new 'long-term' deal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpvwrg0kmgro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-27T11:00:39.000Z",
-      "summary": "Brighton captain Maisie Symonds signs a new contract, described by the club as long-term."
-    },
-    {
-      "id": "6641e784c55e8318",
-      "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
-      "url": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-27T10:59:13.000Z",
-      "summary": "The two men, who are accused of favouring foreigners for their events, allegedly violated immigration laws."
-    },
-    {
-      "id": "0e78580b1d205807",
-      "title": "US deports Kenyan former NFL player Daniel Adongo",
-      "url": "https://www.bbc.co.uk/news/articles/c74gzg27v8no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "africa",
-      "publishedAt": "2026-07-27T10:56:36.000Z",
-      "summary": "The authorities say the ex-sportsman had overstayed his visa and had been arrested multiple times."
-    },
-    {
-      "id": "25c7115ecd83f1f9",
-      "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
-      "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-07-27T10:46:50.000Z",
-      "summary": "Police say two suspects were shooting at each other and one of them is in custody and one at large."
-    },
-    {
-      "id": "7ae0b20e2e796aeb",
-      "title": "Real Madrid contract talks and Arsenal interest - what is Vinicius Jr's future?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62vx42zd83o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-27T10:26:36.000Z",
-      "summary": "With Real Madrid renewing contract talks and Arsenal showing interest, there may be no more intriguing transfer situation right now than Vinicius Jr's future."
-    },
-    {
-      "id": "244842b44e96b6ab",
-      "title": "Chinese chipmaker shares surge nearly 470% in blockbuster stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-07-27T10:19:36.000Z",
-      "summary": "The company's shares soared by nearly 470% in its market debut, as the AI boom drives chip demand."
-    },
-    {
-      "id": "d3839bf1b0659d30",
-      "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-      "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-07-27T09:59:15.000Z",
-      "summary": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court."
-    },
-    {
-      "id": "7eeb94d6c51495ee",
-      "title": "Millions see leaked copy of The Odyssey movie on X",
-      "url": "https://www.bbc.co.uk/news/articles/c1m1ev5j3m2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-07-27T09:21:10.000Z",
-      "summary": "Film studio Universal takes down a high-quality bootleg version of the film, which appeared on X."
     },
     {
       "id": "e507ad0babf2ce8b",
@@ -412,16 +592,6 @@
       "summary": "Prime Minister Tareque Rahman has stated that the government is committed to building a modern and technology-driven army in line with contemporary demands. He made these remarks on Sunday (July… The post Government Committed to Building Modern, Technology-Driven Army: Prime Minister appeared first on Bangla Online News Portal."
     },
     {
-      "id": "8669bd16f4625f53",
-      "title": "Shein swings to $99m loss as Trump tariffs hit sales",
-      "url": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-07-27T02:08:36.000Z",
-      "summary": "The announcement comes as the fast fashion giant prepares for its stock market debut in Hong Kong."
-    },
-    {
       "id": "b0b4955011631b44",
       "title": "Macron calls crisis meeting as wildfires threaten Bordeaux and heatwave looms",
       "url": "https://www.bbc.co.uk/news/articles/c2350zlyy1yo?at_medium=RSS&at_campaign=rss",
@@ -432,24 +602,14 @@
       "summary": "Blazes are about 15km from Bordeaux, but the city's mayor says there are no plans to evacuate."
     },
     {
-      "id": "152f2088b2c84acc",
-      "title": "Apple is banking on privacy to set its smart glasses apart",
-      "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
-      "source": "The Verge",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-07-26T19:36:38.000Z",
-      "summary": "Meta’s AI glasses have been the focus of controversy. | Photo: Amelia Holowaty Krales / The Verge According to Mark Gurman, Apple is planning to reveal its first smart glasses at WWDC next June, with an expectation that they'll launch by the end of 2027. Part of the hold-up may be around the company's efforts to get its privacy features and messaging in order. Smart glasses in general, and Meta's in particular, have "
-    },
-    {
-      "id": "7ecd041efa2480e1",
-      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-07-26T14:13:39.000Z",
-      "summary": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]"
+      "id": "80ecb0c876feb63a",
+      "title": "‘Extraordinarily hot’: US heatwave stretches on with millions still under warnings",
+      "url": "https://www.theguardian.com/us-news/2026/jul/26/us-heat-wave-dome-weather",
+      "source": "The Guardian Environment",
+      "category": "weather_climate",
+      "region": "americas",
+      "publishedAt": "2026-07-27T00:04:47.000Z",
+      "summary": "Southern and central states from California to Mississippi face heat indexes above 100F amid another heat dome At least 40 million people were under extreme heat warnings across central and southern parts of the United States on Sunday as high temperatures and severe humidity gripped large swaths of the country for a second straight day. Heat indexes well above 100F (38C) stretched from Minnesota down to Mississippi,"
     },
     {
       "id": "32dee7af0dff9ce2",
@@ -542,36 +702,6 @@
       "summary": "July's full Moon, know as the Buck Moon, is set to light up the night sky next week."
     },
     {
-      "id": "7d8dc87c1d717481",
-      "title": "Rental searches for pet friendly properties drop after law change",
-      "url": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-07-26T00:00:49.000Z",
-      "summary": "Agents say some renters wrongly believe permission to have a pet is guaranteed."
-    },
-    {
-      "id": "7f98e752b0590014",
-      "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
-      "url": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-07-25T22:37:47.000Z",
-      "summary": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]"
-    },
-    {
-      "id": "30f81575349d1072",
-      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-07-25T14:16:26.000Z",
-      "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]"
-    },
-    {
       "id": "17ed7c2f6979fddb",
       "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
       "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
@@ -590,36 +720,6 @@
       "region": "global",
       "publishedAt": "2026-07-25T09:31:09.000Z",
       "summary": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]"
-    },
-    {
-      "id": "2c6d598250c5255e",
-      "title": "It's the cocktail taking young drinkers by storm - but the packaging is 'unrecyclable'",
-      "url": "https://www.bbc.co.uk/news/articles/cr490335z1eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-07-25T06:14:54.000Z",
-      "summary": "BuzzBallz cannot be recycled because the metal lid and plastic body are attached, say experts."
-    },
-    {
-      "id": "ccc2d79deeb0605e",
-      "title": "Watch: SpaceX's successful test flight and splashdown for Starship",
-      "url": "https://www.bbc.co.uk/news/articles/czxqnwzqqw8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-25T00:41:50.000Z",
-      "summary": "The megarocket pulls off a soft splashdown in the Indian Ocean an hour after launch."
-    },
-    {
-      "id": "7c608f21ba593727",
-      "title": "Are BuzzBallz actually recyclable?",
-      "url": "https://www.bbc.co.uk/news/videos/c20e45g0ynqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-07-24T22:03:36.000Z",
-      "summary": "BuzzBallz cannot be recycled as the metal lid and plastic body are attached, say experts."
     },
     {
       "id": "0e9912687ae912b0",
@@ -672,16 +772,6 @@
       "summary": "Of the estimated 179 people aboard, 76 were rescued as efforts continue to salvage the ship and recover all bodies The confirmed death toll from the recent capsizing of a state ferry off Guyana’s coast has risen to 72, with more bodies recovered as a multinational team struggle to salvage the partially submerged vessel. Of the estimated 179 people aboard, 76 people were rescued. The government has estimated that 100 "
     },
     {
-      "id": "91a57d9978eea4f8",
-      "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-      "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "disasters",
-      "region": "americas",
-      "publishedAt": "2026-07-24T14:59:24.000Z",
-      "summary": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula."
-    },
-    {
       "id": "df98bd9430495f94",
       "title": "How Jimothy the raccoon became the internet's latest animal obsession",
       "url": "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o?at_medium=RSS&at_campaign=rss",
@@ -690,26 +780,6 @@
       "region": "global",
       "publishedAt": "2026-07-24T14:27:46.000Z",
       "summary": "It all began with an innocuous video shared by Seattle resident Kiana Hall on Instagram."
-    },
-    {
-      "id": "b24ec94a4eb94699",
-      "title": "Canadian government urged to block Thomson Reuters data deal with US ICE",
-      "url": "https://www.theguardian.com/world/2026/jul/24/canada-government-mark-carney-block-data-sharing-deal-thomson-reuters-us-ice-avi-lewis",
-      "source": "The Guardian World",
-      "category": "creativity_arts",
-      "region": "americas",
-      "publishedAt": "2026-07-24T13:53:34.000Z",
-      "summary": "US agency is to pay Canadian media company US$125m for use of investigative database to detect ‘immigration fraud’ A Canadian federal opposition party leader has called on Mark Carney’s government to block the latest data-sharing deal between US Immigration and Customs Enforcement (ICE) and the Canadian media company Thomson Reuters. Avi Lewis, the federal leader of the New Democratic party (NDP), demanded on Tuesday"
-    },
-    {
-      "id": "f5b0e31f8b61a389",
-      "title": "Scientists decry Trump’s ‘blame game’ after he claims Canada ‘poisoning’ US air",
-      "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-canada-wildfires-smoke-scientists",
-      "source": "The Guardian Environment",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-07-24T10:00:10.000Z",
-      "summary": "Trump told Mark Carney ‘you got to stop these fires from coming in’ as experts say wildfires symptom of climate crisis Scientists have reacted with incredulity after Donald Trump accused Canada of “poisoning” the US’s air with smoke billowing from a slew of forest fires and threatened sanctions upon the country’s northern neighbor. The US president has said that he raised the issue of smoke wafting into the US from n"
     },
     {
       "id": "54700bd36efa5dd2",
@@ -772,16 +842,6 @@
       "summary": "Jeff Gattis said the rising cost of gaming tech is likely to mean more people will stream their games online."
     },
     {
-      "id": "6615d8499843af0e",
-      "title": "How AI helps scientists design the next generation of medicines",
-      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "source": "MIT Tech Review",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-07-23T12:00:00.000Z",
-      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered proteins rather than synthetic chemistry (which are often used to…"
-    },
-    {
       "id": "81ca642f4e1b8bf3",
       "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
       "url": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&at_campaign=rss",
@@ -810,16 +870,6 @@
       "region": "europe",
       "publishedAt": "2026-07-22T12:28:15.000Z",
       "summary": "Isabel Rose, 26, sentenced to six years for blackmail and perverting course of public justice over her allegations against British man A British woman who reported being raped to police in Hong Kong has been sentenced to six years in prison for blackmail and perverting the course of public justice. Isabel Rose, 26, from south-east London, travelled to Hong Kong in early 2024 to visit a British banker she had met whil"
-    },
-    {
-      "id": "db0dc663f4befd65",
-      "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-      "url": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-07-22T11:40:11.000Z",
-      "summary": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement."
     },
     {
       "id": "c9e81a41da89cf7e",
