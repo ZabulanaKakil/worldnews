@@ -1,6 +1,256 @@
 {
-  "generatedAt": "2026-07-29T17:22:46.277Z",
+  "generatedAt": "2026-07-29T19:35:21.740Z",
   "articles": [
+    {
+      "id": "c083b6557963529f",
+      "title": "US interest rates held for fifth time in a row",
+      "url": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-07-29T19:30:40.000Z",
+      "summary": "The Federal Reserve's decision, which was broadly expected, means rates remain between the 3.5% and 3.75%."
+    },
+    {
+      "id": "d9227407632675aa",
+      "title": "Al-Shabab kills five Kenyan security personnel in ambush",
+      "url": "https://www.aljazeera.com/news/2026/7/29/al-shabab-kills-five-kenyan-security-personnel-in-ambush?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "africa",
+      "publishedAt": "2026-07-29T19:06:38.000Z",
+      "summary": "The ambush is part of a rapid surge in cross-border attacks along Kenya's northern frontier."
+    },
+    {
+      "id": "7fc391a712cdc9aa",
+      "title": "Hindus take holy dip in India’s rivers on sacred holiday",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/hindus-take-holy-dip-in-indias-rivers-on-sacred-holiday?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-07-29T18:49:33.000Z",
+      "summary": "Footage shows tens of thousands of Hindu devotees bathing in India’s Ganga and Saryu rivers to mark Guru Purnima."
+    },
+    {
+      "id": "2d305076dda0b2b6",
+      "title": "Lloyd pays tribute to 'greatest' Sobers at funeral",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c87n3d4rj2vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-29T18:44:36.000Z",
+      "summary": "Sir Garfield Sobers is called the \"greatest all-round cricketer the world has ever known\" by former team-mate Sir Clive Lloyd at the legendary West Indies player's state funeral in Barbados."
+    },
+    {
+      "id": "4c93702e48ef57f1",
+      "title": "Bordeaux wildfire battle continues amid extreme heat",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "weather_climate",
+      "region": "europe",
+      "publishedAt": "2026-07-29T18:42:11.000Z",
+      "summary": "Firefighters are on high alert in France as scorching temperatures and winds threaten to fuel wildfire west of Bordeaux"
+    },
+    {
+      "id": "2b9469cba81e8e0d",
+      "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-29T18:41:31.000Z",
+      "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation."
+    },
+    {
+      "id": "44d7b2ac5b1708f7",
+      "title": "Dr Anthony Fauci pleads the Fifth at Covid hearing",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/dr-anthony-fauci-pleads-the-fifth-at-covid-hearing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-07-29T18:34:09.000Z",
+      "summary": "Dr Anthony Fauci declined to answer questions at a Senate hearing on the origins of the Covid-19 pandemic."
+    },
+    {
+      "id": "3796ee06d6f70868",
+      "title": "Fleming expected to be named England Test coach",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c5yvp474rpro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-29T18:32:53.000Z",
+      "summary": "Former New Zealand captain Stephen Fleming is expected to be appointed as England Test coach after the sacking of Brendon McCullum."
+    },
+    {
+      "id": "66bc87b2f26daf1b",
+      "title": "Charities unable to pay staff after fraud alert",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dlelz711o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "europe",
+      "publishedAt": "2026-07-29T18:17:23.000Z",
+      "summary": "Security fears saw CAF Bank, which serves 14,000 UK charities, suspend its online banking portal."
+    },
+    {
+      "id": "d5cbc0cf53d4992e",
+      "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-07-29T18:15:02.000Z",
+      "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be launching in 2027, or earlier rumors that the device might be a wearable like the Humane AI pin. He didn't give a release "
+    },
+    {
+      "id": "71a3f0bd1ddd14f5",
+      "title": "The US government just banned Roombas",
+      "url": "https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums",
+      "source": "The Verge",
+      "category": "economy_business",
+      "region": "americas",
+      "publishedAt": "2026-07-29T18:13:09.000Z",
+      "summary": "When the Trump administration announced yesterday that it was banning \"advanced robotic devices\" from entering the United States, the headlines were all about humanoids. But spying doesn't require legs - and neither does the FCC's robot ban. The robot ban will sweep up robot vacuum cleaners too, FCC media relations director Katie Gorscak confirms to The Verge. It's not coming for your existing Roomba, and companies c"
+    },
+    {
+      "id": "a8e0a05f7a49bc9b",
+      "title": "US Fed holds interest rates steady citing ‘elevated’ inflation",
+      "url": "https://www.aljazeera.com/economy/2026/7/29/us-fed-holds-interest-rates-steady-citing-elevated-inflation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-07-29T18:07:55.000Z",
+      "summary": "Elevated inflation partly reflects supply shocks that have increased prices, including of energy, the Fed said."
+    },
+    {
+      "id": "bcf2cc5db923c112",
+      "title": "Libya electricity blackout protests expose country’s failing grid",
+      "url": "https://www.aljazeera.com/economy/2026/7/29/libya-electricity-blackout-protests-expose-countrys-failing-grid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-07-29T18:07:19.000Z",
+      "summary": "Libyans protest severe power cuts, demanding an end to corruption and grid decay."
+    },
+    {
+      "id": "a6c8512023621879",
+      "title": "Fire erupts on ships at Egypt’s Damietta port",
+      "url": "https://www.aljazeera.com/news/2026/7/29/fire-erupts-on-ships-at-egypts-damietta-port?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "africa",
+      "publishedAt": "2026-07-29T18:01:57.000Z",
+      "summary": "Oil ministry says no injuries in incident affecting two vessels, with port operations expected to resume overnight."
+    },
+    {
+      "id": "74077464bdcaffb2",
+      "title": "How an overlooked geothermal plant got a second chance",
+      "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+      "source": "MIT Tech Review",
+      "category": "ai_innovation",
+      "region": "americas",
+      "publishedAt": "2026-07-29T17:58:44.000Z",
+      "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again, thanks to a new…"
+    },
+    {
+      "id": "2192e3ea40cd0cc0",
+      "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
+      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-07-29T17:58:42.000Z",
+      "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury."
+    },
+    {
+      "id": "2352914cb897f99a",
+      "title": "Japan earthquake leaves widespread destruction",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/japan-earthquake-leaves-widespread-destruction?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "asia_pacific",
+      "publishedAt": "2026-07-29T17:56:49.000Z",
+      "summary": "Japan earthquake leaves widespread destruction"
+    },
+    {
+      "id": "f5a2d885132d7bfb",
+      "title": "Why finger-clicking 'scandal' has gripped sporting world - Agnew",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c980w3wd370o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-29T17:52:16.000Z",
+      "summary": "Why the wicketkeeper in the Saltburn Cricket Club 'finger-clicking' scandal is the key voice in any investigation."
+    },
+    {
+      "id": "d3f28845c44f33b8",
+      "title": "South Korea’s stock market plunges as AI-driven boom fades",
+      "url": "https://www.aljazeera.com/economy/2026/7/29/south-koreas-stock-market-plunges-as-ai-driven-boom-fades?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "asia_pacific",
+      "publishedAt": "2026-07-29T17:48:58.000Z",
+      "summary": "The benchmark KOSPI .KS11 sees steep decline as interest in chipmakers falls."
+    },
+    {
+      "id": "2910ebd26a81fa1c",
+      "title": "Iran pushes back against US as regional attacks heat up",
+      "url": "https://www.aljazeera.com/news/2026/7/29/iran-pushes-back-against-us-as-regional-attacks-heat-up?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-29T17:45:27.000Z",
+      "summary": "New round of strikes raises fears of further escalation as Iran rejects Omani proposal for joint Hormuz oversight."
+    },
+    {
+      "id": "fc7f10e660a2656c",
+      "title": "Democrat senators ask US SEC to probe Trump Media’s fast feed sale",
+      "url": "https://www.aljazeera.com/economy/2026/7/29/democrat-senators-ask-us-sec-to-probe-trump-medias-fast-feed-sale?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-07-29T17:40:14.000Z",
+      "summary": "Trump Media has discussed charging as much as $100,000 a month for the Truth API product for buyers to get first access."
+    },
+    {
+      "id": "b6ae53be1179a9e8",
+      "title": "Fauci invokes Fifth Amendment in heated COVID-19 Senate hearing",
+      "url": "https://www.aljazeera.com/news/2026/7/29/fauci-invokes-fifth-amendment-in-heated-covid-19-senate-hearing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-07-29T17:32:34.000Z",
+      "summary": "Physician declines to answer Senate questions as Republicans like Rand Paul accuse him of covering up COVID's origins."
+    },
+    {
+      "id": "968de024c00195ec",
+      "title": "Myanmar to Repatriate 300,000 Rohingya from Bangladesh",
+      "url": "https://www.bd24live.com/myanmar-to-repatriate-300000-rohingya-from-bangladesh/",
+      "source": "BD24Live",
+      "category": "war_conflict",
+      "region": "bangladesh",
+      "publishedAt": "2026-07-29T17:30:12.000Z",
+      "summary": "Myanmar has agreed to take back 300,000 Rohingya refugees from Bangladesh. Malaysian Prime Minister Anwar Ibrahim announced this information while speaking at an event on Wednesday (July 29). Additionally, Myanmar… The post Myanmar to Repatriate 300,000 Rohingya from Bangladesh appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "49490c47bde2e1f9",
+      "title": "Fifa opens disciplinary proceedings against Argentina",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-07-29T17:21:57.000Z",
+      "summary": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament."
+    },
+    {
+      "id": "58d8b9cf15783b78",
+      "title": "Duckett hits half-century as Rockets demolish Fire",
+      "url": "https://www.bbc.co.uk/sport/cricket/videos/c0m781mg9yko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-29T17:21:46.000Z",
+      "summary": "Trent Rockets win by nine wickets with Ben Duckett getting a unbeaten 52 helped by the Welsh Fire bowling seven no balls in the second innings."
+    },
     {
       "id": "16601eed089598fb",
       "title": "Four women accuse Jared Leto of criminal sexual conduct",
@@ -12,26 +262,6 @@
       "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers."
     },
     {
-      "id": "d919809a981c09c3",
-      "title": "Duckett leads Rockets to convincing win over Fire",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cd9w7xp3wnpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-29T16:55:03.000Z",
-      "summary": "Trent Rockets demolish Welsh Fire by nine wickets in Cardiff to make it two wins from three matches in this season's Hundred."
-    },
-    {
-      "id": "e3177e67b0482dfb",
-      "title": "England thrash Tonga to boost semi-final hopes",
-      "url": "https://www.bbc.co.uk/sport/netball/articles/cjd42ny3178o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-29T16:53:45.000Z",
-      "summary": "England break their Commonwealth Games record goals tally with a convincing 94-32 victory over Tonga."
-    },
-    {
       "id": "fe43b4adc929d549",
       "title": "France fire crews face searing heat in battle to contain flames",
       "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
@@ -39,27 +269,7 @@
       "category": "disasters",
       "region": "europe",
       "publishedAt": "2026-07-29T16:49:41.000Z",
-      "summary": "Firefighters are battling flare-ups in 40C heat, as some locals have refused to heed evacuations in the Gironde region."
-    },
-    {
-      "id": "49f3be83ade5051b",
-      "title": "Anthony Fauci refuses to answer questions during US Senate hearing discussing Covid origins",
-      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-07-29T16:49:06.000Z",
-      "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury."
-    },
-    {
-      "id": "c6435bbdf45478f7",
-      "title": "Is the world at risk of another energy shock?",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/29/is-the-world-at-risk-of-another-energy-shock?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-07-29T16:43:37.000Z",
-      "summary": "Disruptions across Strait of Hormuz, Bab al-Mandeb and the Black Sea threaten supplies and raise costs for consumers."
+      "summary": "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations."
     },
     {
       "id": "87f68b8dfdc17005",
@@ -112,26 +322,6 @@
       "summary": "Don't sit under a tree during a heatwave - here's why."
     },
     {
-      "id": "bfea907bc50474fe",
-      "title": "Ex-FIFA chief Blatter blasts plan to sell stake in World Cup to investors",
-      "url": "https://www.aljazeera.com/sports/2026/7/29/ex-fifa-chief-blatter-blasts-plan-to-sell-stake-in-world-cup-to-investors?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-07-29T15:46:20.000Z",
-      "summary": "Sepp Blatter, FIFA chief for 17 years until 2015, has blasted new proposal that moves 'people's game' further from fans."
-    },
-    {
-      "id": "e6f44bacf8d99ce8",
-      "title": "Trump says US to deliver ‘beating’ to Iran after bases again targeted",
-      "url": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "middle_east",
-      "publishedAt": "2026-07-29T15:43:05.000Z",
-      "summary": "US president promises major escalation a day after new Iran attacks and his White House meeting with Netanyahu."
-    },
-    {
       "id": "6009ce4263f861b8",
       "title": "Liverpool preparing opening bid for PSG's Barcola",
       "url": "https://www.bbc.co.uk/sport/football/articles/c0qv8wekp7eo?at_medium=RSS&at_campaign=rss",
@@ -152,16 +342,6 @@
       "summary": "Hansard, who was 56, won the best song Oscar for the 2007 low-budget musical film Once."
     },
     {
-      "id": "6106725ecb86491e",
-      "title": "The Ferrari Luce has at least 500 fans",
-      "url": "https://www.theverge.com/transportation/972569/ferrari-luce-ev-sales",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-29T15:28:50.000Z",
-      "summary": "Just two months after a bumpy launch earlier this year, Ferrari has reportedly already hit its 2026 sales goal for its polarizing, Jony Ive-designed Luce EV. Ahead of Ferrari announcing its quarterly earnings on Thursday, the Financial Times reports that Ferrari was aiming to sell \"just under 500\" Luce units this year, and reached that target this month. Luce sales so far were reportedly driven by \"strong demand from"
-    },
-    {
       "id": "659c8071a5c85077",
       "title": "Australians value batteries and EVs, but renewables industry must earn trust of regions, summit told",
       "url": "https://www.theguardian.com/australia-news/2026/jul/30/australians-value-batteries-and-evs-but-renewables-industry-must-earn-trust-of-regions-summit-told",
@@ -172,34 +352,14 @@
       "summary": "Clean Energy Council calls for a national, legislated scheme to funnel benefits of hosting renewables projects back to local councils Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Organised campaigns against wind and solar energy have proved “extremely effective” in undermining community support for renewable energy but enthusiasm for electric vehicles has jumped following Do"
     },
     {
-      "id": "db5d8b6be88ae6cc",
-      "title": "Fifa offers $40m if nations back controversial plan",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg7vglq9wpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "disasters",
-      "region": "global",
-      "publishedAt": "2026-07-29T14:56:22.000Z",
-      "summary": "Fifa has set a deadline of 19 September for member associations to access cash as FA voice disapproval of world governing body's funding plan before emergency Uefa meeting."
-    },
-    {
-      "id": "0e7323c209de24a4",
-      "title": "Hackers target over 30 Minnesota water utilities in coordinated OT attack",
+      "id": "ecbca2db7d38993a",
+      "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
       "source": "BleepingComputer",
       "category": "cybersecurity",
       "region": "global",
       "publishedAt": "2026-07-29T14:55:57.000Z",
       "summary": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated cyberattack.\" [...]"
-    },
-    {
-      "id": "d6a1b7f43ace9f31",
-      "title": "Why Saudi Arabia holds the key to Palestinian statehood",
-      "url": "https://www.aljazeera.com/opinions/2026/7/29/why-saudi-arabia-holds-the-key-to-palestinian-statehood?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-29T14:39:57.000Z",
-      "summary": "Riyadh’s position in the Arab and Islamic worlds bears significant weight in the prospect of normalisation with Israel."
     },
     {
       "id": "6d8372f9a5ccd95d",
@@ -212,26 +372,6 @@
       "summary": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature."
     },
     {
-      "id": "8439c5a901cf4905",
-      "title": "Indian student in Russia says he’s been wrongly charged over Bihar protests",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-india-student-arrests-in?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-07-29T14:33:24.000Z",
-      "summary": "An Indian student from Bihar says he has been charged over ‘Cockroach’ protests despite being in Russia."
-    },
-    {
-      "id": "d80a3b09c48c0c05",
-      "title": "US and Israeli leaders expected ‘swift outcome’ in Iran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-israeli-leaders-expected-swift-outcome-in-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-29T14:27:45.000Z",
-      "summary": "New details are emerging of how US and Israeli officials believed the war on Iran would be straightforward and short."
-    },
-    {
       "id": "508f0654801f083c",
       "title": "Rescue teams face ‘race against time’ in search for trapped survivors as death toll in Japan rises to at least 13 – as it happened",
       "url": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates",
@@ -240,36 +380,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-07-29T14:27:33.000Z",
       "summary": "Emergency workers are continuing their search for survivors in southern Japan after yesterday’s powerful earthquake ‘Race against time’: Japan earthquake death toll rises as rescue teams search for missing An aerial view of a collapsed section of a bridge in the city of Yatsushiro after an earthquake with a preliminary magnitude of 7.1 struck Japan’s southern Kumamoto prefecture: Japan’s Mainichi Shimbun newspaper ha"
-    },
-    {
-      "id": "6788ab8437bdad5f",
-      "title": "Welsh Rugby Union confirms Scarlets or Ospreys to be cut",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c171w048jdgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-29T14:22:39.000Z",
-      "summary": "The Welsh Rugby Union gives details of how it intends to cut a team - with Ospreys and Scarlets set to fight to be the side in south west Wales."
-    },
-    {
-      "id": "96857e89c9373f6d",
-      "title": "‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-29T14:09:09.000Z",
-      "summary": "'There is no ceasefire' say Palestinians in Gaza after new Israeli strikes"
-    },
-    {
-      "id": "4682226aed84e42f",
-      "title": "How a seaweed bloom is affecting tourism in Mexico",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/how-a-seaweed-bloom-is-affecting-tourism-in-mexico?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-07-29T14:04:42.000Z",
-      "summary": "In Mexico, a record surge of brown, smelly seaweed known as sargassum has blanketed the idyllic coastline."
     },
     {
       "id": "ea84826312d0c00c",
@@ -282,16 +392,6 @@
       "summary": "AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, intent-based access controls, and least privilege are becoming the foundation for securing agentic AI. [...]"
     },
     {
-      "id": "3f8376b3c0fbf6ba",
-      "title": "Fragile peace in Syria’s Set Zaynab as sectarian challenges persist",
-      "url": "https://www.aljazeera.com/features/2026/7/29/fragile-peace-in-syrias-set-zaynab-as-sectarian-challenges-persist?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-29T13:58:28.000Z",
-      "summary": "Locals in southern Damascus town await safer times as fears rooted in a decade of war still loom over daily life."
-    },
-    {
       "id": "7026e55d9e39bca4",
       "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
@@ -302,54 +402,14 @@
       "summary": "​​Microsoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements for the operating system. [...]"
     },
     {
-      "id": "45ee91902e08997f",
-      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "environment",
-      "region": "middle_east",
-      "publishedAt": "2026-07-29T13:48:41.000Z",
-      "summary": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure."
-    },
-    {
-      "id": "ea39f53dc75a56b3",
-      "title": "Saltburn concede cup match amid 'finger-clicking' claim",
+      "id": "d51771c59703a47d",
+      "title": "Saltburn suspend Devine after 'finger-clicking' claim",
       "url": "https://www.bbc.co.uk/sport/cricket/articles/cg7m5grrp7ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
       "region": "global",
       "publishedAt": "2026-07-29T13:36:52.000Z",
-      "summary": "Saltburn Cricket Club were placed under investigation by the North Yorkshire and South Durham Cricket League earlier this week."
-    },
-    {
-      "id": "f1452ef988d4c506",
-      "title": "How are AI models able to autonomously hack others?",
-      "url": "https://www.aljazeera.com/news/2026/7/29/how-are-ai-models-able-to-autonomously-hack-others?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-07-29T13:19:04.000Z",
-      "summary": "The next phase of AI has begun. Autonomous agents can make decisions and complete tasks with little human input."
-    },
-    {
-      "id": "b7df5e07ee5e9d83",
-      "title": "Infantino sets deadline for FIFA offer in Kushner-backed World Cup plan",
-      "url": "https://www.aljazeera.com/sports/2026/7/29/infantino-sets-deadline-for-fifa-offer-in-kushner-backed-world-cup-plan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-07-29T13:15:22.000Z",
-      "summary": "FIFA's president lobbies for latest, and heavily criticised, proposal for investment in football's governing body."
-    },
-    {
-      "id": "9fcfb13aa845dd0b",
-      "title": "US bans imports of new Chinese robots over security concerns",
-      "url": "https://www.aljazeera.com/economy/2026/7/29/us-bans-imports-of-new-chinese-robots-over-security-concerns?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-07-29T13:12:43.000Z",
-      "summary": "The action is part of a wider US effort to reduce reliance on Chinese technology."
+      "summary": "The Saltburn player at the centre of an alleged cheating scandal is suspended by the club for the \"foreseeable future\"."
     },
     {
       "id": "7020e7be5c2ba0cc",
@@ -362,16 +422,6 @@
       "summary": "More than eight million households have been placed under hosepipe bans - which has raised questions about how effectively water resources are being managed."
     },
     {
-      "id": "18f97d570337ae29",
-      "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
-      "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-07-29T12:17:42.000Z",
-      "summary": "The two leaders sound encouraged after holding back-to-back bilaterals at the White House."
-    },
-    {
       "id": "aaca6bfee762ea93",
       "title": "Ticket prices set to rise by 15p as Heathrow able to recover runway project money",
       "url": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&at_campaign=rss",
@@ -380,16 +430,6 @@
       "region": "europe",
       "publishedAt": "2026-07-29T12:16:16.000Z",
       "summary": "UK airport gets green light to charge airlines more to use the hub, which is expected to mean higher fares for flyers."
-    },
-    {
-      "id": "0ec9d56480fae80f",
-      "title": "Artists are lawyering up against AI slop, and some are even winning",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-07-29T12:00:00.000Z",
-      "summary": "Artists whose work has been co-opted by AI are taking to court. | Image: Alex Parkin / The Verge When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief and The Fishermen and the Dragon - nonfiction tomes that he spent \"five to s"
     },
     {
       "id": "71f6f0473459ac55",
@@ -422,16 +462,6 @@
       "summary": "The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects."
     },
     {
-      "id": "c43e7020aba3d96b",
-      "title": "We’re running out of reasons to ignore AI safety",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
-      "source": "The Verge",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-07-29T11:00:00.000Z",
-      "summary": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably silly - but also, as Adam Gleave, cofounder and CEO of AI safety organization FAR.AI, put it, \"a visceral example of how misaligned AI could ca"
-    },
-    {
       "id": "4bae7e3f79c6c475",
       "title": "How to see July's Buck Moon light up the night sky",
       "url": "https://www.bbc.co.uk/weather/articles/cx2lvg855x8o?at_medium=RSS&at_campaign=rss",
@@ -440,16 +470,6 @@
       "region": "global",
       "publishedAt": "2026-07-29T10:49:17.000Z",
       "summary": "July's full Moon, know as the Buck Moon, is set to light up the night sky on Wednesday."
-    },
-    {
-      "id": "a7e9a32d07180a11",
-      "title": "Andy Burnham wants to fix social care - what are the options?",
-      "url": "https://www.bbc.co.uk/news/articles/cj4k54g0ldjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-07-29T10:47:08.000Z",
-      "summary": "With Andy Burnham saying he wants to bring \"substantial change\" to social care in England, BBC Verify looks at what could be done."
     },
     {
       "id": "bd463e95ed5b61ff",
@@ -462,8 +482,8 @@
       "summary": "UK's largest fast-food chain says it is changing its menu \"in line with changing tastes and trends\"."
     },
     {
-      "id": "726559a4c5a3cd49",
-      "title": "Tributes paid to DJ ​and electronic ‌musician Kavinsky who has died",
+      "id": "9dbd4867a454ab65",
+      "title": "DJ Guetta leads tributes to electronic ‌musician Kavinsky who has died",
       "url": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "creativity_arts",
@@ -562,36 +582,6 @@
       "summary": "Prime Minister Tarique Rahman has assured of taking necessary initiatives to resolve the ongoing gas crisis in the industrial sector. This information was revealed by Shaukat Aziz Russell, President of… The post PM assures resolution of gas crisis in industrial sector appeared first on Bangla Online News Portal."
     },
     {
-      "id": "91e9a6c1d91ad4c1",
-      "title": "The athlete who has never held her Olympic medal",
-      "url": "https://www.bbc.co.uk/sport/weightlifting/articles/cn8nxg5rvvko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-29T05:23:46.000Z",
-      "summary": "The story of Cameroon Olympic medallist Madias Ngake's remarkable journey from sleeping rough and seeking asylum to competing for England at Glasgow 2026."
-    },
-    {
-      "id": "f9c16d65a9828ec3",
-      "title": "Unauthorised airport car park grows despite stop notice",
-      "url": "https://www.bbc.co.uk/news/articles/cn8ngxw5195o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-07-29T05:12:15.000Z",
-      "summary": "Customers says they returned from their holidays to find their cars damaged and dirty."
-    },
-    {
-      "id": "b6c4c687133c0ac9",
-      "title": "Trump administration bans new Chinese humanoid robots",
-      "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "ai_innovation",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-29T02:30:50.000Z",
-      "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence."
-    },
-    {
       "id": "53acc4fbfff5e28e",
       "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
       "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
@@ -612,16 +602,6 @@
       "summary": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\"."
     },
     {
-      "id": "33e3c3951ef3778d",
-      "title": "'Don't wait until you want revenge' - why prenups are on the rise",
-      "url": "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-07-28T23:00:07.000Z",
-      "summary": "More young couples are now signing prenups to set out who gets what in the event of divorce."
-    },
-    {
       "id": "00b549da3023f308",
       "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
       "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
@@ -630,16 +610,6 @@
       "region": "americas",
       "publishedAt": "2026-07-28T16:46:05.000Z",
       "summary": "Data shows Canadians have replaced US vacations with other international trips in apparent rebuke to Trump Canadians spent $3.3bn less on travel to the US in 2025 than in the previous year, as Donald Trump’s hostile policies towards his northern neighbour continue to incur an economic cost, new government data shows. The research also indicates that Canadians are not bucking travel overall and instead have replaced U"
-    },
-    {
-      "id": "7d7c1b0592c11c6b",
-      "title": "Drone footage shows Wisconsin tornado damage",
-      "url": "https://www.bbc.co.uk/news/videos/cgr751pvnd2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-07-28T14:03:30.000Z",
-      "summary": "No fatalities or injuries were immediately reported after an EF-2 tornado hit parts of the Midwest state."
     },
     {
       "id": "6349b676cb59e9f0",
@@ -662,16 +632,6 @@
       "summary": "President also blames Brazil and Mexico and says online critics ‘do not want the ideas of freedom to succeed’ More than a week has passed since Ferran Torres scored the extra-time goal that gave Spain its second World Cup, but – at least for Argentina’s president – the tournament is not over. Javier Milei has claimed that a coordinated “anti-Argentina campaign” was behind criticism of the country’s team, accusations "
     },
     {
-      "id": "e66c69a7e693d115",
-      "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
-      "source": "BleepingComputer",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-07-28T09:10:03.000Z",
-      "summary": "Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]"
-    },
-    {
       "id": "8b3cb33c69e4a33d",
       "title": "Six Bangladeshis Die in Horrific Fire in South Africa",
       "url": "https://www.bd24live.com/six-bangladeshis-die-in-horrific-fire-in-south-africa/",
@@ -690,16 +650,6 @@
       "region": "global",
       "publishedAt": "2026-07-28T07:10:37.000Z",
       "summary": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible."
-    },
-    {
-      "id": "c65bd38167796012",
-      "title": "Tackling the 'nasty' plant that can cause blisters and scars",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0w3pq24yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-07-28T05:23:45.000Z",
-      "summary": "A conservation group says it has made progress tackling giant hogweed infestations in County Tyrone."
     },
     {
       "id": "f761a13284c8168e",
@@ -822,16 +772,6 @@
       "summary": "Kuwait has strongly rejected claims that it participated in the US aggression carried out in Iran. Kuwait’s Ambassador to the United States, Sheikha Al-Zain Al-Sabah, stated that such claims are… The post Kuwait Denies Claims of Participating in US Aggression in Iran appeared first on Bangla Online News Portal."
     },
     {
-      "id": "59366792583f3157",
-      "title": "Bad News After Brace: Neymar Banned",
-      "url": "https://www.bd24live.com/bad-news-after-brace-neymar-banned/",
-      "source": "BD24Live",
-      "category": "sports",
-      "region": "bangladesh",
-      "publishedAt": "2026-07-26T10:15:12.000Z",
-      "summary": "Leaving behind his World Cup disappointment, Neymar returned to the field with an outstanding performance. In his comeback match for Santos, he scored a brace. However, immediately after that match,… The post Bad News After Brace: Neymar Banned appeared first on Bangla Online News Portal."
-    },
-    {
       "id": "17ed7c2f6979fddb",
       "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
       "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
@@ -882,6 +822,16 @@
       "summary": "It all began with an innocuous video shared by Seattle resident Kiana Hall on Instagram."
     },
     {
+      "id": "54700bd36efa5dd2",
+      "title": "Google fined €890m by EU for favouring its own apps over rivals",
+      "url": "https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "region": "europe",
+      "publishedAt": "2026-07-23T23:10:09.000Z",
+      "summary": "It is the first major enforcement action against the tech giant under the EU's new digital rules."
+    },
+    {
       "id": "85250ef33acd28af",
       "title": "Lawmakers push for AI 'kill switch' after OpenAI models go rogue",
       "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
@@ -900,6 +850,16 @@
       "region": "europe",
       "publishedAt": "2026-07-23T14:24:01.000Z",
       "summary": "The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last year Two Russian men have been found guilty by an Angolan court of terrorism and spying after being accused of planning a coup and helping to organise deadly demonstrations in the southern African country last year. Lev Lakshtanov and Igor Ratchin were sentenced to eight and 11 years in jail respectively. T"
+    },
+    {
+      "id": "62b1fb4de421602f",
+      "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
+      "source": "The Guardian World",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-07-23T14:06:01.000Z",
+      "summary": "September exercise called off after Kenya raises concerns over funding and jurisdiction for criminal offences The British army has been forced to cancel training for its troops in Kenya after the Kenyan government refused to ratify a bilateral defence agreement. While the UK government wanted to renew the existing agreement, Kenyan lawmakers had sought changes to give local authorities greater powers to hold British "
     },
     {
       "id": "c9e81a41da89cf7e",
@@ -960,6 +920,16 @@
       "region": "global",
       "publishedAt": "2026-06-10T14:03:44.000Z",
       "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group."
+    },
+    {
+      "id": "1963503d01f1e3c3",
+      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "region": "americas",
+      "publishedAt": "2026-06-01T17:32:50.000Z",
+      "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting account passwords."
     }
   ]
 }
