@@ -1,6 +1,196 @@
 {
-  "generatedAt": "2026-07-28T23:08:22.351Z",
+  "generatedAt": "2026-07-29T03:24:57.276Z",
   "articles": [
+    {
+      "id": "efd186f43b379a40",
+      "title": "Haitians living in fear as Temporary Protected Status ends in the US",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/haitians-living-in-fear-as-temporary-protected-status-ends-in-the-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-07-29T03:09:15.000Z",
+      "summary": "New York’s Haitian community is living in limbo and fear after Temporary Protected Status (TPS) was terminated Monday."
+    },
+    {
+      "id": "98c33691df96ffb5",
+      "title": "Iran missiles target US forces in Jordan after a five-day pause in war",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-29T02:54:45.000Z",
+      "summary": "The US military says it has successfully intercepted a barrage of missiles fired by Iran at its troops in Jordan."
+    },
+    {
+      "id": "5c157d3a2b3acf97",
+      "title": "Iran and US trade strikes, shattering brief lull in fighting",
+      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-29T02:47:28.000Z",
+      "summary": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran."
+    },
+    {
+      "id": "45fa135cce0e17b5",
+      "title": "Israel kills Palestinian, destroys mosque in Gaza",
+      "url": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "middle_east",
+      "publishedAt": "2026-07-29T02:45:59.000Z",
+      "summary": "Israeli settlers also attack a Palestinian family in Bethlehem in the occupied West Bank."
+    },
+    {
+      "id": "b6c4c687133c0ac9",
+      "title": "Trump administration bans new Chinese humanoid robots",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "ai_innovation",
+      "region": "asia_pacific",
+      "publishedAt": "2026-07-29T02:30:50.000Z",
+      "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence."
+    },
+    {
+      "id": "6ae54b8796833d5c",
+      "title": "OpenAI’s rogue agent hacked an account at a second technology firm: Report",
+      "url": "https://www.aljazeera.com/news/2026/7/29/openais-rogue-agent-hacked-an-account-at-a-second-technology-firm-report?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-07-29T02:05:41.000Z",
+      "summary": "The latest hack comes after an autonomous agent escaped a controlled test and accessed AI firm Hugging Face’s servers."
+    },
+    {
+      "id": "ab0e9dc017f5befe",
+      "title": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
+      "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-29T01:37:23.000Z",
+      "summary": "Riyadh says its targeted attacks were done in coordination with the US military."
+    },
+    {
+      "id": "d83e0fb624ba3c0d",
+      "title": "After fleeing Sudan’s war, refugees battle thirst in Chad’s camps",
+      "url": "https://www.aljazeera.com/news/2026/7/29/after-fleeing-sudans-war-refugees-battle-thirst-in-chads-camps?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "africa",
+      "publishedAt": "2026-07-29T01:30:14.000Z",
+      "summary": "After escaping war and atrocities, families now battle water shortages and fading hopes of returning home."
+    },
+    {
+      "id": "d1d9a3dcee965a16",
+      "title": "Media not invited as Trump, Netanyahu hold talks at the White House",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/media-not-invited-as-trump-netanyahu-hold-talks-at-the-white-house?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-07-29T01:19:55.000Z",
+      "summary": "US President Donald Trump has held talks at the White House with Israeli Prime Minister Benjamin Netanyahu."
+    },
+    {
+      "id": "545ed5318ed0dd3d",
+      "title": "Turkiye takes ‘historic step’ on energy alliance with Iraq",
+      "url": "https://www.aljazeera.com/news/2026/7/29/turkiye-takes-historic-step-on-energy-alliance-with-iraq?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "diplomacy",
+      "region": "europe",
+      "publishedAt": "2026-07-29T01:07:09.000Z",
+      "summary": "Ankara could receive 1 million barrels per day of Iraqi oil after Turkish Petroleum stake in BP-run Kirkuk oilfield."
+    },
+    {
+      "id": "b58c637fb2380c28",
+      "title": "Protests in Lima as Keiko Fujimori sworn in as Peru president",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protests-in-lima-as-keiko-fujimori-sworn-in-as-peru-president?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-07-29T01:03:49.000Z",
+      "summary": "Keiko Fujimori has been sworn in as Peru's president amid protests and promises to crackdown on crime."
+    },
+    {
+      "id": "53acc4fbfff5e28e",
+      "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
+      "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
+      "source": "The Guardian World",
+      "category": "creativity_arts",
+      "region": "africa",
+      "publishedAt": "2026-07-29T00:48:07.000Z",
+      "summary": "Potential toxic substance detected in several of 15 elephants found dead in Kenya’s Amboseli national park Officials are investigating the deaths of 15 elephants over the past month in Kenya’s Amboseli national park. The Kenya Wildlife Service (KWS) said 10 of the elephants showed signs of partial paralysis before dying within two days. Continue reading..."
+    },
+    {
+      "id": "c69109ac7663484f",
+      "title": "FIFA proposes plan to sell stakes in the World Cup, angering UEFA",
+      "url": "https://www.aljazeera.com/sports/2026/7/29/fifa-proposes-plan-to-sell-stakes-in-the-world-cup-angering-uefa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-29T00:25:29.000Z",
+      "summary": "Football's world governing body announces plans to sell stakes of up to 20 percent in the World Cup and other events."
+    },
+    {
+      "id": "c01425f51ecf69c9",
+      "title": "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-29T00:00:00.000Z",
+      "summary": "Attacks come as Saudi Arabia intercepts drones and Iran warns of 'any action' to maintain its control of Hormuz."
+    },
+    {
+      "id": "5123d26a8440f21b",
+      "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
+      "url": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "creativity_arts",
+      "region": "africa",
+      "publishedAt": "2026-07-28T23:25:53.000Z",
+      "summary": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs."
+    },
+    {
+      "id": "8c2b1e354a69bb2a",
+      "title": "FCC bans humanoid robots from China, citing ‘unacceptable risks’",
+      "url": "https://www.theguardian.com/us-news/2026/jul/28/fcc-ban-humanoid-robots-china",
+      "source": "The Guardian World",
+      "category": "technology",
+      "region": "asia_pacific",
+      "publishedAt": "2026-07-28T23:24:15.000Z",
+      "summary": "Move comes as the Trump administration has increasingly sought to keep Chinese technology out of the US The Federal Communications Commission announced a ban on humanoid robots from China on Tuesday, saying that the technology poses “unacceptable risks” to the country’s national security. The move comes as the Trump administration has increasingly sought to keep Chinese technology out of the US. The FCC defines the b"
+    },
+    {
+      "id": "b074eb90987a2e92",
+      "title": "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
+      "url": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-28T23:16:44.000Z",
+      "summary": "The Houthis recently declared a naval blockade on Saudi Arabia in the Red Sea, targeting several tankers."
+    },
+    {
+      "id": "5bee327b540b2414",
+      "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+      "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-07-28T23:12:09.000Z",
+      "summary": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival."
+    },
+    {
+      "id": "d6a15b72feaf1db7",
+      "title": "Soggy socks & a slathering of deep heat - rain causes chaos in Glasgow",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/c80nk2v5gmmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-28T23:08:14.000Z",
+      "summary": "Torrential rain causes chaos at the athletics in the Commonwealth Games, but England's Amy Hunt produces one of a number of impressive performances."
+    },
     {
       "id": "b1415428407a3a93",
       "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
@@ -42,46 +232,6 @@
       "summary": "The Chinese robot maker, Unitree, will likely be impacted by the ban. | Bloomberg via Getty Images The US government is targeting China with a new import ban on \"advanced robotic devices\" and power inverters made in foreign countries, as reported earlier by Reuters. In an announcement on Tuesday, the Federal Communications Commission says the ban will include \"mobile\" robots, such as humanoid and quadruped models - b"
     },
     {
-      "id": "534114e3065a8b7b",
-      "title": "Japan earthquake injures at least 100 and kills two inside shopping mall",
-      "url": "https://www.theguardian.com/world/2026/jul/28/japan-earthquake-traps-people-collapsed-shopping-mall",
-      "source": "The Guardian World",
-      "category": "creativity_arts",
-      "region": "americas",
-      "publishedAt": "2026-07-28T22:14:45.000Z",
-      "summary": "Kumamoto shaken by 6.8-magnitude quake, knocking out power and damaging buildings, as people remain trapped inside shopping centre A 6.8-magnitude earthquake has shaken south Japan, killing at least two people and leaving at least 100 people injured. Some are trapped and presumed dead inside a shopping mall. The earthquake hit Kumamoto prefecture on the southern Kyushu island late on Tuesday afternoon, knocking out p"
-    },
-    {
-      "id": "fed56702a3e073c3",
-      "title": "'Mariah Cleggy' channels Messi to swim to gold before relay team take bronze",
-      "url": "https://www.bbc.co.uk/sport/swimming/articles/cx25j65x4g8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-28T22:09:42.000Z",
-      "summary": "Para-swimmer Stephen Clegg adds Commonwealth Games gold to his earlier silver to take Scotland's tally to seven."
-    },
-    {
-      "id": "e5827dc6c4510b40",
-      "title": "Japan Kumamoto earthquake: What happened, damage, victims, latest updates",
-      "url": "https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-28T21:59:40.000Z",
-      "summary": "A magnitude 6.8 earthquake struck Japan's Kyushu island, causing building collapses, fires and widespread damage."
-    },
-    {
-      "id": "2c2ba7864fceca22",
-      "title": "West Indies beat Pakistan & dedicate win to Sobers",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cvg09e84z8do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-28T21:59:17.000Z",
-      "summary": "Jayden Seales takes 5-20 in second innings as West Indies' pace attack ruthlessly blow away Pakistan to secure a 90-run victory just after tea on day four of the first Test."
-    },
-    {
       "id": "21ce25f8b55c2d0a",
       "title": "eBay agrees $56m settlement with bloggers over harassment case",
       "url": "https://www.bbc.co.uk/news/articles/cj039p238r5o?at_medium=RSS&at_campaign=rss",
@@ -90,6 +240,16 @@
       "region": "global",
       "publishedAt": "2026-07-28T21:49:16.000Z",
       "summary": "Former eBay executives carried out \"unprecedented\" harassment over a critical newsletter."
+    },
+    {
+      "id": "682eed297553da53",
+      "title": "Ariana Grande is suing the hackers who&#8217;ve been leaking her songs and videos for years",
+      "url": "https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-07-28T21:48:50.000Z",
+      "summary": "Ariana Grande filed a lawsuit on Monday in the Los Angeles County Superior Court against the currently unidentified hackers who allegedly stole and leaked private content. It aims to \"uncover the identities of these currently unknown and unscrupulous individuals,\" referred to as \"John Doe 1 and John Does 2 through 100.\" The lawsuit also says that \"In 2023 alone, 45 unreleased songs\" were \"hacked, stolen, and leaked,\""
     },
     {
       "id": "6bb514e0ef87f14f",
@@ -112,96 +272,6 @@
       "summary": "Anti-discrimination body Kick It Out says tougher sanctions are needed to punish discrimination in football, as the number of annual incidents hits a record high."
     },
     {
-      "id": "8eb7952b513c100f",
-      "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-28T21:24:20.000Z",
-      "summary": "Video footage captures an Israeli airstrike hitting Al-Muttaqin Mosque in Gaza City, next to Yarmouk Stadium"
-    },
-    {
-      "id": "fe82b5f80848e6ac",
-      "title": "Donald Trump and world leaders attend Lindsey Graham’s funeral",
-      "url": "https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-07-28T21:07:39.000Z",
-      "summary": "Donald Trump said Lindsey Graham was a force in politics at the late senator's funeral in DC."
-    },
-    {
-      "id": "7b8223dbe338f001",
-      "title": "Iran and Oman exchange proposals to manage Strait of Hormuz",
-      "url": "https://www.aljazeera.com/news/2026/7/28/iran-and-oman-exchange-proposals-to-manage-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-28T21:01:19.000Z",
-      "summary": "Omani proposal is based on the Strait of Malacca model, where ships that use the strait provide voluntary fees."
-    },
-    {
-      "id": "e9c6b4f17b284796",
-      "title": "Rome’s viral graffiti cleaner is taking on an ancient problem",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/romes-viral-graffiti-cleaner-is-taking-on-an-ancient-problem?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-07-28T20:41:18.000Z",
-      "summary": "Graffiti has marked the walls of Rome for millennia. One content creator builds a following cleaning spray-paint."
-    },
-    {
-      "id": "7a947bd112de971c",
-      "title": "Many feared dead from 7.1-magnitude quake in Kumamoto, Japan",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_many-feared-dead-from-7-280726?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-28T20:36:48.000Z",
-      "summary": "A powerful 7.1-magnitude earthquake struck Kumamoto, Japan, causing widespread damage, injuries and fears of deaths."
-    },
-    {
-      "id": "162e064c29f05958",
-      "title": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
-      "url": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-07-28T20:29:42.000Z",
-      "summary": "Kyiv claims its Caspian Sea strike targeted Russian warships, denying intent to harm civilian vessels or individuals."
-    },
-    {
-      "id": "bf765b5c9f7989f3",
-      "title": "Protests in DC against Netanyahu’s meeting with Trump",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/protests-in-dc-against-netanyahus-meeting-with-trump?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-07-28T20:22:07.000Z",
-      "summary": "A group of demonstrators gathered near the White House to protest Benjamin Netanyahu’s visit to Washington."
-    },
-    {
-      "id": "0c8a6e2c7e374c4e",
-      "title": "Keiko Fujimori sworn in as Peru president after narrow election win",
-      "url": "https://www.aljazeera.com/news/2026/7/28/keiko-fujimori-sworn-in-as-peru-president-after-narrow-election-win?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-07-28T20:14:09.000Z",
-      "summary": "Fujimori takes office promising an iron-fisted crackdown on crime, as critics fear a return to her father's tactics."
-    },
-    {
-      "id": "33094b74ee22cf5f",
-      "title": "How US defence aid shaped Israel’s military developments since Oct 7, 2023",
-      "url": "https://www.aljazeera.com/economy/2026/7/28/how-us-defence-aid-shaped-israels-military-developments-since-oct-7-2023?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-28T20:11:04.000Z",
-      "summary": "US-Israel defence cooperation spans decades, including a $33bn, 10-year memorandum of understanding signed in 2016."
-    },
-    {
       "id": "fa2b82df9fec1fd8",
       "title": "Despair to delight for Wales' golden girl Evans",
       "url": "https://www.bbc.co.uk/sport/gymnastics/articles/c3r088n0wlwo?at_medium=RSS&at_campaign=rss",
@@ -212,18 +282,8 @@
       "summary": "Gymnast Ruby Evans goes from despair to gold in Glasgow after glory in the floor final at the Commonwealth Games."
     },
     {
-      "id": "9ca03dc1f899115d",
-      "title": "New poll shows confusion over Democratic Socialists of America ideals",
-      "url": "https://www.aljazeera.com/news/2026/7/28/new-poll-shows-confusion-over-democratic-socialists-of-america-ideals?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-07-28T19:56:07.000Z",
-      "summary": "Democratic socialists face mixed understanding, with 49% of Americans saying they grasp their policies, poll shows."
-    },
-    {
-      "id": "0e618e6a13e8a388",
-      "title": "AI leaders sign statement asking the government to do something about automated AI",
+      "id": "2b70f7c715e8bff3",
+      "title": "AI leaders sign a statement asking the government to do something about automated AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
       "source": "The Verge",
       "category": "ai_innovation",
@@ -242,26 +302,6 @@
       "summary": "Manchester City winger Savinho is open to leaving the club and is keen to join Premier League rivals Tottenham."
     },
     {
-      "id": "014bc969d8285239",
-      "title": "Deaths feared after ‘many people’ trapped inside Japanese shopping centre following earthquake – as it happened",
-      "url": "https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "creativity_arts",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-28T18:39:59.000Z",
-      "summary": "An ⁠earthquake ​with ⁠a ⁠preliminary magnitude ​of ‌6.8 ‌struck ‌the country’s Kumamoto prefecture Kyushu Electric Power said ​48,000 homes had lost power as a result of the latest ​quake, while railway company JR Kyushu said that it had ​suspended services, including its high-speed bullet trains. Kumamoto airport also shut its runway, as airlines diverted and cancelled flights. Continue reading..."
-    },
-    {
-      "id": "703a5afd0c32bc34",
-      "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
-      "url": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "africa",
-      "publishedAt": "2026-07-28T18:19:57.000Z",
-      "summary": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33."
-    },
-    {
       "id": "edbcc0eaeef66fa2",
       "title": "Zidane waited for France - now can he harness their star power?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c20dxgpjng3o?at_medium=RSS&at_campaign=rss",
@@ -270,6 +310,16 @@
       "region": "europe",
       "publishedAt": "2026-07-28T17:04:09.000Z",
       "summary": "Zinedine Zidane says he waited for the France job, but what will he bring to the role after after five years out of management?"
+    },
+    {
+      "id": "00b549da3023f308",
+      "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
+      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
+      "source": "The Guardian World",
+      "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-07-28T16:46:05.000Z",
+      "summary": "Data shows Canadians have replaced US vacations with other international trips in apparent rebuke to Trump Canadians spent $3.3bn less on travel to the US in 2025 than in the previous year, as Donald Trump’s hostile policies towards his northern neighbour continue to incur an economic cost, new government data shows. The research also indicates that Canadians are not bucking travel overall and instead have replaced U"
     },
     {
       "id": "1177289b09e2faa1",
@@ -285,8 +335,8 @@
       "id": "c76335f547837233",
       "title": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
       "url": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
       "region": "africa",
       "publishedAt": "2026-07-28T16:37:02.000Z",
       "summary": "It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades."
@@ -302,16 +352,6 @@
       "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde."
     },
     {
-      "id": "3e06ae7e242ebed5",
-      "title": "French Navy carries out 'shooting drill' mid interview",
-      "url": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-07-28T16:12:35.000Z",
-      "summary": "Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview."
-    },
-    {
       "id": "db7946ff9d85a16b",
       "title": "Uefa and PM criticise Infantino World Cup plan",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
@@ -322,6 +362,16 @@
       "summary": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup."
     },
     {
+      "id": "908d4565f7cb50ab",
+      "title": "Watch: The moment quake hit Japan",
+      "url": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "creativity_arts",
+      "region": "asia_pacific",
+      "publishedAt": "2026-07-28T15:32:37.000Z",
+      "summary": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July."
+    },
+    {
       "id": "d84a1bbceb0057dd",
       "title": "Odyssey translator writes scathing review of Nolan film adaptation",
       "url": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
@@ -330,16 +380,6 @@
       "region": "global",
       "publishedAt": "2026-07-28T15:11:28.000Z",
       "summary": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed."
-    },
-    {
-      "id": "495b7d64af781ee5",
-      "title": "‘He liked to get people’s blood boiling’: metal masters Mastodon on the loss of bandmate Brent Hinds – and his shocking words before his death",
-      "url": "https://www.theguardian.com/music/2026/jul/28/metal-masters-mastodon-on-loss-of-brent-hinds-new-album-marrow-deep-interview",
-      "source": "The Guardian Culture",
-      "category": "weather_climate",
-      "region": "europe",
-      "publishedAt": "2026-07-28T15:00:07.000Z",
-      "summary": "The Grammy-winning band had an acrimonious rift with Hinds – then he died in a motorbike crash. They explain how they’re paying tribute on their new album, and why their love for each other never ended Mastodon are near the end of a tour where they’re playing 22 shows in 14 different European countries during a record-breaking heatwave, when they video-call me outside a Bordeaux venue. Bassist and co-lead singer Troy"
     },
     {
       "id": "06f4316418a2b125",
@@ -372,26 +412,6 @@
       "summary": "No fatalities or injuries were immediately reported after an EF-2 tornado hit parts of the Midwest state."
     },
     {
-      "id": "210bde9c8bb81be3",
-      "title": "Is it safe to travel to France and Spain right now?",
-      "url": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "europe",
-      "publishedAt": "2026-07-28T13:54:20.000Z",
-      "summary": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans."
-    },
-    {
-      "id": "7dfb9003d406ca97",
-      "title": "Mancini reappointed Italy boss after Pirlo controversy",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "technology",
-      "region": "europe",
-      "publishedAt": "2026-07-28T13:54:00.000Z",
-      "summary": "Roberto Mancini is appointed Italy manager for a second time - just a day after Andrea Pirlo rules himself out of the running for the job and technical director Paolo Maldini resigns."
-    },
-    {
       "id": "b0fce9ddea59b78b",
       "title": "Alonso's first Chelsea match a tale of four strikers",
       "url": "https://www.bbc.co.uk/sport/football/articles/c1w13ddr4ejo?at_medium=RSS&at_campaign=rss",
@@ -422,16 +442,6 @@
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their…"
     },
     {
-      "id": "5bee327b540b2414",
-      "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
-      "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-07-28T11:50:59.000Z",
-      "summary": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival."
-    },
-    {
       "id": "ddafd4677a91edc8",
       "title": "Mary Beth Barone on provocative jokes, Palestine and manosphere misogyny: ‘It’s hard to stomach that those are my co-workers’",
       "url": "https://www.theguardian.com/tv-and-radio/2026/jul/28/mary-beth-barone-netflix-special-interview",
@@ -440,6 +450,16 @@
       "region": "global",
       "publishedAt": "2026-07-28T11:00:02.000Z",
       "summary": "The comedian and actor’s new Netflix special is a gleefully absurd take on politics and potty-mouthed humor Mary Beth Barone knows exactly who will be offended by her new Netflix special. “JK Rowling, Republicans, establishment Democrats, the British, the Irish and Zionists,” she tells me, reading a list from her Notes app. Then there’s “Katy Kats – which is what Katy Perry calls her fans – and male comedians and one"
+    },
+    {
+      "id": "b3616fbc170c3f8b",
+      "title": "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup",
+      "url": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
+      "source": "The Guardian World",
+      "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-07-28T10:21:46.000Z",
+      "summary": "President also blames Brazil and Mexico and says online critics ‘do not want the ideas of freedom to succeed’ More than a week has passed since Ferran Torres scored the extra-time goal that gave Spain its second World Cup, but – at least for Argentina’s president – the tournament is not over. Javier Milei has claimed that a coordinated “anti-Argentina campaign” was behind criticism of the country’s team, accusations "
     },
     {
       "id": "bffe63c53739d8e0",
@@ -840,6 +860,16 @@
       "region": "europe",
       "publishedAt": "2026-07-23T14:24:01.000Z",
       "summary": "The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last year Two Russian men have been found guilty by an Angolan court of terrorism and spying after being accused of planning a coup and helping to organise deadly demonstrations in the southern African country last year. Lev Lakshtanov and Igor Ratchin were sentenced to eight and 11 years in jail respectively. T"
+    },
+    {
+      "id": "62b1fb4de421602f",
+      "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
+      "source": "The Guardian World",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-07-23T14:06:01.000Z",
+      "summary": "September exercise called off after Kenya raises concerns over funding and jurisdiction for criminal offences The British army has been forced to cancel training for its troops in Kenya after the Kenyan government refused to ratify a bilateral defence agreement. While the UK government wanted to renew the existing agreement, Kenyan lawmakers had sought changes to give local authorities greater powers to hold British "
     },
     {
       "id": "c9e81a41da89cf7e",
