@@ -1,55 +1,315 @@
 {
-  "generatedAt": "2026-07-31T04:29:33.628Z",
+  "generatedAt": "2026-07-31T13:02:22.959Z",
   "articles": [
     {
-      "id": "0379d232355509cc",
-      "title": "Southern Lebanese towns near Beaufort Castle hit by Israeli strikes",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/aje-onl-nf_south-lebanon-towns-beaufort-hit-by-israeli-strike-300726?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "middle_east",
-      "publishedAt": "2026-07-31T04:09:08.000Z",
-      "summary": "IDF said it used 700 tonnes of explosives to destroy parts of a Hezbollah tunnel network in southern Lebanon."
-    },
-    {
-      "id": "753ed9c3594f13cb",
-      "title": "Death toll from Japan earthquake climbs to 34",
-      "url": "https://www.aljazeera.com/news/2026/7/31/death-toll-from-japan-earthquake-climbs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-31T04:03:10.000Z",
-      "summary": "The magnitude 7.1 quake has killed 34 people and left six more seriously injured."
-    },
-    {
-      "id": "3ed37e0e44857e50",
-      "title": "After OpenAI disclosure, Anthropic says Claude also hacked outside systems",
-      "url": "https://www.aljazeera.com/news/2026/7/31/after-openai-disclosure-anthropic-claude-hacked-outside-systems?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "ai_innovation",
+      "id": "a846bcfba318bf53",
+      "title": "Sainsbury's agrees to sell Argos for £120m",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
       "region": "global",
-      "publishedAt": "2026-07-31T04:02:03.000Z",
-      "summary": "The incidents have heightened concerns about AI agents, software products designed to perform tasks autonomously."
+      "publishedAt": "2026-07-31T12:42:22.000Z",
+      "summary": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points."
     },
     {
-      "id": "a94174f61cabc9a6",
-      "title": "Israeli blockades seal off village in the occupied West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-blockades-seal-off-village-in-the-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
+      "id": "04306863a9f6896d",
+      "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-07-31T12:39:39.000Z",
+      "summary": "The estimated number of arrivals is more than 70% of the population of the city, which is about 83,600."
+    },
+    {
+      "id": "d88697701cdb1539",
+      "title": "UK petrol prices rise to highest this year as US attacks Iran – business live",
+      "url": "https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates",
+      "source": "The Guardian World",
       "category": "economy_business",
       "region": "middle_east",
-      "publishedAt": "2026-07-31T03:35:52.000Z",
-      "summary": "Al Jazeera visited the occupied West Bank village of Sinjil, where Israeli road closures have blocked all main entrances"
+      "publishedAt": "2026-07-31T12:31:11.000Z",
+      "summary": "Live, rolling coverage as the AA and RAC report prices rising to around £1.60 per litre after Donald Trump ordered renewed bombing in the Middle East The story piquing the interest of the financial press this morning is that of Leopold Aschenbrenner, the AI Wunderkind (he’s German-born) who has been forced to sell off his fund in a fire sale after the AI boom ran out of steam. The 24-year-old had persuaded a lot of p"
     },
     {
-      "id": "77fd2c7c1ba29b9e",
-      "title": "India to increase penalties for exam leaks after Cockroach party protests",
-      "url": "https://www.aljazeera.com/news/2026/7/31/india-to-increase-penalties-for-exam-leaks-after-cockroach-party-protests?traffic_source=rss",
+      "id": "37459f803662ef2e",
+      "title": "Inside Barcelona’s most sweltering neighbourhood: El Raval",
+      "url": "https://www.aljazeera.com/features/2026/7/31/inside-barcelonas-most-sweltering-neighbourhood-el-raval?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "creativity_arts",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-31T03:27:44.000Z",
-      "summary": "The new legislation comes after youth-led protests calling for sweeping reforms and forcing minister's resignation"
+      "region": "global",
+      "publishedAt": "2026-07-31T12:24:09.000Z",
+      "summary": "Densely packed apartments, low incomes, lack of tree cover and poor housing put migrant heart of the capital at risk."
+    },
+    {
+      "id": "98f70877d26719a5",
+      "title": "Wildfire near Sizewell nuclear plant causes ‘total devastation’ to Suffolk landscape",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/31/suffolk-wildfire-sizewell-nuclear-plant-dunwich-heath",
+      "source": "The Guardian Environment",
+      "category": "disasters",
+      "region": "europe",
+      "publishedAt": "2026-07-31T12:23:57.000Z",
+      "summary": "More than 100 firefighters remain at scene after Dunwich Heath blaze spread across 150 hectares and forced evacuations A wildfire near Britain’s biggest nuclear power station has caused “total devastation” to one of the UK’s most important landscapes, experts have warned, as fire crews said the situation was “stabilising”. More than 100 firefighters have been battling the blaze in Dunwich Heath, near Leiston, on the "
+    },
+    {
+      "id": "1aa7049b816e5396",
+      "title": "Second day of Spain – Morocco border clashes amid mass migrant influx",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/second-day-of-spain-morocco-border-clashes-amid-mass-migrant-influx?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-07-31T12:11:08.000Z",
+      "summary": "Second day of Spain - Morocco border clashes amid mass migrant influx."
+    },
+    {
+      "id": "a0870f05a943d376",
+      "title": "Huge great white spotted traveling up US and Canada as shark sightings surge",
+      "url": "https://www.theguardian.com/us-news/2026/jul/31/great-white-shark-us-canada-coasts",
+      "source": "The Guardian Environment",
+      "category": "environment",
+      "region": "americas",
+      "publishedAt": "2026-07-31T12:00:14.000Z",
+      "summary": "Contender, largest tagged male great white, heading north as overheating oceans alter range of several shark species The largest tagged male great white shark in the Atlantic Ocean has been identified traveling up the US and Canada coastline amid a surge in sightings of sharks that are increasingly shifting their movement patterns due to the overheating of the oceans. The great white shark, named Contender, is nearly"
+    },
+    {
+      "id": "74c63eb2f7de6233",
+      "title": "League has 'genuine concern' for members over cheating claim",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c39edvjxglwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-31T11:49:18.000Z",
+      "summary": "An amateur cricket league says it has \"genuine concern for the welfare\" of Saltburn Cricket Club members over a recent finger clicking controversy that has made global headlines."
+    },
+    {
+      "id": "5326acb5864cb770",
+      "title": "At least 34 people die as thousands cross to Spanish enclave of Ceuta from Morocco",
+      "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
+      "source": "The Guardian World",
+      "category": "economy_business",
+      "region": "europe",
+      "publishedAt": "2026-07-31T11:49:17.000Z",
+      "summary": "Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incident Europe live – latest updates At least 34 people have died trying to reach the Spanish enclave of Ceuta after more than 40,000 migrants entered the tiny territory from Morocco in a matter of hours, triggering a political crisis for the Madrid government and unleashing a barrage of criticism from other EU cou"
+    },
+    {
+      "id": "597ff21977043e8f",
+      "title": "‘Migrant tsunami’: Second day of Spain – Morocco border clashes",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/migrant-tsunami-second-day-of-spain-morocco-border-clashes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "disasters",
+      "region": "europe",
+      "publishedAt": "2026-07-31T11:45:42.000Z",
+      "summary": "'Migrant tsunami': Second day of Spain - Morocco border clashes."
+    },
+    {
+      "id": "991ed13fd584a2d0",
+      "title": "Russia’s Africa Corps killed Mali civilians in air strike: HRW",
+      "url": "https://www.aljazeera.com/news/2026/7/31/russias-africa-corps-killed-mali-civilians-in-air-strike-hrw?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-07-31T11:41:32.000Z",
+      "summary": "Russian paramilitaries fight alongside Malian soldiers battling multiple armed groups linked to al-Qaeda and ISIL."
+    },
+    {
+      "id": "419bc6cf764204a0",
+      "title": "Archbishop of Canterbury vows to support £100m pledge helping communities affected by enslavement",
+      "url": "https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement",
+      "source": "The Guardian World",
+      "category": "economy_business",
+      "region": "africa",
+      "publishedAt": "2026-07-31T11:38:46.000Z",
+      "summary": "During her first visit to Ghana, Dame Sarah Mullally expressed regret and said the controversial fund symbolises the Christian belief in repentance At a former British castle where thousands of enslaved Africans were held before being shipped across the Atlantic, the archbishop of Canterbury expressed “lament” for the Church of England’s involvement in transatlantic chattel slavery and reaffirmed her commitment to a "
+    },
+    {
+      "id": "4b740c26b1803d68",
+      "title": "Gaza Board of Peace announces Hamas disarmament agreement: What we know",
+      "url": "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-31T11:23:09.000Z",
+      "summary": "Under the agreement, Israel would have to withdraw from Gaza. But experts remain sceptical."
+    },
+    {
+      "id": "eebd20ffbccd533c",
+      "title": "Palestinians in Gaza are sceptical about the latest peace plan",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-reported-hani-mahmoud-gaza-ps?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-31T10:47:57.000Z",
+      "summary": "Palestinians in Gaza are sceptical of the latest peace plan, questioning whether it will bring lasting change."
+    },
+    {
+      "id": "998c859834020e35",
+      "title": "Spain’s PM visits Ceuta after 34 migrants die breaching border from Morocco",
+      "url": "https://www.aljazeera.com/news/2026/7/31/spain-pm-to-visit-ceuta-after-19-migrants-die-breaching-border-from-morocco?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "cybersecurity",
+      "region": "europe",
+      "publishedAt": "2026-07-31T10:40:11.000Z",
+      "summary": "Regional leader says 60,000 crossed into Ceuta by land and sea as EU chief calls situation 'unacceptable'."
+    },
+    {
+      "id": "82283a74805e94f3",
+      "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-07-31T10:32:17.000Z",
+      "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025."
+    },
+    {
+      "id": "d250c03321cfb67d",
+      "title": "Anthropic's Claude AI escapes to hack into three organisations",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-07-31T10:18:54.000Z",
+      "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks."
+    },
+    {
+      "id": "11fe3586ee199f23",
+      "title": "Rugby v cricket - England's George swaps sports to help tackle MND",
+      "url": "https://www.bbc.co.uk/sport/articles/clyl13k41jlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-31T10:16:38.000Z",
+      "summary": "England and Saracens' Jamie George on why he and Somerset's Lewis Gregory are playing a charity cricket match to raise money for motor neurone disease charities."
+    },
+    {
+      "id": "cd054c8dfe9bedcb",
+      "title": "Italy World Cup winner and AC Milan legend Franco Baresi dies aged 66",
+      "url": "https://www.aljazeera.com/sports/2026/7/31/italy-and-ac-milan-legend-franco-baresi-dies-aged-66?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-07-31T09:55:24.000Z",
+      "summary": "Franco Baresi, who won the World Cup with Italy and was regarded as one of football's finest defenders, dies aged 66."
+    },
+    {
+      "id": "76c98054d058dcd0",
+      "title": "Dhaka Court Orders Investigation Into Alleged Religious Defamation by Blogger",
+      "url": "https://www.bd24live.com/dhaka-court-orders-investigation-into-alleged-religious-defamation-by-blogger-2/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-07-31T09:54:52.000Z",
+      "summary": "A Dhaka court has ordered an investigation into allegations of religious defamation against blogger and writer Md Mijanur Rahaman, who has been accused of publishing controversial and allegedly insulting comments… The post Dhaka Court Orders Investigation Into Alleged Religious Defamation by Blogger appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "6aba4c8e2cb78f96",
+      "title": "AFC backs UEFA and CONCACAF who plan boycott over FIFA World Cup proposals",
+      "url": "https://www.aljazeera.com/sports/2026/7/31/afc-joins-uefa-and-concacaf-in-threat-to-boycott-fifa-over-world-cup-plans?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "americas",
+      "publishedAt": "2026-07-31T09:52:57.000Z",
+      "summary": "FIFA face global mutiny as Asian Football Confederation stand with Europe and North America after their boycott threats."
+    },
+    {
+      "id": "fe4318bcfe43c549",
+      "title": "FIFA World Cup plan fallout: Infantino’s senior adviser Cordeiro resigns",
+      "url": "https://www.aljazeera.com/sports/2026/7/31/infantinos-senior-adviser-cordeiro-resigns-over-fifa-world-cup-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-07-31T09:50:41.000Z",
+      "summary": "Pressure is growing on FIFA and its President Gianni Infantino following proposals for private investment in World Cups."
+    },
+    {
+      "id": "4d2be3207f77a4e4",
+      "title": "AC Milan and Italy great Baresi dies aged 66",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-07-31T09:44:48.000Z",
+      "summary": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces."
+    },
+    {
+      "id": "d377cbcb13b39823",
+      "title": "BP puts North Sea business up for sale",
+      "url": "https://www.bbc.co.uk/news/articles/c62q7w003lro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-07-31T09:43:09.000Z",
+      "summary": "The decision follows a review of BP's operations and is set to end 60 years of production in the region by the oil giant."
+    },
+    {
+      "id": "b91bf78818eb51c5",
+      "title": "'Relieved' Woods wins gold again in restaged race",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cg7mjz213x0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-31T09:35:35.000Z",
+      "summary": "Scotland's Melanie Woods wins the Commonwealth Games women's 1500m T54 for the second time in under 40 hours after streaking to victory in the restaged final."
+    },
+    {
+      "id": "65da25ec87aad05c",
+      "title": "Liverpool's Jones argues with Szoboszlai after game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gx07351y8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-31T09:33:41.000Z",
+      "summary": "Liverpool's Curtis Jones has a heated argument with team-mate Dominik Szoboszlai after his side's win over Wrexham."
+    },
+    {
+      "id": "3448b05e5b559f97",
+      "title": "Eleven Palestinians, including children, injured in Israel’s Nablus raids",
+      "url": "https://www.aljazeera.com/news/2026/7/31/at-least-11-including-children-injured-in-israeli-raids-near-nablus?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "weather_climate",
+      "region": "middle_east",
+      "publishedAt": "2026-07-31T09:33:37.000Z",
+      "summary": "Israeli settlers and soldiers storm occupied West Bank towns, arrests made after intensified violence in town of Tal."
+    },
+    {
+      "id": "59bdb93e8e5cdda1",
+      "title": "India Reviewing Request to Return Sheikh Hasina",
+      "url": "https://www.bd24live.com/india-reviewing-request-to-return-sheikh-hasina/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-07-31T08:25:17.000Z",
+      "summary": "A report presented in the Indian Parliament stated that the Indian government is reviewing Dhaka’s request for the extradition of Bangladesh’s former Prime Minister Sheikh Hasina. It was also mentioned… The post India Reviewing Request to Return Sheikh Hasina appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "5a56804efb378784",
+      "title": "Fifa says 'nobody selling football' as plan continues",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-31T08:21:37.000Z",
+      "summary": "Football's governing body Fifa plans to continue the consultation process after Uefa threatens to boycott World Cups."
+    },
+    {
+      "id": "6ef522b067f8d01b",
+      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-07-31T08:09:17.000Z",
+      "summary": "At least 18 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border."
+    },
+    {
+      "id": "023f7f41031ffac8",
+      "title": "The Premier League clubs fighting a World Cup hangover",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c87n3wydzjzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-07-31T08:08:23.000Z",
+      "summary": "Which Premier League clubs have carried the biggest World Cup workload?"
     },
     {
       "id": "1e626511e37e5162",
@@ -58,18 +318,38 @@
       "source": "BBC World",
       "category": "world_politics",
       "region": "middle_east",
-      "publishedAt": "2026-07-31T03:24:14.000Z",
+      "publishedAt": "2026-07-31T07:03:29.000Z",
       "summary": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented."
     },
     {
-      "id": "004df984b5a007db",
-      "title": "Why a MAGA influencer’s shift to support Ukraine war is good for Trump",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/why-a-maga-influencers-shift-to-support-ukraine-war-is-good-for-trump?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
+      "id": "a4adabe0907513d6",
+      "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+      "url": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
       "region": "europe",
-      "publishedAt": "2026-07-31T03:08:59.000Z",
-      "summary": "One of the most prominent pro-Trump influencers, Laura Loomer, just made a major shift in her stance on Ukraine."
+      "publishedAt": "2026-07-31T05:21:18.000Z",
+      "summary": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth."
+    },
+    {
+      "id": "d3dac30dba398867",
+      "title": "Where to see the biggest solar eclipse since 1999",
+      "url": "https://www.bbc.co.uk/news/articles/cjrvn0wez48o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-07-31T05:09:42.000Z",
+      "summary": "The UK's biggest solar eclipse since 1999 arrives on 12 August. Here's where to see it safely."
+    },
+    {
+      "id": "50e45a30c19d87c6",
+      "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-31T04:25:49.000Z",
+      "summary": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza."
     },
     {
       "id": "06eef46749e72b3a",
@@ -82,68 +362,8 @@
       "summary": "Bangladesh has joined a new Saudi Arabia-led multinational maritime defense alliance (Multinational Maritime Defense Alliance), formed to ensure the security of vital international shipping lanes amidst growing tensions in the… The post Bangladesh Joins 14-Nation Alliance to Secure Vital Maritime Routes appeared first on Bangla Online News Portal."
     },
     {
-      "id": "6ef522b067f8d01b",
-      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-07-31T02:41:09.000Z",
-      "summary": "At least 15 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border."
-    },
-    {
-      "id": "b880b7ca82eca1b0",
-      "title": "Trump says Morocco named Tiznit-Dakhla highway after him: Why it matters",
-      "url": "https://www.aljazeera.com/news/2026/7/31/morocco-names-tiznit-dakhla-highway-after-trump-why-it-matters?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "africa",
-      "publishedAt": "2026-07-31T02:31:33.000Z",
-      "summary": "The claimed tribute to Trump forms part of Morocco's larger ambitions in the disputed Western Sahara."
-    },
-    {
-      "id": "b1ccb2f99c0a021a",
-      "title": "Clashes near Morocco’s border with Spain over beefed up migrant security",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/clashes-near-moroccos-border-with-spain-over-beefed-up-migrant-security?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-07-31T02:26:21.000Z",
-      "summary": "Clashes erupted near the Morocco-Spain border crossing, after thousands of migrants into Spain."
-    },
-    {
-      "id": "7339ca3107406660",
-      "title": "Pacific island nation Nauru officially changes name to ‘Naoero’",
-      "url": "https://www.aljazeera.com/news/2026/7/31/pacific-island-nation-nauru-officially-changes-name-to-naoero?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-31T02:12:16.000Z",
-      "summary": "The switch honours a name lost to colonial rule more than a century ago."
-    },
-    {
-      "id": "4158758dd63d90c0",
-      "title": "‘They got trapped:’ Race to save miners after deadly blast in Pakistan",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/they-got-trapped-race-to-save-miners-after-deadly-blast-in-pakistan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "disasters",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-31T01:59:34.000Z",
-      "summary": "Emergency workers are digging to get oxygen into a mine after an explosion in Pakistan's Balochistan Province."
-    },
-    {
-      "id": "bf91c99fac0cfb5e",
-      "title": "Israeli soldiers mutiny at notorious Sde Teiman base",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-soldiers-mutiny-at-notorious-sde-teiman-base?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-31T01:43:51.000Z",
-      "summary": "Dozens of Israeli soldiers have abandoned their weapons and walked out of the Sde Teiman military base."
-    },
-    {
-      "id": "52f511f073dd1fd1",
-      "title": "Three things we learned about AI from Big Tech earnings",
+      "id": "84fea372ab732b3f",
+      "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
       "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
       "category": "technology",
@@ -152,14 +372,14 @@
       "summary": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?"
     },
     {
-      "id": "03f79ffa63261913",
-      "title": "Anthropic says Claude AI hacked three organisations during cyber tests",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "cybersecurity",
+      "id": "0656d43780eee301",
+      "title": "Drought conditions may worsen before improving as little rain in sight",
+      "url": "https://www.bbc.co.uk/weather/articles/cn5nk90ndl0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
       "region": "global",
-      "publishedAt": "2026-07-31T01:31:14.000Z",
-      "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks."
+      "publishedAt": "2026-07-31T01:28:46.000Z",
+      "summary": "Conditions in the most parched areas of the United Kingdom could worsen before they improve, according to the latest forecasts."
     },
     {
       "id": "b1424780c6ad34d5",
@@ -172,18 +392,8 @@
       "summary": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of three incidents affecting real companies. [...]"
     },
     {
-      "id": "41fb9a1c77054ac6",
-      "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
-      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "americas",
-      "publishedAt": "2026-07-31T00:52:54.000Z",
-      "summary": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan."
-    },
-    {
-      "id": "5c6a81a26cfc0740",
-      "title": "Teen hackers tell BBC how police are helping them use their skills for good",
+      "id": "36a9e4c31ae7cae7",
+      "title": "How police are trying to divert teen hackers away from crime",
       "url": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
       "category": "cybersecurity",
@@ -232,24 +442,14 @@
       "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities on iCloud Plus where people can buy up the stack.\" This fall, Apple will broadly launch its long-delayed Siri AI with iOS 27, which can do t"
     },
     {
-      "id": "8da4189a0987adeb",
-      "title": "South Korea fines telco giant KT $39 million for customer data breach",
-      "url": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-30T22:28:30.000Z",
-      "summary": "South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]"
-    },
-    {
-      "id": "9fc2875d088ae7c3",
-      "title": "England edge South Africa thriller to reach semis",
-      "url": "https://www.bbc.co.uk/sport/netball/articles/cjrvlpdvr0no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "africa",
-      "publishedAt": "2026-07-30T22:11:25.000Z",
-      "summary": "England's netballers reach the Commonwealth Games semi-finals after producing a pulsating comeback to beat South Africa 58-54."
+      "id": "9533be16d384052c",
+      "title": "Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;",
+      "url": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "americas",
+      "publishedAt": "2026-07-30T22:10:13.000Z",
+      "summary": "Asha Sharma. | Image: The Verge, Microsoft After a massive Xbox \"reset\" that laid off thousands of employees and spun off four studios, Xbox CEO Asha Sharma wants to get Xbox back to growth. In a memo obtained by The Verge, Sharma told staff by the end of fiscal year 2027 (which runs through next June), \"we will return XBOX to player and revenue growth.\" Xbox will also \"improve profits back in line with industry aver"
     },
     {
       "id": "678b9bd05c55e2a7",
@@ -262,6 +462,16 @@
       "summary": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change."
     },
     {
+      "id": "51a3d0ed204656a7",
+      "title": "Apple&#8217;s iPhone and Mac sales keep growing despite RAM shortages",
+      "url": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-07-30T20:49:32.000Z",
+      "summary": "Apple's iPhone and Mac sales are on the rise even as a global memory shortage squeezes device makers. In its third-quarter earnings report released on Thursday, Apple revealed that iPhone sales jumped 22 percent to $54.25 billion and Mac sales increased 29 percent to $10.35 billion, driving the company's overall revenue to $109.4 billion. The company expects supply chain constraints to worsen in the coming months. Du"
+    },
+    {
       "id": "ec5f5b946ce2c270",
       "title": "The loss of Situational Awareness",
       "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
@@ -270,26 +480,6 @@
       "region": "global",
       "publishedAt": "2026-07-30T20:46:25.000Z",
       "summary": "Neither artificial nor intelligent. I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management\" or \"Amaranth Advisors\" (named for the floral symbol for immortality). Certainly do not call yourself \"Situational Awareness,\" which might as well just be "
-    },
-    {
-      "id": "95ec639e3d3a75ce",
-      "title": "Vomit in the morning, gold in the afternoon for England's gamblers",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/c1w1px5989xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-30T20:26:30.000Z",
-      "summary": "Sickness struck England's team pursuit squad on Thursday morning, but a late gamble and fine ride secured Commonwealth Games gold in the velodrome."
-    },
-    {
-      "id": "2e5e6c6468013eae",
-      "title": "Three clubs monitoring Delap - Friday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdx857g7rx8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-30T19:53:03.000Z",
-      "summary": "Three Premier League clubs are watching Chelsea's Liam Delap, Manchester City are closing in on rising star Ayyoub Bouaddi, plus more."
     },
     {
       "id": "7751e1344987cbfd",
@@ -302,16 +492,6 @@
       "summary": "Major incident declared, with Sizewell B power station monitoring blaze and RSPB nature reserve badly hit Hundreds of people have been evacuated and a major incident declared after a wildfire spread over more than 80 hectares (200 acres) on the coast of Suffolk, just a few miles from the Sizewell B nuclear power station. The fire – which had been described by one witness as “apocalyptic” – was said to be stabilising "
     },
     {
-      "id": "0604cfe8b93ed10e",
-      "title": "Staveley in talks to buy 25% stake in West Ham",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gk8d52x45o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-30T19:06:53.000Z",
-      "summary": "A consortium led by former Newcastle United co-owner Amanda Staveley holds talks about purchasing a 25% stake in Championship club West Ham."
-    },
-    {
       "id": "a85baca458af050d",
       "title": "Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies",
       "url": "https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale",
@@ -322,24 +502,14 @@
       "summary": "Samsung’s upcoming Galaxy Watch 9. | Photo: Dominic Preston / The Verge The Galaxy Watch 9 launches on August 7th, and not only does Costco have the best preorder incentives we’ve seen so far, the watch is also discounted. The deal includes the 40mm Watch 9 in cream or graphite, two wireless fast chargers for the watch, and a $50 Costco gift card, all for $339.99 — $40 less than the list price for the watch on its ow"
     },
     {
-      "id": "322623cb4521a4fa",
-      "title": "Defender Stones joins Inter Milan on free transfer",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp3rklgggn5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
+      "id": "be4b8d157c91b164",
+      "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+      "source": "The Verge",
+      "category": "creativity_arts",
       "region": "global",
-      "publishedAt": "2026-07-30T18:36:32.000Z",
-      "summary": "England defender John Stones joins Italian Serie A champions Inter Milan on a free transfer and signs a two-year contract."
-    },
-    {
-      "id": "82a716aadd91f2cc",
-      "title": "Thitikul leads Open as Ryu and Kuwaki chase",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/c5ywgvy808no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-30T18:32:08.000Z",
-      "summary": "World number two Jeeno Thitikul leads the first round of the AIG Women's Open by two shots after a spectacular seven-under 64 at Royal Lytham & St Anne's."
+      "publishedAt": "2026-07-30T18:43:26.000Z",
+      "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI slop.\" The new feature is part of a broader push to reduce the volume of apparent AI slop on the platform. AI detector Pangram recently fou"
     },
     {
       "id": "a0f0aaaa82cb165d",
@@ -352,16 +522,6 @@
       "summary": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall."
     },
     {
-      "id": "2f239209621626d0",
-      "title": "Father of teen school shooter sentenced to 15 years in prison",
-      "url": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-07-30T17:33:41.000Z",
-      "summary": "\"It is clear you failed as a parent,\" the judge told Colin Gray, who was found guilty earlier this year on charges stemming from the deadly 2024 school attack."
-    },
-    {
       "id": "683a3945ddec511e",
       "title": "Why limited war with the US may suit Iran better than peace",
       "url": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
@@ -370,6 +530,16 @@
       "region": "middle_east",
       "publishedAt": "2026-07-30T17:26:01.000Z",
       "summary": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war."
+    },
+    {
+      "id": "7aa3912359cc41fa",
+      "title": "NASA’s Curiosity rover found a ‘sea of polygons’ on Mars",
+      "url": "https://www.theverge.com/science/973314/nasa-curiosity-rover-mars-polygons",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-07-30T17:20:06.000Z",
+      "summary": "The latest discovery from NASA's Curiosity Mars rover is a field of honeycomb-shaped polygons covering a Martian valley called Valle Grande. As Gizmodo reports, Curiosity has snapped pictures of the unusual terrain texture before, called polygonal fractures, each about 1.5 to 3 inches wide, but NASA says it's previously only found them in small patches, \"nothing on the scale discovered in Valle Grande.\" Curiosity cap"
     },
     {
       "id": "bbd10d6fbc6c429c",
@@ -402,16 +572,6 @@
       "summary": "Google says artificial intelligence is dramatically increasing the number of security vulnerabilities it can find and fix in Chrome, with more than 1,000 security bugs patched across the browser's two most recent releases as it expands its use of AI. [...]"
     },
     {
-      "id": "0e75bd32bb585cd0",
-      "title": "Hundreds of jobs to go at Jaguar Land Rover",
-      "url": "https://www.bbc.co.uk/news/articles/cq6dmjv1jpdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-07-30T16:53:17.000Z",
-      "summary": "The car giant says it expects fewer than 300 people will lose their jobs."
-    },
-    {
       "id": "7b84973d255df9b6",
       "title": "Uefa to boycott World Cups if Fifa plans approved",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
@@ -422,34 +582,14 @@
       "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals."
     },
     {
-      "id": "75a9714d9638e6f7",
-      "title": "Bank holds interest rates but says it is ready to raise them if Iran war escalates",
-      "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-07-30T16:33:40.000Z",
-      "summary": "The Bank also expects the economy to grow more than previously forecast this year, although uncertainties remain because of the Iran war."
-    },
-    {
-      "id": "309c2685e1a48ec8",
-      "title": "England captaincy could be what Root needs - Vaughan",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/ckg357xm0jlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
+      "id": "4960dce4fd900bf3",
+      "title": "‘I was hyperventilating and sobbing’: Tomi Adeyemi says Children of Blood and Bone film ‘the worst thing I’ve ever lived through’",
+      "url": "https://www.theguardian.com/film/2026/jul/30/tomi-adeyemi-children-of-blood-and-bone-film-adaptation-worst-thing-ive-ever-lived-through-hyperventilating-sobbing",
+      "source": "The Guardian Culture",
+      "category": "creativity_arts",
       "region": "global",
-      "publishedAt": "2026-07-30T16:20:36.000Z",
-      "summary": "Former skipper Michael Vaughan says the England Test captaincy could be \"exactly what Joe Root needs\" after the 35-year-old is appointed to the role for a second time."
-    },
-    {
-      "id": "b96bf08c63b06f9a",
-      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-07-30T15:35:50.000Z",
-      "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine."
+      "publishedAt": "2026-07-30T16:34:35.000Z",
+      "summary": "Author of books behind forthcoming film starring Viola Davis and Idris Elba appears to have had disagreement with cast member Amandla Stenberg Tomi Adeyemi, the author of Children of Blood and Bone, has spoken further on the difficult process behind adapting her novel for this big screen, calling it “the worst thing I have ever had to live through”. In a five-minute video on TikTok, the author said she left the set o"
     },
     {
       "id": "5e5061e2338a2266",
@@ -492,6 +632,16 @@
       "summary": "Wales is on course for its driest July on record in almost 190 years."
     },
     {
+      "id": "a54cfa2a0cc612b9",
+      "title": "‘It’s the Meryl Streep of the orchestra’: why cinema loves the cello",
+      "url": "https://www.theguardian.com/film/2026/jul/30/its-the-meryl-streep-of-the-orchestra-why-cinema-loves-the-cello",
+      "source": "The Guardian Culture",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-07-30T14:00:16.000Z",
+      "summary": "From Audrey Hepburn to Pedro Pascal, cellists have become a movie shorthand for sensitivity, intensity and emotional depth. But why has Hollywood turned one orchestral instrument into a character in its own right? There’s a throwaway line in 2012’s The Avengers, after a character’s death, when his partner is alluded to. “There was a cellist, I think,” muses Robert Downey Jr’s Tony Stark. It’s a spot of pathos amid th"
+    },
+    {
       "id": "7a62a91326c5bce3",
       "title": "Dashcam captures tornado toppling power lines onto car",
       "url": "https://www.bbc.co.uk/news/videos/cj631p14gpjo?at_medium=RSS&at_campaign=rss",
@@ -502,64 +652,14 @@
       "summary": "Video obtained by the BBC provides a firsthand look at the powerful storm system that ripped through parts of eastern Wisconsin on 27 July."
     },
     {
-      "id": "166b9c1b42e66faf",
-      "title": "Europe burns: a visual guide to the wildfires",
-      "url": "https://www.theguardian.com/world/2026/jul/30/europe-burns-france-spain-visual-guide-wildfires",
-      "source": "The Guardian Environment",
-      "category": "disasters",
-      "region": "europe",
-      "publishedAt": "2026-07-30T13:00:15.000Z",
-      "summary": "Ferocious flames continue to rage in parts of France and Spain, with no sign of abating. We chart the destruction in graphics and pictures The hellish infernos that have torn through parts of France and Spain have caused deaths, the evacuation of 330,000 people from their homes, widespread destruction and clouds of toxic smoke. Records have already been smashed and with the fourth heatwave of the European summer sett"
-    },
-    {
-      "id": "25b97894bd8fd80a",
-      "title": "Fifteen elephant deaths at Kenya park may be due to cyanide poisoning",
+      "id": "61ceea4007f3e2d5",
+      "title": "Fifteen elephant deaths in Kenya may be due to cyanide poisoning",
       "url": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
       "source": "The Guardian World",
       "category": "environment",
       "region": "africa",
       "publishedAt": "2026-07-30T12:46:50.000Z",
-      "summary": "Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife Service The recent deaths of 15 elephants near a park in southern Kenya in the past month were likely caused by the animals ingesting pesticides used on nearby tomato farms, the Kenya Wildlife Service (KWS) has said. Erustus Kanga, the agency’s director general, told Citizen TV that analysis of samples collected "
-    },
-    {
-      "id": "fb283bb265c6fbf8",
-      "title": "Fifty-three days and counting: 93-year-old leader’s record absence fuels health speculation",
-      "url": "https://www.theguardian.com/world/2026/jul/30/record-absence-paul-biya-cameroon-president-health-speculation",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-07-30T12:36:02.000Z",
-      "summary": "Cameroon’s Paul Biya has not made a statement or been seen since leaving for ‘brief private stay’ at Swiss hotel on 7 June A record 53-day absence by the world’s oldest head of state has renewed speculation in his native Cameroon about whether he is dead or alive, even though discussing his health is illegal in the country. On 7 June, 93-year-old Paul Biya left for Switzerland for what officials described as a “brief"
-    },
-    {
-      "id": "be13ea5eb590d9e4",
-      "title": "Howe going as spending rules bite - troubles for Newcastle's Saudi owners",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c78g4jn43zko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "middle_east",
-      "publishedAt": "2026-07-30T12:31:22.000Z",
-      "summary": "Newcastle United wanted to become one of the world's top clubs under their Saudi owners - but Eddie Howe's decision to leave is a sign of the troubles they are facing."
-    },
-    {
-      "id": "f60c315bec26f0e6",
-      "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
-      "url": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "africa",
-      "publishedAt": "2026-07-30T12:14:00.000Z",
-      "summary": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya."
-    },
-    {
-      "id": "bc805f25a7e9aa3f",
-      "title": "Nicaraguan leader proposes extending presidential term by another year",
-      "url": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-07-30T10:34:07.000Z",
-      "summary": "It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer."
+      "summary": "Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife Service The recent deaths of 15 elephants near a park in southern Kenya were likely caused by the animals ingesting pesticides used on tomato farms, the Kenya Wildlife Service (KWS) has said. Erustus Kanga, the agency’s director general, told Citizen TV that analysis of samples collected from the carcasses had fo"
     },
     {
       "id": "8dd74118bc1670c3",
@@ -580,26 +680,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-07-30T09:40:14.000Z",
       "summary": "US Special Envoy for South and Central Asia, Sergio Gor, has arrived in Dhaka for a three-day visit. This marks his first visit to Dhaka. The US Embassy in Dhaka… The post Trump’s Special Envoy Sergio Gor in Dhaka for Three-Day Visit appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "8d2775908d069e35",
-      "title": "Mountaineer who began fossil hunting after near-death experience discovers rare 'sea dragon'",
-      "url": "https://www.bbc.co.uk/news/articles/czjlk9rym18o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-07-30T09:17:18.000Z",
-      "summary": "Matthew Myerscough swapped mountains for fossil-laden beaches after becoming trapped in snow on Yr Wyddfa."
-    },
-    {
-      "id": "7f791e18430abe5c",
-      "title": "Stunning photos capture July's Buck Moon over the UK",
-      "url": "https://www.bbc.co.uk/weather/articles/c9v4rpjld89o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "europe",
-      "publishedAt": "2026-07-30T08:31:53.000Z",
-      "summary": "Skygazers captured brilliant photos of July's full Moon as it rose over the UK on Wednesday."
     },
     {
       "id": "2c5c36452b4db4a6",
@@ -642,16 +722,6 @@
       "summary": "Law, Justice and Parliamentary Affairs Minister Md. Asaduzzaman stated that if the ousted former Prime Minister Sheikh Hasina returns to the country, action will be taken according to prevailing law.… The post Law Minister: Hasina May Be Arrested Before Surrender appeared first on Bangla Online News Portal."
     },
     {
-      "id": "d48c1cc07c379694",
-      "title": "A quarter of young Africans believe USAID cuts could be positive, survey finds",
-      "url": "https://www.theguardian.com/global-development/2026/jul/30/a-quarter-of-young-africans-believe-usaid-cuts-could-be-positive-survey-finds",
-      "source": "The Guardian World",
-      "category": "creativity_arts",
-      "region": "africa",
-      "publishedAt": "2026-07-30T05:00:53.000Z",
-      "summary": "Losing funds should force leaders to confront their own challenges, they said, while many voiced concerns over increasing foreign influence A quarter of young Africans believe aid cuts by the US could have a positive impact, saying that losing foreign money will force leaders to confront and solve their own challenges, according to a new survey. In Ghana and Nigeria, almost half (41% and 40% respectively) of young pe"
-    },
-    {
       "id": "9cac33c27c73ac87",
       "title": "Trump hints at major attack against Iran, says ‘they know what’s coming’",
       "url": "https://www.bd24live.com/trump-hints-at-major-attack-against-iran-says-they-know-whats-coming/",
@@ -672,6 +742,16 @@
       "summary": "CEO Mark Zuckerberg said the firm intends to sell its AI tools to other companies for the first time."
     },
     {
+      "id": "955e9fab5010ca05",
+      "title": "Anthropic confirms Claude is down worldwide",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
+      "source": "BleepingComputer",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-07-29T21:39:29.000Z",
+      "summary": "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a \"529 Overloaded\" message, including in Claude and tools that rely on its API. [...]"
+    },
+    {
       "id": "968de024c00195ec",
       "title": "Myanmar to Repatriate 300,000 Rohingya from Bangladesh",
       "url": "https://www.bd24live.com/myanmar-to-repatriate-300000-rohingya-from-bangladesh/",
@@ -680,26 +760,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-07-29T17:30:12.000Z",
       "summary": "Myanmar has agreed to take back 300,000 Rohingya refugees from Bangladesh. Malaysian Prime Minister Anwar Ibrahim announced this information while speaking at an event on Wednesday (July 29). Additionally, Myanmar… The post Myanmar to Repatriate 300,000 Rohingya from Bangladesh appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "16abb941be2cf261",
-      "title": "Can a heatwave cause trees to fall?",
-      "url": "https://www.bbc.co.uk/news/videos/clyqle52l9po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-07-29T15:53:42.000Z",
-      "summary": "Don't sit under a tree during a heatwave - here's why."
-    },
-    {
-      "id": "508f0654801f083c",
-      "title": "Rescue teams face ‘race against time’ in search for trapped survivors as death toll in Japan rises to at least 13 – as it happened",
-      "url": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates",
-      "source": "The Guardian World",
-      "category": "disasters",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-29T14:27:33.000Z",
-      "summary": "Emergency workers are continuing their search for survivors in southern Japan after yesterday’s powerful earthquake ‘Race against time’: Japan earthquake death toll rises as rescue teams search for missing An aerial view of a collapsed section of a bridge in the city of Yatsushiro after an earthquake with a preliminary magnitude of 7.1 struck Japan’s southern Kumamoto prefecture: Japan’s Mainichi Shimbun newspaper ha"
     },
     {
       "id": "cc75ff7d4ea7bfcb",
@@ -742,26 +802,6 @@
       "summary": "Chittagong District Police have arrested five individuals, including the notorious top terrorist David Emon, from Jhikargachha Upazila in Jashore. They were apprehended during an operation conducted on Wednesday (July 29).… The post Chittagong’s Top Terrorist David Emon Arrested appeared first on Bangla Online News Portal."
     },
     {
-      "id": "4d4ed33f27cedb9a",
-      "title": "PM assures resolution of gas crisis in industrial sector",
-      "url": "https://www.bd24live.com/pm-assures-resolution-of-gas-crisis-in-industrial-sector/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-07-29T07:20:12.000Z",
-      "summary": "Prime Minister Tarique Rahman has assured of taking necessary initiatives to resolve the ongoing gas crisis in the industrial sector. This information was revealed by Shaukat Aziz Russell, President of… The post PM assures resolution of gas crisis in industrial sector appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "53acc4fbfff5e28e",
-      "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
-      "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
-      "source": "The Guardian World",
-      "category": "creativity_arts",
-      "region": "africa",
-      "publishedAt": "2026-07-29T00:48:07.000Z",
-      "summary": "Potential toxic substance detected in several of 15 elephants found dead in Kenya’s Amboseli national park Officials are investigating the deaths of 15 elephants over the past month in Kenya’s Amboseli national park. The Kenya Wildlife Service (KWS) said 10 of the elephants showed signs of partial paralysis before dying within two days. Continue reading..."
-    },
-    {
       "id": "b1415428407a3a93",
       "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
       "url": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
@@ -790,26 +830,6 @@
       "region": "americas",
       "publishedAt": "2026-07-28T13:00:04.000Z",
       "summary": "Three years after Maui wildfires many still struggle with ‘biological, emotional and social consequences’, study says A spate of ferocious wildfires across North America and Europe, worsened by the climate crisis, has incinerated homes and forests and forced thousands of people to flee. Previous fires suggest the effects of these blazes may linger for years to come. The current fires and their plumes of smoke can app"
-    },
-    {
-      "id": "b3616fbc170c3f8b",
-      "title": "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup",
-      "url": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-07-28T10:21:46.000Z",
-      "summary": "President also blames Brazil and Mexico and says online critics ‘do not want the ideas of freedom to succeed’ More than a week has passed since Ferran Torres scored the extra-time goal that gave Spain its second World Cup, but – at least for Argentina’s president – the tournament is not over. Javier Milei has claimed that a coordinated “anti-Argentina campaign” was behind criticism of the country’s team, accusations "
-    },
-    {
-      "id": "8b3cb33c69e4a33d",
-      "title": "Six Bangladeshis Die in Horrific Fire in South Africa",
-      "url": "https://www.bd24live.com/six-bangladeshis-die-in-horrific-fire-in-south-africa/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-07-28T08:35:12.000Z",
-      "summary": "Six Bangladeshis have died in a horrific fire at a shop in the Somo area, approximately 150 kilometers from Queenstown (now Komani) in South Africa’s Eastern Cape province. Another person… The post Six Bangladeshis Die in Horrific Fire in South Africa appeared first on Bangla Online News Portal."
     },
     {
       "id": "245115c631edf7a5",
