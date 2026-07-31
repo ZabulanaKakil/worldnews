@@ -1,15 +1,255 @@
 {
-  "generatedAt": "2026-07-30T22:14:12.760Z",
+  "generatedAt": "2026-07-31T04:29:33.628Z",
   "articles": [
     {
-      "id": "a0fdfa66aad6ad04",
-      "title": "Xbox CEO says the team has one year to start growing again",
-      "url": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
-      "source": "The Verge",
+      "id": "0379d232355509cc",
+      "title": "Southern Lebanese towns near Beaufort Castle hit by Israeli strikes",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/aje-onl-nf_south-lebanon-towns-beaufort-hit-by-israeli-strike-300726?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "middle_east",
+      "publishedAt": "2026-07-31T04:09:08.000Z",
+      "summary": "IDF said it used 700 tonnes of explosives to destroy parts of a Hezbollah tunnel network in southern Lebanon."
+    },
+    {
+      "id": "753ed9c3594f13cb",
+      "title": "Death toll from Japan earthquake climbs to 34",
+      "url": "https://www.aljazeera.com/news/2026/7/31/death-toll-from-japan-earthquake-climbs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "asia_pacific",
+      "publishedAt": "2026-07-31T04:03:10.000Z",
+      "summary": "The magnitude 7.1 quake has killed 34 people and left six more seriously injured."
+    },
+    {
+      "id": "3ed37e0e44857e50",
+      "title": "After OpenAI disclosure, Anthropic says Claude also hacked outside systems",
+      "url": "https://www.aljazeera.com/news/2026/7/31/after-openai-disclosure-anthropic-claude-hacked-outside-systems?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-07-31T04:02:03.000Z",
+      "summary": "The incidents have heightened concerns about AI agents, software products designed to perform tasks autonomously."
+    },
+    {
+      "id": "a94174f61cabc9a6",
+      "title": "Israeli blockades seal off village in the occupied West Bank",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-blockades-seal-off-village-in-the-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "middle_east",
+      "publishedAt": "2026-07-31T03:35:52.000Z",
+      "summary": "Al Jazeera visited the occupied West Bank village of Sinjil, where Israeli road closures have blocked all main entrances"
+    },
+    {
+      "id": "77fd2c7c1ba29b9e",
+      "title": "India to increase penalties for exam leaks after Cockroach party protests",
+      "url": "https://www.aljazeera.com/news/2026/7/31/india-to-increase-penalties-for-exam-leaks-after-cockroach-party-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "asia_pacific",
+      "publishedAt": "2026-07-31T03:27:44.000Z",
+      "summary": "The new legislation comes after youth-led protests calling for sweeping reforms and forcing minister's resignation"
+    },
+    {
+      "id": "1e626511e37e5162",
+      "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+      "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-07-31T03:24:14.000Z",
+      "summary": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented."
+    },
+    {
+      "id": "004df984b5a007db",
+      "title": "Why a MAGA influencer’s shift to support Ukraine war is good for Trump",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/why-a-maga-influencers-shift-to-support-ukraine-war-is-good-for-trump?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-07-31T03:08:59.000Z",
+      "summary": "One of the most prominent pro-Trump influencers, Laura Loomer, just made a major shift in her stance on Ukraine."
+    },
+    {
+      "id": "06eef46749e72b3a",
+      "title": "Bangladesh Joins 14-Nation Alliance to Secure Vital Maritime Routes",
+      "url": "https://www.bd24live.com/bangladesh-joins-14-nation-alliance-to-secure-vital-maritime-routes/",
+      "source": "BD24Live",
+      "category": "diplomacy",
+      "region": "bangladesh",
+      "publishedAt": "2026-07-31T03:05:14.000Z",
+      "summary": "Bangladesh has joined a new Saudi Arabia-led multinational maritime defense alliance (Multinational Maritime Defense Alliance), formed to ensure the security of vital international shipping lanes amidst growing tensions in the… The post Bangladesh Joins 14-Nation Alliance to Secure Vital Maritime Routes appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "6ef522b067f8d01b",
+      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-07-31T02:41:09.000Z",
+      "summary": "At least 15 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border."
+    },
+    {
+      "id": "b880b7ca82eca1b0",
+      "title": "Trump says Morocco named Tiznit-Dakhla highway after him: Why it matters",
+      "url": "https://www.aljazeera.com/news/2026/7/31/morocco-names-tiznit-dakhla-highway-after-trump-why-it-matters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "africa",
+      "publishedAt": "2026-07-31T02:31:33.000Z",
+      "summary": "The claimed tribute to Trump forms part of Morocco's larger ambitions in the disputed Western Sahara."
+    },
+    {
+      "id": "b1ccb2f99c0a021a",
+      "title": "Clashes near Morocco’s border with Spain over beefed up migrant security",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/clashes-near-moroccos-border-with-spain-over-beefed-up-migrant-security?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-07-31T02:26:21.000Z",
+      "summary": "Clashes erupted near the Morocco-Spain border crossing, after thousands of migrants into Spain."
+    },
+    {
+      "id": "7339ca3107406660",
+      "title": "Pacific island nation Nauru officially changes name to ‘Naoero’",
+      "url": "https://www.aljazeera.com/news/2026/7/31/pacific-island-nation-nauru-officially-changes-name-to-naoero?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-07-31T02:12:16.000Z",
+      "summary": "The switch honours a name lost to colonial rule more than a century ago."
+    },
+    {
+      "id": "4158758dd63d90c0",
+      "title": "‘They got trapped:’ Race to save miners after deadly blast in Pakistan",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/they-got-trapped-race-to-save-miners-after-deadly-blast-in-pakistan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "disasters",
+      "region": "asia_pacific",
+      "publishedAt": "2026-07-31T01:59:34.000Z",
+      "summary": "Emergency workers are digging to get oxygen into a mine after an explosion in Pakistan's Balochistan Province."
+    },
+    {
+      "id": "bf91c99fac0cfb5e",
+      "title": "Israeli soldiers mutiny at notorious Sde Teiman base",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-soldiers-mutiny-at-notorious-sde-teiman-base?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-07-31T01:43:51.000Z",
+      "summary": "Dozens of Israeli soldiers have abandoned their weapons and walked out of the Sde Teiman military base."
+    },
+    {
+      "id": "52f511f073dd1fd1",
+      "title": "Three things we learned about AI from Big Tech earnings",
+      "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-07-31T01:31:50.000Z",
+      "summary": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?"
+    },
+    {
+      "id": "03f79ffa63261913",
+      "title": "Anthropic says Claude AI hacked three organisations during cyber tests",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-07-31T01:31:14.000Z",
+      "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks."
+    },
+    {
+      "id": "b1424780c6ad34d5",
+      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
+      "url": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-07-31T00:57:25.000Z",
+      "summary": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of three incidents affecting real companies. [...]"
+    },
+    {
+      "id": "41fb9a1c77054ac6",
+      "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
+      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "creativity_arts",
       "region": "americas",
-      "publishedAt": "2026-07-30T22:10:13.000Z",
-      "summary": "Asha Sharma. | Image: The Verge, Microsoft After a massive Xbox \"reset\" that laid off thousands of employees and spun off four studios, Xbox CEO Asha Sharma wants to get Xbox back to growth. In a memo obtained by The Verge, Sharma told staff by the end of fiscal year 2027 (which runs through next June), \"we will return XBOX to player and revenue growth.\" Xbox will also \"improve profits back in line with industry aver"
+      "publishedAt": "2026-07-31T00:52:54.000Z",
+      "summary": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan."
+    },
+    {
+      "id": "5c6a81a26cfc0740",
+      "title": "Teen hackers tell BBC how police are helping them use their skills for good",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-07-31T00:42:48.000Z",
+      "summary": "Cyber Prevent is targeting predominantly boys and young men at risk of being drawn to cyber criminality."
+    },
+    {
+      "id": "351090321f187a3c",
+      "title": "Thames Water boss says leakage targets 'not realistic'",
+      "url": "https://www.bbc.co.uk/news/articles/c04kd3gl1gpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-07-30T23:06:37.000Z",
+      "summary": "Chris Weston said Thames wanted \"to do better\" but some of its targets were not achievable."
+    },
+    {
+      "id": "f6ef78a69c6739d6",
+      "title": "'I pay £580 a month to live in a disused care home': Property guardians show us around",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-07-30T23:05:41.000Z",
+      "summary": "Could you live communally in a disused building in exchange for a heavily discounted rent? Property guardians show us around."
+    },
+    {
+      "id": "918f8fdee55ae31c",
+      "title": "US government map of Africa mislabels every country at global conference",
+      "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
+      "source": "The Guardian World",
+      "category": "creativity_arts",
+      "region": "americas",
+      "publishedAt": "2026-07-30T22:48:02.000Z",
+      "summary": "State department ‘takes full responsibility’ for erroneous, widely shared chart displayed at Aids conference in Brazil A US government map of Africa mislabeled every country during a state department presentation at a ⁠global conference in Brazil ⁠this week, ​causing a stir among attenders who took screenshots and posted them online. Reuters viewed a video of the presentation given at the Aids 2026 conference in ⁠Rio"
+    },
+    {
+      "id": "97f438eb96dcb779",
+      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+      "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "americas",
+      "publishedAt": "2026-07-30T22:29:45.000Z",
+      "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities on iCloud Plus where people can buy up the stack.\" This fall, Apple will broadly launch its long-delayed Siri AI with iOS 27, which can do t"
+    },
+    {
+      "id": "8da4189a0987adeb",
+      "title": "South Korea fines telco giant KT $39 million for customer data breach",
+      "url": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "asia_pacific",
+      "publishedAt": "2026-07-30T22:28:30.000Z",
+      "summary": "South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]"
+    },
+    {
+      "id": "9fc2875d088ae7c3",
+      "title": "England edge South Africa thriller to reach semis",
+      "url": "https://www.bbc.co.uk/sport/netball/articles/cjrvlpdvr0no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "africa",
+      "publishedAt": "2026-07-30T22:11:25.000Z",
+      "summary": "England's netballers reach the Commonwealth Games semi-finals after producing a pulsating comeback to beat South Africa 58-54."
     },
     {
       "id": "678b9bd05c55e2a7",
@@ -22,86 +262,6 @@
       "summary": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change."
     },
     {
-      "id": "3b554a512d977044",
-      "title": "Why is US GDP growth slowing, and how can it be reversed?",
-      "url": "https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-07-30T21:39:37.000Z",
-      "summary": "Tariffs and oil price hikes create a supply shock, dragging down US economic growth in the second quarter of 2026."
-    },
-    {
-      "id": "2c8e8cce765aa714",
-      "title": "French teen fined in Singapore over ‘straw licking’ stunt",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/french-teen-fined-in-singapore-over-straw-licking-stunt?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-07-30T21:34:39.000Z",
-      "summary": "A French teenager has been fined about $465 after pleading guilty to a public nuisance charge in Singapore."
-    },
-    {
-      "id": "5db61caf66f63303",
-      "title": "Argentina’s Milei seeks to deport foreigners that spread ‘hate’ of country",
-      "url": "https://www.aljazeera.com/news/2026/7/30/argentinas-milei-seeks-to-deport-foreigners-that-spread-hate-of-country?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "disasters",
-      "region": "americas",
-      "publishedAt": "2026-07-30T21:34:11.000Z",
-      "summary": "Experts have cast doubt on legality of the emergency decree as Milei decries a campaign of 'hostility' after World Cup."
-    },
-    {
-      "id": "6a065a5687c31a39",
-      "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "africa",
-      "publishedAt": "2026-07-30T21:24:31.000Z",
-      "summary": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene."
-    },
-    {
-      "id": "f2c9f9f35c4d2bd6",
-      "title": "Will Saudi Arabia be dragged further into the war in Iran?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/30/will-saudi-arabia-be-dragged-further-into-the-war-in-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-30T21:00:28.000Z",
-      "summary": "Anger in Iraq after US-Saudi strikes on paramilitary group with ties to Tehran."
-    },
-    {
-      "id": "db101a96cd82a882",
-      "title": "Prague Zoo keeps polar bears cool with ice amid heatwave",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/prague-zoo-keeps-polar-bears-cool-with-ice-amid-heatwave?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "weather_climate",
-      "region": "europe",
-      "publishedAt": "2026-07-30T21:00:11.000Z",
-      "summary": "Keepers at Prague Zoo used tonnes of ice to provide much relief to animals as Europe grappled with scorching heat."
-    },
-    {
-      "id": "ab613084eab0c7fb",
-      "title": "UN launches hunt for next chief amid rising challenges",
-      "url": "https://www.aljazeera.com/news/2026/7/30/un-launches-hunt-for-next-chief-amid-rising-challenges?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-07-30T20:54:48.000Z",
-      "summary": "Antonio Guterres’s successor will be tasked with revitalising an organisation in crisis and facing pressure to reform."
-    },
-    {
-      "id": "51a3d0ed204656a7",
-      "title": "Apple&#8217;s iPhone and Mac sales keep growing despite RAM shortages",
-      "url": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-07-30T20:49:32.000Z",
-      "summary": "Apple's iPhone and Mac sales are on the rise even as a global memory shortage squeezes device makers. In its third-quarter earnings report released on Thursday, Apple revealed that iPhone sales jumped 22 percent to $54.25 billion and Mac sales increased 29 percent to $10.35 billion, driving the company's overall revenue to $109.4 billion. The company expects supply chain constraints to worsen in the coming months. Du"
-    },
-    {
       "id": "ec5f5b946ce2c270",
       "title": "The loss of Situational Awareness",
       "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
@@ -109,27 +269,7 @@
       "category": "economy_business",
       "region": "global",
       "publishedAt": "2026-07-30T20:46:25.000Z",
-      "summary": "Neither artificial nor intelligent. I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management,\" or \"Amaranth Advisors\" (named for the floral symbol for immortality). Certainly do not call yourself \"Situational Awareness,\" which might as well just be"
-    },
-    {
-      "id": "63e145f32ed4195b",
-      "title": "Security camera shows ‘Russian missile’ exploding in Poland",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/security-camera-shows-russian-missile-exploding-in-poland?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-07-30T20:39:38.000Z",
-      "summary": "Security camera video shows the moment a suspected Russian missile exploded inside Poland."
-    },
-    {
-      "id": "5622e06040223107",
-      "title": "US authorities probe cyberattack on water systems in Minnesota",
-      "url": "https://www.aljazeera.com/news/2026/7/30/us-authorities-probe-cyberattack-on-water-systems-in-minnesota?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-07-30T20:32:13.000Z",
-      "summary": "A cyberattack targeted more than 30 water facilities in the Midwestern US state earlier this week."
+      "summary": "Neither artificial nor intelligent. I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management\" or \"Amaranth Advisors\" (named for the floral symbol for immortality). Certainly do not call yourself \"Situational Awareness,\" which might as well just be "
     },
     {
       "id": "95ec639e3d3a75ce",
@@ -140,36 +280,6 @@
       "region": "global",
       "publishedAt": "2026-07-30T20:26:30.000Z",
       "summary": "Sickness struck England's team pursuit squad on Thursday morning, but a late gamble and fine ride secured Commonwealth Games gold in the velodrome."
-    },
-    {
-      "id": "69328a1a32675487",
-      "title": "Pakistan coal mine explosion kills at least 11, traps dozens",
-      "url": "https://www.aljazeera.com/news/2026/7/30/pakistan-coal-mine-explosion-kills-at-least-11-traps-dozens?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-30T20:07:56.000Z",
-      "summary": "Accidents common in Pakistan’s coal mining industry, particularly in Balochistan, where many mines lack basic safety."
-    },
-    {
-      "id": "c05be1cd69ce7408",
-      "title": "Saudi Arabia announces maritime defence alliance to secure vital waterways",
-      "url": "https://www.aljazeera.com/news/2026/7/30/saudi-arabia-announces-maritime-defence-alliance-to-secure-vital-waterways?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "diplomacy",
-      "region": "middle_east",
-      "publishedAt": "2026-07-30T19:57:43.000Z",
-      "summary": "Fourteen nations sign up to alliance to protect vital trade and energy routes amid escalating hostilities."
-    },
-    {
-      "id": "c1ac2c405f66eb44",
-      "title": "England's Campbell retains Commonwealth weightlifting title",
-      "url": "https://www.bbc.co.uk/sport/articles/c1j1wy8128lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-30T19:53:25.000Z",
-      "summary": "England's Emily Campbell produces a record-breaking performance in Glasgow to defend her Commonwealth Games title in the women's +86kg weightlifting."
     },
     {
       "id": "2e5e6c6468013eae",
@@ -189,7 +299,7 @@
       "category": "disasters",
       "region": "global",
       "publishedAt": "2026-07-30T19:46:13.000Z",
-      "summary": "Major incident declared with Sizewell B power station monitoring blaze and RSPB nature reserve badly hit Hundreds of people have been evacuated and a major incident declared after a wildfire spread over more than 80 hectares (200 acres) on the coast of Suffolk, just a few miles from the Sizewell B nuclear power station. The fire – described by one witness as “apocalyptic” – was still not completely under control as o"
+      "summary": "Major incident declared, with Sizewell B power station monitoring blaze and RSPB nature reserve badly hit Hundreds of people have been evacuated and a major incident declared after a wildfire spread over more than 80 hectares (200 acres) on the coast of Suffolk, just a few miles from the Sizewell B nuclear power station. The fire – which had been described by one witness as “apocalyptic” – was said to be stabilising "
     },
     {
       "id": "0604cfe8b93ed10e",
@@ -210,16 +320,6 @@
       "region": "global",
       "publishedAt": "2026-07-30T19:00:00.000Z",
       "summary": "Samsung’s upcoming Galaxy Watch 9. | Photo: Dominic Preston / The Verge The Galaxy Watch 9 launches on August 7th, and not only does Costco have the best preorder incentives we’ve seen so far, the watch is also discounted. The deal includes the 40mm Watch 9 in cream or graphite, two wireless fast chargers for the watch, and a $50 Costco gift card, all for $339.99 — $40 less than the list price for the watch on its ow"
-    },
-    {
-      "id": "be4b8d157c91b164",
-      "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-07-30T18:43:26.000Z",
-      "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI slop.\" The new feature is part of a broader push to reduce the volume of apparent AI slop on the platform. AI detector Pangram recently fou"
     },
     {
       "id": "322623cb4521a4fa",
@@ -322,16 +422,6 @@
       "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals."
     },
     {
-      "id": "f0aed86ec25e0c37",
-      "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-07-30T16:46:15.000Z",
-      "summary": "Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]"
-    },
-    {
       "id": "75a9714d9638e6f7",
       "title": "Bank holds interest rates but says it is ready to raise them if Iran war escalates",
       "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
@@ -350,16 +440,6 @@
       "region": "global",
       "publishedAt": "2026-07-30T16:20:36.000Z",
       "summary": "Former skipper Michael Vaughan says the England Test captaincy could be \"exactly what Joe Root needs\" after the 35-year-old is appointed to the role for a second time."
-    },
-    {
-      "id": "0efe947d3cc5687c",
-      "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
-      "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "disasters",
-      "region": "americas",
-      "publishedAt": "2026-07-30T16:04:53.000Z",
-      "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island."
     },
     {
       "id": "b96bf08c63b06f9a",
@@ -410,16 +490,6 @@
       "region": "global",
       "publishedAt": "2026-07-30T14:15:09.000Z",
       "summary": "Wales is on course for its driest July on record in almost 190 years."
-    },
-    {
-      "id": "918f8fdee55ae31c",
-      "title": "US government map of Africa mislabels every country at global conference",
-      "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
-      "source": "The Guardian World",
-      "category": "creativity_arts",
-      "region": "americas",
-      "publishedAt": "2026-07-30T13:59:32.000Z",
-      "summary": "State department ‘takes full responsibility’ for erroneous, widely shared chart displayed at Aids conference in Brazil A US government map of Africa mislabeled every country during a state department presentation at a ⁠global conference in Brazil ⁠this week, ​causing a stir among attenders who took screenshots and posted them online. Reuters viewed a video of the presentation given at the Aids 2026 conference in ⁠Rio"
     },
     {
       "id": "7a62a91326c5bce3",
@@ -480,16 +550,6 @@
       "region": "africa",
       "publishedAt": "2026-07-30T12:14:00.000Z",
       "summary": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya."
-    },
-    {
-      "id": "023241da741bdec0",
-      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-      "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-07-30T10:49:14.000Z",
-      "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks."
     },
     {
       "id": "bc805f25a7e9aa3f",
@@ -555,7 +615,7 @@
       "id": "df07ddd8c710dd11",
       "title": "Trump considering AI controls after OpenAI hacking incidents",
       "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "source": "BBC Technology",
       "category": "ai_innovation",
       "region": "global",
       "publishedAt": "2026-07-30T07:23:11.000Z",
@@ -602,26 +662,6 @@
       "summary": "U.S. President Donald Trump has once again threatened strong military action against Iran. He stated that it is time for the United States to retaliate, and Iran knows that such… The post Trump hints at major attack against Iran, says ‘they know what’s coming’ appeared first on Bangla Online News Portal."
     },
     {
-      "id": "e3ab061849106942",
-      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "europe",
-      "publishedAt": "2026-07-29T23:44:07.000Z",
-      "summary": "The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. [...]"
-    },
-    {
-      "id": "3f10985812fdff37",
-      "title": "Beauty Pie founder on how she dropped out of university and built five beauty businesses",
-      "url": "https://www.bbc.co.uk/news/articles/c8jngmk93p9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-07-29T23:02:18.000Z",
-      "summary": "Marcia Kilgore, founder of Beauty Pie, shares her top tips on how to create a successful business."
-    },
-    {
       "id": "b9df9ccd3a0e1a5d",
       "title": "Meta shares fall as frustration grows over AI spending plans",
       "url": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
@@ -630,16 +670,6 @@
       "region": "global",
       "publishedAt": "2026-07-29T22:44:18.000Z",
       "summary": "CEO Mark Zuckerberg said the firm intends to sell its AI tools to other companies for the first time."
-    },
-    {
-      "id": "e9fbf818296edea2",
-      "title": "The Chinese robot army transforming the UK's retail industry",
-      "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "ai_innovation",
-      "region": "europe",
-      "publishedAt": "2026-07-29T22:08:29.000Z",
-      "summary": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms."
     },
     {
       "id": "968de024c00195ec",
@@ -652,14 +682,14 @@
       "summary": "Myanmar has agreed to take back 300,000 Rohingya refugees from Bangladesh. Malaysian Prime Minister Anwar Ibrahim announced this information while speaking at an event on Wednesday (July 29). Additionally, Myanmar… The post Myanmar to Repatriate 300,000 Rohingya from Bangladesh appeared first on Bangla Online News Portal."
     },
     {
-      "id": "94d60dc4394b0a45",
-      "title": "What happens here has a big impact on your money",
-      "url": "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
+      "id": "16abb941be2cf261",
+      "title": "Can a heatwave cause trees to fall?",
+      "url": "https://www.bbc.co.uk/news/videos/clyqle52l9po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
       "region": "global",
-      "publishedAt": "2026-07-29T16:00:24.000Z",
-      "summary": "BBC business reporter Dearbail Jordan explains how it works from inside the Bank of England."
+      "publishedAt": "2026-07-29T15:53:42.000Z",
+      "summary": "Don't sit under a tree during a heatwave - here's why."
     },
     {
       "id": "508f0654801f083c",
@@ -792,16 +822,6 @@
       "summary": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible."
     },
     {
-      "id": "bcb003e963babc74",
-      "title": "Gold Prices Witness Another Major Fall in Domestic Market",
-      "url": "https://www.bd24live.com/gold-prices-witness-another-major-fall-in-domestic-market/",
-      "source": "BD24Live",
-      "category": "economy_business",
-      "region": "bangladesh",
-      "publishedAt": "2026-07-28T05:10:12.000Z",
-      "summary": "Just a day after an increase, gold prices have once again fallen in the domestic market. The Bangladesh Jewellers’ Association (BAJUS) has reduced the price of 22-carat gold by BDT… The post Gold Prices Witness Another Major Fall in Domestic Market appeared first on Bangla Online News Portal."
-    },
-    {
       "id": "5c81b40c2fd01664",
       "title": "Is it time to stop using glue and labels on paper?",
       "url": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&at_campaign=rss",
@@ -840,26 +860,6 @@
       "region": "global",
       "publishedAt": "2026-07-27T07:53:30.000Z",
       "summary": "Birdwatchers tell the BBC how apps have changed their lifelong hobby - and attracted new birders."
-    },
-    {
-      "id": "17ed7c2f6979fddb",
-      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-07-25T10:14:41.000Z",
-      "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance."
-    },
-    {
-      "id": "0e9912687ae912b0",
-      "title": "PlayStation Network outage resolved after thousands of gamers unable to play",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "region": "americas",
-      "publishedAt": "2026-07-24T20:37:21.000Z",
-      "summary": "The outage affected gamers' ability to launch games, apps or network features on their PlayStation."
     },
     {
       "id": "236eb40ab66853f8",
