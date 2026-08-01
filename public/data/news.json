@@ -1,15 +1,105 @@
 {
-  "generatedAt": "2026-08-01T12:06:37.412Z",
+  "generatedAt": "2026-08-01T14:37:57.167Z",
   "articles": [
     {
-      "id": "a238c9417b768038",
-      "title": "FIFA World Cup crisis: Who could replace Infantino as president?",
-      "url": "https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
+      "id": "8f2ef4be3b27321f",
+      "title": "Rails patches critical Active Storage flaw with RCE potential",
+      "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
       "region": "global",
-      "publishedAt": "2026-08-01T11:58:23.000Z",
-      "summary": "Who is tipped to replace Gianni Infantino after the World Cup investment plan crisis?"
+      "publishedAt": "2026-08-01T14:20:30.000Z",
+      "summary": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]"
+    },
+    {
+      "id": "fb295cbf503b37e0",
+      "title": "Mudryk Chelsea return will take time - Alonso",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62eney6347o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-01T14:19:02.000Z",
+      "summary": "Xabi Alonso says he is \"very happy\" to be welcoming Mykhailo Mudryk back into his Chelsea squad, but it is \"too early\" to understand what he can do."
+    },
+    {
+      "id": "0605fbb5ef3c2d6c",
+      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-01T14:11:40.000Z",
+      "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019."
+    },
+    {
+      "id": "0b1ebd847a378cc8",
+      "title": "Israeli strike destroys Gaza hospital warehouse",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-01T14:07:36.000Z",
+      "summary": "Israeli strike destroys medical supplies warehouse at Gaza's Al-Aqsa Martyrs Hospital, staff say."
+    },
+    {
+      "id": "5e0b6b7158cf59ae",
+      "title": "The Verge’s 2026 back-to-school shopping guide",
+      "url": "https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-08-01T14:00:00.000Z",
+      "summary": "Knowing exactly what your student needs for the school year ahead is next to impossible. Sure, you'll probably nail the essentials, but there will likely be a few items you forgot to buy, or didn't think they'd need to have. We're pulling our weight during the back-to-school season with a new shopping guide that's a mix of practical and aspirational products for students to use in and out of the classroom. We're cove"
+    },
+    {
+      "id": "5b6c5d6c2e557970",
+      "title": "Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?",
+      "url": "https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-01T13:59:19.000Z",
+      "summary": "Backlash to FIFA's private investment plan for World Cups and events was huge; now football reacts to U-turn's fallout."
+    },
+    {
+      "id": "8ff487e1c0bcae87",
+      "title": "England still have 'juice in tank' for netball bronze bid",
+      "url": "https://www.bbc.co.uk/sport/netball/articles/c151l288y9xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-01T13:53:33.000Z",
+      "summary": "England's netballers will play Australia in the Commonwealth Games bronze-medal match after a 61-54 semi-final defeat by New Zealand."
+    },
+    {
+      "id": "d6ea1f58118b1f73",
+      "title": "Is Spain being punished?",
+      "url": "https://www.aljazeera.com/opinions/2026/8/1/is-spain-being-punished?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-08-01T13:50:36.000Z",
+      "summary": "In the months leading up to the crisis in Ceuta, pro-Israel voices conspicuously raised the issue of the enclave"
+    },
+    {
+      "id": "0fd650b94603b8d7",
+      "title": "Children run marathon to spotlight Gaza’s growing orphan crises",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/children-run-marathon-to-spotlight-gazas-growing-orphan-crises?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-01T13:46:33.000Z",
+      "summary": "Children run marathon to spotlight Gaza's growing orphan crisis"
+    },
+    {
+      "id": "9da24055001260b9",
+      "title": "Bournemouth sign Portugal defender Silva",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgljn7l17eno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-01T13:39:03.000Z",
+      "summary": "Portugal defender Antonio Silva says he is excited to join Bournemouth after signing for the Cherries in a deal worth up to £25.7m."
     },
     {
       "id": "ece00f076593d431",
@@ -18,8 +108,148 @@
       "source": "BBC World",
       "category": "war_conflict",
       "region": "europe",
-      "publishedAt": "2026-08-01T11:52:29.000Z",
+      "publishedAt": "2026-08-01T13:35:39.000Z",
       "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital."
+    },
+    {
+      "id": "3c0a71a508f642ab",
+      "title": "You could be taking way better photos on your phone",
+      "url": "https://www.theverge.com/tech/973055/how-to-take-better-smartphone-photos",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-08-01T13:30:00.000Z",
+      "summary": "Your smartphone photos can look way better. If you're willing to put in a little extra work, use third party apps and spend a bit of time editing, it's possible to take photos that - under the right circumstances - can rival dedicated digital cameras. I post a lot of smartphone photos online, and \"How do I take better photos on my phone?\" is a question I get practically every day. It makes sense. As the saying goes, "
+    },
+    {
+      "id": "30a8982955d4bbbe",
+      "title": "'Sometimes he wants to leave' - De Zerbi on Richarlison's Spurs future",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c36djl924y4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-01T13:12:56.000Z",
+      "summary": "Roberto de Zerbi says Tottenham \"don't know\" whether Richarlison will stay or leave, as he \"sometimes\" wants to leave."
+    },
+    {
+      "id": "ffc316bffc339be9",
+      "title": "Most Australian teens still online three months after under-16 ban",
+      "url": "https://www.aljazeera.com/news/2026/8/1/most-australian-teens-still-online-three-months-after-under-16-ban?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-01T13:10:47.000Z",
+      "summary": "The Australian government has defended the ban after a report concluded most teenagers had found ways to get around it."
+    },
+    {
+      "id": "cf436c6a005412e9",
+      "title": "The Mermaid Mask is a perfect vacation murder mystery",
+      "url": "https://www.theverge.com/games/971660/the-mermaid-mask-review",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-08-01T13:00:00.000Z",
+      "summary": "The Mermaid Mask, the next point-and-click game from Tangle Tower developer SFB Games, has everything you could ask for in a great murder mystery. It starts with a compelling setup: The captain of a submarine is found dead in a locked room, his body next to a mysterious cauldron with blood trickling across the floor. The colorful cast of suspects stationed aboard are delightful to talk to, including a grumpy author t"
+    },
+    {
+      "id": "c6135f9b1bdb5b32",
+      "title": "Spain says migrants leaving Ceuta after mass influx in which 67 died",
+      "url": "https://www.aljazeera.com/news/2026/8/1/spain-says-migrants-leaving-ceuta-after-mass-influx-in-which-67-died?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "diplomacy",
+      "region": "europe",
+      "publishedAt": "2026-08-01T12:57:13.000Z",
+      "summary": "Spain’s foreign minister maintains 'the integrity of the Schengen area is absolutely guaranteed'."
+    },
+    {
+      "id": "7173c965117d21b6",
+      "title": "Phoenix end winless run with victory over Fire",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c62vw1vvl86o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-01T12:56:59.000Z",
+      "summary": "Ellyse Perry and Alice Capsey star as Birmingham Phoenix pick up their first win of the women's Hundred with a nail-biting seven-wicket win over Welsh Fire."
+    },
+    {
+      "id": "224c82819a3f6568",
+      "title": "Prime Minister Directs All Ports Nationwide to Operate 24/7",
+      "url": "https://www.bd24live.com/prime-minister-directs-all-ports-nationwide-to-operate-24-7/",
+      "source": "BD24Live",
+      "category": "economy_business",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-01T12:50:17.000Z",
+      "summary": "Prime Minister Tareque Rahman has directed all sea, land, and airports across the country to operate 24 hours a day to facilitate trade and commerce, expedite import-export activities, and strengthen… The post Prime Minister Directs All Ports Nationwide to Operate 24/7 appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "3cebf441bcff087a",
+      "title": "Free diver, 21, wants to 'give back' to the ocean that has helped him",
+      "url": "https://www.bbc.co.uk/news/videos/c20e942zpd0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-08-01T12:50:03.000Z",
+      "summary": "Iesetyn Morgan regularly free dives and shares the footage of marine life on social media."
+    },
+    {
+      "id": "ff2d885cd65b53c0",
+      "title": "Iran warns against ‘flames of war’ amid US strike threats on energy sites",
+      "url": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-01T12:44:54.000Z",
+      "summary": "Iranian media says retaliation plan ready after US media suggest potential imminent attacks against civilian sites."
+    },
+    {
+      "id": "d55c63706c21e718",
+      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+      "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-08-01T12:43:21.000Z",
+      "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\"."
+    },
+    {
+      "id": "018c6c2b42b8188a",
+      "title": "The five dramatic days that shook Infantino and world football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8rny2p6144o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-01T12:42:23.000Z",
+      "summary": "BBC Sport's Simon Stone reflects on the unravelling of Gianni Infantino's plans to sell off stakes in Fifa competitions."
+    },
+    {
+      "id": "ad11e234741a69cf",
+      "title": "Sde Teiman walkout lays bare an Israeli military running out of trust",
+      "url": "https://www.aljazeera.com/opinions/2026/8/1/sde-teiman-walkout-lays-bare-an-israeli-military-running-out-of-trust?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-01T12:40:36.000Z",
+      "summary": "Nearly three years of open-ended war have made obedience inside the Israeli military increasingly conditional."
+    },
+    {
+      "id": "3c39519e06825496",
+      "title": "Purple reign: how shade became British gardeners’ favourite",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/01/purple-coloured-plants-british-gardener-favourite",
+      "source": "The Guardian Environment",
+      "category": "environment",
+      "region": "global",
+      "publishedAt": "2026-08-01T12:00:52.000Z",
+      "summary": "Britons move away from trend of grey paving and pristine lawns in an embrace of colour, with lavender a top choice If you manage to spot a garden in bloom this summer, beyond the strips of bleached and torched grass, there may be one colour you see more than any other: purple, the horticultural hue of the season. Plants such as lavender, salvias and catmint are in vogue, according to the Royal Horticultural Society ("
+    },
+    {
+      "id": "e3dbc37c65579e58",
+      "title": "The OG reading app just got a big update",
+      "url": "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-08-01T12:00:00.000Z",
+      "summary": "Hi, friends! Welcome to Installer No. 138, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy August, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about microwave sounds and Meta glasses and Alex vs. Alix, testing the Logitech Alto Keys K98M to see if I'm ready for the mechanical keyboard life, digging into the history o"
     },
     {
       "id": "de75897eb3773c8b",
@@ -42,56 +272,6 @@
       "summary": "Spain says 50,000 migrants who entered its North African enclave of Ceuta have returned to Morocco."
     },
     {
-      "id": "15403ec6f74aa2b8",
-      "title": "Trump mimics sound of Patriot missile interceptions",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-01T11:21:32.000Z",
-      "summary": "US President Donald Trump mimicked missile interceptions as he described the US military shooting down Iranian missiles."
-    },
-    {
-      "id": "8f524971edd9f4c6",
-      "title": "India’s Modi says he forgives students who abused him in Cockroach protests",
-      "url": "https://www.aljazeera.com/news/2026/8/1/indias-modi-says-he-forgives-students-who-abused-him-in-cockroach-protests?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-01T11:08:17.000Z",
-      "summary": "PM says 'misled children' need to be shown 'the right path' as his supporters dox and abuse protesters on social media."
-    },
-    {
-      "id": "d55c63706c21e718",
-      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
-      "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-08-01T11:00:05.000Z",
-      "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\"."
-    },
-    {
-      "id": "f28c53270bddb2d8",
-      "title": "Omani legend, US novice: Pakistan recovers bodies from Broad Peak",
-      "url": "https://www.aljazeera.com/news/2026/8/1/omani-legend-us-novice-pakistan-recovers-bodies-from-broad-peak?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-01T10:38:41.000Z",
-      "summary": "Rescuers are still looking for other missing climbers swept away in an avalanche on the world's 12th largest peak."
-    },
-    {
-      "id": "707bf9d40d11f189",
-      "title": "Iran: The Making of a War",
-      "url": "https://www.aljazeera.com/video/featured-documentaries/2026/8/1/iran-the-making-of-a-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-01T10:30:00.000Z",
-      "summary": "From coup to conflict - how decades of rivalries and miscalculations have shaped one of today’s most dangerous wars."
-    },
-    {
       "id": "822706e5c05b7585",
       "title": "US has full confidence in Tarique Rahman’s leadership: Sergio Gor",
       "url": "https://www.bd24live.com/us-has-full-confidence-in-tarique-rahmans-leadership-sergio-gor/",
@@ -112,16 +292,6 @@
       "summary": "Tarona Taafaki makes history in women’s 75kg category All boxers eliminated in semis receive bronze medals A boxer has made history for ⁠Tuvalu by winning the tiny Pacific island nation’s first Commonwealth ⁠Games medal without winning a single fight. Twenty-year-old Tarona Taafaki, ⁠one of five entrants in the women’s 75kg category, received a bye to the semi-finals where she lost on an unanimous points decision to "
     },
     {
-      "id": "e3550dd10f0f75d3",
-      "title": "Infantino’s World Cup crisis: UEFA has ‘lost confidence’ in FIFA leadership",
-      "url": "https://www.aljazeera.com/sports/2026/8/1/uefa-welcomes-fifa-world-cup-standdown-after-voting-to-boycott?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-01T10:05:45.000Z",
-      "summary": "UEFA, who were the strongest opponents of FIFA's plan, slam the Gianni Infantino-led governing body despite standdown."
-    },
-    {
       "id": "17339915645c5e77",
       "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
       "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
@@ -132,16 +302,6 @@
       "summary": "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago."
     },
     {
-      "id": "a5ab8f36ad9644ad",
-      "title": "England beaten by New Zealand in netball semi-final",
-      "url": "https://www.bbc.co.uk/sport/netball/articles/c151l288y9xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-01T09:41:15.000Z",
-      "summary": "England's netballers miss out on a place in the Commonwealth Games gold-medal match after a 61-54 semi-final defeat by a powerful New Zealand side."
-    },
-    {
       "id": "1a54cad0cf4e596d",
       "title": "Gregg Araki on sex, film and queer resistance: ‘All the terrible shit in the world is because of sexual repression’",
       "url": "https://www.theguardian.com/film/2026/aug/01/gregg-araki-film-i-want-your-sex",
@@ -150,16 +310,6 @@
       "region": "global",
       "publishedAt": "2026-08-01T09:00:49.000Z",
       "summary": "As his 12th feature film, I Want Your Sex, hits theaters, the cult gay film-maker is as fired up as ever Is straight sex the most perverse sex of all? Gregg Araki’s new film makes a convincing case. Titled I Want Your Sex, the movie is a deliriously fun and often hilarious study of desire, power and art that features bondage, full-frontal and a vagina made out of pink chewed-up bubble gum. “For me, it is a very queer"
-    },
-    {
-      "id": "e2fd4b41ce50f123",
-      "title": "Norrie beaten by Shapovalov in Los Cabos semi-final",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cgjeyppnjyxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "americas",
-      "publishedAt": "2026-08-01T08:10:15.000Z",
-      "summary": "Cameron Norrie's promising run at the Los Cabos Open in Mexico ends with a three-set semi-final defeat by defending champion Denis Shapovalov."
     },
     {
       "id": "37bcb1da309680af",
@@ -200,36 +350,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-08-01T07:35:16.000Z",
       "summary": "U.S. President Donald Trump’s Special Envoy for South and Central Asia, Sergio Gor, paid a courtesy call on Prime Minister Tareq Rahman. The meeting took place on Saturday (August 1)… The post Sergio Gor Meets with Prime Minister: Discussions Held on Various Issues appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "2958b031d785f97f",
-      "title": "FIFA World Cup plan fallout: AFC reacts as Infantino scraps investment push",
-      "url": "https://www.aljazeera.com/sports/2026/8/1/fifa-world-cup-plan-fallout-afc-react-as-fifa-scrap-investment-push?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-01T07:33:33.000Z",
-      "summary": "Asian Football Confederation says FIFA future must be 'shaped through proper consultation' after World Cup plan fallout."
-    },
-    {
-      "id": "3d6947b6ba4a1531",
-      "title": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
-      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "weather_climate",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-01T07:22:30.000Z",
-      "summary": "Poor weather has been hampering the search for seven still missing after Thursday's avalanche on Broad Peak."
-    },
-    {
-      "id": "d32ad480f10d3593",
-      "title": "Is building a new stadium a way around spending rules?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crl70reg06no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-01T07:12:27.000Z",
-      "summary": "Spurs only just avoided Premier League relegation last season, but off the pitch they are thriving. So is building a new stadium a good way around spending rules?"
     },
     {
       "id": "5e5fc04b574b3efd",
@@ -312,26 +432,6 @@
       "summary": "An ancient algae first spotted four decades ago will now join the collection of the Natural History Museum."
     },
     {
-      "id": "3e7204ee569517e2",
-      "title": "Arsenal agree Guimaraes fee - Saturday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c07rpvkym70o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-31T23:09:35.000Z",
-      "summary": "Arsenal and Newcastle agree Bruno Guimaraes fee, Inter Milan increase Curtis Jones bid and Cristian Romero explores Spanish move, plus more."
-    },
-    {
-      "id": "b0a5a6939cb77024",
-      "title": "Hunter Bell eyes ambitious sweep after 800m gold in Glasgow",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/cj36lz1d2lno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-31T22:15:15.000Z",
-      "summary": "England's Georgia Hunter Bell eyes an ambitious sweep of gold medals in 2026 after winning the 800m Commonwealth Games title in Glasgow."
-    },
-    {
       "id": "91e417b14e4929bb",
       "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC",
       "url": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
@@ -360,26 +460,6 @@
       "region": "global",
       "publishedAt": "2026-07-31T21:09:25.000Z",
       "summary": "Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones controlled by an attacker. [...]"
-    },
-    {
-      "id": "868a08cd90202f55",
-      "title": "Apple’s new AirTags are back down to their best price",
-      "url": "https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "americas",
-      "publishedAt": "2026-07-31T19:35:45.000Z",
-      "summary": "Both Amazon and Costco are offering some solid deals. | Photo by Amelia Holowaty Krales / The Verge We spotted a great deal on Tile trackers earlier this week that’s still live, but if you’re an iPhone owner, we ultimately recommend Apple’s latest AirTag. Right now, you can pick up a four-pack for $89 ($10 off) at Amazon and Target, matching the bundle’s all-time low price. If you’re a member, Costco also has a deal "
-    },
-    {
-      "id": "81640d5d01ff55cc",
-      "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-      "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "middle_east",
-      "publishedAt": "2026-07-31T19:13:29.000Z",
-      "summary": "Pompeii reimagined with Nano Banana 2 in Google Earth. | Image: Google Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentionally generated images adding things like refugees near the Mexican bord"
     },
     {
       "id": "e1b49f071570d32a",
@@ -422,16 +502,6 @@
       "summary": "All future robot vacuums manufactured outside the USA (i.e., all of them) have been banned by the FCC. | Photo by Jennifer Pattison Tuohy / The Verge No other gadget knows as much about your home as a robot vacuum. They map your space, learn your routines, and many now carry a camera and microphone into every room in your house. As AI gives them a better understanding of what they see, the privacy and security risks "
     },
     {
-      "id": "43682d0a2c364838",
-      "title": "Tomodachi Life: Living the Dream is a quirky life sim that’s worth buying at this discount",
-      "url": "https://www.theverge.com/gadgets/973723/tomodachi-life-apple-marshall-stanmore-deal-sale",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-07-31T17:09:13.000Z",
-      "summary": "Looking to start your own island paradise full of Miis based on family, friends, and celebrities, but don’t feel like paying full fare? Woot has Tomodachi Life: Living the Dream for Switch on sale for $52.99 (usually $59.95). Sort of like Animal Crossing, but more off-kilter, this unique game sees you building and managing relationships on an island of custom Mii characters. You’ll set up and decorate housing, discov"
-    },
-    {
       "id": "3b9aa684fb761995",
       "title": "$2m crime novel deal collapses amid questions over AI use",
       "url": "https://www.theguardian.com/books/2026/jul/31/crime-novel-deal-collapses-questions-ai-jerry-falade-call-me-ill-hide-the-body",
@@ -442,34 +512,14 @@
       "summary": "Agents withdraw Jerry Falade’s hotly anticipated debut after saying they can no longer authenticate ‘how the manuscript evolved’ A high-profile publishing deal for a debut crime novel has collapsed after doubts emerged over whether artificial intelligence played a role in writing it. The hotly anticipated manuscript Call Me, I’ll Hide the Body, by Jerry Falade, was withdrawn from sale by its agent despite reportedly "
     },
     {
-      "id": "501341485d748a53",
-      "title": "The major labels propose rules to keep AI slop off the charts",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
-      "source": "The Verge",
+      "id": "b027caef1b6ad733",
+      "title": "Ariana Grande: Petal review – calm, controlled anger at exes, fans and the media",
+      "url": "https://www.theguardian.com/music/2026/jul/31/ariana-grande-petal-album-review",
+      "source": "The Guardian Culture",
       "category": "creativity_arts",
       "region": "global",
-      "publishedAt": "2026-07-31T16:36:48.000Z",
-      "summary": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. The proposal goes quite a bit further than a labeling proposal put forth by the RIAA, the International Federation of the Phonographic Industry (IFPI), SAG-AFTRA, and others. That would create a set of standardized labels"
-    },
-    {
-      "id": "77c8cfad2e50fcdb",
-      "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
-      "url": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-07-31T16:29:14.000Z",
-      "summary": "Injectable PrEP drug holds promise but investment in HIV prevention has declined dramatically worldwide Sign up for the Breaking News US newsletter email New innovations in HIV prevention could dramatically reduce the number of new HIV cases around the globe, but US foreign aid cuts will mean that those that most need the new medication will be unable to access it, according to experts at the Aids 2026 Conference in "
-    },
-    {
-      "id": "067149907e2ac0d3",
-      "title": "Chelsea's Mudryk free to play after appeal against doping ban",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg8pvr8e8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-07-31T15:59:06.000Z",
-      "summary": "Chelsea and Ukraine winger Mykhailo Mudryk has not played since November 2024, and has been unable to access the club's training ground."
+      "publishedAt": "2026-07-31T16:12:56.000Z",
+      "summary": "(Republic) Casting herself as a flower trampled underfoot, the superstar’s eighth album swaps the ​glitz of her Wicked years ​f​or dark blooms of haunted electronics ‘Tell me who’s to blame?” Ariana Grande asks, exasperated, on the title track of her eighth album, Petal. “Is it the people or myself?” As bleary, fuzzed-up drums threaten to drown her out, this shadowy carousel-ride of a song cycles through more questio"
     },
     {
       "id": "cf40a7b717998e6d",
@@ -482,14 +532,14 @@
       "summary": "Met Office records indicate England and Wales are likely to have had their driest July since records began 190 years ago."
     },
     {
-      "id": "3dbe1686e2d37986",
-      "title": "New York sues Kalshi for allegedly running an ‘illegal gambling operation’",
-      "url": "https://www.theverge.com/tech/973709/new-york-kalshi-lawsuit-illegal-gambling-operation",
-      "source": "The Verge",
+      "id": "e08a9c5d1dae82b4",
+      "title": "Hold the front page! Marilyn Monroe is Dakota Johnson’s ninth cousin three times removed",
+      "url": "https://www.theguardian.com/film/2026/jul/31/marilyn-monroe-dakota-johnson-related-ninth-cousin-three-times-removed",
+      "source": "The Guardian Culture",
       "category": "creativity_arts",
       "region": "global",
-      "publishedAt": "2026-07-31T15:30:13.000Z",
-      "summary": "New York is suing Kalshi over claims the prediction market is running \"an illegal gambling operation.\" In the lawsuit, New York Attorney General Letitia James accuses Kalshi of violating state laws by accepting wagers without a license from the state's gaming commission, as reported earlier by CNBC. An investigation from the Office of the Attorney General (OAG) found Kalshi exposes New York residents \"to serious pers"
+      "publishedAt": "2026-07-31T14:37:14.000Z",
+      "summary": "The vogue for celebrity ancestors can be traced back to Robert Pattinson descending from Dracula and Benedict Cumberbatch being related to just about everyone To mark Marilyn Monroe’s 100th birthday, a short film will premiere at this year’s Venice film festival. Entitled Flesh Impact, the film has been written and directed by Maggie Gyllenhaal, and will star two versions of Monroe. The first, played by Ellen Burstyn"
     },
     {
       "id": "befbca7e33288d4c",
@@ -532,16 +582,6 @@
       "summary": "During visit to Ghana, Sarah Mullally expresses regret and says controversial fund symbolises Christian belief in repentance At a former British castle where thousands of enslaved Africans were held before being shipped across the Atlantic, the archbishop of Canterbury expressed “lament” for the Church of England’s involvement in transatlantic chattel slavery and reaffirmed her commitment to a controversial £100m fun"
     },
     {
-      "id": "d250c03321cfb67d",
-      "title": "Anthropic's Claude AI escapes to hack into three organisations",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-07-31T10:18:54.000Z",
-      "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks."
-    },
-    {
       "id": "76c98054d058dcd0",
       "title": "Dhaka Court Orders Investigation Into Alleged Religious Defamation by Blogger",
       "url": "https://www.bd24live.com/dhaka-court-orders-investigation-into-alleged-religious-defamation-by-blogger-2/",
@@ -550,16 +590,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-07-31T09:54:52.000Z",
       "summary": "A Dhaka court has ordered an investigation into allegations of religious defamation against blogger and writer Md Mijanur Rahaman, who has been accused of publishing controversial and allegedly insulting comments… The post Dhaka Court Orders Investigation Into Alleged Religious Defamation by Blogger appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "d32d8fb23e12463b",
-      "title": "From Felix the Cat to MTV: MoMA explores a century of animation",
-      "url": "https://www.theguardian.com/artanddesign/2026/jul/31/moma-animation-exhibition-its-alive",
-      "source": "The Guardian Culture",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-07-31T09:00:09.000Z",
-      "summary": "Exhibition It’s Alive follows the evolution of animation in the 100 years before digital technology changed the game Although the word “animation” may bring to mind rascally, anthropomorphic bunnies, cats and ducks doing outlandish things, the truth of the medium’s diversity goes far beyond these few recognizable brands. According to MoMA curator Ron Magliozzi, whose new show covering 100 years of animation, It’s Ali"
     },
     {
       "id": "59bdb93e8e5cdda1",
@@ -760,16 +790,6 @@
       "region": "global",
       "publishedAt": "2026-07-30T07:23:11.000Z",
       "summary": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology."
-    },
-    {
-      "id": "89470a6a8feac2d2",
-      "title": "Law Minister: Hasina May Be Arrested Before Surrender",
-      "url": "https://www.bd24live.com/law-minister-hasina-may-be-arrested-before-surrender/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-07-30T06:05:13.000Z",
-      "summary": "Law, Justice and Parliamentary Affairs Minister Md. Asaduzzaman stated that if the ousted former Prime Minister Sheikh Hasina returns to the country, action will be taken according to prevailing law.… The post Law Minister: Hasina May Be Arrested Before Surrender appeared first on Bangla Online News Portal."
     },
     {
       "id": "b9df9ccd3a0e1a5d",
