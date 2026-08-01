@@ -1,25 +1,235 @@
 {
-  "generatedAt": "2026-08-01T00:06:48.295Z",
+  "generatedAt": "2026-08-01T07:32:47.890Z",
   "articles": [
     {
-      "id": "d68e8da89ba2b8b7",
-      "title": "FIFA scrap controversial World Cup private investment plan",
-      "url": "https://www.aljazeera.com/sports/2026/7/31/fifa-scrap-controversial-world-cup-private-investment-plan?traffic_source=rss",
+      "id": "3d6947b6ba4a1531",
+      "title": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
+      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "weather_climate",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-01T07:22:30.000Z",
+      "summary": "Poor weather has been hampering the search for seven still missing after Thursday's avalanche on Broad Peak."
+    },
+    {
+      "id": "abeb438eea82210e",
+      "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-08-01T07:21:46.000Z",
+      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital."
+    },
+    {
+      "id": "d32ad480f10d3593",
+      "title": "Is building a new stadium a way around spending rules?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crl70reg06no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-01T07:12:27.000Z",
+      "summary": "Spurs only just avoided Premier League relegation last season, but off the pitch they are thriving. So is building a new stadium a good way around spending rules?"
+    },
+    {
+      "id": "5e5fc04b574b3efd",
+      "title": "First Australian mass mortality event suspected as deadly bird flu virus rapidly escalates among native birds",
+      "url": "https://www.theguardian.com/world/2026/aug/01/first-australian-mass-mortality-event-suspected-as-deadly-bird-flu-virus-rapidly-escalates-among-native-birds",
+      "source": "The Guardian Environment",
+      "category": "environment",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-01T06:12:27.000Z",
+      "summary": "Helicopter surveillance finds dead and dying greater crested terns off South Australian coast as H5 virus spreads Get our breaking news email, free app or daily news podcast More than 80 dead and sick birds seen on rocks off the South Australian coast are suspected to be the first mass mortality event from the deadly H5N1 bird flu virus, only six weeks after the disease arrived in Australia. Authorities reported on S"
+    },
+    {
+      "id": "b8b3aa1842fbf78b",
+      "title": "Fifa scraps controversial World Cup investment plan",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-01T05:42:31.000Z",
+      "summary": "Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal."
+    },
+    {
+      "id": "38560259f7d393f6",
+      "title": "Lacey and Tyler Fletcher lead Man Utd academy queue",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq897zlv9nko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-01T05:27:03.000Z",
+      "summary": "Shea Lacey and Tyler Fletcher are the Manchester United academy players most likely to break into the senior set-up this season."
+    },
+    {
+      "id": "e970eb678dd55355",
+      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "economy_business",
+      "region": "middle_east",
+      "publishedAt": "2026-08-01T05:01:56.000Z",
+      "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand."
+    },
+    {
+      "id": "03efdb187905379b",
+      "title": "Trump’s Special Envoy Meets with Prime Minister",
+      "url": "https://www.bd24live.com/trumps-special-envoy-meets-with-prime-minister/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-01T04:40:10.000Z",
+      "summary": "US Special Envoy for South and Central Asia, Sergio Gor, has met with Prime Minister Tareq Rahman. The meeting commenced at 9:30 AM on Saturday (August 1) at the Prime… The post Trump’s Special Envoy Meets with Prime Minister appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "61b86e6baf0efad9",
+      "title": "Protesters detained at rally in support of Pakistan-administered Kashmir",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/protesters-detained-at-rally-in-support-of-pakistan-administered-kashmir?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-01T04:39:22.000Z",
+      "summary": "Police detained several protesters in Lahore, Pakistan as they rallied in solidarity with Pakistan-administered Kashmir."
+    },
+    {
+      "id": "af1e9b18749f5ec8",
+      "title": "US drops charges against Olympian for damage to Reflecting Pool",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/us-drops-charges-against-olympian-for-damage-to-reflecting-pool?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-08-01T04:36:10.000Z",
+      "summary": "The US Department of Justice has moved to dismiss its case against Olympian David Hearn."
+    },
+    {
+      "id": "ab850037483f3a4e",
+      "title": "Peru’s ex-president Humala released after conviction overturned",
+      "url": "https://www.aljazeera.com/news/2026/8/1/perus-ex-president-humala-released-after-conviction-overturned?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "world_politics",
       "region": "global",
-      "publishedAt": "2026-07-31T23:48:35.000Z",
-      "summary": "FIFA and its President Gianni Infantino faced fierce backlash from across football to plans to sell stake in World Cup."
+      "publishedAt": "2026-08-01T03:52:25.000Z",
+      "summary": "Humala and his wife were sentenced to 15 years last year after being convicted of money laundering."
     },
     {
-      "id": "97ee349207665529",
-      "title": "FIFA forced to scrap World Cup private investment plan after backlash",
-      "url": "https://www.aljazeera.com/news/2026/7/31/fifa-forced-to-scrap-world-cup-private-investment-plan-after-backlash?traffic_source=rss",
+      "id": "543e96ddf8b275fe",
+      "title": "Budget to be held in October, Healey announces",
+      "url": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "europe",
+      "publishedAt": "2026-08-01T03:34:26.000Z",
+      "summary": "The new chancellor pledged to move money and power out of Westminster, and into every postcode around Britain."
+    },
+    {
+      "id": "6db536710be75ca0",
+      "title": "Yemen’s Houthis deny plan to charge ships transiting Red Sea",
+      "url": "https://www.aljazeera.com/news/2026/8/1/yemens-houthis-deny-plan-to-charge-ships-transiting-red-sea?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-01T03:33:38.000Z",
+      "summary": "Houthis say Red Sea route remains free to use, pushing back on report of new shipping fees."
+    },
+    {
+      "id": "dccdb799299f109b",
+      "title": "Is Israel really ready to withdraw from Gaza?",
+      "url": "https://www.aljazeera.com/news/2026/8/1/is-israel-really-ready-to-withdraw-from-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-01T03:21:52.000Z",
+      "summary": "Netanyahu faces political turmoil over Gaza disarmament plan tied to Israel's potential withdrawal from the enclave."
+    },
+    {
+      "id": "52e211acdb9ce4d0",
+      "title": "Liberia’s kush crisis: The hidden trade behind a generation at risk",
+      "url": "https://www.aljazeera.com/news/2026/8/1/liberias-kush-crisis-the-hidden-trade-behind-a-generation-at-risk?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-01T03:18:29.000Z",
+      "summary": "As kush spreads across Liberia, families face the fallout while traffickers remain largely out of reach."
+    },
+    {
+      "id": "21090c3f23e1df07",
+      "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-01T02:21:29.000Z",
+      "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025."
+    },
+    {
+      "id": "9fd5dd9544af7c87",
+      "title": "Russian missile attacks kill at least nine in Ukraine’s Kyiv",
+      "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-08-01T02:06:00.000Z",
+      "summary": "Residents trapped as partially collapsed buildings catch fire after deadly strike on Ukrainian capital."
+    },
+    {
+      "id": "297e89da8013a3bd",
+      "title": "US military says F-35B jet fighter crashes in California, pilot safe",
+      "url": "https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "war_conflict",
       "region": "global",
-      "publishedAt": "2026-07-31T23:47:35.000Z",
-      "summary": "This is a breaking news story."
+      "publishedAt": "2026-08-01T01:55:27.000Z",
+      "summary": "The jet went down on Friday near the Miramar airbase in San Diego."
+    },
+    {
+      "id": "f4e9733893b2ba6c",
+      "title": "Why has Infantino scrapped FIFA’s World Cup investment plan? What to know",
+      "url": "https://www.aljazeera.com/sports/2026/8/1/why-has-infantino-scrapped-fifas-world-cup-investment-plan-what-to-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-01T01:10:58.000Z",
+      "summary": "How FIFA President Gianni Infantino was forced abandon his World Cup equity plan after seismic backlash across football."
+    },
+    {
+      "id": "648486820a290a81",
+      "title": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-01T00:48:37.000Z",
+      "summary": "Israeli attacks across Gaza have killed at least two Palestinians, hours after Hamas agreed to a draft peace deal."
+    },
+    {
+      "id": "0e92c42fea57ae53",
+      "title": "Bessent ‘to-do’ list shows proposal for US to buy $5bn-$10bn of Japanese yen",
+      "url": "https://www.theguardian.com/us-news/2026/jul/31/scott-bessent-japanese-yen",
+      "source": "The Guardian World",
+      "category": "diplomacy",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-01T00:33:29.000Z",
+      "summary": "Treasury secretary’s notepad, photographed by Reuters on Friday morning, prompts questions over US plans During a cabinet meeting at Camp David on Friday, the US treasury secretary Scott Bessent carelessly revealed plans for the US to buy $5bn-$10bn ⁠in Japanese yen in a scribbled “to do” list left visible to a Reuters photographer. The image, taken over Bessent’s shoulder during a portion of the meeting open to jour"
+    },
+    {
+      "id": "3703186655d2be58",
+      "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+      "url": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-01T00:20:43.000Z",
+      "summary": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage."
+    },
+    {
+      "id": "908e088e9c06c707",
+      "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
+      "url": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-07-31T23:58:12.000Z",
+      "summary": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries."
     },
     {
       "id": "c70f5826b8d871a7",
@@ -30,26 +240,6 @@
       "region": "global",
       "publishedAt": "2026-07-31T23:43:10.000Z",
       "summary": "An ancient algae first spotted four decades ago will now join the collection of the Natural History Museum."
-    },
-    {
-      "id": "df6c9aae1b81d346",
-      "title": "Analyst: the US faces a strategic ‘dead end’ in Iran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/analyst-the-us-faces-a-strategic-dead-end-in-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-07-31T23:30:54.000Z",
-      "summary": "Washington has reached a strategic impasse with Iran, says a former analyst for the US Congress."
-    },
-    {
-      "id": "8220b12a78374310",
-      "title": "US proposes cuts to Colorado River use for Arizona, California and Nevada",
-      "url": "https://www.aljazeera.com/news/2026/7/31/us-proposes-cuts-to-colorado-river-use-for-arizona-california-and-nevada?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-07-31T23:26:26.000Z",
-      "summary": "The proposal comes as the river faces a historic water shortage, with reservoirs reaching levels not seen since 1957."
     },
     {
       "id": "3e7204ee569517e2",
@@ -72,26 +262,6 @@
       "summary": "England's Georgia Hunter Bell eyes an ambitious sweep of gold medals in 2026 after winning the 800m Commonwealth Games title in Glasgow."
     },
     {
-      "id": "b63ccdfaf0339201",
-      "title": "Israeli settlers vandalise Palestinian cemetery in West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-07-31T22:12:48.000Z",
-      "summary": "Israeli settlers vandalise Palestinian cemetery in West Bank"
-    },
-    {
-      "id": "a7652783dda4bcc0",
-      "title": "US Senate’s Fauci hearing renews COVID origin debate but reveals little",
-      "url": "https://www.aljazeera.com/news/2026/7/31/us-senates-fauci-hearing-renews-covid-origin-debate-but-reveals-little?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-07-31T22:10:10.000Z",
-      "summary": "Hearing underscores years-long partisan divide on lightning-rod issue fuelled by misleading White House claims."
-    },
-    {
       "id": "91e417b14e4929bb",
       "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC",
       "url": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
@@ -112,16 +282,6 @@
       "summary": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content."
     },
     {
-      "id": "b0f45643b4dda027",
-      "title": "Pathirage beats Chopra and Nadeem to win Commonwealth gold in javelin",
-      "url": "https://www.aljazeera.com/sports/2026/7/31/pathirage-wins-sri-lankas-first-athletics-gold-in-commonwealth-javelin?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-07-31T21:49:49.000Z",
-      "summary": "Rumesh Tharanga Pathirage wins gold, while Neeraj Chopra takes silver, but Arshad Nadeem makes early exit."
-    },
-    {
       "id": "34456ab849341c68",
       "title": "Online ad firm Adform’s script compromised to steal cryptocurrency",
       "url": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
@@ -132,26 +292,6 @@
       "summary": "Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones controlled by an attacker. [...]"
     },
     {
-      "id": "50944e614436c618",
-      "title": "Wales golden girls beat England in cycling duel",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/crl7z0xg9e6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-07-31T21:03:41.000Z",
-      "summary": "Wales golden girls Emma Finucane and Anna Morris win the Commonwealth Games battle of Britain by defeating English rivals in Glasgow."
-    },
-    {
-      "id": "cdde309a82566b12",
-      "title": "Powerful El Nino to intensify heat on ‘a planet already on fire’: UN",
-      "url": "https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-07-31T20:38:56.000Z",
-      "summary": "UN chief Guterres calls for halt to new fossil fuels as El Nino induces heatwaves, floods, and drought worldwide"
-    },
-    {
       "id": "3dda98ddd407014a",
       "title": "Allen sends Rockets top with win over Super Giants",
       "url": "https://www.bbc.co.uk/sport/cricket/articles/cj9dw3jvmpzo?at_medium=RSS&at_campaign=rss",
@@ -160,26 +300,6 @@
       "region": "global",
       "publishedAt": "2026-07-31T20:35:05.000Z",
       "summary": "Finn Allen strikes an unbeaten 72 as Trent Rockets beat Manchester Super Giants by six wickets to leapfrog their opponents and move top of the Hundred table."
-    },
-    {
-      "id": "a0c01fa162233577",
-      "title": "Venezuela government and opposition to hold talks aimed at path to election",
-      "url": "https://www.aljazeera.com/news/2026/7/31/venezuela-govt-and-opposition-to-hold-talks-aimed-at-path-to-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-07-31T20:28:39.000Z",
-      "summary": "Talks to be led by former lawmaker Dinorah Figuera as opposition figure Maria Corina Machado left out of proceedings."
-    },
-    {
-      "id": "2d0c083ff0112bc0",
-      "title": "Body of US climber the latest recovered after Pakistan avalanche",
-      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-31T20:22:46.000Z",
-      "summary": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing."
     },
     {
       "id": "868a08cd90202f55",
@@ -282,26 +402,6 @@
       "summary": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. The proposal goes quite a bit further than a labeling proposal put forth by the RIAA, the International Federation of the Phonographic Industry (IFPI), SAG-AFTRA, and others. That would create a set of standardized labels"
     },
     {
-      "id": "1c912481ba29f863",
-      "title": "Daughter of British couple killed in Spanish wildfire rejects claim they ignored order to leave",
-      "url": "https://www.theguardian.com/world/2026/jul/31/spain-wildfire-bedar-british-couple-pete-fran-gillam-killed",
-      "source": "The Guardian Environment",
-      "category": "disasters",
-      "region": "europe",
-      "publishedAt": "2026-07-31T16:36:26.000Z",
-      "summary": "Exclusive: Danielle Kirton calls on Ed Miliband to help her get answers about why evacuation order came too late The bereaved daughter of a British couple who died in a Spanish wildfire is calling on the foreign secretary, Ed Miliband, to get answers from Spain’s government about why her parents were not told to evacuate until it was too late. Severe wildfires have burned across Spain and France since early July, kil"
-    },
-    {
-      "id": "77c8cfad2e50fcdb",
-      "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
-      "url": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-07-31T16:29:14.000Z",
-      "summary": "Injectable PrEP drug holds promise but investment in HIV prevention has declined dramatically worldwide Sign up for the Breaking News US newsletter email New innovations in HIV prevention could dramatically reduce the number of new HIV cases around the globe, but US foreign aid cuts will mean that those that most need the new medication will be unable to access it, according to experts at the Aids 2026 Conference in "
-    },
-    {
       "id": "b027caef1b6ad733",
       "title": "Ariana Grande: Petal review – calm, controlled anger at exes, fans and the media",
       "url": "https://www.theguardian.com/music/2026/jul/31/ariana-grande-petal-album-review",
@@ -332,16 +432,6 @@
       "summary": "Chelsea and Ukraine winger Mykhailo Mudryk has not played since November 2024, and has been unable to access the club's training ground."
     },
     {
-      "id": "543e96ddf8b275fe",
-      "title": "Budget to be held in October, Healey announces",
-      "url": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "europe",
-      "publishedAt": "2026-07-31T15:58:42.000Z",
-      "summary": "The new chancellor pledged to move money and power out of Westminster, and into every postcode around Britain."
-    },
-    {
       "id": "cf40a7b717998e6d",
       "title": "England and Wales on course for driest July on record",
       "url": "https://www.bbc.co.uk/weather/articles/cddjznv86p3o?at_medium=RSS&at_campaign=rss",
@@ -352,26 +442,6 @@
       "summary": "Met Office records indicate England and Wales are likely to have had their driest July since records began 190 years ago."
     },
     {
-      "id": "d377cbcb13b39823",
-      "title": "BP puts North Sea business up for sale",
-      "url": "https://www.bbc.co.uk/news/articles/c62q7w003lro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-07-31T15:36:21.000Z",
-      "summary": "The decision follows a review of BP's operations and is set to end 60 years of production in the region by the oil giant."
-    },
-    {
-      "id": "55e976a7f56dd500",
-      "title": "Tour de France Femmes to make history on Ventoux",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/cgmkj4w3g01o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "americas",
-      "publishedAt": "2026-07-31T15:34:29.000Z",
-      "summary": "The Tour de France Femmes begins in Lausanne, Switzerland on Saturday, with its first ascent of Mont Ventoux to come."
-    },
-    {
       "id": "3dbe1686e2d37986",
       "title": "New York sues Kalshi for allegedly running an ‘illegal gambling operation’",
       "url": "https://www.theverge.com/tech/973709/new-york-kalshi-lawsuit-illegal-gambling-operation",
@@ -380,26 +450,6 @@
       "region": "global",
       "publishedAt": "2026-07-31T15:30:13.000Z",
       "summary": "New York is suing Kalshi over claims the prediction market is running \"an illegal gambling operation.\" In the lawsuit, New York Attorney General Letitia James accuses Kalshi of violating state laws by accepting wagers without a license from the state's gaming commission, as reported earlier by CNBC. An investigation from the Office of the Attorney General (OAG) found Kalshi exposes New York residents \"to serious pers"
-    },
-    {
-      "id": "0acab50e804b6768",
-      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-      "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-07-31T15:18:31.000Z",
-      "summary": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated."
-    },
-    {
-      "id": "98f70877d26719a5",
-      "title": "Wildfire near Sizewell nuclear plant causes ‘total devastation’ to Suffolk landscape",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/31/suffolk-wildfire-sizewell-nuclear-plant-dunwich-heath",
-      "source": "The Guardian Environment",
-      "category": "disasters",
-      "region": "europe",
-      "publishedAt": "2026-07-31T15:13:37.000Z",
-      "summary": "Emergency crews say situation remains ‘dynamic’ as more than 100 firefighters battle Dunwich Heath blaze A wildfire near Britain’s biggest nuclear power station has caused “total devastation” to one of the UK’s most important landscapes, as fire crews said the situation remained “dynamic”. More than 100 firefighters have been battling the blaze on Dunwich Heath, near Leiston, on the Suffolk coast since Wednesday even"
     },
     {
       "id": "befbca7e33288d4c",
@@ -452,16 +502,6 @@
       "summary": "During visit to Ghana, Sarah Mullally expresses regret and says controversial fund symbolises Christian belief in repentance At a former British castle where thousands of enslaved Africans were held before being shipped across the Atlantic, the archbishop of Canterbury expressed “lament” for the Church of England’s involvement in transatlantic chattel slavery and reaffirmed her commitment to a controversial £100m fun"
     },
     {
-      "id": "82283a74805e94f3",
-      "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-07-31T10:32:17.000Z",
-      "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025."
-    },
-    {
       "id": "d250c03321cfb67d",
       "title": "Anthropic's Claude AI escapes to hack into three organisations",
       "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
@@ -500,26 +540,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-07-31T08:25:17.000Z",
       "summary": "A report presented in the Indian Parliament stated that the Indian government is reviewing Dhaka’s request for the extradition of Bangladesh’s former Prime Minister Sheikh Hasina. It was also mentioned… The post India Reviewing Request to Return Sheikh Hasina appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "5a56804efb378784",
-      "title": "Fifa says 'nobody selling football' as plan continues",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-07-31T08:21:37.000Z",
-      "summary": "Football's governing body Fifa plans to continue the consultation process after Uefa threatens to boycott World Cups."
-    },
-    {
-      "id": "6ef522b067f8d01b",
-      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-07-31T08:09:17.000Z",
-      "summary": "At least 18 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border."
     },
     {
       "id": "a4adabe0907513d6",
@@ -622,34 +642,14 @@
       "summary": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall."
     },
     {
-      "id": "683a3945ddec511e",
-      "title": "Why limited war with the US may suit Iran better than peace",
-      "url": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-07-30T17:26:01.000Z",
-      "summary": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war."
-    },
-    {
-      "id": "7b84973d255df9b6",
-      "title": "Uefa to boycott World Cups if Fifa plans approved",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-07-30T16:47:40.000Z",
-      "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals."
-    },
-    {
-      "id": "5e5061e2338a2266",
-      "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
+      "id": "b96bf08c63b06f9a",
+      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "war_conflict",
       "region": "europe",
-      "publishedAt": "2026-07-30T15:20:19.000Z",
-      "summary": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih."
+      "publishedAt": "2026-07-30T15:35:50.000Z",
+      "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine."
     },
     {
       "id": "7ab7a49d780dfd21",
@@ -742,16 +742,6 @@
       "summary": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology."
     },
     {
-      "id": "dc7e5f6ce655466e",
-      "title": "Death toll in Japan earthquake rises to 30 as aftershock and heat hamper rescue efforts",
-      "url": "https://www.theguardian.com/world/2026/jul/30/japan-earthquake-death-toll-rises",
-      "source": "The Guardian World",
-      "category": "disasters",
-      "region": "asia_pacific",
-      "publishedAt": "2026-07-30T06:49:55.000Z",
-      "summary": "Soldiers and emergency teams search damaged shopping centre, paper mill and homes for survivors Earthquake rocks southern Japanese island of Kyushu – in pictures The death toll from the powerful earthquake that hit Japan on Tuesday has risen to 30, as the search for survivors trapped in a badly damaged shopping centre, paper mill and collapsed homes across the south-west of the country continues. The 6.8-magnitude qu"
-    },
-    {
       "id": "89470a6a8feac2d2",
       "title": "Law Minister: Hasina May Be Arrested Before Surrender",
       "url": "https://www.bd24live.com/law-minister-hasina-may-be-arrested-before-surrender/",
@@ -820,16 +810,6 @@
       "region": "global",
       "publishedAt": "2026-07-29T08:49:27.000Z",
       "summary": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services."
-    },
-    {
-      "id": "3049ab4cbe34b1da",
-      "title": "Chittagong’s Top Terrorist David Emon Arrested",
-      "url": "https://www.bd24live.com/chittagongs-top-terrorist-david-emon-arrested/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-07-29T08:45:12.000Z",
-      "summary": "Chittagong District Police have arrested five individuals, including the notorious top terrorist David Emon, from Jhikargachha Upazila in Jashore. They were apprehended during an operation conducted on Wednesday (July 29).… The post Chittagong’s Top Terrorist David Emon Arrested appeared first on Bangla Online News Portal."
     },
     {
       "id": "b1415428407a3a93",
