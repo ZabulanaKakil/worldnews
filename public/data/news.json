@@ -1,15 +1,125 @@
 {
-  "generatedAt": "2026-08-01T22:01:57.306Z",
+  "generatedAt": "2026-08-02T00:03:35.288Z",
   "articles": [
     {
-      "id": "eff4f7378a83c587",
-      "title": "At least 13 dead as tourist plane crashes during flight over Peru’s Nazca Lines",
+      "id": "b911b20f92555474",
+      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-02T00:02:18.000Z",
+      "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard."
+    },
+    {
+      "id": "c737f131c8f47304",
+      "title": "New York Times reveals Trump administration subpoena over North Korea story",
+      "url": "https://www.aljazeera.com/news/2026/8/1/new-york-times-reveals-trump-administration-subpoena-over-north-korea-story?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-01T23:42:44.000Z",
+      "summary": "The Justice Department faces criticism for increasing use of subpoenas in attempts to compel journalists to reveal info."
+    },
+    {
+      "id": "12c5dc22efa23f6f",
+      "title": "Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum?",
+      "url": "https://www.aljazeera.com/economy/2026/8/1/growing-like-gangbusters-can-taiwan-maintain-its-economic-momentum?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-01T23:15:40.000Z",
+      "summary": "Taiwan's GDP is soaring on back of US imports of AI chips, but experts warn that problems could arise with Trump, China."
+    },
+    {
+      "id": "6d070efd375aba6b",
+      "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+      "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-08-01T23:03:35.000Z",
+      "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics."
+    },
+    {
+      "id": "550d5669dc71704e",
+      "title": "Russian ship defies sanctions to send military vehicles to Mali",
+      "url": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-08-01T23:03:23.000Z",
+      "summary": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show."
+    },
+    {
+      "id": "b0d13dcea3fe4d0c",
+      "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
+      "url": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-01T23:03:15.000Z",
+      "summary": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago."
+    },
+    {
+      "id": "22ac64d1546b55f7",
+      "title": "The Sopranos star Vincent Pastore dies aged 80",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-01T22:57:55.000Z",
+      "summary": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report."
+    },
+    {
+      "id": "20648914491210f2",
+      "title": "Emotional Kerr delivers moment Glasgow 2026 has waited for",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-01T22:41:38.000Z",
+      "summary": "There were no pacers and no wave lights. This was a Saturday night scrap - Glasgow rules - and Josh Kerr wasn't going to let anyone beat him in that fight."
+    },
+    {
+      "id": "863ed948cb14ff9a",
+      "title": "Michigan joins Minnesota in reporting cyberattacks, with FBI investigating",
+      "url": "https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-01T22:34:36.000Z",
+      "summary": "No culprit has been identified in any of the attacks, which comes after authorities warned of possible Iranian plot."
+    },
+    {
+      "id": "d72ace33d480d8e0",
+      "title": "Tourist plane crashes in Peru, killing 13",
+      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-01T22:34:20.000Z",
+      "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports."
+    },
+    {
+      "id": "dcff84b1016cd6f3",
+      "title": "US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks",
+      "url": "https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-01T22:31:52.000Z",
+      "summary": "Senate race in Michigan comes to embody Democratic rift over Israel, as AIPAC spends heavily against progressive doctor."
+    },
+    {
+      "id": "a10378db5fb33652",
+      "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
       "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
       "source": "The Guardian World",
       "category": "creativity_arts",
       "region": "global",
-      "publishedAt": "2026-08-01T21:47:06.000Z",
-      "summary": "Aircraft crashes into field after departing from the nearby city of Pisco, according to local authorities At least 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca Lines, police reported on Saturday. Local authorities in Nazca confirmed that 11 tourists and two pilots died when the small plane crashed in Pueblo Viejo, approximately 4 miles (6km) from the city "
+      "publishedAt": "2026-08-01T22:31:13.000Z",
+      "summary": "Aircraft crashes into field after departing from nearby city of Pisco, according to local authorities Police in Peru report that 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca Lines. Local authorities in Nazca confirmed that 11 tourists and two pilots died when the Cessna Grand Caravan crashed in Pueblo Viejo, approximately 4 miles (6km) from the city of Naz"
     },
     {
       "id": "3c9714e986d12863",
@@ -42,16 +152,6 @@
       "summary": "Spain says “virtually all” of the estimated 60,000 migrants who stormed its North African enclave of Ceuta have left."
     },
     {
-      "id": "b911b20f92555474",
-      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-08-01T21:13:17.000Z",
-      "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard."
-    },
-    {
       "id": "cb03566769263274",
       "title": "Shittu 'robbed' - are AI boxing judges the answer?",
       "url": "https://www.bbc.co.uk/sport/boxing/articles/c4g42xk1l7vo?at_medium=RSS&at_campaign=rss",
@@ -70,16 +170,6 @@
       "region": "global",
       "publishedAt": "2026-08-01T20:57:04.000Z",
       "summary": "Those killed included 11 passengers and two pilots flying over the famous archeological site, recognised by UNESCO."
-    },
-    {
-      "id": "d72ace33d480d8e0",
-      "title": "Tourist plane crashes in Peru, killing 13",
-      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-01T20:51:09.000Z",
-      "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports."
     },
     {
       "id": "3360ce8c7afde916",
@@ -192,16 +282,6 @@
       "summary": "England's Joe Root is ready to embrace his second stint as Test captain, saying he is in a \"very different place\" to when he stepped down from the role four years ago."
     },
     {
-      "id": "b9e53b1f33e66d2e",
-      "title": "At least three killed in explosion near cafe in Russia’s Moscow",
-      "url": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-08-01T18:22:35.000Z",
-      "summary": "More than 15 people also ​injured ‌in the blast in Kudrinskaya Square, authorities say."
-    },
-    {
       "id": "b036394edcd3819b",
       "title": "Is this Billboard Hot 100 hit AI slop?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
@@ -212,16 +292,6 @@
       "summary": "That cover art is almost certainly AI, too. | Image: Fenix Flexin Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many speculating that it was largely, if not entirely, generated b"
     },
     {
-      "id": "93218efdcbabcf27",
-      "title": "‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis",
-      "url": "https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-01T17:57:18.000Z",
-      "summary": "More than 58,000 children have lost one or both parents by Israel's war, highlighting urgent humanitarian challenges."
-    },
-    {
       "id": "d58f9fbb37fe5821",
       "title": "Italy putting nearly all major cities on highest heat alert",
       "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
@@ -230,36 +300,6 @@
       "region": "europe",
       "publishedAt": "2026-08-01T17:51:46.000Z",
       "summary": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be."
-    },
-    {
-      "id": "42f2c3c7b82ceb2e",
-      "title": "Trump pledges to pursue ‘anti-weaponisation’ fund amid Blanche standoff",
-      "url": "https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-01T17:48:41.000Z",
-      "summary": "The US president said he would push ahead with the controversial fund if his attorney general pick is not approved."
-    },
-    {
-      "id": "186da68f26029db0",
-      "title": "At least 9 people killed in Russian missile attacks on Kyiv",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-08-01T17:45:26.000Z",
-      "summary": "At least 9 people have been killed and dozens injured in Russian missile strikes on Kyiv."
-    },
-    {
-      "id": "3703186655d2be58",
-      "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
-      "url": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-01T17:16:51.000Z",
-      "summary": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage."
     },
     {
       "id": "553ad622f6c12a64",
@@ -352,16 +392,6 @@
       "summary": "Donald Trump speaks during the House Republican Party member retreat. | Image: Mandel NGAN / AFP via Getty Images The FBI, the EPA, and the Cybersecurity and Infrastructure Security Agency (CISA) have stopped short of officially blaming Iran for a spate of cyberattacks on Minnesota's water systems, but consensus is that Iran is likely behind them. That, of course, hasn't stopped Donald Trump from sharing his own theo"
     },
     {
-      "id": "908e088e9c06c707",
-      "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
-      "url": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-01T15:00:07.000Z",
-      "summary": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries."
-    },
-    {
       "id": "8f2ef4be3b27321f",
       "title": "Rails patches critical Active Storage flaw with RCE potential",
       "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
@@ -380,16 +410,6 @@
       "region": "global",
       "publishedAt": "2026-08-01T14:00:00.000Z",
       "summary": "Knowing exactly what your student needs for the school year ahead is next to impossible. Sure, you'll probably nail the essentials, but there will likely be a few items you forgot to buy, or didn't think they'd need to have. We're pulling our weight during the back-to-school season with a new shopping guide that's a mix of practical and aspirational products for students to use in and out of the classroom. We're cove"
-    },
-    {
-      "id": "ece00f076593d431",
-      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-08-01T13:35:39.000Z",
-      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital."
     },
     {
       "id": "3c0a71a508f642ab",
@@ -432,16 +452,6 @@
       "summary": "Iesetyn Morgan regularly free dives and shares the footage of marine life on social media."
     },
     {
-      "id": "018c6c2b42b8188a",
-      "title": "The five dramatic days that shook Infantino and world football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8rny2p6144o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-01T12:42:23.000Z",
-      "summary": "BBC Sport's Simon Stone reflects on the unravelling of Gianni Infantino's plans to sell off stakes in Fifa competitions."
-    },
-    {
       "id": "3c39519e06825496",
       "title": "Purple reign: how shade became British gardeners’ favourite",
       "url": "https://www.theguardian.com/lifeandstyle/2026/aug/01/purple-coloured-plants-british-gardener-favourite",
@@ -470,16 +480,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-08-01T10:07:05.000Z",
       "summary": "Tarona Taafaki makes history in women’s 75kg category All boxers eliminated in semis receive bronze medals A boxer has made history for ⁠Tuvalu by winning the tiny Pacific island nation’s first Commonwealth ⁠Games medal without winning a single fight. Twenty-year-old Tarona Taafaki, ⁠one of five entrants in the women’s 75kg category, received a bye to the semi-finals where she lost on an unanimous points decision to "
-    },
-    {
-      "id": "1a54cad0cf4e596d",
-      "title": "Gregg Araki on sex, film and queer resistance: ‘All the terrible shit in the world is because of sexual repression’",
-      "url": "https://www.theguardian.com/film/2026/aug/01/gregg-araki-film-i-want-your-sex",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-01T09:00:49.000Z",
-      "summary": "As his 12th feature film, I Want Your Sex, hits theaters, the cult gay film-maker is as fired up as ever Is straight sex the most perverse sex of all? Gregg Araki’s new film makes a convincing case. Titled I Want Your Sex, the movie is a deliriously fun and often hilarious study of desire, power and art that features bondage, full-frontal and a vagina made out of pink chewed-up bubble gum. “For me, it is a very queer"
     },
     {
       "id": "34c7dae7a22f3398",
@@ -530,16 +530,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-08-01T04:40:10.000Z",
       "summary": "US Special Envoy for South and Central Asia, Sergio Gor, has met with Prime Minister Tareq Rahman. The meeting commenced at 9:30 AM on Saturday (August 1) at the Prime… The post Trump’s Special Envoy Meets with Prime Minister appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "21090c3f23e1df07",
-      "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-01T02:21:29.000Z",
-      "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025."
     },
     {
       "id": "0e92c42fea57ae53",
@@ -600,6 +590,16 @@
       "region": "europe",
       "publishedAt": "2026-07-31T17:52:11.000Z",
       "summary": "Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incident At least 57 people have died trying to reach the Spanish enclave of Ceuta after as many as 50,000 migrants entered the tiny territory from Morocco in what Spain’s prime minister, Pedro Sánchez, called “a violation of Spain’s territorial integrity”. The huge influx, which took place over the course of just 2"
+    },
+    {
+      "id": "77c8cfad2e50fcdb",
+      "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
+      "url": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
+      "source": "The Guardian World",
+      "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-07-31T16:29:14.000Z",
+      "summary": "Injectable PrEP drug holds promise but investment in HIV prevention has declined dramatically worldwide Sign up for the Breaking News US newsletter email New innovations in HIV prevention could dramatically reduce the number of new HIV cases around the globe, but US foreign aid cuts will mean that those that most need the new medication will be unable to access it, according to experts at the Aids 2026 Conference in "
     },
     {
       "id": "cf40a7b717998e6d",
