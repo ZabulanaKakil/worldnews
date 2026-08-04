@@ -1,6 +1,256 @@
 {
-  "generatedAt": "2026-08-04T19:48:46.867Z",
+  "generatedAt": "2026-08-04T23:10:19.417Z",
   "articles": [
+    {
+      "id": "32c49444d7ce6470",
+      "title": "Saudi-led group completes $55bn purchase of gaming giant EA",
+      "url": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "region": "middle_east",
+      "publishedAt": "2026-08-04T23:09:44.000Z",
+      "summary": "The deal takes the maker of titles including The Sims and EA FC into private ownership - and loads it with debt."
+    },
+    {
+      "id": "ad5593ddb9854617",
+      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
+      "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-08-04T22:18:20.000Z",
+      "summary": "TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE). [...]"
+    },
+    {
+      "id": "a9f66ddd9412b257",
+      "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
+      "url": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "ai_innovation",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-04T22:10:00.000Z",
+      "summary": "AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry."
+    },
+    {
+      "id": "c55d5fe3771c2920",
+      "title": "Tearful Draper struggles during comeback defeat",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cgljg3g7y2eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-04T22:08:35.000Z",
+      "summary": "Jack Draper breaks down in tears midway through his return to the court after long-term injury difficulties as he suffers a first-round exit at the Canadian Open."
+    },
+    {
+      "id": "873c9f7b71579384",
+      "title": "Now you can securely link multiple phones to one Signal account",
+      "url": "https://www.theverge.com/tech/975407/signal-linked-devices-sync",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-08-04T22:02:46.000Z",
+      "summary": "You can link more devices with one phone number on Signal now, including an Android phone or iPhone. Signal already supported linking PCs and iPads, but not additional phones. When you link a device on Signal, you can check and respond to new messages across all of your linked devices. You can also choose whether or not to transfer an end-to-end encrypted copy of your previous messages to each newly linked device to "
+    },
+    {
+      "id": "2ee26dd0d1eaed18",
+      "title": "Elon Musk’s SpaceX reports losses but less than expected",
+      "url": "https://www.aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-04T22:02:09.000Z",
+      "summary": "Revenue was up more than 90 percent from the same period a year ago, beating analyst expectations."
+    },
+    {
+      "id": "2fe116a07439b8c8",
+      "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-08-04T21:57:19.000Z",
+      "summary": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company."
+    },
+    {
+      "id": "01a493fd002766b7",
+      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-08-04T21:45:36.000Z",
+      "summary": "The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...]"
+    },
+    {
+      "id": "4e49eb497af84a67",
+      "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+      "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-08-04T21:45:20.000Z",
+      "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says."
+    },
+    {
+      "id": "9b92196c44525618",
+      "title": "Turkish club Trabzonspor begin talks to sign Salah",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckgdkd5ggg7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "diplomacy",
+      "region": "global",
+      "publishedAt": "2026-08-04T21:39:08.000Z",
+      "summary": "Turkish club Trabzonspor say they have begun negotiations to sign Mohamed Salah."
+    },
+    {
+      "id": "250bb3d63d3d610d",
+      "title": "How the far right weaponised the Ceuta crisis",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/how-the-far-right-weaponised-the-ceuta-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-04T21:32:41.000Z",
+      "summary": "More than 72 migrants died trying to reach Ceuta, but within hours the tragedy had become a political flashpoint."
+    },
+    {
+      "id": "638ee13302cc4aaa",
+      "title": "Projectile sinks Indian-flagged ship off Yemen coast",
+      "url": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-08-04T21:24:50.000Z",
+      "summary": "All 14 people on board the Indian-flagged vessel were safely rescued, India's ministry of external affairs says."
+    },
+    {
+      "id": "c6b0629f9b8f7189",
+      "title": "Brilliant Brook leads Sunrisers to record Hundred score",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c2lqpyv9g7qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-08-04T21:18:36.000Z",
+      "summary": "Harry Brook hits a 15-ball fifty and Ryan Rickelton makes 94 not out as Sunrisers Leeds set a new Hundred record, making 241-2 against London Spirit."
+    },
+    {
+      "id": "9ad0352b6d919acd",
+      "title": "Funeral for family killed in US strike on Iran’s Qeshm Island",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-04T21:11:50.000Z",
+      "summary": "The funeral for a couple and their toddler took place after they were killed in the US strike on Iran's Qeshm Island."
+    },
+    {
+      "id": "cb99ee08babc36b4",
+      "title": "Death toll rises to 87 in India’s flood-stricken Assam",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_death-toll-rises-to-87-in-assam-040826?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-04T21:03:17.000Z",
+      "summary": "Flood victims in India’s Assam district are living in makeshift shelters after monsoon rains caused widespread flooding."
+    },
+    {
+      "id": "d712e763c9cae358",
+      "title": "Six years on, Beirut blast families still await justice",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/six-years-on-beirut-blast-families-still-await-justice?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-04T21:03:15.000Z",
+      "summary": "Families of victims of the Beirut port blast marked six years since the explosion by demanding truth and accountability."
+    },
+    {
+      "id": "dbea94ffb9f5cd69",
+      "title": "National Guard deployment to Washington, DC will cost US roughly $1.4bn",
+      "url": "https://www.aljazeera.com/news/2026/8/4/national-guard-deployment-to-washington-dc-will-cost-us-roughly-1-4bn?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-08-04T20:59:33.000Z",
+      "summary": "The figure offers a glimpse of how much taxpayer money will be spent on a deployment that has been widely criticised."
+    },
+    {
+      "id": "16a94fdfeba531ae",
+      "title": "US says deal on reopening Hormuz close as Iran, Oman hold ‘positive’ talks",
+      "url": "https://www.aljazeera.com/news/2026/8/4/us-says-deal-on-reopening-hormuz-close-as-iran-oman-hold-positive-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-04T20:59:32.000Z",
+      "summary": "Negotiators are working to expand safe shipping through the strait, though key differences remain unresolved."
+    },
+    {
+      "id": "fce7a2ff7401acf6",
+      "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
+      "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+      "source": "The Verge",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-04T20:57:49.000Z",
+      "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. During Tuesday's earnings call, AMD CEO Lisa Su said the company expects \"data center segment revenue to more than double year-over-year in 2027,\" a"
+    },
+    {
+      "id": "9c1a245897c9f3b9",
+      "title": "Forest target Reijnders - Wednesday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8mvgp179po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-04T20:52:35.000Z",
+      "summary": "Nottingham Forest eye Tijjani Reijnders, Spurs want Savinho and Nicolas Jackson, Real Madrid resume Vinicius Jr contract talks, plus more."
+    },
+    {
+      "id": "dda8e562dc976586",
+      "title": "SpaceX made more revenue as an AI company than a space company",
+      "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-08-04T20:47:55.000Z",
+      "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source of most of its value, lost $1.5 billion this quarter, slightly less than in the same quarter last year. SpaceX made deal"
+    },
+    {
+      "id": "42d4a3838d4aff7d",
+      "title": "US court deals blow to Trump’s bid to scrap climate grant programme",
+      "url": "https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-08-04T20:35:56.000Z",
+      "summary": "A US federal appeals court says EPA likely acted unlawfully in trying to cancel Biden-era clean energy grants."
+    },
+    {
+      "id": "45571b189fd1b0ec",
+      "title": "How much of a challenge are wildfires to Europe?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/4/how-much-of-a-challenge-are-wildfires-to-europe?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "disasters",
+      "region": "europe",
+      "publishedAt": "2026-08-04T20:34:38.000Z",
+      "summary": "Rapidly spreading blazes are scorching the continent."
+    },
+    {
+      "id": "1cc5e3f04ad0399e",
+      "title": "Shop owners dismantle businesses after Israeli demolition orders",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/shop-owners-dismantle-businesses-after-israeli-demolition-orders?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "middle_east",
+      "publishedAt": "2026-08-04T20:26:56.000Z",
+      "summary": "Shop owners dismantle businesses after Israeli demolition orders"
+    },
+    {
+      "id": "f4af77f657940274",
+      "title": "Infantino calls executive meeting as criticism mounts",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-04T20:13:03.000Z",
+      "summary": "Gianni Infantino summons senior leaders to a meeting on Wednesday, after facing more fierce criticism of his plan to sell off Fifa's commercial and event operations."
+    },
     {
       "id": "b6dc2b525290fd2b",
       "title": "More than 170 migrants rescued after boat catches fire in Channel",
@@ -12,16 +262,6 @@
       "summary": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France."
     },
     {
-      "id": "4e49eb497af84a67",
-      "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-      "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-08-04T19:30:43.000Z",
-      "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says."
-    },
-    {
       "id": "85ca6dae7939a622",
       "title": "Arrests in Egypt after people allegedly impersonate judges",
       "url": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
@@ -30,16 +270,6 @@
       "region": "africa",
       "publishedAt": "2026-08-04T19:25:00.000Z",
       "summary": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people."
-    },
-    {
-      "id": "f3fd9e55b8fc0ef5",
-      "title": "White House to meet AI firms on advanced model safety",
-      "url": "https://www.aljazeera.com/economy/2026/8/4/white-house-to-meet-ai-firms-on-advanced-model-safety?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-08-04T19:04:18.000Z",
-      "summary": "The White House confirmed Tuesday’s meeting to address advanced model safety amid recent high-profile hacking incidents."
     },
     {
       "id": "a874892a1dd46cf7",
@@ -62,46 +292,6 @@
       "summary": "77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]"
     },
     {
-      "id": "54e049d91bfa188e",
-      "title": "DOJ sends monitors to Michigan poll sites as lawmakers warn of partisan aim",
-      "url": "https://www.aljazeera.com/news/2026/8/4/doj-sends-monitors-to-michigan-poll-sites-as-lawmakers-warn-of-partisan-aim?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-04T18:50:29.000Z",
-      "summary": "While FBI poll monitoring not new, US lawmakers raise alarm amid Trump's years-long claims of election fraud."
-    },
-    {
-      "id": "3798bb0868c2e6bf",
-      "title": "Mass funeral held for 112 members of two Palestinian families",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/mass-funeral-held-for-112-members-of-two-palestinian-families?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-04T18:35:35.000Z",
-      "summary": "Palestinians in Gaza held a mass funeral for 112 members of the Abu Sharia and al-Hasayna families."
-    },
-    {
-      "id": "4e283fce36bcb058",
-      "title": "‘Maximum use’: Iran boosts military strength during ceasefire with US",
-      "url": "https://www.aljazeera.com/news/2026/8/4/maximum-use-iran-boosts-military-strength-during-ceasefire-with-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-04T18:34:48.000Z",
-      "summary": "IRGC spokesman Hossein Mohebbi said last month that Iran's missile production rate increased during the ceasefire."
-    },
-    {
-      "id": "96969aa133542d46",
-      "title": "Rubio: Progress made to reopen Strait of Hormuz",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/rubio-progress-made-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "diplomacy",
-      "region": "global",
-      "publishedAt": "2026-08-04T18:27:15.000Z",
-      "summary": "Marco Rubio, US Secretary of State, said there has been progress in negotiations to reopen the Strait of Hormuz."
-    },
-    {
       "id": "7fe4dd4e82c152b9",
       "title": "How to avoid the worst of the Italian heat",
       "url": "https://www.bbc.co.uk/news/articles/c05q1gz0p1yo?at_medium=RSS&at_campaign=rss",
@@ -110,46 +300,6 @@
       "region": "europe",
       "publishedAt": "2026-08-04T18:21:00.000Z",
       "summary": "From supermarkets to night-time tours, experts share how to make the most of Italy during this latest heatwave."
-    },
-    {
-      "id": "a6f0b72ea168c829",
-      "title": "Why did the US economy slow down?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/why-did-the-us-economy-slow-down?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "americas",
-      "publishedAt": "2026-08-04T18:17:58.000Z",
-      "summary": "The US economy slowed more than expected, but it's not because Americans stopped spending. So what really happened?"
-    },
-    {
-      "id": "5c403c63afcacad0",
-      "title": "Israel election pressure fuels settlement push as West Bank violence surges",
-      "url": "https://www.aljazeera.com/news/2026/8/4/israel-election-pressure-fuels-settlement-push-as-west-bank-violence-surges?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-08-04T18:08:08.000Z",
-      "summary": "Analysts point to uptick in activity of settlement movement as it bids to entrench West Bank chokehold."
-    },
-    {
-      "id": "d0f560582a296e90",
-      "title": "Three lions die in Tokyo zoo as heatwave scorches East Asia",
-      "url": "https://www.aljazeera.com/news/2026/8/4/three-lionesses-die-in-tokyo-zoo-as-heatwave-scorches-east-asia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "weather_climate",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-04T17:50:06.000Z",
-      "summary": "A record-breaking heatwave stretching across East Asia is straining animals, health systems and people."
-    },
-    {
-      "id": "ab4b93fd9acb9759",
-      "title": "Real Madrid: Vinicius Junior drops huge future hint amid Arsenal interest",
-      "url": "https://www.aljazeera.com/sports/2026/8/4/real-madrid-vinicius-junior-drops-huge-future-hint-amid-arsenal-interest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-08-04T17:47:04.000Z",
-      "summary": "Brazil's Vinicius has been linked to Arsenal and Manchester United, but heaps praise on new Real coach Jose Mourinho."
     },
     {
       "id": "6521de5f91337ca1",
@@ -162,26 +312,6 @@
       "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and project a certain frivolousness. Usually it is fast fashion companies or beauty brands flying out influencers with the goal"
     },
     {
-      "id": "7274c887880f0155",
-      "title": "Republicans clear Todd Blanche for top US Justice Department role",
-      "url": "https://www.aljazeera.com/news/2026/8/4/republicans-clear-todd-blanche-for-top-us-justice-department-role?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-04T17:38:46.000Z",
-      "summary": "Blanche's nomination now goes to the full US Senate for a vote."
-    },
-    {
-      "id": "2b218332804b5254",
-      "title": "Lenovo&#8217;s Legion Go S with SteamOS is down to its lowest price ever",
-      "url": "https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale",
-      "source": "The Verge",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-04T17:35:04.000Z",
-      "summary": "Lenovo’s Legion Go S with SteamOS. | Photo by Sean Hollister / The Verge Memory and storage prices will be inflated for the foreseeable future, so we’re always happy to find a good deal on capable gaming hardware, like this discount on the Lenovo Legion Go S with a Z2 Go processor and SteamOS. Normally $1,137.41 (and selling for close to $1,000 at Best Buy), Lenovo has the handheld console on sale for just $635.54 wh"
-    },
-    {
       "id": "64762aedb65a0e16",
       "title": "‘Not healthy’ LLM use is more common than you think",
       "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
@@ -190,26 +320,6 @@
       "region": "americas",
       "publishedAt": "2026-08-04T17:33:46.000Z",
       "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestorm in this corner of the internet has centered on how a creator can square a brand built on authenticity and credibility "
-    },
-    {
-      "id": "d48310a02c6240f7",
-      "title": "Guatemala volcano eruption prompts evacuation of hundreds of people",
-      "url": "https://www.theguardian.com/world/2026/aug/04/guatemala-volcano-eruption-prompts-evacuation-of-hundreds-of-people",
-      "source": "The Guardian World",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-08-04T17:31:37.000Z",
-      "summary": "Eruption of the Fuego volcano sends lava and ash nearly four miles into the sky as country declares second-highest alert Hundreds of people living on the slopes of Guatemala’s Fuego volcano have evacuated their homes after a huge eruption spewed lava and plumes of ash. Central America’s most active volcano erupted on Monday morning, with conditions intensifying by nightfall and prompting authorities to issue the coun"
-    },
-    {
-      "id": "c3cc280e55ebb307",
-      "title": "Senate Democrat’s report says major banks ‘looked the other way’ on Epstein",
-      "url": "https://www.aljazeera.com/news/2026/8/4/senate-democrats-report-says-major-banks-looked-the-other-way-on-epstein?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-08-04T17:27:26.000Z",
-      "summary": "The report accuses banks of failing to meet their legal requirements to flag suspicious activity and calls for a probe."
     },
     {
       "id": "0b17c797c304edcd",
@@ -282,56 +392,6 @@
       "summary": "T-Mobile is launching a new financing option that will allow you to pay for a device, taxes, and fees over 36 months. In an update on Tuesday, T-Mobile says its new Equipment Installment Plan (EIP) Flex 36 requires no upfront payment and will come with a 0 percent APR for a limited time. Even if you are financing a device, carriers typically require you to pay sales tax, an activation fee, or a down payment at checko"
     },
     {
-      "id": "08411a14af4829e5",
-      "title": "Samsung’s HDR10 Plus Advanced is launching this month on Prime Video",
-      "url": "https://www.theverge.com/gadgets/975085/samsung-hdr-10-plus-advanced-prime-video",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-08-04T15:43:59.000Z",
-      "summary": "After previewing HDR10 Plus Advanced late last year, Samsung's not-Dolby Vision 2 spec will launch globally on Amazon's Prime Video this month. The first TVs announced with support are Samsung's 2026 lineup, which will be able to make use of the extra metadata to deliver more precise HDR that is optimized for what you're watching, and tone mapping that can adjust for specific areas of the screen instead of applying o"
-    },
-    {
-      "id": "7abb6150ca7e0e90",
-      "title": "'We are cool' - Szoboszlai plays down Liverpool row",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62e98j4g8vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-04T15:34:47.000Z",
-      "summary": "Liverpool midfielder Dominik Szoboszlai says he has \"cleared\" the situation with team-mates Curtis Jones and Kostas Tsimikas after they seemingly argued over the captain's armband."
-    },
-    {
-      "id": "ffbdcd326e78d081",
-      "title": "Texas says data centers must pass an audit before connecting to the grid",
-      "url": "https://www.theverge.com/policy/975071/texas-data-center-audit",
-      "source": "The Verge",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-08-04T15:33:21.000Z",
-      "summary": "Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid. Governor Greg Abbott (R) on Monday directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to verify and audit new data center proposals, writing that the review is needed to \"keep the grid stable and reliable.\" Data centers will need"
-    },
-    {
-      "id": "dd1e1ebb5c37c94f",
-      "title": "Man Utd admit ticket touting investigation error",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cddjrnv0847o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-04T15:18:10.000Z",
-      "summary": "Manchester United admit making mistakes in the execution of their ticket touting investigation but insist the reasons for it are valid."
-    },
-    {
-      "id": "f0f8136afa15f156",
-      "title": "The Asus Chromebook Plus CX34 is at one of its lowest prices",
-      "url": "https://www.theverge.com/gadgets/974732/asus-chromebook-plus-cx34-igloo-playmate-kooltunes-14-quart-cooler-deal-sale",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-04T15:15:36.000Z",
-      "summary": "The Asus Chromebook Plus CX34 is a dependable laptop that doesn’t cost a fortune, despite being nearly three years old. It’s cheaper than usual right now, and you have a few options in the sub-$400 range. The option with the most storage is currently on sale for $399.99 (about $100 off recent prices) at Amazon. It has a 12th Gen Intel Core i3 processor (1215U), 8GB of RAM, and 256GB of storage. If you don’t think you"
-    },
-    {
       "id": "b67456262d2636a2",
       "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
       "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
@@ -342,14 +402,14 @@
       "summary": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City."
     },
     {
-      "id": "3dbdce39df99ac8f",
-      "title": "World's oldest president reshuffles army as his absence stokes unease",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9kd27lkpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-04T14:53:28.000Z",
-      "summary": "Cameroon's president has been absent for two months while his team denies rumours about his health."
+      "id": "4f53fd31e44b31b4",
+      "title": "‘He’s tiny, dumpy and funny – so his BMX tricks are hilarious’: Tanuki: Pon’s Summer, an adorable slice-of-life adventure",
+      "url": "https://www.theguardian.com/games/2026/aug/04/tanuki-pons-summer-bmx-adventure-japan",
+      "source": "The Guardian Culture",
+      "category": "creativity_arts",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-04T15:00:03.000Z",
+      "summary": "Denkiworks’ debut lets players pull off tricks and pull pints in a stunning, Japan-inspired setting A freeloading tanuki, mounting debt, and a town full of possibilities will sound familiar to fans of Animal Crossing. Alas, while you won’t find accountability from Tom Nook, Kyoto-based studio Denkiworks has stepped in to heal your financial trauma with a BMX-filled adventure in which a mammal finally pays the price f"
     },
     {
       "id": "56719389810320c8",
@@ -422,6 +482,16 @@
       "summary": "The UK's biggest solar eclipse since 1999 arrives on 12 August. Here's where to see it safely in the West Country."
     },
     {
+      "id": "f3edbdfc4710781d",
+      "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+      "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+      "source": "MIT Tech Review",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-08-04T12:14:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s…"
+    },
+    {
       "id": "264cd54a8b3dce98",
       "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
       "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
@@ -450,16 +520,6 @@
       "region": "global",
       "publishedAt": "2026-08-04T11:12:13.000Z",
       "summary": "Arsenal open direct talks with Newcastle United to sign captain Bruno Guimaraes."
-    },
-    {
-      "id": "ac20d5222e799cd9",
-      "title": "Fifa private money plan had to be scrapped - Wenger",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-04T10:45:14.000Z",
-      "summary": "Fifa's chief of global football development Arsene Wenger says the decision to scrap the plan to have private investment in Fifa competitions was \"absolutely necessary\"."
     },
     {
       "id": "eebedbd7d1bfbc18",
@@ -502,16 +562,6 @@
       "summary": "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident."
     },
     {
-      "id": "90ac9a84bfbbbc55",
-      "title": "A youngster to watch at each Premier League club this season",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cre4np3pnxqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-04T05:54:31.000Z",
-      "summary": "The Premier League returns later this month and we have picked out 20 prospects - one from each club - who will be looking to make their mark and enjoy a breakthrough season."
-    },
-    {
       "id": "1092785edf29b150",
       "title": "Three lions die of suspected heatstroke at Tokyo zoo as Japan swelters",
       "url": "https://www.theguardian.com/world/2026/aug/04/three-lions-dead-suspected-heatstroke-japan-zoo-heatwave",
@@ -532,16 +582,6 @@
       "summary": "Large tabby cat that wiped out dozens of rare pāteke, or brown teal, has been killed after eluding trappers with its ‘very erratic’ behaviour A notorious feral cat given the name “Nine Lives” because it eluded trappers for three years has been caught and killed in New Zealand, ending its devastating rampage against one of the country’s rare duck populations. The cat, a large grey tabby, is estimated to have killed do"
     },
     {
-      "id": "6eed1574c6204a94",
-      "title": "UK plastic manufacturer could face legal action over toxic emissions",
-      "url": "https://www.theguardian.com/business/2026/aug/04/plastic-manufacturer-legal-action-emissions-toxic-carcinogenic-chemical-environment",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "europe",
-      "publishedAt": "2026-08-04T05:00:12.000Z",
-      "summary": "Exclusive: Environment Agency is considering whether to prosecute Huntsman Polyurethanes over emissions of carcinogenic benzene A plastic manufacturer in the north of England is facing potential legal action over emissions of benzene, a carcinogenic chemical with no safe level, the Guardian can reveal. The Environment Agency (EA) is considering taking legal action against Huntsman Polyurethanes in Teesside for a pote"
-    },
-    {
       "id": "2259a3c5a9913fc5",
       "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
       "url": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
@@ -552,16 +592,6 @@
       "summary": "The service reportedly costs up to $100,000 (£74,170) per month and offers access to posts from influential accounts milliseconds before they appear online."
     },
     {
-      "id": "5a618afbe3257b56",
-      "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "europe",
-      "publishedAt": "2026-08-04T00:17:15.000Z",
-      "summary": "Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]"
-    },
-    {
       "id": "b76261c24d458336",
       "title": "Tokenomics: Why making AI pay is tricky",
       "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
@@ -570,6 +600,16 @@
       "region": "global",
       "publishedAt": "2026-08-03T23:21:10.000Z",
       "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge."
+    },
+    {
+      "id": "32adb75e5a252c01",
+      "title": "Trump’s AI protectionism has come for robotics",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "source": "MIT Tech Review",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-08-03T18:43:30.000Z",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots…"
     },
     {
       "id": "80bbc3de80dcb50f",
@@ -672,16 +712,6 @@
       "summary": "Wildlife intervention proposals are controversial but farmers say they are needed to reduce bTB."
     },
     {
-      "id": "91570384f307a0ba",
-      "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
-      "source": "BleepingComputer",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-08-02T22:31:41.000Z",
-      "summary": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]"
-    },
-    {
       "id": "7f6832386878c11c",
       "title": "Government Hires Law Firm in Dubai to Cancel Benazir’s Bail: Home Minister",
       "url": "https://www.bd24live.com/government-hires-law-firm-in-dubai-to-cancel-benazirs-bail-home-minister/",
@@ -710,16 +740,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-08-02T05:35:13.000Z",
       "summary": "Police are not the muscle force of any particular party or group. To earn public trust, police must establish themselves as a politically neutral, humane, professional, and service-oriented force, Home… The post Home Minister: Police are not the muscle force of any particular party or group appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "c77167969326af1f",
-      "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
-      "url": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
-      "source": "The Guardian World",
-      "category": "war_conflict",
-      "region": "africa",
-      "publishedAt": "2026-08-02T04:00:11.000Z",
-      "summary": "Activists in the region say politicians regard LGBTQ+ people as ‘the easiest scapegoats to maintain their power’ A growing number of west African countries are implementing or strengthening anti-LGBTQ+ laws, amid local political pressures and a global pushback against LGBTQ+ rights. In March, Senegal doubled the maximum prison sentence for gay sex to 10 years and criminalised the “promotion” of homosexuality. Niger c"
     },
     {
       "id": "a10378db5fb33652",
@@ -812,16 +832,6 @@
       "summary": "Clement Delangue said he didn't want cyber attacks on other companies to become \"normalised\"."
     },
     {
-      "id": "cf40a7b717998e6d",
-      "title": "England and Wales on course for driest July on record",
-      "url": "https://www.bbc.co.uk/weather/articles/cddjznv86p3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-07-31T15:37:17.000Z",
-      "summary": "Met Office records indicate England and Wales are likely to have had their driest July since records began 190 years ago."
-    },
-    {
       "id": "84fea372ab732b3f",
       "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
       "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
@@ -850,36 +860,6 @@
       "region": "global",
       "publishedAt": "2026-07-30T14:53:20.000Z",
       "summary": "The outage meant Xbox users had trouble signing into their accounts, seeing their game library and launching games"
-    },
-    {
-      "id": "df07ddd8c710dd11",
-      "title": "Trump considering AI controls after OpenAI hacking incidents",
-      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-07-30T07:23:11.000Z",
-      "summary": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology."
-    },
-    {
-      "id": "b9df9ccd3a0e1a5d",
-      "title": "Meta shares fall as frustration grows over AI spending plans",
-      "url": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-07-29T22:44:18.000Z",
-      "summary": "CEO Mark Zuckerberg said the firm intends to sell its AI tools to other companies for the first time."
-    },
-    {
-      "id": "cc75ff7d4ea7bfcb",
-      "title": "Data centres could pay hundreds of millions in deposits for power demands",
-      "url": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-07-29T11:35:35.000Z",
-      "summary": "The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects."
     },
     {
       "id": "0c7c57ee5e25207d",
