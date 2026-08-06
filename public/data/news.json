@@ -1,65 +1,265 @@
 {
-  "generatedAt": "2026-08-06T03:23:58.163Z",
+  "generatedAt": "2026-08-06T09:45:07.358Z",
   "articles": [
     {
-      "id": "e5d199f2dd07e40c",
-      "title": "Lightning strike kills Thai footballer during match",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/lightning-strike-kills-thai-footballer-during-match?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
+      "id": "67d84b4a1925634e",
+      "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
       "region": "global",
-      "publishedAt": "2026-08-06T02:39:39.000Z",
-      "summary": "Footage shows the moment a lightning strike hit a football player in southern Thailand, during a semi-final match."
+      "publishedAt": "2026-08-06T09:40:18.000Z",
+      "summary": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company."
     },
     {
-      "id": "945fc83b3f955401",
-      "title": "How Gambian women are restoring the mangroves protecting Banjul",
-      "url": "https://www.aljazeera.com/news/2026/8/6/how-gambian-women-are-restoring-the-mangroves-protecting-banjul?traffic_source=rss",
+      "id": "2f2280320d467d35",
+      "title": "England recall Pope & Lawrence for Pakistan Tests but Bethell out",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/crl7911zk40o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-06T09:37:10.000Z",
+      "summary": "Surrey duo Ollie Pope and Dan Lawrence are recalled to the England squad for the first two Tests against Pakistan."
+    },
+    {
+      "id": "3b10a13faff77b5d",
+      "title": "US-Israel war on Iran upends Europe’s summer holiday travel patterns",
+      "url": "https://www.aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-06T09:17:56.000Z",
+      "summary": "Holidaymakers are sticking closer to home as the conflict rages, while tourism operators adapt."
+    },
+    {
+      "id": "f1d40aa93593834b",
+      "title": "Afghan boxer accused of killing Scottish aid worker back in court",
+      "url": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-06T09:12:39.000Z",
+      "summary": "Sharif Ahmadzai, who is 26 and from Afghanistan, faces charges of homicide with intent, robbery and weapons offences."
+    },
+    {
+      "id": "b5c024811e8874fc",
+      "title": "Sheikh Hasina vows to return, but will Bangladesh accept fugitive ex-PM?",
+      "url": "https://www.aljazeera.com/news/2026/8/6/sheikh-hasina-vows-to-return-but-will-bangladesh-accept-fugitive-ex-pm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-06T09:06:25.000Z",
+      "summary": "Awami League leader plans to return from India exile despite facing death sentence over 2024 protest crackdown."
+    },
+    {
+      "id": "ab2e00beec5dbe43",
+      "title": "Iranian footballers who defied Tehran become Australian citizens",
+      "url": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "sports",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-06T09:04:17.000Z",
+      "summary": "They were among seven members of Iran's team to be granted humanitarian visas while in Australia for the Women's Asian Cup - but the other five changed their minds and returned home."
+    },
+    {
+      "id": "b4757892509292ae",
+      "title": "What to know about this week’s US primary elections in Tennessee and Hawaii",
+      "url": "https://www.aljazeera.com/news/2026/8/6/what-to-know-about-this-weeks-us-primary-elections-in-tennessee-and-hawaii?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-06T08:58:12.000Z",
+      "summary": "Republicans eye Congressional sweep after only Democrat-dominated district redrawn ahead of primary vote in Tennessee."
+    },
+    {
+      "id": "27fbb0121478ea9a",
+      "title": "UK police confirm Uganda boxers unaccounted for after Commonwealth Games",
+      "url": "https://www.aljazeera.com/sports/2026/8/6/uk-police-confirm-uganda-boxers-unaccounted-for-after-commonwealth-games?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-08-06T08:27:20.000Z",
+      "summary": "Athletes from Uganda and Pakistan were reported 'missing' after failing to return home from 2026 Commonwealth Games."
+    },
+    {
+      "id": "80b29bd0a812eff8",
+      "title": "Air India's new CEO faces financial and safety turbulence",
+      "url": "https://www.bbc.co.uk/news/articles/c9987kkrnl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-06T08:18:02.000Z",
+      "summary": "The aftermath of last's year deadly crash and mounting financial losses will be Gebremariam's main challenges."
+    },
+    {
+      "id": "6053e5cbc753220e",
+      "title": "Why is France developing a new nuclear strategy?",
+      "url": "https://www.aljazeera.com/video/project-force-2/2026/8/6/why-is-france-developing-a-new-nuclear-strategy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-08-06T08:17:26.000Z",
+      "summary": "As the US retreats from Europe and Russia adopts an aggressive posture, France plans to add weapons to its arsenal"
+    },
+    {
+      "id": "b51571f421bb2334",
+      "title": "Iran anthem protest: Female footballers ‘proud’ to become Australian",
+      "url": "https://www.aljazeera.com/sports/2026/8/6/former-iranian-women-footballers-proud-to-become-australian-afc-cup-anthem-protest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-06T08:15:37.000Z",
+      "summary": "Fatemeh Pasandideh and Atefeh Ramezanisadeh refused to sing Iran anthem at Asian Cup, now granted Australia citizenship."
+    },
+    {
+      "id": "806957886c628e4d",
+      "title": "Starbucks Korea raided by police after ‘Tank Day’ campaign sparks public outrage",
+      "url": "https://www.theguardian.com/world/2026/aug/06/starbucks-korea-raided-police-tank-day-campaign-gwangju-massacre",
+      "source": "The Guardian World",
+      "category": "creativity_arts",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-06T07:45:32.000Z",
+      "summary": "Coffee chain has faced backlash over marketing promotion tied to anniversary of Gwangju massacre South Korean police have raided the headquarters of Starbucks Korea as part of an investigation into a marketing campaign accused of trivialising the country’s 1980s pro-democracy movement. Investigators searched the building in southern Seoul on Tuesday, police said on Wednesday. No further details were released, althoug"
+    },
+    {
+      "id": "41d946f3f78a3ae3",
+      "title": "Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones",
+      "url": "https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-08-06T07:36:56.000Z",
+      "summary": "Ukraine officials say three people killed in Kharkiv region and three in Sumy, as Russia says it intercepted 605 drones."
+    },
+    {
+      "id": "bc4339ac31c30343",
+      "title": "Ex-Bangladesh cricket captain Shakib’s home petrol-bombed in Hasina fallout",
+      "url": "https://www.aljazeera.com/sports/2026/8/6/ex-bangladesh-cricket-captain-shakibs-home-petrol-bombed-in-hasina-fallout?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-06T07:34:12.000Z",
+      "summary": "Former Bangladesh captain Shakib Al Hasan's home attacked after joining former Prime Minister Sheikh Hasina’s event."
+    },
+    {
+      "id": "0ba1fc14b05fd038",
+      "title": "Olympic champion curler Muirhead comes out of retirement",
+      "url": "https://www.bbc.co.uk/sport/articles/cwymv01lrn4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-06T07:27:33.000Z",
+      "summary": "Winter Olympic gold medallist Eve Muirhead revokes her retirement, saying being Team GB's chef de mission at this year's Games has inspired her to return to curling after four years away."
+    },
+    {
+      "id": "7ca9c174fcf38287",
+      "title": "Indian journalist Tarun Tejpal convicted in 2013 rape case",
+      "url": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-06T07:27:17.000Z",
+      "summary": "The Goa bench of the Bombay High Court overturned a 2021 trial court verdict clearing Tejpal of all charges."
+    },
+    {
+      "id": "65874b45487ff8b7",
+      "title": "Messi scores his first goals since World Cup as Inter Miami beat San Luis",
+      "url": "https://www.aljazeera.com/sports/2026/8/6/messi-scores-his-first-goals-since-world-cup-as-inter-miami-beat-san-luis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "americas",
+      "publishedAt": "2026-08-06T07:11:48.000Z",
+      "summary": "Lionel Messi scores his first goals since Argentina's World Cup final defeat to Spain, as Miami win 4-2 in Leagues Cup."
+    },
+    {
+      "id": "bfacc3588478ac89",
+      "title": "Pakistan beat West Indies to end 8 away Test losing streak and draw series",
+      "url": "https://www.aljazeera.com/sports/2026/8/6/pakistan-beat-west-indies-to-end-8-away-test-losing-streak-and-draw-series?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-06T06:58:31.000Z",
+      "summary": "Pakistan win first away Test in three years, beating West Indies by eight wickets in Trinidad to draw two Test series."
+    },
+    {
+      "id": "1fc9e2667a03ba6a",
+      "title": "A US proposal for missile defense that’s been tried before",
+      "url": "https://www.aljazeera.com/video/project-force-2/2026/8/6/a-us-proposal-for-missile-defense-thats-been-tried-before?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "war_conflict",
       "region": "global",
-      "publishedAt": "2026-08-06T02:34:00.000Z",
-      "summary": "Trees provide a living for the women, who plant and care for them, and shield the island capital from erosion, flooding."
+      "publishedAt": "2026-08-06T06:51:27.000Z",
+      "summary": "What is a Golden Dome, and why does Donald Trump want one?"
     },
     {
-      "id": "df2f6cca10f38e9a",
-      "title": "Meta says AI model accessed the internet and hacked another firm",
+      "id": "b8bcd21231d7aa54",
+      "title": "Outrage as Ugandan football captain beaten to death in street gang attack",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-06T06:04:28.000Z",
+      "summary": "The 27-year-old was killed by suspected robbers after resisting an attempt to rob him, police say."
+    },
+    {
+      "id": "236c2ec7f3b756bd",
+      "title": "Meta becomes latest firm to say its AI hacked another company",
       "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "cybersecurity",
       "region": "global",
-      "publishedAt": "2026-08-06T02:33:33.000Z",
+      "publishedAt": "2026-08-06T05:53:58.000Z",
       "summary": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns."
     },
     {
-      "id": "47c93227235cbbb8",
-      "title": "Explosive-laden drone found at German airport hosting Ukrainian fleet",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/explosive-laden-drone-found-at-german-airport-hosting-ukrainian-fleet?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-06T02:28:56.000Z",
-      "summary": "German authorities are investigating how a drone packed with explosives reached Leipzig/Halle Airport."
+      "id": "8fd99dd8108e2146",
+      "title": "Bangladesh Submerged in a Terrifying Addiction",
+      "url": "https://www.bd24live.com/bangladesh-submerged-in-a-terrifying-addiction/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-06T05:50:21.000Z",
+      "summary": "Amirul Islam: A flood of Yaba and Ice is crossing the borders, with 8.2 million drug users; a severe social crisis is expanding, engulfing the youth. From cities to villages,… The post Bangladesh Submerged in a Terrifying Addiction appeared first on Bangla Online News Portal."
     },
     {
-      "id": "80e4df5676561405",
-      "title": "Colombia minister warns of ‘terrorism’ threat at presidential inauguration",
-      "url": "https://www.aljazeera.com/news/2026/8/6/colombia-minister-warns-of-terrorism-threat-at-presidential-inauguration?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-08-06T02:06:03.000Z",
-      "summary": "Presidents of Argentina, Paraguay, Chile and Ecuador, along with Spain’s King Felipe VI, are expected to attend."
+      "id": "5be006d1b78cd185",
+      "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+      "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-08-06T05:00:54.000Z",
+      "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline."
     },
     {
-      "id": "9523dd4262725d81",
-      "title": "Mexican influencer shot dead during livestream",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/mexican-influencer-shot-dead-during-livestream-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
+      "id": "ddeee4ed4d176804",
+      "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
+      "url": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "creativity_arts",
       "region": "global",
-      "publishedAt": "2026-08-06T01:28:53.000Z",
-      "summary": "24-year-old TikToker Cesar Gastelum, was shot dead while livestreaming with friends outside a fast-food restaurant."
+      "publishedAt": "2026-08-06T04:44:22.000Z",
+      "summary": "The singer, who last released a full album in 2016, is in the studio and \"cooking\", her partner said."
+    },
+    {
+      "id": "293591596f431e3b",
+      "title": "Nigerian security forces rescue more than 300 abductees",
+      "url": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "africa",
+      "publishedAt": "2026-08-06T04:35:33.000Z",
+      "summary": "The government says the rescue is the country's largest single-day operation by joint security forces."
+    },
+    {
+      "id": "2855258493b9f071",
+      "title": "The 2024 Mass Uprising: 16 Sentenced to Death, 11 to Life Imprisonment for Crimes Against Humanity",
+      "url": "https://www.bd24live.com/the-2024-mass-uprising-16-sentenced-to-death-11-to-life-imprisonment-for-crimes-against-humanity/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-06T04:15:28.000Z",
+      "summary": "The International Crimes Tribunal has announced verdicts in six cases of crimes against humanity committed during the student-people’s mass uprising in July-August 2024. In the six widely discussed verdicts, 16… The post The 2024 Mass Uprising: 16 Sentenced to Death, 11 to Life Imprisonment for Crimes Against Humanity appeared first on Bangla Online News Portal."
     },
     {
       "id": "7eaba3e45ada0de3",
@@ -72,26 +272,6 @@
       "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway."
     },
     {
-      "id": "cdb15028bec45a18",
-      "title": "Meta’s AI model follows rivals in revealing hacks of outside systems",
-      "url": "https://www.aljazeera.com/news/2026/8/6/metas-ai-model-follows-rivals-in-revealing-hacks-of-outside-systems?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-08-06T00:40:28.000Z",
-      "summary": "Meta joins OpenAI and Anthropic in disclosing AI hacking during cybersecurity testing."
-    },
-    {
-      "id": "8fe588d57cd8cefd",
-      "title": "FAA says Trump’s Marine One briefly flew too close to passenger jet",
-      "url": "https://www.aljazeera.com/news/2026/8/6/faa-says-trumps-marine-one-briefly-flew-too-close-to-passenger-jet?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-06T00:31:07.000Z",
-      "summary": "Air traffic controllers had failed to pause commercial flights during Marine One’s departure, sources say."
-    },
-    {
       "id": "87067bea5e5b487b",
       "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
       "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
@@ -102,26 +282,6 @@
       "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in more than three months,\" Lawfare said. Grokipedia launched in v0.1 in October 2025 with an initial batch of 885,000 articles, and is now on v"
     },
     {
-      "id": "c19d16abbd82230e",
-      "title": "Mamdani praises El-Sayed’s victory, rejects ‘mini Mamdani’ trope",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/mamdani-praises-el-sayeds-victory-rejects-mini-mamdani-trope?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-06T00:01:24.000Z",
-      "summary": "New York City’s Mayor Zohran Mamdani congratulated Abdul El-Sayed on winning Michigan’s Democratic Senate primary."
-    },
-    {
-      "id": "689a2e5977912129",
-      "title": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
-      "url": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-05T23:28:06.000Z",
-      "summary": "Women in the team, which is recognised by Fifa, say football has given them freedom and independence."
-    },
-    {
       "id": "c5e82a6ae4299ba7",
       "title": "What's causing record high US beef prices?",
       "url": "https://www.bbc.co.uk/news/articles/cdrv0k0j662o?at_medium=RSS&at_campaign=rss",
@@ -130,6 +290,16 @@
       "region": "global",
       "publishedAt": "2026-08-05T23:23:05.000Z",
       "summary": "The meat has never been more expensive, due to supply shortages, but no-one is making more money."
+    },
+    {
+      "id": "65965c8e66227749",
+      "title": "X product chief Nikita Bier is leaving after one year",
+      "url": "https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving",
+      "source": "The Verge",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-05T22:19:55.000Z",
+      "summary": "X head of product Nikita Bier is stepping down and says he will move into a role as an advisor, writing that \"it's time to pass the torch and demote myself to my natural state: a poster.\" He shared the update just over a month after celebrating his one-year anniversary on the job, and just weeks after Elon Musk's combined SpaceX / X / xAI companies went public. He says that \"almost every aspect of X\" has been rebuilt"
     },
     {
       "id": "269bcdb0b56f1832",
@@ -162,46 +332,6 @@
       "summary": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. [...]"
     },
     {
-      "id": "d839a116169b452b",
-      "title": "Infantino sorry for errors but stays Fifa president",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-05T21:37:08.000Z",
-      "summary": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans."
-    },
-    {
-      "id": "45d188d4a1161721",
-      "title": "Everton sign midfielder Norgaard from Arsenal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2gvlnjndpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-05T21:18:29.000Z",
-      "summary": "Everton sign Denmark midfielder Christian Norgaard from Arsenal on a two-year contract for a reported fee of £7m."
-    },
-    {
-      "id": "0da9b5a75b038d69",
-      "title": "Real Madrid agree £120m Diomande deal - Thursday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr59z307my1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-05T20:17:47.000Z",
-      "summary": "Real Madrid reach £120m agreement for Yan Diomande, Liverpool explore move for Ibrahim Mbaye and Aston Villa reach agreement to sign Matteo Ruggeri."
-    },
-    {
-      "id": "5fa16c9cefa145bb",
-      "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
-      "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-05T20:03:36.000Z",
-      "summary": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation."
-    },
-    {
       "id": "53f85163ace36fff",
       "title": "Drone carrying explosives found at German airport, police say",
       "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
@@ -210,6 +340,16 @@
       "region": "global",
       "publishedAt": "2026-08-05T20:01:51.000Z",
       "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air."
+    },
+    {
+      "id": "084f8b154a74010a",
+      "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-08-05T19:55:25.000Z",
+      "summary": "Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network. [...]"
     },
     {
       "id": "2eedbb7056ea80fe",
@@ -222,16 +362,6 @@
       "summary": "It represents roughly 60% of all tariff revenue collected under the policy, with billions still to be repaid."
     },
     {
-      "id": "d9e5961c8627b258",
-      "title": "How Buttler became T20 cricket's run-scoring GOAT",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c5ywjjnn0j5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-05T19:25:02.000Z",
-      "summary": "BBC Sport explores how Jos Buttler became the highest run-getter in men's T20 cricket."
-    },
-    {
       "id": "712c614d261597c8",
       "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
       "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
@@ -242,46 +372,6 @@
       "summary": "State department informs Congress of planned closures in Canada, Grenada, Japan, Indonesia and Cameroon The US state department is to shut five foreign consulates and missions across Asia, Africa, North America and the Caribbean, drawing criticism that it is leaving a diplomatic vacuum at risk of being filled by China. The US Congress has been served notice of the impending closures, which are being justified on cost"
     },
     {
-      "id": "05b291409a1113d1",
-      "title": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
-      "url": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-05T19:02:06.000Z",
-      "summary": "The 78-year-old has been convicted of crimes against humanity over a deadly crackdown on a 2024 uprising."
-    },
-    {
-      "id": "8791e3fa3168878b",
-      "title": "Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cn7nkyr1j7ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-05T18:38:46.000Z",
-      "summary": "The \"cockroach\" movement was one of the biggest public displays of dissent against India's prime minister in years."
-    },
-    {
-      "id": "acbce724fe44f382",
-      "title": "Student loan repayment rates an 'unsustainable burden', chancellor told",
-      "url": "https://www.bbc.co.uk/news/articles/c5yed780epqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-08-05T18:38:45.000Z",
-      "summary": "More than 120 MPs and peers have asked John Healey to carry out an \"urgent review\" of repayments."
-    },
-    {
-      "id": "ce98c4f83be609b6",
-      "title": "Newcastle appoint Jaissle - what should fans expect?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn4n0ypyx31o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-05T18:32:43.000Z",
-      "summary": "Newcastle United appoint Matthias Jaissle, 38, as head coach to succeed Eddie Howe - but what will the German bring to the club?"
-    },
-    {
       "id": "a7c2cb49f4a64e31",
       "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
       "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
@@ -290,26 +380,6 @@
       "region": "europe",
       "publishedAt": "2026-08-05T18:19:51.000Z",
       "summary": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages."
-    },
-    {
-      "id": "29c9895cded63dc7",
-      "title": "Real Madrid make Vinicius Jr improved contract offer",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2dpejpv70o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "americas",
-      "publishedAt": "2026-08-05T17:59:01.000Z",
-      "summary": "Real Madrid make Vinicius Jr an improved contract offer as they look to keep the Brazil winger at the Bernabeu."
-    },
-    {
-      "id": "54bca18059a88568",
-      "title": "Two of Ring&#8217;s latest video doorbells are a lot cheaper than usual",
-      "url": "https://www.theverge.com/gadgets/975723/ring-wired-doorbell-pro-battery-doorbell-plus-deal-sale",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-05T17:53:43.000Z",
-      "summary": "Both the battery-powered and wired models are over $50 off. | Image: Ring Ring’s Wired Doorbell Pro and Battery Doorbell Plus are two of the brand’s most well-rounded video doorbells, whether you’re looking for a hardwired model or one that runs on a battery. Right now, its Wired Doorbell Pro is down to $199 ($50 off) at Amazon and Best Buy, while the Battery Doorbell Plus is on sale for $119.99 ($60 off) at Amazon a"
     },
     {
       "id": "8f9df18892594484",
@@ -330,6 +400,16 @@
       "region": "global",
       "publishedAt": "2026-08-05T17:31:27.000Z",
       "summary": "César Gastélum was filming outside a fast-food outlet in Sinaloa state when he was killed by a motorbike driver A popular Mexican influencer has been shot dead while doing a live stream on social media outside a restaurant in Sinaloa state, where lethal cartel violence has become widespread. César Gastélum, who had nearly 600,000 followers on TikTok and was known for making comedy videos, was filming with two friends"
+    },
+    {
+      "id": "c6d8fc4c031c7663",
+      "title": "Apple’s selling refurbished MacBook Neos with a $100 discount",
+      "url": "https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale",
+      "source": "The Verge",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-05T16:59:23.000Z",
+      "summary": "Apple’s MacBook Neo comes in four different colors. | Image: The Verge Apple’s most affordable laptop, the MacBook Neo, is available once again at its pre-price hike price. All four colors are currently discounted and available refurbished through the company, with the base 256GB model listed for $599 (usually $699 new), and the upgraded version with 512GB of storage and TouchID selling for $679 (usually $799). The l"
     },
     {
       "id": "90722fc02593e6eb",
@@ -392,16 +472,6 @@
       "summary": "Foreign Minister Khalilur Rahman has stated that Bangladesh has emerged from the stage of being a ‘dependent state’ or ‘client state’ through the July Mass Uprising. He added that the… The post Bangladesh will never be dependent again: Foreign Minister appeared first on Bangla Online News Portal."
     },
     {
-      "id": "a6b41319b4faee76",
-      "title": "'I feel unsafe', says powerlifter over racism row",
-      "url": "https://www.bbc.co.uk/sport/weightlifting/articles/cvgj7r26r4yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-05T14:32:33.000Z",
-      "summary": "A powerlifter who was disqualified following an alleged racially motivated act has said she \"does not feel safe\" when competing, and says black athletes are frequently booed in competitions."
-    },
-    {
       "id": "2844e715240055b4",
       "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
       "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
@@ -410,16 +480,6 @@
       "region": "global",
       "publishedAt": "2026-08-05T14:04:43.000Z",
       "summary": "Elon Musk told investors that people were \"underestimating\" his company."
-    },
-    {
-      "id": "7400ace406dab91f",
-      "title": "UN rights chief alarmed by rise in Iran executions since March",
-      "url": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-05T14:04:09.000Z",
-      "summary": "Volker Türk says 56 people have been executed on national security-related charges, including 27 in cases linked to January's protests."
     },
     {
       "id": "ba16fa208ec61a6e",
@@ -442,21 +502,11 @@
       "summary": "Paraquat is banned in over 70 countries. Some farmers and their families in Hebron believe the pesticide is causing Parkinson’s disease and are demanding that New York ban it Gordon Chaplin gingerly stepped out of the car at the top of the steep hill behind his farmhouse, sporting a bandage on his hand from a fall the day before. He gripped his cane as he shuffled through the knee-high grass. He stopped every few fee"
     },
     {
-      "id": "c7e6f3a7448dc165",
-      "title": "Waste workers help winner find binned €1m lottery ticket in Italy",
-      "url": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-08-05T12:33:43.000Z",
-      "summary": "The player only realised they binned the life-changing ticket after family told them the numbers he played for years had been drawn."
-    },
-    {
-      "id": "272044077e1b1dae",
-      "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
+      "id": "420c63d9ca8313df",
+      "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
       "url": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
       "region": "global",
       "publishedAt": "2026-08-05T11:19:24.000Z",
       "summary": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions."
@@ -592,16 +642,6 @@
       "summary": "Tech is being used to watch for wildfires but firefighters are still needed to put them out."
     },
     {
-      "id": "c74e6b120dc1dd6c",
-      "title": "The cost of being single – and how friends are teaming up to beat it",
-      "url": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-08-04T23:21:08.000Z",
-      "summary": "Many singles face extra costs for housing, bills, food and holidays but there are ways to ease the burden."
-    },
-    {
       "id": "c5aa8350fa3fb129",
       "title": "Protesters occupy 200-year-old tree at US-Mexico border to stop its destruction: ‘She’s our Statue of Liberty’",
       "url": "https://www.theguardian.com/us-news/2026/aug/04/protesters-occupy-tree-us-mexico-border",
@@ -672,16 +712,6 @@
       "summary": "The UK's biggest solar eclipse since 1999 arrives on 12 August. Here's where to see it safely in the West Country."
     },
     {
-      "id": "83d7e47f91ef62f9",
-      "title": "PM Orders Compilation of Complete Farmers’ List by December",
-      "url": "https://www.bd24live.com/pm-orders-compilation-of-complete-farmers-list-by-december/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-04T11:15:12.000Z",
-      "summary": "Prime Minister Tareque Rahman has instructed the compilation of a complete, accurate, and transparent list of all farmers in the country by next December. He stated that this initiative must… The post PM Orders Compilation of Complete Farmers’ List by December appeared first on Bangla Online News Portal."
-    },
-    {
       "id": "eebedbd7d1bfbc18",
       "title": "Apple issues new challenge against UK order for access to private user data",
       "url": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss",
@@ -712,36 +742,6 @@
       "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge."
     },
     {
-      "id": "bc2009dfcd01f993",
-      "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
-      "url": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-08-03T17:44:01.000Z",
-      "summary": "European Commission president says work needed in five areas of migration control including returning more people The president of the European Commission has called for action to strengthen Europe’s borders after tens of thousands of people arrived and quickly left the Spanish territory of Ceuta, triggering a furious row between Madrid and other European countries. In a letter to Spain’s prime minister, Pedro Sánche"
-    },
-    {
-      "id": "80bbc3de80dcb50f",
-      "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-      "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "europe",
-      "publishedAt": "2026-08-03T16:27:43.000Z",
-      "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output."
-    },
-    {
-      "id": "ce6226834f431589",
-      "title": "Draft of New Law to Prevent Enforced Disappearances Approved, Carries Maximum Penalty of Death",
-      "url": "https://www.bd24live.com/draft-of-new-law-to-prevent-enforced-disappearances-approved-carries-maximum-penalty-of-death/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-03T15:35:17.000Z",
-      "summary": "The Cabinet has given final approval to the draft of the ‘Enforced Disappearance Prevention and Remedy Act, 2026’, which designates the crime of enforced disappearance as a distinct criminal offense,… The post Draft of New Law to Prevent Enforced Disappearances Approved, Carries Maximum Penalty of Death appeared first on Bangla Online News Portal."
-    },
-    {
       "id": "05395918d5438d53",
       "title": "From living roofs to rainwater harvesting: the future of sustainable homes",
       "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/03/future-sustainable-homes",
@@ -750,16 +750,6 @@
       "region": "global",
       "publishedAt": "2026-08-03T14:00:20.000Z",
       "summary": "A new book, Homes for Our Time, by Philip Jodidio, showcases the quiet revolution in green residential architecture Continue reading..."
-    },
-    {
-      "id": "619c20fcb6968c46",
-      "title": "Prime Minister Calls for Establishing Green Economic Zones",
-      "url": "https://www.bd24live.com/prime-minister-calls-for-establishing-green-economic-zones/",
-      "source": "BD24Live",
-      "category": "creativity_arts",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-03T12:40:18.000Z",
-      "summary": "Prime Minister Tareq Rahman has called for the country’s economic zones to be developed as green, modern, and investment-friendly industrial areas, emphasizing environmental conservation alongside industrialization. Concurrently, as part of… The post Prime Minister Calls for Establishing Green Economic Zones appeared first on Bangla Online News Portal."
     },
     {
       "id": "87a28002cdc18a01",
@@ -810,16 +800,6 @@
       "region": "global",
       "publishedAt": "2026-07-31T18:10:28.000Z",
       "summary": "Clement Delangue said he didn't want cyber attacks on other companies to become \"normalised\"."
-    },
-    {
-      "id": "84fea372ab732b3f",
-      "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
-      "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-07-31T01:31:50.000Z",
-      "summary": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?"
     },
     {
       "id": "18db62ca0350dae3",
