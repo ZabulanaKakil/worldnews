@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-08-07T13:20:07.525Z",
+  "generatedAt": "2026-08-07T15:01:35.036Z",
   "articles": [
+    {
+      "id": "6ad4ef3215270b39",
+      "title": "Seven killed after teen shooter opens fire at home and school in Thailand",
+      "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-07T14:44:35.000Z",
+      "summary": "Authorities say the teen killed his grandparents at home before gunning down five teachers at his school."
+    },
     {
       "id": "426241fd397618f6",
       "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
@@ -8,28 +18,158 @@
       "source": "BBC World",
       "category": "war_conflict",
       "region": "middle_east",
-      "publishedAt": "2026-08-07T13:18:33.000Z",
+      "publishedAt": "2026-08-07T14:41:15.000Z",
       "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East."
     },
     {
-      "id": "d0e9178aa937b042",
-      "title": "Saudi Arabia, Turkiye and Pakistan sign joint defence pact",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-turkiye-and-pakistan-sign-joint-defence-pact?traffic_source=rss",
+      "id": "c073b503b2a746b3",
+      "title": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
+      "url": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "world_politics",
       "region": "middle_east",
-      "publishedAt": "2026-08-07T12:44:41.000Z",
-      "summary": "The Saudi crown prince, Turkish president and Pakistani prime minister have signed a joint defence agreement in Mecca."
+      "publishedAt": "2026-08-07T14:22:24.000Z",
+      "summary": "Health Minister Qassem Bahaibah says 14 injured, accuses group of targeting residential areas and displacement camps."
     },
     {
-      "id": "3e8741b123911b30",
-      "title": "A secret invite and other 'pinch-me' moments before Leicester woke up",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy7j72nvzmzo?at_medium=RSS&at_campaign=rss",
+      "id": "a4d9268de2382a63",
+      "title": "Imade",
+      "url": "https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "europe",
+      "publishedAt": "2026-08-07T14:18:53.000Z",
+      "summary": "A young deaf migrant in Spain prepares for an emotional reunion with his family in Morocco after years apart."
+    },
+    {
+      "id": "c96ade5b88b900b8",
+      "title": "Thailand school shooting: eight killed including suspected attacker, police say",
+      "url": "https://www.theguardian.com/world/2026/aug/07/thailand-school-shooting-debsirin-nonthaburi-bangkok",
+      "source": "The Guardian World",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-08-07T14:16:01.000Z",
+      "summary": "Teenager killed his grandparents ⁠before opening fire at school near Bangkok, where more than 30 were wounded A Thai teenager killed his grandparents before opening fire at his school, where he shot five people dead and took his own life, police have said, in an attack that has shaken a country struggling to deal with gun violence. The 14-year-old wounded more than 30 people in the ⁠shooting at the prestigious Debsir"
+    },
+    {
+      "id": "4a8b125f435ad370",
+      "title": "Werewolf transformed my old gadgets into USB-C powered ones",
+      "url": "https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-07T14:05:00.000Z",
+      "summary": "When I haul my 27-inch desktop monitor into the garage to film fun gadget videos… or want to play Japanese SNES games with friends… or lose the AC adapter for my old external hard disk… I can now power them with a USB battery instead. None of them came with USB-C ports; the entire USB protocol was barely a twinkle in its creator's eye when Nintendo shipped the Super Famicom in 1990! But a tiny programmable dongle, fr"
+    },
+    {
+      "id": "cfc8cfe468887f77",
+      "title": "Surprise fall in US jobs last month as slow summer continues",
+      "url": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-07T14:03:55.000Z",
+      "summary": "Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July."
+    },
+    {
+      "id": "24bbe2901503f553",
+      "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
+      "url": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
+      "source": "BleepingComputer",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-07T14:00:10.000Z",
+      "summary": "Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurrency payments. [...]"
+    },
+    {
+      "id": "37fe1f4773159cfd",
+      "title": "Trescothick chat helps Buttler find form for T20 record",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c3v0ed04w2qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
       "region": "global",
-      "publishedAt": "2026-08-07T12:41:51.000Z",
-      "summary": "Leicester are gearing up for League One but 10 years ago they were defending Premier League champions. The dream moments haven't been forgotten."
+      "publishedAt": "2026-08-07T13:49:44.000Z",
+      "summary": "Jos Buttler says a conversation with England batting coach Marcus Trescothick helped him rediscover the form that took his past the all-time T20 run-scoring record."
+    },
+    {
+      "id": "9994cd2286dbf608",
+      "title": "North Carolina Ports confirms cyberattack disrupting operations",
+      "url": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-08-07T13:34:40.000Z",
+      "summary": "The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]"
+    },
+    {
+      "id": "819294c5c91058d3",
+      "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+      "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "environment",
+      "region": "global",
+      "publishedAt": "2026-08-07T13:32:41.000Z",
+      "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump."
+    },
+    {
+      "id": "7961fe7ba38f0096",
+      "title": "Diego Maradona bloated, bedridden and resigned before death, says masseur",
+      "url": "https://www.aljazeera.com/sports/2026/8/7/diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseur?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-08-07T13:30:43.000Z",
+      "summary": "Seven healthcare professionals have been on trial since mid-April in Argentina for possible negligence."
+    },
+    {
+      "id": "7e142f0834001a37",
+      "title": "Turkiye, Saudi Arabia, Pakistan sign joint defence agreement: What’s in it?",
+      "url": "https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-07T13:28:40.000Z",
+      "summary": "Pact will 'reshape security architecture' of the region, experts say."
+    },
+    {
+      "id": "0f777fc69fdae21a",
+      "title": "Why can't the Premier League attract the world's best players?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gw03rqwkwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-07T13:22:20.000Z",
+      "summary": "Vinicius Jr chose to stay at Real Madrid, but why does the Premier League rarely attract global superstars at their peak?"
+    },
+    {
+      "id": "dd1bf36d319fbf6e",
+      "title": "Russia drops record number of glide bombs on Ukraine as casualties pile up",
+      "url": "https://www.aljazeera.com/news/2026/8/7/russia-hits-record-43000-casualties-in-july-as-its-armies-retreat-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-08-07T13:12:52.000Z",
+      "summary": "Moscow's troops suffer high rate of losses as Zelenskyy renews air campaign against Russia."
+    },
+    {
+      "id": "ac5d7980da3e27e8",
+      "title": "Armenian Apostolic Church leader faces trial as feud with PM deepens",
+      "url": "https://www.aljazeera.com/news/2026/8/7/armenian-apostolic-church-leader-faces-trial-as-feud-with-pm-deepens?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-07T13:03:54.000Z",
+      "summary": "Catholicos Karekin II and six other clerics are accused of failing to reinstate a bishop who was defrocked."
+    },
+    {
+      "id": "7b116e1602042ff4",
+      "title": "EA Sports FC 27: what does the next instalment of the world’s biggest football game have in store?",
+      "url": "https://www.theguardian.com/games/2026/aug/07/ea-sports-fc-27-grounds",
+      "source": "The Guardian Culture",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-08-07T13:00:17.000Z",
+      "summary": "The all-conquering franchise’s revamps are technically impressive, its transfers more true to life – and its new grassroots social hub is surprising fun As if the world wasn’t sufficiently football-obsessed, it’s time to prepare for the arrival of its biggest football video game. EA Sports FC 27 (the franchise that used to be Fifa – what better time to no longer be Fifa-branded?) is due to be released on 25 September"
     },
     {
       "id": "04748b0bf0e306b4",
@@ -82,8 +222,8 @@
       "summary": "Manchester City reject £38m offer from Barcelona for Rodri and remain in talks for Lille midfielder Ayyoub Bouaddi."
     },
     {
-      "id": "81783fef914ddfde",
-      "title": "Emotional Guimaraes wanted to join Arsenal - Wilson",
+      "id": "cff54b17d3edd24e",
+      "title": "Emotional Guimaraes wanted to leave - Newcastle chief Wilson",
       "url": "https://www.bbc.co.uk/sport/football/articles/c0m7knennd3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
@@ -112,18 +252,8 @@
       "summary": "\"Our main goal is to empower robots' brains.\" China has launched its first robot school."
     },
     {
-      "id": "c96ade5b88b900b8",
-      "title": "Thailand school shooting: eight killed including suspected attacker, police say",
-      "url": "https://www.theguardian.com/world/2026/aug/07/thailand-school-shooting-debsirin-nonthaburi-bangkok",
-      "source": "The Guardian World",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-07T11:33:02.000Z",
-      "summary": "Teenager killed his grandparents ⁠before opening fire at school near Bangkok, where 22 others were wounded Thailand school shooting – latest updates A Thai teenager killed his grandparents before opening fire at his school, where he shot five people dead and took his own life, police have said, in an attack that has shaken a country struggling to deal with gun violence. Police said the 14-year-old had wounded another"
-    },
-    {
-      "id": "2fffa3b5ba60a342",
-      "title": "Cricket’s Shakib, an Hasina ally, will face trial in Bangladesh if secure",
+      "id": "aa7ad8150607c2df",
+      "title": "Bangladesh cricket’s Shakib, an Hasina ally, will face trial if he is safe",
       "url": "https://www.aljazeera.com/sports/2026/8/7/crickets-shakib-an-hasani-ally-will-face-trial-in-bangladesh-if-secure?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "sports",
@@ -140,46 +270,6 @@
       "region": "global",
       "publishedAt": "2026-08-07T11:26:23.000Z",
       "summary": "Assistant referee Sian Massey‑Ellis announces her retirement from officiating to take up a position with the Football Association."
-    },
-    {
-      "id": "0a744d15f48bcdb7",
-      "title": "Northern Ethiopia’s shifting alliances explained",
-      "url": "https://www.aljazeera.com/news/2026/8/7/northern-ethiopias-shifting-alliances-explained?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "diplomacy",
-      "region": "africa",
-      "publishedAt": "2026-08-07T11:19:01.000Z",
-      "summary": "The TPLF, Fano militias and Eritrea are redrawing the battle lines in Ethiopia’s north."
-    },
-    {
-      "id": "c297adc7df920d02",
-      "title": "Trump says war ‘can’t go much longer’ – what’s the latest on talks?",
-      "url": "https://www.aljazeera.com/news/2026/8/7/trump-says-war-cant-go-much-longer-whats-the-latest-on?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-07T11:15:44.000Z",
-      "summary": "Reports suggest that Tehran is discussing a bill barring US and Israeli vessels from passing the Strait of Hormuz."
-    },
-    {
-      "id": "7e9f14a2be9e4b40",
-      "title": "Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing",
-      "url": "https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-07T11:11:10.000Z",
-      "summary": "Houthis' expansion of cross-border attacks means an even bloodier war may be imminent, analysts say."
-    },
-    {
-      "id": "1e551c92337ea88c",
-      "title": "Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil",
-      "url": "https://www.aljazeera.com/news/2026/8/7/saudi-%e2%81%a0arabia-pakistan-and-turkiye-sign-defence-deal-amid-regional-turmoil?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-07T11:03:07.000Z",
-      "summary": "The agreement states that an ⁠attack on any one of the ⁠three countries is an ⁠attack against them all."
     },
     {
       "id": "a8b29e11924e9f1d",
@@ -212,16 +302,6 @@
       "summary": "Day’s latest album Halo is all high-energy exhaustion, injected with a crushing electroclash chaos that illuminates her insecurities in bright neon From Los Angeles Recommended if you like Slayyyter, Charli xcx, Underscores Up next Halo out now. UK and Ireland tour starts in December Right now popstar breakthrough and burnout are a hair’s breadth from one another. Enter Tiffany Day, a Wichita-raised artist who first "
     },
     {
-      "id": "efe8e070111b4e59",
-      "title": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
-      "url": "https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-07T10:52:34.000Z",
-      "summary": "Tensions between the Houthis and Saudi Arabia have increased since the US-Israel war on Iran began."
-    },
-    {
       "id": "fdbef6ab36fe9cfc",
       "title": "Trying to explain One Night Only&#8217;s tech-enforced sex dystopia",
       "url": "https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech",
@@ -230,26 +310,6 @@
       "region": "global",
       "publishedAt": "2026-08-07T10:30:00.000Z",
       "summary": "From the omnipresent One Night Only trailer, you'd be forgiven for thinking that the movie glosses over its terrifying and absurd premise - in otherwise normal modern New York, single people can only have sex one night a year - to deliver an entirely traditional romantic comedy. I'm here to report that it does not do that. No, the film is very much about life under Sex Purge Law, but where you might expect questions "
-    },
-    {
-      "id": "2342fa72f508a65e",
-      "title": "Sullivan expected to ignore safety advice and attend West Ham game",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c36d8w5g080o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-08-07T10:03:32.000Z",
-      "summary": "David Sullivan is expected to attend Saturday's EFL Cup first-round tie against Portsmouth despite being advised to stay away from home matches at the London Stadium."
-    },
-    {
-      "id": "09d240ca470c1427",
-      "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
-      "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-08-07T09:50:54.000Z",
-      "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump."
     },
     {
       "id": "64516e037c5621f9",
@@ -282,16 +342,6 @@
       "summary": "US president’s complaint industry ‘making too much money’ comes after his policies boosted corporations Donald Trump’s statement that oil companies have made “too much money” from the Iran war has angered environmentalists, who say that his policies were designed to benefit those very corporations. If he really believes his own claims, he should impose a windfall profits tax, advocates say. “Trump’s declaration that "
     },
     {
-      "id": "f6cbbf6f7606a73c",
-      "title": "Pony Island 2 Panda Circus: gallop out of hell in this phantasmagorical follow-up to 2016’s indie hit",
-      "url": "https://www.theguardian.com/games/2026/aug/07/pony-island-2-panda-circus-daniel-mullins-inscryption",
-      "source": "The Guardian Culture",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-08-07T09:00:13.000Z",
-      "summary": "Daniel Mullins explains how he plans to follow up his quirky classic without losing what made it stand out in the first place Glitchy aesthetics. Literally collapsing menu boxes. The game taunting you by “possessing” your Steam friends. Technical tricks of this nature may sound gimmicky in 2026, but they felt excitingly unorthodox a decade ago, when Pony Island came out to critical acclaim. Fans of Daniel Mullins, th"
-    },
-    {
       "id": "c8df4ec63936bf30",
       "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
       "url": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
@@ -322,16 +372,6 @@
       "summary": "Habitats belonging to snakes and rare moths have been destroyed after the wildfires this summer."
     },
     {
-      "id": "8ee8d5796d6de589",
-      "title": "Trump imposes 15% tariff on key chip material to counter China",
-      "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "technology",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-07T01:03:35.000Z",
-      "summary": "The move aims to protect US firms as they face increasing competition from China's chip industry."
-    },
-    {
       "id": "7918a0f90e93372c",
       "title": "Two people convicted in relation to death of French streamer",
       "url": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&at_campaign=rss",
@@ -350,16 +390,6 @@
       "region": "global",
       "publishedAt": "2026-08-07T00:34:14.000Z",
       "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship."
-    },
-    {
-      "id": "57023a86e0dd34d0",
-      "title": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
-      "url": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-08-06T23:55:35.000Z",
-      "summary": "A review of the body formerly charged with reducing government spending has found several issues with its calculations."
     },
     {
       "id": "f603c3186ac5262a",
@@ -460,16 +490,6 @@
       "region": "global",
       "publishedAt": "2026-08-06T18:14:19.000Z",
       "summary": "Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts. [...]"
-    },
-    {
-      "id": "1bbdb2d92b3eb18a",
-      "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
-      "url": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-08-06T18:03:45.000Z",
-      "summary": "Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines. [...]"
     },
     {
       "id": "f6b46846855b2add",
@@ -622,16 +642,6 @@
       "summary": "President hails operation to rescue captives held in dense forests of Kainji Lake national park in north-central region Nigerian security forces have rescued more than 300 abducted people in what the president, Bola Ahmed Tinubu, hailed as the largest single-day hostage recovery in the country’s history. The release was announced on Wednesday after a joint operation, conducted by the military, police and counter-terr"
     },
     {
-      "id": "b88f04797926f4c4",
-      "title": "Owner of bike maker Raleigh files for insolvency",
-      "url": "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-08-06T12:34:42.000Z",
-      "summary": "Accell, based in the Netherlands, has owned the famous bike brand since 2012."
-    },
-    {
       "id": "a4e69bcb88080230",
       "title": "‘The first time I felt art in my nose’: why a  critic missed the point when he called my exhibition meaningless",
       "url": "https://www.theguardian.com/artanddesign/2026/aug/06/the-first-time-i-felt-art-in-my-nose-why-a-critic-missed-the-point-when-he-called-my-exhibition-meaningless",
@@ -780,16 +790,6 @@
       "region": "global",
       "publishedAt": "2026-08-05T14:04:43.000Z",
       "summary": "Elon Musk told investors that people were \"underestimating\" his company."
-    },
-    {
-      "id": "ba16fa208ec61a6e",
-      "title": "Disney agrees deal to let TikTokers use its films and TV shows in videos",
-      "url": "https://www.bbc.co.uk/news/articles/c235ev9knm4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-05T13:06:43.000Z",
-      "summary": "A deal between will allow some creators to use clips from Disney films and TV shows in their videos."
     },
     {
       "id": "17020734e89128a1",
