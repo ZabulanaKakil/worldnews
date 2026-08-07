@@ -1,15 +1,165 @@
 {
-  "generatedAt": "2026-08-07T19:08:32.060Z",
+  "generatedAt": "2026-08-07T21:48:15.236Z",
   "articles": [
     {
-      "id": "3c1a600b610bd1a7",
-      "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
+      "id": "ff985a2527e0c412",
+      "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+      "url": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-08-07T21:32:30.000Z",
+      "summary": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and spoke frankly on his father's declining health."
+    },
+    {
+      "id": "768d95f2a34c0841",
+      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-07T21:19:27.000Z",
+      "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead."
+    },
+    {
+      "id": "7b9c91bd5a64bcf4",
+      "title": "Leeds fight back to beat Wakefield in thriller",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cwyrp5nz7qgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-07T21:14:45.000Z",
+      "summary": "Leeds Rhinos edge a thrilling top-of-the-table clash against Wakefield Trinity 24-22 to move four points clear in Super League."
+    },
+    {
+      "id": "c6d91e70f7310b45",
+      "title": "South Koreans beat the heat with ‘silent disco’ pool party",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-07T21:12:45.000Z",
+      "summary": "South Koreans in Seoul cooled off with a silent disco pool party during a record-breaking heat wave."
+    },
+    {
+      "id": "c8839ef5aae5dccb",
+      "title": "Man City explore Fernandez move - Saturday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0l5x67wl67o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-07T21:07:46.000Z",
+      "summary": "Manchester City explore Enzo Fernandez move, Arsenal could battle Manchester United for Pio Esposito and Liverpool yet to agree Bradley Barcola fee, plus more."
+    },
+    {
+      "id": "aedff8a25b90d07f",
+      "title": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
+      "url": "https://www.bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-08-07T21:05:45.000Z",
+      "summary": "The announcement came comes after fellow bandmate Manon Bannerman went on a hiatus from the ensemble."
+    },
+    {
+      "id": "f1080010121b7164",
+      "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
+      "url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-07T21:02:31.000Z",
+      "summary": "New Israeli attacks reported in southern Lebanon as Beirut offers optimism after the seventh round of discussions."
+    },
+    {
+      "id": "427d2ee174a97f16",
+      "title": "Sunrisers claim second spot and eliminate Phoenix",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cjrvz0q9q0zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-07T21:02:19.000Z",
+      "summary": "Sunrisers Leeds move up to second in The Hundred and eliminate Birmingham Phoenix with a 45-run win at Edgbaston."
+    },
+    {
+      "id": "fe1308078f946109",
+      "title": "Ebola cases top 4,000 in DRC as WHO urges Ervebo vaccine trial",
+      "url": "https://www.aljazeera.com/news/2026/8/7/ebola-cases-top-4000-in-drc-as-who-urges-ervebo-vaccine-trial?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-07T20:41:46.000Z",
+      "summary": "The Bundibugyo epidemic, ​the world's second-largest, has been described as the ⁠fastest-spreading on record."
+    },
+    {
+      "id": "27d3bf01598b6cfc",
+      "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
+      "url": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-08-07T20:40:56.000Z",
+      "summary": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom."
+    },
+    {
+      "id": "8d060f4818c66376",
+      "title": "Can diplomacy end the conflict in Libya?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/7/can-diplomacy-end-the-conflict-in-libya?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-07T20:39:26.000Z",
+      "summary": "The country has been divided since 2014, with rival governments in the east and west."
+    },
+    {
+      "id": "a425eb0a786d193f",
+      "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
       "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world_politics",
       "region": "europe",
-      "publishedAt": "2026-08-07T18:56:33.000Z",
-      "summary": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week."
+      "publishedAt": "2026-08-07T20:33:23.000Z",
+      "summary": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta."
+    },
+    {
+      "id": "a5da20a98dafc894",
+      "title": "US appeals court upholds injunction pausing Trump’s White House ballroom",
+      "url": "https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-07T20:27:56.000Z",
+      "summary": "The two-judge majority underscored that the president needed congressional authority to move forward with his plans."
+    },
+    {
+      "id": "f12607c55de8c04b",
+      "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-08-07T20:14:46.000Z",
+      "summary": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]"
+    },
+    {
+      "id": "8a29c017bcbf9e41",
+      "title": "Contaminated water putting Gaza families at risk",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-07T19:47:42.000Z",
+      "summary": "Gaza’s damaged water infrastructure is leaving families struggling to access safe drinking water."
+    },
+    {
+      "id": "b08b953d6e75f84c",
+      "title": "DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process",
+      "url": "https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-08-07T19:21:01.000Z",
+      "summary": "ICRC facilitates first known transfer of detainees between Congolese government and M23 rebels in North Kivu."
     },
     {
       "id": "8eaa27b0c60a9140",
@@ -132,16 +282,6 @@
       "summary": "Katarzyna Niewiadoma-Phinney produces a thrilling solo ride to the summit of Mont Ventoux to claim her first Tour de France Femmes stage win and the overall race lead."
     },
     {
-      "id": "fcbadab112d21bfb",
-      "title": "Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested",
-      "url": "https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-08-07T17:07:29.000Z",
-      "summary": "Authorities say they broke up one of the largest criminal networks running migrant smuggling in Western Mediterranean."
-    },
-    {
       "id": "d41e078e452b0422",
       "title": "'Critically important' summit called on future of Scottish football",
       "url": "https://www.bbc.co.uk/sport/football/articles/cglj813z9rro?at_medium=RSS&at_campaign=rss",
@@ -152,26 +292,6 @@
       "summary": "The Scottish Football Association is to hold a \"critically important\" summit around the future of the national game."
     },
     {
-      "id": "050f032a471d6908",
-      "title": "Sunrisers knock out three sides with win over Phoenix",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cwylw8w8zg3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-07T16:56:10.000Z",
-      "summary": "Sunrisers Leeds put three sides out of contention for the Hundred's knock-out stage with a comprehensive nine-wicket win over Birmingham Phoenix at Edgbaston."
-    },
-    {
-      "id": "94b15d91e287a3d4",
-      "title": "Hun Manet is refining Cambodia’s authoritarian model",
-      "url": "https://www.aljazeera.com/opinions/2026/8/7/hun-manet-is-refining-cambodias-authoritarian-model?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-07T16:47:33.000Z",
-      "summary": "The PM has made repression less visible and more sophisticated, strengthening the authoritarian system he inherited."
-    },
-    {
       "id": "fe379487a999977a",
       "title": "What&#8217;s behind the Google AI shake-up",
       "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
@@ -180,36 +300,6 @@
       "region": "global",
       "publishedAt": "2026-08-07T16:45:14.000Z",
       "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in turmoil? Is it about Demis Hassabis wanting something more interesting to work on than virtual assistants? Or is there something"
-    },
-    {
-      "id": "c5adf26a66418c4c",
-      "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-07T16:42:35.000Z",
-      "summary": "Saudi Arabia, Turkiye and Pakistan have signed a trilateral defence pact in Mecca aimed at deterring aggression."
-    },
-    {
-      "id": "6a9333ca6cb10a26",
-      "title": "US labour market sheds jobs in July as labour force participation slumps",
-      "url": "https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-07T16:25:35.000Z",
-      "summary": "US labour market loses 23,000 jobs in July as education, government and retail sectors record significant declines."
-    },
-    {
-      "id": "eeca3b59a24bd3bd",
-      "title": "Saudi Arabia, Pakistan, Turkiye defence pact challenges US role",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-pakistan-turkiye-defence-pact-challenges-us-role?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-07T16:23:33.000Z",
-      "summary": "Defence analyst Alex Alfirraz Scheers says the Saudi Arabia-Pakistan-Turkiye defence agreement signals a realignment"
     },
     {
       "id": "7ddf7eb7fd34c894",
@@ -242,16 +332,6 @@
       "summary": "The incident raised questions about how a disrupted power supply can have such a widespread impact."
     },
     {
-      "id": "fd21f8340fe277d4",
-      "title": "Italy vows to maintain border checks despite Spain’s countermeasures threat",
-      "url": "https://www.aljazeera.com/news/2026/8/7/italy-vows-to-maintain-border-checks-despite-spains-countermeasures-threat?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-08-07T16:10:51.000Z",
-      "summary": "Madrid warns of 'proportional measures' if Rome does not put an end to checks amid fallout from Ceuta migrant crisis."
-    },
-    {
       "id": "eee1364dc2409994",
       "title": "Monsters of God review – a messy feud between rival reptile smugglers gets the Tiger King treatment",
       "url": "https://www.theguardian.com/tv-and-radio/2026/aug/07/monsters-of-god-review-hbo-max-documentary-reptile-smugglers",
@@ -260,16 +340,6 @@
       "region": "global",
       "publishedAt": "2026-08-07T16:00:21.000Z",
       "summary": "Director Eric Goode has found two enemies to rival Joe Exotic and Carole Baskin in his new documentary about the animal trade’s underworld Through the fear and general miasma of the Covid pandemic, TV brought people together like never before. Among the most-watched series of 2020 was of course Tiger King, Netflix’s hit about an improbably twisty feud between a gay, polyamorous big-cat breeder and convicted felon, an"
-    },
-    {
-      "id": "5b65b307cde30d2a",
-      "title": "Seven killed after Thai student opens fire at home and school",
-      "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-07T15:51:16.000Z",
-      "summary": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school."
     },
     {
       "id": "3e40200687061a8f",
@@ -302,24 +372,14 @@
       "summary": "Put 12 August in the diary for some of the best astronomical events of the year."
     },
     {
-      "id": "1e6f1b3b1571eb05",
-      "title": "Samsung’s Z Fold 8 Ultra is more of the same, but better than ever",
-      "url": "https://www.theverge.com/tech/976551/samsung-galaxy-z-fold-8-ultra-review",
-      "source": "The Verge",
-      "category": "technology",
+      "id": "ff9f23c1a11852ec",
+      "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
+      "url": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
       "region": "global",
-      "publishedAt": "2026-08-07T14:48:38.000Z",
-      "summary": "The Z Fold 8 Ultra retains the boxy shape of Samsung’s previous foldables. What makes the Samsung Galaxy Z Fold 8 Ultra so Ultra? Samsung's first foldable with the Ultra name isn't a souped-up version of the regular Fold 8, as you might expect. Where the Z Fold 8 is squat and wide, the Fold 8 Ultra retains the thin outer screen and square inner panel of the previous Folds. It does have a substantially better triple r"
-    },
-    {
-      "id": "a4d9268de2382a63",
-      "title": "Imade",
-      "url": "https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "europe",
-      "publishedAt": "2026-08-07T14:18:53.000Z",
-      "summary": "A young deaf migrant in Spain prepares for an emotional reunion with his family in Morocco after years apart."
+      "publishedAt": "2026-08-07T14:20:27.000Z",
+      "summary": "The student says she feared never seeing her mother again after the attack killed five teachers."
     },
     {
       "id": "c96ade5b88b900b8",
@@ -350,16 +410,6 @@
       "region": "global",
       "publishedAt": "2026-08-07T14:00:10.000Z",
       "summary": "Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurrency payments. [...]"
-    },
-    {
-      "id": "9994cd2286dbf608",
-      "title": "North Carolina Ports confirms cyberattack disrupting operations",
-      "url": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-08-07T13:34:40.000Z",
-      "summary": "The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]"
     },
     {
       "id": "819294c5c91058d3",
@@ -400,16 +450,6 @@
       "region": "global",
       "publishedAt": "2026-08-07T12:20:52.000Z",
       "summary": "Manchester City reject £38m offer from Barcelona for Rodri and remain in talks for Lille midfielder Ayyoub Bouaddi."
-    },
-    {
-      "id": "2c5277457bfeed00",
-      "title": "Price fight now likely to be held in 2027 - Shields",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/cpvw7rkgkrjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-07T12:19:36.000Z",
-      "summary": "Pound-for-pound star Claressa Shields says a fight with Wales' Lauren Price is now likely to take place in 2027."
     },
     {
       "id": "cff54b17d3edd24e",
@@ -482,6 +522,16 @@
       "summary": "US president’s complaint industry ‘making too much money’ comes after his policies boosted corporations Donald Trump’s statement that oil companies have made “too much money” from the Iran war has angered environmentalists, who say that his policies were designed to benefit those very corporations. If he really believes his own claims, he should impose a windfall profits tax, advocates say. “Trump’s declaration that "
     },
     {
+      "id": "f6cbbf6f7606a73c",
+      "title": "Pony Island 2 Panda Circus: gallop out of hell in this phantasmagorical follow-up to 2016’s indie hit",
+      "url": "https://www.theguardian.com/games/2026/aug/07/pony-island-2-panda-circus-daniel-mullins-inscryption",
+      "source": "The Guardian Culture",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-08-07T09:00:13.000Z",
+      "summary": "Daniel Mullins explains how he plans to follow up his quirky classic without losing what made it stand out in the first place Glitchy aesthetics. Literally collapsing menu boxes. The game taunting you by “possessing” your Steam friends. Technical tricks of this nature may sound gimmicky in 2026, but they felt excitingly unorthodox a decade ago, when Pony Island came out to critical acclaim. Fans of Daniel Mullins, th"
+    },
+    {
       "id": "c8df4ec63936bf30",
       "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
       "url": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
@@ -492,16 +542,6 @@
       "summary": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand."
     },
     {
-      "id": "207c3e8e9e89578b",
-      "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
-      "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "weather_climate",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-07T05:44:29.000Z",
-      "summary": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C."
-    },
-    {
       "id": "39defe2061e76ea2",
       "title": "Wildfire damage could take hundreds of years to recover from, experts say",
       "url": "https://www.bbc.co.uk/news/articles/c0qvp00x707o?at_medium=RSS&at_campaign=rss",
@@ -510,16 +550,6 @@
       "region": "global",
       "publishedAt": "2026-08-07T05:15:56.000Z",
       "summary": "Habitats belonging to snakes and rare moths have been destroyed after the wildfires this summer."
-    },
-    {
-      "id": "f9d88b6a17671586",
-      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-      "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-07T00:34:14.000Z",
-      "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship."
     },
     {
       "id": "f603c3186ac5262a",
@@ -552,16 +582,6 @@
       "summary": "The bald eagle, who has gained worldwide fame as the protagonist of a nest live-stream in California, has been diagnosed with anaemia."
     },
     {
-      "id": "f4643baaa792535a",
-      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-06T18:53:51.000Z",
-      "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons."
-    },
-    {
       "id": "dc71704a07f0b7be",
       "title": "Trump administration to pay German firm $1.22bn to cut offshore wind leases",
       "url": "https://www.theguardian.com/us-news/2026/aug/06/rwe-deal-wind-leases",
@@ -570,16 +590,6 @@
       "region": "global",
       "publishedAt": "2026-08-06T18:20:49.000Z",
       "summary": "Agreement with RWE is fifth deal Trump team has made with energy companies, offering payouts to give up projects The German energy company RWE has reached a $1.22bn deal with the US government to relinquish its offshore wind leases and instead redirect funds towards fossil fuel investments. The agreement marks the fifth deal the Donald Trump administration has struck with energy companies, offering payouts in exchang"
-    },
-    {
-      "id": "a15a8b97448e562f",
-      "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
-      "url": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-08-06T17:36:07.000Z",
-      "summary": "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco."
     },
     {
       "id": "12d57fa016b467ee",
@@ -692,16 +702,6 @@
       "summary": "After the successful completion of the pilot program, the government will officially inaugurate the Family Card program on August 16. The plan is to bring 16 million families across the… The post Family Card Inauguration on August 16, 16 Million Families to Benefit in Four Years appeared first on Bangla Online News Portal."
     },
     {
-      "id": "df4b3908a8d19dcb",
-      "title": "‘Mamma mia!’: Trump tariffs refund ignites 53% profit spike at Nintendo",
-      "url": "https://www.theguardian.com/games/2026/aug/06/trump-tariffs-refund-fuels-profit-spike-nintendo",
-      "source": "The Guardian World",
-      "category": "creativity_arts",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-06T11:11:46.000Z",
-      "summary": "Profit jump fuelled largely by unknown US refund amount as Japanese video game firm records quarterly sales drop Nintendo has reported a jump in profits, as the Japanese game maker’s earnings were buoyed up by a long-awaited refund on Donald Trump’s tariffs. The company said profits surged 53.5% to ¥147.4bn (£694m) over the three months to June, substantially beating expert forecasts for ¥77.8bn. Continue reading..."
-    },
-    {
       "id": "b3294740a01e66c5",
       "title": "We need a wartime mindset to fight the threat of wildfires | Seth Klein",
       "url": "https://www.theguardian.com/commentisfree/2026/aug/06/wildfires-europe-world-war-two",
@@ -760,6 +760,16 @@
       "region": "asia_pacific",
       "publishedAt": "2026-08-05T22:16:20.000Z",
       "summary": "The 20-year-old’s third calf is being monitored by officials as survival rates for the species are challenging, the zoo said The Toronto Zoo has announced the birth of a female pygmy hippo calf. Kindia, the zoo’s 20-year-old pygmy hippo, started showing signs of labor at around 8.15am last Sunday, it said. Around four hours later, the calf’s feet emerged and after 1.5 hours of active labor, Kindia successfully gave b"
+    },
+    {
+      "id": "8f74039d5c8b0db7",
+      "title": "AI or real? BBC analyses viral China disaster videos",
+      "url": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "weather_climate",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-05T22:00:32.000Z",
+      "summary": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China."
     },
     {
       "id": "392473cf357c7c40",
@@ -830,16 +840,6 @@
       "region": "global",
       "publishedAt": "2026-08-05T13:00:19.000Z",
       "summary": "Paraquat is banned in over 70 countries. Some farmers and their families in Hebron believe the pesticide is causing Parkinson’s disease and are demanding that New York ban it Gordon Chaplin gingerly stepped out of the car at the top of the steep hill behind his farmhouse, sporting a bandage on his hand from a fall the day before. He gripped his cane as he shuffled through the knee-high grass. He stopped every few fee"
-    },
-    {
-      "id": "0bec72b5b6ab941c",
-      "title": "Peruvian cardinal hails $150m lead poisoning settlement for 1,300 people as a ‘historic milestone’",
-      "url": "https://www.theguardian.com/global-development/2026/aug/05/peruvian-cardinal-historic-milestone-150m-lead-poisoning-settlement-1300-children",
-      "source": "The Guardian World",
-      "category": "diplomacy",
-      "region": "global",
-      "publishedAt": "2026-08-05T10:40:03.000Z",
-      "summary": "Cardinal Pedro Barreto received death threats and harassment during his almost 20-year campaign against a US mining company’s operations in the Andes A Peruvian cardinal who received a barrage of death threats when he challenged the firm behind a toxic smelter has called a $150m (£111m) out-of-court settlement to more than 1,000 people who were allegedly poisoned by the plant as children “a historic milestone”. Cardi"
     },
     {
       "id": "69a895172d4ff6c8",
