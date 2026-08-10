@@ -1,15 +1,245 @@
 {
-  "generatedAt": "2026-08-10T06:15:54.099Z",
+  "generatedAt": "2026-08-10T10:24:39.278Z",
   "articles": [
+    {
+      "id": "fea28a3b36c169f9",
+      "title": "Lorry turns over as typhoon hits China",
+      "url": "https://www.bbc.co.uk/news/videos/cgmklm40k9go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-10T10:13:18.000Z",
+      "summary": "Video shows a lorry being blown over after heavy rain and winds continued to batter Wenzhou, a city in China's eastern Zhejiang province."
+    },
+    {
+      "id": "bfc064fd86e700cd",
+      "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-08-10T10:03:58.000Z",
+      "summary": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine."
+    },
+    {
+      "id": "df4769e8a9a82760",
+      "title": "‘Shoved the tube so hard it tore my nose’: Kurdish film-maker recounts ‘inhumane’ ICE force-feeding",
+      "url": "https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli",
+      "source": "The Guardian World",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-08-10T10:00:43.000Z",
+      "summary": "Gabar Choli tells of how, for months, he was shackled, pinned and forcibly fed – and the physical and emotional scars the ordeal has left In June 2025, a sluggish and thin Gabar Choli, with sunken temples and bones visible under his skin, braced himself for the immigration detention center guards to charge into his cell once again. Choli was in a solitary confinement medical cell inside the Port Isabel service proces"
+    },
+    {
+      "id": "5e92faadf4e77d73",
+      "title": "Former Thai MP allegedly kills official and confesses on YouTube",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-10T09:51:07.000Z",
+      "summary": "Chalong Riewrang called a YouTube livestream to say he had shot a government official."
+    },
+    {
+      "id": "b437f71532bc3482",
+      "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "americas",
+      "publishedAt": "2026-08-10T09:49:37.000Z",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability. [...]"
+    },
+    {
+      "id": "f294197fea4a3a22",
+      "title": "Tropical Storm Dolphin batters eastern China with heavy rain, strong winds",
+      "url": "https://www.aljazeera.com/news/2026/8/10/tropical-storm-dolphin-batters-eastern-china-with-heavy-rain-strong-winds?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "weather_climate",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-10T09:35:55.000Z",
+      "summary": "Dolphin is forecast to move deeper inland to the central provinces of Hubei and Henan in ⁠the coming days."
+    },
+    {
+      "id": "01dcae3fb4594e87",
+      "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-10T09:33:25.000Z",
+      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai."
+    },
+    {
+      "id": "e54880b305d43359",
+      "title": "Weather tracker: Europe breaks more heat records as temperatures soar",
+      "url": "https://www.theguardian.com/environment/2026/aug/10/weather-tracker-europe-break-heat-records-temperatures-drought-wildfires",
+      "source": "The Guardian World",
+      "category": "weather_climate",
+      "region": "europe",
+      "publishedAt": "2026-08-10T09:32:54.000Z",
+      "summary": "Drought and wildfires intensify across continent, while tropical storms bring heavy rain and disruption to east Asia Europe live – latest updates High pressure has dominated central and eastern Europe in early August, breaking temperature records across the region. Austria recorded a high of 41.2C (106.2F), while Slovakia reached 42.2C. Hungary hit a peak of 41.8C, surpassing a record set in 1905, while overnight tem"
+    },
+    {
+      "id": "cf8a3b2676611be6",
+      "title": "Osaka, Gauff race into Canadian Open quarters as Rybakina survives scare",
+      "url": "https://www.aljazeera.com/sports/2026/8/10/osaka-gauff-race-into-canadian-open-quarters-as-rybakina-survives-scare?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-08-10T09:25:13.000Z",
+      "summary": "World No. 2 Elena Rybakina rallies to beat unseeded Liudmila Samsonova while stars Naomi Osaka, Coco Gauff progress."
+    },
+    {
+      "id": "c84b73d8d3a95571",
+      "title": "Anguished locals watch as Israel demolishes homes in southern Lebanon",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anguished-locals-watch-as-israel-demolishes-homes-in-southern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-10T09:20:12.000Z",
+      "summary": "Anguished locals watch as Israel demolishes homes in southern Lebanon"
+    },
+    {
+      "id": "0f917eaf5c128cf6",
+      "title": "‘Like the movies’: How Ukraine’s ground robots are changing rules of war",
+      "url": "https://www.aljazeera.com/news/2026/8/10/like-the-movies-how-ukraines-ground-robots-are-changing-rules-of-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-08-10T09:09:08.000Z",
+      "summary": "They carry ammunition, can conduct kamikaze missions and have shown they can capture enemy positions."
+    },
+    {
+      "id": "539a71e69bb5b9ad",
+      "title": "AI for science needs reasoning, not just data",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "source": "MIT Tech Review",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-08-10T09:00:00.000Z",
+      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the…"
+    },
+    {
+      "id": "9f4dac32bb43653f",
+      "title": "Infantino broke trust 'through deception' - confederation presidents",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c78gl599jn4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-10T08:46:54.000Z",
+      "summary": "Fifa has been accused of breaking trust \"through deception\" in an open letter issued by Uefa, Concacaf and the Asian Football Confederation."
+    },
+    {
+      "id": "e5717e8fe35edb98",
+      "title": "China evacuates a million from homes as Typhoon Dolphin arrives",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/china-evacuates-a-million-from-homes-as-typhoon-dolphin-arrives?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-10T08:44:34.000Z",
+      "summary": "China evacuates a million from homes as Typhoon Dolphin arrives"
+    },
+    {
+      "id": "6c522b9bb6e6127f",
+      "title": "Nigeria eliminated as Cameroon, Malawi reach WAFCON semis and World Cup",
+      "url": "https://www.aljazeera.com/sports/2026/8/10/nigeria-eliminated-as-cameroon-malawi-reach-wafcon-semis-and-world-cup?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "africa",
+      "publishedAt": "2026-08-10T08:39:25.000Z",
+      "summary": "Outsiders Malawi qualify for their first FIFA World Cup, while defending champions Nigeria are eliminated by Cameroon."
+    },
+    {
+      "id": "25f1ac73f7b4562d",
+      "title": "Indian High Commissioner Meets Prime Minister to Strengthen Bangladesh-India Ties",
+      "url": "https://www.bd24live.com/indian-high-commissioner-meets-prime-minister-to-strengthen-bangladesh-india-ties/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-10T08:05:15.000Z",
+      "summary": "Indian High Commissioner to Dhaka, Dinesh Trivedi, met with Prime Minister Tarique Rahman to further strengthen Bangladesh-India bilateral relations. During the meeting, discussions were held on economic cooperation between the… The post Indian High Commissioner Meets Prime Minister to Strengthen Bangladesh-India Ties appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "013d27f0db6e8f5e",
+      "title": "Pakistan-administered Kashmir votes in reduced third phase amid unrest",
+      "url": "https://www.aljazeera.com/news/2026/8/10/pakistan-administered-kashmir-votes-in-reduced-third-phase-amid-unrest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-10T08:05:05.000Z",
+      "summary": "Voting postponed in seven of 11 Poonch division constituencies as boycott calls and violence mar the region's elections."
+    },
+    {
+      "id": "5748f1a43f789b55",
+      "title": "North Korea’s hackers using AI for attacks, cybersecurity firm says",
+      "url": "https://www.aljazeera.com/economy/2026/8/10/north-koreas-hackers-using-ai-for-attacks-cybersecurity-firm-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "cybersecurity",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-10T07:59:04.000Z",
+      "summary": "Hacking group Kimsuky using AI-generated documents in spear-phishing attacks, South Korean cybersecurity firm says."
+    },
+    {
+      "id": "94c44397f02fbec6",
+      "title": "Brazilian player falls down tunnel during goal celebration",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd9wg9x3n55o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "americas",
+      "publishedAt": "2026-08-10T07:46:33.000Z",
+      "summary": "Brazilian player Jacy says he got \"carried away\" after he ended up falling down a hold in his goal celebration in Coritib's 2-1 win against Chapecoense."
+    },
     {
       "id": "ff0c68a27cacef0f",
       "title": "China evacuates one million from homes as massive storm arrives",
       "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
+      "source": "BBC World",
       "category": "weather_climate",
       "region": "asia_pacific",
-      "publishedAt": "2026-08-10T06:15:13.000Z",
+      "publishedAt": "2026-08-10T07:23:54.000Z",
       "summary": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai."
+    },
+    {
+      "id": "dae7d342420d6537",
+      "title": "Solar eclipse tracker: What time will it hit your location on August 12?",
+      "url": "https://www.aljazeera.com/news/2026/8/10/solar-eclipse-tracker-what-time-will-it-hit-your-location-on-august-12?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-08-10T07:10:32.000Z",
+      "summary": "On August 12, nearly one billion people could see a partial solar eclipse, with 15 million in its path of totality."
+    },
+    {
+      "id": "43c7d7765ffd9b06",
+      "title": "The team behind Hodgkinson's golden rise and the hunt for a world record",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cjwp3nnlgqpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-08-10T07:00:24.000Z",
+      "summary": "BBC Sport looks at the team behind Great Britain 800m star Keely Hodgkinson's golden rise and pursuit of a world record."
+    },
+    {
+      "id": "589ebc095d8f5529",
+      "title": "“Why Are You Calling It Bad? It’s a Beautiful Result”: Education Minister",
+      "url": "https://www.bd24live.com/why-are-you-calling-it-bad-its-a-beautiful-result-education-minister/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-10T06:35:13.000Z",
+      "summary": "Despite a decrease in both the pass rate and the number of GPA-5 recipients in this year’s SSC and equivalent examinations, Education Minister Dr. ANM Ehsanul Haque Milon has described… The post “Why Are You Calling It Bad? It’s a Beautiful Result”: Education Minister appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "0126acc722c63275",
+      "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
+      "url": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-10T05:16:40.000Z",
+      "summary": "Forensics revealed that the 'realistic' looking body was in fact not human."
     },
     {
       "id": "4fa8890dafdf7800",
@@ -32,16 +262,6 @@
       "summary": "Authorities warn that days of intense rain could trigger widespread flooding and landslides as storm moves north and further inland More than a million people were moved to safety across eastern China by Sunday evening as powerful Typhoon Dolphin made landfall amid fears torrential rain would cause flooding and landslides. Wenzhou, a coastal city in Zhejiang province, said it relocated more than 900,000 people and op"
     },
     {
-      "id": "8819d900ad65cd68",
-      "title": "Wildfires bear down on homes in Canada’s Okanagan region",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/wildfires-bear-down-on-homes-in-canadas-okanagan-region?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "disasters",
-      "region": "americas",
-      "publishedAt": "2026-08-10T04:49:42.000Z",
-      "summary": "A fast-moving wildfire in Canada’s British Columbia province has forced thousands of people from their homes."
-    },
-    {
       "id": "027f5fc3ab5b50b5",
       "title": "SSC and Equivalent Exam Results Published, Pass Rate 62.25 Percent",
       "url": "https://www.bd24live.com/ssc-and-equivalent-exam-results-published-pass-rate-62-25-percent/",
@@ -52,36 +272,6 @@
       "summary": "The results of this year’s SSC and equivalent examinations have been published. This year, the overall pass rate nationwide is 62.25 percent. The results were officially released on Monday (August… The post SSC and Equivalent Exam Results Published, Pass Rate 62.25 Percent appeared first on Bangla Online News Portal."
     },
     {
-      "id": "de0f71e2c7145eda",
-      "title": "Trump names Will Scharf as White House counsel ahead of midterms",
-      "url": "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-10T04:00:21.000Z",
-      "summary": "Trump has named White House Staff Secretary Will Scharf as White House counsel, starting from September 1."
-    },
-    {
-      "id": "9b63ec768c0b602b",
-      "title": "Brazilian player falls into tunnel celebrating goal",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/brazilian-player-falls-into-tunnel-celebrating-goal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-08-10T03:51:00.000Z",
-      "summary": "Footage shows Brazilian player Jacy Maranhão falling into the players’ tunnel after jumping over advertising boards."
-    },
-    {
-      "id": "aefc69a2f7ee2f36",
-      "title": "Trump signals shift to economic pressure on Iran over new military strikes",
-      "url": "https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-08-10T03:48:19.000Z",
-      "summary": "US relying on sanctions and naval blockade as oil prices stabilise, easing economic strain on American consumers."
-    },
-    {
       "id": "63302c3caf25561e",
       "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
       "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
@@ -90,36 +280,6 @@
       "region": "americas",
       "publishedAt": "2026-08-10T03:33:51.000Z",
       "summary": "One person has died in the Bald Range wildfire in British Columbia which has spread over 53 sq miles."
-    },
-    {
-      "id": "848eaa7b0c396901",
-      "title": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz",
-      "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-10T03:24:38.000Z",
-      "summary": "Brent crude prices rise as Tehran says critical waterway will not reopen without major US concessions."
-    },
-    {
-      "id": "4144d7e01413ce5c",
-      "title": "Hong Kong records hottest day ever as Typhoon Dolphin fuels heatwave",
-      "url": "https://www.theguardian.com/world/2026/aug/10/hong-kong-heat-record-hottest-day-ever-typhoon-dolphin",
-      "source": "The Guardian World",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-08-10T01:24:13.000Z",
-      "summary": "Observatory says 36.9C posted on Sunday is city’s highest official temperature since its records began 142 years ago, with storm driving intense heat in region Hong Kong has officially recorded its highest ever temperature as Typhoon Dolphin swept warm air over the city, the meteorological service said. The city’s weather observatory posted a temperature of 36.9C on Sunday, the highest recorded since records began in"
-    },
-    {
-      "id": "9d9660202c2d9255",
-      "title": "Could Morocco’s football chief Fouzi Lekjaa become its next prime minister?",
-      "url": "https://www.aljazeera.com/news/2026/8/10/could-moroccos-football-chief-fouzi-lekjaa-become-its-next-prime-minister?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "africa",
-      "publishedAt": "2026-08-10T00:51:19.000Z",
-      "summary": "Lekjaa’s decision to join a political party has fuelled speculation about his political ambitions."
     },
     {
       "id": "d9e117a93c332dd5",
@@ -182,26 +342,6 @@
       "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed."
     },
     {
-      "id": "02e6c646cb511957",
-      "title": "Villa interested in Endrick loan - Monday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2klxw043xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-09T21:04:49.000Z",
-      "summary": "Aston Villa interested in Endrick loan, Harry Kane expected to extend Bayern Munich deal and Arsenal make Bradley Barcola contact, plus more."
-    },
-    {
-      "id": "05c83f212dda9a4c",
-      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-09T20:58:18.000Z",
-      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai."
-    },
-    {
       "id": "bc8a3f373a1d01af",
       "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
       "url": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
@@ -212,18 +352,8 @@
       "summary": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday."
     },
     {
-      "id": "bcdb5f0a72697980",
-      "title": "'Celtic fans are going to fall in love with him' - Hogh makes his mark",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cevm77lg27yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-09T19:43:56.000Z",
-      "summary": "Kasper Hogh earns rave reviews after his first goals - and first hat-trick - for Celtic in Saturday's 5-1 thrashing of Kilmarnock."
-    },
-    {
-      "id": "176213ee88621912",
-      "title": "Bonding & building - what we learned about Alonso's Chelsea in pre-season",
+      "id": "bec3c140017796d0",
+      "title": "Mudryk's emotional return and 'leader' Palmer - inside Chelsea's pre-season",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5y62r3x213o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
@@ -232,14 +362,14 @@
       "summary": "Chelsea's pre-season campaign was all about new manager Xabi Alonso, so what have we learned about his side?"
     },
     {
-      "id": "4e4b3366984315c0",
-      "title": "Defiant Hodgkinson says home European title would mean as much as Olympic gold",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/c5y3djlk7jdo?at_medium=RSS&at_campaign=rss",
+      "id": "91b4f24ee541bbf6",
+      "title": "Hull lets late lead slip as Huang, 17, wins again",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cy8el1jzn62o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
       "region": "europe",
-      "publishedAt": "2026-08-09T19:00:32.000Z",
-      "summary": "Keely Hodgkinson will seek to prove she is still number one following a \"tricky\" outdoor season when she faces world-class rivals for European 800m gold in Birmingham."
+      "publishedAt": "2026-08-09T19:22:44.000Z",
+      "summary": "England's Charley Hull lets slip a one-shot lead with two holes to play at the PIF London Championship as 17-year-old Anna Huang wins her fourth event on the Ladies' European Tour."
     },
     {
       "id": "2b8432ac20ac5b69",
@@ -289,17 +419,7 @@
       "category": "economy_business",
       "region": "global",
       "publishedAt": "2026-08-09T17:20:30.000Z",
-      "summary": "Mark Zuckerberg's yacht \"The Launchpad\" | Image: Sylvain Lefevre / Getty Images Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping News, the closest vessel was actually Mark Zuckerberg's super yacht, Launchpad. Michael Love, a passenger on the Wildern"
-    },
-    {
-      "id": "28d201a46311f857",
-      "title": "Puerto Rico rations water supplies due to intense drought",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "weather_climate",
-      "region": "americas",
-      "publishedAt": "2026-08-09T16:43:23.000Z",
-      "summary": "Hot weather and ageing infrastructure have led to the rationing, affecting hundreds of thousands of people."
+      "summary": "Mark Zuckerberg's yacht \"The Launchpad.\" | Image: Sylvain Lefevre / Getty Images Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping News, the closest vessel was actually Mark Zuckerberg's super yacht, Launchpad. Michael Love, a passenger on the Wilder"
     },
     {
       "id": "d23489815c8f0ac0",
@@ -319,7 +439,7 @@
       "category": "technology",
       "region": "global",
       "publishedAt": "2026-08-09T15:56:49.000Z",
-      "summary": "Head Coach Kyle Shanahan of the San Francisco 49ers | Image: Michael Zagaris / San Francisco 49ers / Getty Images Four weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. At the time Shanahan said only that the accident was his fault. But during a recent press conference he shared more details about the incident, including the fact that he had his Tesla's Autopilot "
+      "summary": "Head Coach Kyle Shanahan of the San Francisco 49ers. | Image: Michael Zagaris / San Francisco 49ers / Getty Images Four weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. At the time, Shanahan said only that the accident was his fault. But during a recent press conference, he shared more details about the incident, including the fact that he had his Tesla's Autopil"
     },
     {
       "id": "63ecc1931253ec69",
@@ -402,26 +522,6 @@
       "summary": "Skywatchers are set to witness two major celestial events next week, with a deep partial solar eclipse followed by the peak of the Perseid meteor shower."
     },
     {
-      "id": "5615d57df2460fb9",
-      "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
-      "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-09T04:32:06.000Z",
-      "summary": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family."
-    },
-    {
-      "id": "2edc5fa65ee456af",
-      "title": "An unbearable rotting stench is plaguing an LA neighbourhood",
-      "url": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-09T00:15:28.000Z",
-      "summary": "Heaps of rotting meat have been festering in the summer sun after a fire ripped through a huge food warehouse."
-    },
-    {
       "id": "2753a53f42836ebf",
       "title": "Raw images, no filters: Why MySpace fans want it back as relaunch hinted",
       "url": "https://www.bbc.co.uk/news/articles/c4g64152v71o?at_medium=RSS&at_campaign=rss",
@@ -430,16 +530,6 @@
       "region": "global",
       "publishedAt": "2026-08-09T00:04:20.000Z",
       "summary": "Fans and creators say a revived MySpace must feel personal, not algorithm-driven."
-    },
-    {
-      "id": "8a7821b6d92b4523",
-      "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
-      "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-08-08T23:43:44.000Z",
-      "summary": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank."
     },
     {
       "id": "df5cb0b51a90da70",
@@ -502,16 +592,6 @@
       "summary": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]"
     },
     {
-      "id": "d5108ba4d51e8350",
-      "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
-      "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-08-08T13:41:32.000Z",
-      "summary": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?"
-    },
-    {
       "id": "a9567bb5cc01902d",
       "title": "Lionel Messi’s Father Passes Away",
       "url": "https://www.bd24live.com/lionel-messis-father-passes-away/",
@@ -552,16 +632,6 @@
       "summary": "General Dan Caine, Chairman of the Joint Chiefs of Staff, is discussing with top US administration officials to find an ‘off-ramp’ or a way out of the ongoing conflict with… The post Escalating Attacks in Iran Could Increase Risks, US General Warns Trump appeared first on Bangla Online News Portal."
     },
     {
-      "id": "0a5844ebf8484929",
-      "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
-      "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-08T04:08:18.000Z",
-      "summary": "Trump ally Abelardo De La ‌Espriella vows to start ‘profound transformation’ of country’s destiny as he is sworn in The ​Trump administration plans to provide $1bn in security assistance to the ⁠government of Colombia’s new ​rightwing ‌president, the US state department announced, soon after Abelardo De La ‌Espriella was sworn in and used his inaugural speech to pledge a vigorous fight against drug trafficking, as we"
-    },
-    {
       "id": "5fdb48d93ebd1ad5",
       "title": "Spain to introduce temporary border checks on visitors from Italy",
       "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
@@ -570,26 +640,6 @@
       "region": "europe",
       "publishedAt": "2026-08-07T21:44:38.000Z",
       "summary": "Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta Spain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measures after a mass rush of people from Morocco into Ceuta. The checks, which come “amid the persistent irregular migration pressure” facing Italy, will start at midnight on Saturday and last until 7 Sept"
-    },
-    {
-      "id": "f12607c55de8c04b",
-      "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-08-07T20:14:46.000Z",
-      "summary": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]"
-    },
-    {
-      "id": "7020e7be5c2ba0cc",
-      "title": "Hosepipe bans in force as drought declared - is your area affected?",
-      "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-08-07T17:50:13.000Z",
-      "summary": "More than 20 million households have been placed under hosepipe bans due to higher demand and low rainfall."
     },
     {
       "id": "252ab18585d86a43",
@@ -622,16 +672,6 @@
       "summary": "Director Eric Goode has found two enemies to rival Joe Exotic and Carole Baskin in his new documentary about the animal trade’s underworld Through the fear and general miasma of the Covid pandemic, TV brought people together like never before. Among the most-watched series of 2020 was of course Tiger King, Netflix’s hit about an improbably twisty feud between a gay, polyamorous big-cat breeder and convicted felon, an"
     },
     {
-      "id": "3e40200687061a8f",
-      "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-08-07T15:48:20.000Z",
-      "summary": "Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]"
-    },
-    {
       "id": "cfc8cfe468887f77",
       "title": "Surprise fall in US jobs last month as slow summer continues",
       "url": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
@@ -652,16 +692,6 @@
       "summary": "Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurrency payments. [...]"
     },
     {
-      "id": "add82d5d43c7bbc5",
-      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-      "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
-      "source": "MIT Tech Review",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-07T14:00:00.000Z",
-      "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading. For months, Elon Musk’s Department of Government Efficiency had been cutting a wide swath through…"
-    },
-    {
       "id": "819294c5c91058d3",
       "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
       "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
@@ -670,26 +700,6 @@
       "region": "global",
       "publishedAt": "2026-08-07T13:32:41.000Z",
       "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump."
-    },
-    {
-      "id": "27f62c4ce8a48eb6",
-      "title": "India Clarifies Stance on Sheikh Hasina’s Press Conference",
-      "url": "https://www.bd24live.com/india-clarifies-stance-on-sheikh-hasinas-press-conference/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-07T11:50:27.000Z",
-      "summary": "New tensions have emerged between Bangladesh and India following a press conference held by former Prime Minister Sheikh Hasina at a foreign correspondents’ club in India. Following this incident, India’s… The post India Clarifies Stance on Sheikh Hasina’s Press Conference appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "a8b29e11924e9f1d",
-      "title": "“What Hasina? Has Her Face Even Been Seen?”",
-      "url": "https://www.bd24live.com/what-hasina-has-her-face-even-been-seen/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-07T11:00:17.000Z",
-      "summary": "Dismissing the recent statements of former Prime Minister Sheikh Hasina, Home Minister Salahuddin Ahmed remarked, ‘What Hasina? Has her face even been seen? Occasionally, only some noises are heard. They… The post “What Hasina? Has Her Face Even Been Seen?” appeared first on Bangla Online News Portal."
     },
     {
       "id": "64516e037c5621f9",
@@ -730,6 +740,16 @@
       "region": "global",
       "publishedAt": "2026-08-07T05:15:56.000Z",
       "summary": "Habitats belonging to snakes and rare moths have been destroyed after the wildfires this summer."
+    },
+    {
+      "id": "f603c3186ac5262a",
+      "title": "Argos is getting a makeover - but can it attract new shoppers?",
+      "url": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-06T23:03:48.000Z",
+      "summary": "The retailer has been around for 50 years but struggled to compete with newer rivals such as Amazon. Can its new owners turn it around?"
     },
     {
       "id": "b3bb827606385863",
@@ -832,16 +852,6 @@
       "summary": "A deal between will allow some creators to use clips from Disney films and TV shows in their videos."
     },
     {
-      "id": "002b0166c392665d",
-      "title": "The Sims and EA FC maker Electronic Arts sells for $55bn to Saudi-led group",
-      "url": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "creativity_arts",
-      "region": "middle_east",
-      "publishedAt": "2026-08-05T10:29:59.000Z",
-      "summary": "The deal takes the maker of titles including The Sims and EA FC into private ownership - and loads it with debt."
-    },
-    {
       "id": "69a895172d4ff6c8",
       "title": "Anthropic AI used fake profiles to target people in hack then hid the evidence",
       "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
@@ -882,6 +892,16 @@
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s…"
     },
     {
+      "id": "eebedbd7d1bfbc18",
+      "title": "Apple issues new challenge against UK order for access to private user data",
+      "url": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "region": "europe",
+      "publishedAt": "2026-08-04T10:22:40.000Z",
+      "summary": "It is the latest development in the ongoing dispute between Apple and the Home Office over data privacy."
+    },
+    {
       "id": "32adb75e5a252c01",
       "title": "Trump’s AI protectionism has come for robotics",
       "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
@@ -890,16 +910,6 @@
       "region": "global",
       "publishedAt": "2026-08-03T18:43:30.000Z",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots…"
-    },
-    {
-      "id": "838afb41813c38b4",
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "source": "MIT Tech Review",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-08-03T08:30:05.000Z",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers…"
     },
     {
       "id": "0c7c57ee5e25207d",
