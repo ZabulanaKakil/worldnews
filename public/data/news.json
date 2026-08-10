@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-08-09T22:39:10.402Z",
+  "generatedAt": "2026-08-10T02:24:13.933Z",
   "articles": [
+    {
+      "id": "ff0c68a27cacef0f",
+      "title": "China evacuates one million from homes as massive storm arrives",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-10T01:44:05.000Z",
+      "summary": "Typhoon Dolphin made landfall on Sunday evening, affecting Shanghai and other parts of eastern China."
+    },
+    {
+      "id": "69a7a7f756854169",
+      "title": "Alleged Irish crime boss Daniel Kinahan in court after Dubai extradition",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/alleged-irish-crime-boss-daniel-kinahan-in-court-after-dubai-extradition?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-10T01:43:37.000Z",
+      "summary": "Suspected Irish crime boss Daniel Kinahan has appeared before a Dublin court after being extradited from Dubai."
+    },
+    {
+      "id": "bf7f6a9e9323749e",
+      "title": "Houthis launch fresh ballistic missile and drone attacks on al-Makha port",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/houthis-launch-fresh-ballistic-missile-and-drone-attacks-on-al-makha-port?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-10T01:34:26.000Z",
+      "summary": "Iran-backed Houthis have resumed attacks on Yemen’s al-Makha port in the Red Sea."
+    },
+    {
+      "id": "4144d7e01413ce5c",
+      "title": "Hong Kong records hottest day ever as Typhoon Dolphin fuels heatwave",
+      "url": "https://www.theguardian.com/world/2026/aug/10/hong-kong-heat-record-hottest-day-ever-typhoon-dolphin",
+      "source": "The Guardian World",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-08-10T01:24:13.000Z",
+      "summary": "Observatory says 36.9C posted on Sunday is city’s highest official temperature since its records began 142 years ago, with storm driving intense heat in region Hong Kong has officially recorded its highest ever temperature as Typhoon Dolphin swept warm air over the city, the meteorological service said. The city’s weather observatory posted a temperature of 36.9C on Sunday, the highest recorded since records began in"
+    },
+    {
+      "id": "9d9660202c2d9255",
+      "title": "Could Morocco’s football chief Fouzi Lekjaa become its next prime minister?",
+      "url": "https://www.aljazeera.com/news/2026/8/10/could-moroccos-football-chief-fouzi-lekjaa-become-its-next-prime-minister?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "africa",
+      "publishedAt": "2026-08-10T00:51:19.000Z",
+      "summary": "Lekjaa’s decision to join a political party has fuelled speculation about his political ambitions."
+    },
+    {
+      "id": "738f25fe5c5e4bdc",
+      "title": "Houthis renew missile and drone attacks on Yemen’s port of al-Makha",
+      "url": "https://www.aljazeera.com/news/2026/8/10/houthis-renew-missile-and-drone-attacks-on-yemens-port-of-al-makha?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-10T00:19:43.000Z",
+      "summary": "The latest Houthi attacks come less than 24 hours after an earlier barrage struck al-Makha (Mocha) and its commercial port."
+    },
     {
       "id": "63302c3caf25561e",
       "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
@@ -8,8 +68,58 @@
       "source": "BBC World",
       "category": "war_conflict",
       "region": "americas",
-      "publishedAt": "2026-08-09T22:27:53.000Z",
+      "publishedAt": "2026-08-10T00:17:46.000Z",
       "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km)."
+    },
+    {
+      "id": "d9e117a93c332dd5",
+      "title": "You could be missing out on £150 off your energy bill - here's how to check",
+      "url": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "environment",
+      "region": "global",
+      "publishedAt": "2026-08-09T23:47:30.000Z",
+      "summary": "Some people need to ensure they are named on their energy bill before the deadline to qualify for help."
+    },
+    {
+      "id": "493f8f18f0dc503f",
+      "title": "F-16s intercept two aircraft near Trump’s New Jersey golf club",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_f-16s-intercept-two-aircraft-near-trump-golf-club-090826?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-09T23:28:38.000Z",
+      "summary": "F-16s intercepted two civilian aircraft entering restricted airspace over Bedminster, NJ, where President Trump was."
+    },
+    {
+      "id": "f4e4171623885c11",
+      "title": "Evidence that South African special forces murdered top detective shared with BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "africa",
+      "publishedAt": "2026-08-09T23:05:29.000Z",
+      "summary": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men."
+    },
+    {
+      "id": "06b5432f95061a4a",
+      "title": "'Not afraid to stay': The Canadians taking fighting wildfires into their own hands",
+      "url": "https://www.bbc.co.uk/news/articles/c20d89jxpqno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "disasters",
+      "region": "americas",
+      "publishedAt": "2026-08-09T23:02:39.000Z",
+      "summary": "With wildfires now widespread and frequent, some rural residents in Canada are learning how to fight the flames themselves and protect their own homes."
+    },
+    {
+      "id": "4cc36e41215a5a2b",
+      "title": "Mourinho says he agreed to replace Ferguson at Man Utd",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr7kldj1583o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-09T23:01:26.000Z",
+      "summary": "David Moyes succeeded Sir Alex Ferguson at Old Trafford in 2013 but things could have been so different, Jose Mourinho reveals in a new documentary."
     },
     {
       "id": "e038267a87090493",
@@ -42,24 +152,14 @@
       "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai."
     },
     {
-      "id": "e222361aeb2bf1ee",
-      "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
-      "url": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-08-09T20:40:25.000Z",
-      "summary": "Espionage, sabotage, cyberattacks, and covert operations are a 'constant reality', says Germany's interior minister."
-    },
-    {
-      "id": "fc5ea98827d4f969",
-      "title": "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
+      "id": "8edc4ebcbe72f0f5",
+      "title": "No Dogs in Space is a music history podcast for true obsessives",
+      "url": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
+      "source": "The Verge",
+      "category": "creativity_arts",
       "region": "global",
-      "publishedAt": "2026-08-09T20:02:57.000Z",
-      "summary": "‘We're going backwards.’"
+      "publishedAt": "2026-08-09T20:28:31.000Z",
+      "summary": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season three, which focused on experimental rock. Don't get me wrong, I loved seasons one and two, but the show seemed to be gearing up for a deep dive into Krautrock, and I was hype. Unfortunately, that episode ended with hosts Marcus Parks (Last Podcast on the Left) and C"
     },
     {
       "id": "bc8a3f373a1d01af",
@@ -92,16 +192,6 @@
       "summary": "Chelsea's pre-season campaign was all about new manager Xabi Alonso, so what have we learned about his side?"
     },
     {
-      "id": "5b15334c39624b54",
-      "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
-      "url": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-09T19:40:09.000Z",
-      "summary": "Twelve other people initially rescued from the water are all reported to be in stable condition."
-    },
-    {
       "id": "dd619aeb0abdabc4",
       "title": "Israel is ‘trying to make Palestine disappear’: The Elders",
       "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/9/israel-is-trying-to-make-palestine-disappear-the-elders?traffic_source=rss",
@@ -110,16 +200,6 @@
       "region": "middle_east",
       "publishedAt": "2026-08-09T19:30:00.000Z",
       "summary": "Former Irish President Mary Robinson: Israel ‘erasing Palestine physically, economically, culturally and politically’."
-    },
-    {
-      "id": "14c986e50b2d81f8",
-      "title": "Can the Doha Framework end the conflict in eastern DRC?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-09T19:07:35.000Z",
-      "summary": "Kinshasa hands over 15 prisoners to powerful rebel alliance."
     },
     {
       "id": "4e4b3366984315c0",
@@ -192,16 +272,6 @@
       "summary": "Mark Zuckerberg's yacht \"The Launchpad\" | Image: Sylvain Lefevre / Getty Images Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping News, the closest vessel was actually Mark Zuckerberg's super yacht, Launchpad. Michael Love, a passenger on the Wildern"
     },
     {
-      "id": "b84692082ac3afe3",
-      "title": "Jannik Sinner withdraws from Cincinnati Open with knee injury",
-      "url": "https://www.aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-09T16:53:53.000Z",
-      "summary": "Number one ranked player in men's tennis will miss the tournament due to a knee issue, he says via organisers."
-    },
-    {
       "id": "28d201a46311f857",
       "title": "Puerto Rico rations water supplies due to intense drought",
       "url": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss",
@@ -210,16 +280,6 @@
       "region": "americas",
       "publishedAt": "2026-08-09T16:43:23.000Z",
       "summary": "Hot weather and ageing infrastructure have led to the rationing, affecting hundreds of thousands of people."
-    },
-    {
-      "id": "ee54a7b8510538ac",
-      "title": "Wildfires in Albania and Spain cause hundreds to evacuate",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfires-in-albania-and-spain-cause-hundreds-to-evacuate?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "europe",
-      "publishedAt": "2026-08-09T16:41:00.000Z",
-      "summary": "Wildfires have spread near Albania’s capital and in parts of southern Spain, prompting hundreds to evacuate."
     },
     {
       "id": "d23489815c8f0ac0",
@@ -250,16 +310,6 @@
       "region": "global",
       "publishedAt": "2026-08-09T15:34:04.000Z",
       "summary": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio."
-    },
-    {
-      "id": "b41298ca655f9d4f",
-      "title": "Chinese EV sales surge to new high in Europe putting tariffs under scrutiny",
-      "url": "https://www.theguardian.com/business/2026/aug/09/chinese-electric-car-sales-surge-to-a-record-high-in-europe",
-      "source": "The Guardian World",
-      "category": "economy_business",
-      "region": "europe",
-      "publishedAt": "2026-08-09T14:30:58.000Z",
-      "summary": "Imports this year now account for 14% of the market amid claims vehicles are being dumped in the EU and UK Chinese electric car sales have risen across Europe to a record high driven by strong demand and low tariffs in the UK and a surge in buyers in Italy. Against a backdrop of claims that Chinese carmakers are “dumping” state-subsidised vehicles in the EU and UK to gain market share, the figures will give impetus t"
     },
     {
       "id": "ca45e562c508ebfb",
@@ -672,16 +722,6 @@
       "summary": "OpenAI is rolling out a more reliable version of ChatGPT GPT-5.6 Sol for Plus and Pro users, while Free users are getting unlimited text chats with GPT-5.6 Luna. [...]"
     },
     {
-      "id": "64c39afccf4051fb",
-      "title": "Where is Jackie? Beloved live cam eagle in critical condition",
-      "url": "https://www.bbc.co.uk/news/videos/c2el1dz7ge9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-08-06T22:31:18.000Z",
-      "summary": "The bald eagle, who has gained worldwide fame as the protagonist of a nest live-stream in California, has been diagnosed with anaemia."
-    },
-    {
       "id": "dc71704a07f0b7be",
       "title": "Trump administration to pay German firm $1.22bn to cut offshore wind leases",
       "url": "https://www.theguardian.com/us-news/2026/aug/06/rwe-deal-wind-leases",
@@ -690,16 +730,6 @@
       "region": "global",
       "publishedAt": "2026-08-06T18:20:49.000Z",
       "summary": "Agreement with RWE is fifth deal Trump team has made with energy companies, offering payouts to give up projects The German energy company RWE has reached a $1.22bn deal with the US government to relinquish its offshore wind leases and instead redirect funds towards fossil fuel investments. The agreement marks the fifth deal the Donald Trump administration has struck with energy companies, offering payouts in exchang"
-    },
-    {
-      "id": "f6b46846855b2add",
-      "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
-      "url": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "creativity_arts",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-06T17:38:51.000Z",
-      "summary": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday."
     },
     {
       "id": "12d57fa016b467ee",
@@ -780,16 +810,6 @@
       "region": "global",
       "publishedAt": "2026-08-06T14:30:32.000Z",
       "summary": "David Owori, who played for the national team, died in hospital after he tried to stop robbers taking his phone The Ugandan football community is in mourning after the death of a player who was fatally injured during a robbery in the capital, Kampala, on Tuesday night. David Owori, who captained Sports Club Villa, a Uganda Premier League club, and represented the national team, was attacked after resisting an attempt"
-    },
-    {
-      "id": "8f74039d5c8b0db7",
-      "title": "AI or real? BBC analyses viral China disaster videos",
-      "url": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "weather_climate",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-05T22:00:32.000Z",
-      "summary": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China."
     },
     {
       "id": "2844e715240055b4",
