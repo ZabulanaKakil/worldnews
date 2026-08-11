@@ -1,15 +1,115 @@
 {
-  "generatedAt": "2026-08-10T23:41:55.476Z",
+  "generatedAt": "2026-08-11T02:16:39.625Z",
   "articles": [
     {
-      "id": "9b95b9f95b24590a",
-      "title": "Colombia earthquake live updates: more than 100 dead and buildings collapsed after 7.4-magnitude quake",
+      "id": "066fb55341c862ec",
+      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-08-11T02:10:44.000Z",
+      "summary": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\"."
+    },
+    {
+      "id": "d2fec507f78a3087",
+      "title": "Colombia earthquake live updates: rescuers race to free people from building rubble after more than 110 killed",
       "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
       "source": "The Guardian World",
       "category": "disasters",
       "region": "global",
-      "publishedAt": "2026-08-10T23:29:25.000Z",
-      "summary": "More than a dozen buildings collapsed in aftermath of earthquake, which has also prompted evacuations People remain trapped in Cali, one of Colombia’s largest cities, ​after more than two dozen structures ‌collapsed, mayor Alejandro Eder said. ‌ He added that the city had asked authorities in Bogota and Medellin to send disaster teams ‌to support rescue efforts. Continue reading..."
+      "publishedAt": "2026-08-11T02:02:50.000Z",
+      "summary": "Search teams and civilians sift though debris after at least 1,500 buildings damaged and dozens collapse in country’s most powerful quake this century Scores dead in Colombia after powerful earthquake strikes west of country – full report People remain trapped in Cali, one of Colombia’s largest cities, ​after more than two dozen structures ‌collapsed, mayor Alejandro Eder said. ‌ He added that the city had asked auth"
+    },
+    {
+      "id": "4970b2d6b563e68b",
+      "title": "At least 132 killed in Colombia's largest  earthquake in years",
+      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "creativity_arts",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-11T01:59:40.000Z",
+      "summary": "The magnitude 7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away."
+    },
+    {
+      "id": "0aab9bcd209ed95f",
+      "title": "Perseid meteor shower reaches peak: When and where to catch a glimpse",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3kn216yzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-08-11T01:59:24.000Z",
+      "summary": "On Wednesday night the Perseids will peak offering the best chance of seeing a 'shooting star'."
+    },
+    {
+      "id": "d3e2ea1fd264f30d",
+      "title": "Trump Media reports $238m loss as crypto falls",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-11T01:12:11.000Z",
+      "summary": "The firm says it will refocus on its social media mission, which includes a controversial service that sells faster access to Trump's market-moving posts."
+    },
+    {
+      "id": "5f65edf941a072d5",
+      "title": "Soldiers take cover as Colombia quake flattens military barracks",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/soldiers-take-cover-as-colombia-quake-flattens-military-barracks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-11T01:06:36.000Z",
+      "summary": "Video shows soldiers running from buildings at a military base in Cali as a magnitude 7.4 earthquake"
+    },
+    {
+      "id": "f6ce653e3da0ccc7",
+      "title": "Turkiye passes law giving thousands of PKK members chance at amnesty",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-turkiye-pkk-bill-sv-mp4?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-08-11T00:55:09.000Z",
+      "summary": "Turkiye passes law setting terms for thousands of PKK members to rejoin society if the group fully disarms."
+    },
+    {
+      "id": "2ff42c1ed84cb813",
+      "title": "Seventy years after South Africa’s women’s march, the struggle is not over",
+      "url": "https://www.aljazeera.com/features/2026/8/11/seventy-years-after-south-africas-womens-march-the-struggle-is-not-over?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "africa",
+      "publishedAt": "2026-08-11T00:26:02.000Z",
+      "summary": "Women helped defeat apartheid’s pass laws, but many still face violence, poverty and unemployment."
+    },
+    {
+      "id": "9da20a03c101cb90",
+      "title": "Disabled in a heatwave: 'We're talking about survival'",
+      "url": "https://www.bbc.co.uk/news/articles/cd6923j2wnpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-08-11T00:18:49.000Z",
+      "summary": "Disabled campaigners say the official advice for staying safe in a heatwave can put them in more danger."
+    },
+    {
+      "id": "73d131ea6b869740",
+      "title": "Can Netanyahu defy Trump on his Gaza peace plan?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/11/can-netanyahu-defy-trump-on-his-gaza-peace-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-11T00:00:19.000Z",
+      "summary": "Can Netanyahu risk continuing to defy Trump?"
+    },
+    {
+      "id": "09ac64b7c9fa50a1",
+      "title": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-11T00:00:00.000Z",
+      "summary": "US President Donald Trump said he will seek compensation from Iran for casualties in the war."
     },
     {
       "id": "e614579e3f87f11f",
@@ -62,16 +162,6 @@
       "summary": "Thousands mourn the death of the eagle at California’s Big Bear Lake, whose life was closely followed via livestream Jackie – the beloved bald eagle at California’s Big Bear Lake whose livestream was followed by millions of viewers as she birthed and raised chicks – died on Monday due to a mysterious illness. She was 14. Jackie had been receiving treatment at the Ojai Raptor Center since mid-July when she was found w"
     },
     {
-      "id": "066fb55341c862ec",
-      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-08-10T23:03:52.000Z",
-      "summary": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\"."
-    },
-    {
       "id": "8ddd602d3908af09",
       "title": "Moment of terror as powerful earthquake shakes airport in Colombia",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss",
@@ -122,10 +212,10 @@
       "summary": "Rescue teams are searching collapsed buildings after a powerful earthquake struck western Colombia."
     },
     {
-      "id": "9ba8529ff586a73f",
-      "title": "Nvidia gets $500bn from major investors to develop AI data centres",
+      "id": "c720aa323b468268",
+      "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
       "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
+      "source": "BBC World",
       "category": "technology",
       "region": "global",
       "publishedAt": "2026-08-10T22:31:42.000Z",
@@ -202,16 +292,6 @@
       "summary": "Thousands of firefighters and dozens of helicopters battle growing wildfires across Indonesia."
     },
     {
-      "id": "96f807547af745dc",
-      "title": "Turkiye approves pardon-like bill for thousands of PKK fighters",
-      "url": "https://www.aljazeera.com/news/2026/8/10/turkiye-approves-pardon-like-bill-for-thousands-of-pkk-fighters?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "americas",
-      "publishedAt": "2026-08-10T21:14:16.000Z",
-      "summary": "Text envisages a return to civilian life for some of the Kurdistan Workers’ Party fighters who lay down their weapons."
-    },
-    {
       "id": "4e5cd332777ac932",
       "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
       "url": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
@@ -240,26 +320,6 @@
       "region": "americas",
       "publishedAt": "2026-08-10T21:06:27.000Z",
       "summary": "The incident has sparked a debate over child safety and discipline on commercial planes."
-    },
-    {
-      "id": "2f8fd03caee1b09b",
-      "title": "US appeals court says social media addiction lawsuits can proceed",
-      "url": "https://www.aljazeera.com/news/2026/8/10/us-appeals-court-says-social-media-addiction-lawsuits-can-proceed?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-10T21:02:06.000Z",
-      "summary": "US court rules Meta, Google and TikTok will face addiction lawsuits as Meta heads to trial this week over child safety"
-    },
-    {
-      "id": "a36db5fcf4b1b9f0",
-      "title": "Trump to demand compensation for Tehran’s ‘conflicts’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-10T20:55:21.000Z",
-      "summary": "President Donald Trump says he’ll demand compensation from Iran for people killed or wounded in the US war on Iran."
     },
     {
       "id": "75c0e256ff48f7b0",
@@ -342,8 +402,8 @@
       "summary": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules."
     },
     {
-      "id": "728f0f11fede737a",
-      "title": "Scores dead after powerful earthquake strikes western Colombia",
+      "id": "dfa03c1d382235f3",
+      "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
       "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
       "source": "The Guardian World",
       "category": "creativity_arts",
@@ -360,6 +420,16 @@
       "region": "global",
       "publishedAt": "2026-08-10T18:11:00.000Z",
       "summary": "Evangelos Marinakis is suing Crystal Palace for a banner unfurled by their fans depicting the Nottingham Forest owner holding a gun to midfielder Morgan Gibbs-White's head."
+    },
+    {
+      "id": "ca75ddaadb12b903",
+      "title": "Tupac Shakur: jury selection begins in trial of ex-gang boss for rapper’s killing",
+      "url": "https://www.theguardian.com/music/2026/aug/10/trial-former-gang-leader-tupac-shakur-murder-duane-keffe-d-davis",
+      "source": "The Guardian Culture",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-10T18:02:58.000Z",
+      "summary": "Prosecutors allege Duane ‘Keffe D’ Davis ordered killing and provided gun in Las Vegas drive-by shooting 30 years ago Jury selection began on Monday in Las Vegas as the murder trial of a former gang leader finally got under way decades after the shooting of the rapper Tupac Shakur, one of the most high-profile unsolved killings in the US. It was thought likely to take at least the rest of the week to seat a jury for "
     },
     {
       "id": "da88e260b955775e",
@@ -392,6 +462,16 @@
       "summary": "Officials in British Columbia are still trying to determine how many homes were lost to the fire, which remains out of control as of Monday."
     },
     {
+      "id": "e11b03135c046138",
+      "title": "Barack Obama launches podcast about books that ‘shaped his worldview’",
+      "url": "https://www.theguardian.com/books/2026/aug/10/barack-obama-launches-podcast-about-books-that-shaped-his-worldview",
+      "source": "The Guardian Culture",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-10T16:59:13.000Z",
+      "summary": "The former US president will host six episodes of A Great Book for Audible, discussing work from Toni Morrison and John le Carré to James Baldwin Barack Obama is set to host a podcast about books that have “profoundly shaped his worldview and our society”, from Song of Solomon by Toni Morrison to Tinker Tailor Soldier Spy by John le Carré. The podcast, called A Great Book with Barack Obama, will launch on Audible on "
+    },
+    {
       "id": "378f2365e050cbd8",
       "title": "30 years later, a former gang member will stand trial for Tupac's murder",
       "url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
@@ -420,16 +500,6 @@
       "region": "europe",
       "publishedAt": "2026-08-10T15:29:51.000Z",
       "summary": "Up to 95% of the Sun will slowly disappear behind the Moon in the most dramatic eclipse visible from the UK since August 1999."
-    },
-    {
-      "id": "954e9e3cf0cf280b",
-      "title": "Best places to see partial solar eclipse across England",
-      "url": "https://www.bbc.co.uk/news/articles/cdx7kzv5e3qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-10T15:21:47.000Z",
-      "summary": "Some parts of England could see up to 96 per cent of the moon covering the sun on 12 August."
     },
     {
       "id": "341aada68efb0ceb",
@@ -482,16 +552,6 @@
       "summary": "Chessington says all tickets booked for Monday can be used on a future date."
     },
     {
-      "id": "4a07fb5cf1848761",
-      "title": "We should smile at our dogs - a new scientific study reveals why",
-      "url": "https://www.bbc.co.uk/news/articles/ce8kr3yrl6eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-08-10T14:02:57.000Z",
-      "summary": "Scientists have worked out what is going on inside a dog's brain when it sees a human smiling or scowling."
-    },
-    {
       "id": "61c72f6336d4d7e5",
       "title": "Consortium advances talks for stake in Liverpool",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
@@ -532,16 +592,6 @@
       "summary": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe."
     },
     {
-      "id": "fea28a3b36c169f9",
-      "title": "Lorry turns over as typhoon hits China",
-      "url": "https://www.bbc.co.uk/news/videos/cgmklm40k9go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-10T10:13:18.000Z",
-      "summary": "Video shows a lorry being blown over after heavy rain and winds continued to batter Wenzhou, a city in China's eastern Zhejiang province."
-    },
-    {
       "id": "df4769e8a9a82760",
       "title": "‘Shoved the tube so hard it tore my nose’: Kurdish film-maker recounts ‘inhumane’ ICE force-feeding",
       "url": "https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli",
@@ -550,16 +600,6 @@
       "region": "global",
       "publishedAt": "2026-08-10T10:00:43.000Z",
       "summary": "Gabar Choli tells of how, for months, he was shackled, pinned and forcibly fed – and the physical and emotional scars the ordeal has left In June 2025, a sluggish and thin Gabar Choli, with sunken temples and bones visible under his skin, braced himself for the immigration detention center guards to charge into his cell once again. Choli was in a solitary confinement medical cell inside the Port Isabel service proces"
-    },
-    {
-      "id": "d458e55943c799a0",
-      "title": "Kurdish hunger striker says ICE force-feeding ‘mentally broke me’",
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/kurdish-hunger-striker-ice-force-feeding",
-      "source": "The Guardian World",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-08-10T10:00:40.000Z",
-      "summary": "Exclusive: Film-maker Gabar Choli describes how he endured coercive treatment over eight months in detention in Texas A Kurdish man who was force-fed over the course of eight months while on hunger strike in US immigration detention has spoken out about it for the first time, describing how much the process harmed him physically and psychologically. Gabar Choli, a film-maker and activist now living in Canada after be"
     },
     {
       "id": "e54880b305d43359",
@@ -642,26 +682,6 @@
       "summary": "Some people need to ensure they are named on their energy bill before the deadline to qualify for help."
     },
     {
-      "id": "f4e4171623885c11",
-      "title": "Evidence that South African special forces murdered top detective shared with BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "africa",
-      "publishedAt": "2026-08-09T23:05:29.000Z",
-      "summary": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men."
-    },
-    {
-      "id": "33f52f00021df0eb",
-      "title": "'Not afraid to stay': The Canadians who want to change how wildfires are fought",
-      "url": "https://www.bbc.co.uk/news/articles/c20d89jxpqno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "disasters",
-      "region": "americas",
-      "publishedAt": "2026-08-09T23:02:39.000Z",
-      "summary": "With wildfires now widespread and frequent, some rural residents in Canada are learning how to fight the flames themselves and protect their own homes."
-    },
-    {
       "id": "2b8432ac20ac5b69",
       "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
       "url": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
@@ -690,16 +710,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-08-09T18:05:10.000Z",
       "summary": "‘Secret forces,’ just like in the past, are once again attempting to create confusion and disorder, spreading falsehoods among the public. Prime Minister Tarique Rahman made these remarks. He made… The post PM: ‘Secret Force’ Spreading Confusion Just Like in the Past appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "93d253b83670f0a3",
-      "title": "Hundreds arrested over French wildfires, but who is to blame?",
-      "url": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-08T23:59:23.000Z",
-      "summary": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month."
     },
     {
       "id": "f0b46c034b2eab22",
@@ -760,26 +770,6 @@
       "region": "europe",
       "publishedAt": "2026-08-07T21:44:38.000Z",
       "summary": "Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta Spain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measures after a mass rush of people from Morocco into Ceuta. The checks, which come “amid the persistent irregular migration pressure” facing Italy, will start at midnight on Saturday and last until 7 Sept"
-    },
-    {
-      "id": "5d8b76eb935263d0",
-      "title": "Judge approves Trump effort to end South Sudan TPS protections",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
-      "source": "The Guardian World",
-      "category": "war_conflict",
-      "region": "africa",
-      "publishedAt": "2026-08-07T18:34:34.000Z",
-      "summary": "Decision follows supreme court ruling that allowed US government to strip protections for Haitians and Syrians Temporary protected status (TPS) for hundreds of South Sudanese nationals in the United States is set to end after a federal judge ruled that the Trump administration can move forward with stripping their protections. On Friday, US district judge Patti Saris of the district of Massachusetts rejected an attem"
-    },
-    {
-      "id": "ed37f12caac9b81c",
-      "title": "How a 90-second power outage sparked chaos for rail commuters",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-08-07T16:11:32.000Z",
-      "summary": "The incident raised questions about how a disrupted power supply can have such a widespread impact."
     },
     {
       "id": "64516e037c5621f9",
