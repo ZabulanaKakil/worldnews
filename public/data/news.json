@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-08-12T21:54:41.055Z",
+  "generatedAt": "2026-08-12T22:50:43.605Z",
   "articles": [
     {
-      "id": "27c8138ed7fee4cb",
-      "title": "Millions in UK and Europe left wowed by once-in-a-generation solar eclipse",
+      "id": "12039ebedfd09d2f",
+      "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
+      "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-12T22:46:02.000Z",
+      "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden."
+    },
+    {
+      "id": "1abeced31a398bd6",
+      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+      "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "disasters",
+      "region": "global",
+      "publishedAt": "2026-08-12T22:41:46.000Z",
+      "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete."
+    },
+    {
+      "id": "5e14a9b01241b602",
+      "title": "GB's Hudson-Smith wins historic 400m gold on home track - highlights & report",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-08-12T22:41:22.000Z",
+      "summary": "Great Britain's Matthew Hudson-Smith makes history as the joint-most decorated man of all-time at European Championships by claiming 400m gold in Birmingham."
+    },
+    {
+      "id": "de4c00cea2c4ea5b",
+      "title": "Trump administration plans to give ICE officers electric-shock gloves",
+      "url": "https://www.aljazeera.com/news/2026/8/12/trump-administration-plans-to-give-ice-officers-electric-shock-gloves?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-12T22:22:57.000Z",
+      "summary": "US Homeland Security is expected to buy up to $20m in gloves amid criticism of the president's immigration crackdown."
+    },
+    {
+      "id": "f9e06d794b2cff3b",
+      "title": "Why are 'human fridges' being sold in Japan?",
+      "url": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-12T22:07:47.000Z",
+      "summary": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down."
+    },
+    {
+      "id": "05f54f5bc105a6d8",
+      "title": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
+      "url": "https://www.bbc.co.uk/news/articles/c5y49e2z8yno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-08-12T21:55:17.000Z",
+      "summary": "Scotland's best chance of seeing a solar eclipse in 27 years left some disappointed, though there were moments of magic."
+    },
+    {
+      "id": "0200ef6774e05633",
+      "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
       "url": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Science & Environment",
       "category": "creativity_arts",
@@ -22,6 +82,36 @@
       "summary": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply."
     },
     {
+      "id": "32affd4e2923acd5",
+      "title": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
+      "url": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-12T21:53:17.000Z",
+      "summary": "The unclassified Pentagon review sheds new light on civilian harm from the US campaign against Yemen’s Houthis."
+    },
+    {
+      "id": "f8f9792c876753c0",
+      "title": "Hegseth cautions that ICC may investigate US boat strikes in Latin America",
+      "url": "https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-08-12T21:52:18.000Z",
+      "summary": "US defence chief vows to continue campaign against drug cartels, says Colombia has joined regional military coalition."
+    },
+    {
+      "id": "9b63fd25598c91a3",
+      "title": "PSG win back-to-back UEFA Super Cups with victory over Aston Villa",
+      "url": "https://www.aljazeera.com/sports/2026/8/12/psg-win-back-to-back-uefa-super-cups-with-victory-over-aston-villa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-08-12T21:50:27.000Z",
+      "summary": "Kvaratskhelia and Doue earn a win for Paris Saint-Germain as 17-year-old Brian Madjo's goal is in vain for Aston Villa."
+    },
+    {
       "id": "41488ba0398e8ae1",
       "title": "Fernandes the centre of attention - but what next for Man Utd captain?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgwzegz9ggo?at_medium=RSS&at_campaign=rss",
@@ -32,6 +122,16 @@
       "summary": "Manchester United skipper Bruno Fernandes is attracting attention on and off the pitch."
     },
     {
+      "id": "6bdb60f3cc98fb38",
+      "title": "Highlights: PSG beat Aston Villa in Super Cup",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cre4pxn402ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-08-12T21:39:01.000Z",
+      "summary": "Paris Saint-Germain beat Aston Villa in the Uefa Super Cup with goals from Khvicha Kvaratskhelia and Desire Doue."
+    },
+    {
       "id": "d8733777c96d5d0d",
       "title": "Thousands missing after Colombia quake as rescue continues",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-missing-after-colombia-quake-as-rescue-continues?traffic_source=rss",
@@ -40,16 +140,6 @@
       "region": "americas",
       "publishedAt": "2026-08-12T21:25:08.000Z",
       "summary": "Thousands missing after Colombia quake as rescue continues"
-    },
-    {
-      "id": "81200ea0a2e67b50",
-      "title": "Guimaraes makes Arsenal debut in draw with Como",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8kp6k3p1no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-12T21:24:42.000Z",
-      "summary": "Bruno Guimaraes put in an assured performance as he made his Arsenal debut in a 1-1 friendly draw with Como at Emirates stadium."
     },
     {
       "id": "9b27f232fbe091bc",
@@ -142,26 +232,6 @@
       "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says."
     },
     {
-      "id": "82eaa7496bcc572f",
-      "title": "MI London and Welsh Fire eliminated from knockouts",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cy0j2xj14k3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-08-12T20:57:12.000Z",
-      "summary": "Welsh Fire and MI London are eliminated from The Hundred as they were beaten in their final group phase matches."
-    },
-    {
-      "id": "1abeced31a398bd6",
-      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
-      "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "disasters",
-      "region": "global",
-      "publishedAt": "2026-08-12T20:56:11.000Z",
-      "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete."
-    },
-    {
       "id": "be3e985706081e68",
       "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
@@ -192,66 +262,6 @@
       "summary": "As Lionel Messi considers his footballing future following the death of his father, BBC Sport looks back at some of his most iconic moments."
     },
     {
-      "id": "198323fcae110a36",
-      "title": "Israel vows to keep troops in Lebanon, Gaza and Syria",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-12T20:26:07.000Z",
-      "summary": "Israeli defence minister Israel Katz has said that Israel “will under no circumstances” withdraw its troops."
-    },
-    {
-      "id": "0e747a80378e089c",
-      "title": "Photos: Solar eclipse plunges parts of Europe into darkness",
-      "url": "https://www.aljazeera.com/gallery/2026/8/12/photos-solar-eclipse-plunges-parts-of-europe-into-darkness?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "europe",
-      "publishedAt": "2026-08-12T20:16:10.000Z",
-      "summary": "A total solar eclipse crossed Iceland, Britain and parts of the European continent, drawing crowds to watch the event."
-    },
-    {
-      "id": "978949c91104dd2d",
-      "title": "‘Platformicide’ of Palestine: Activists struggle to be heard on Meta",
-      "url": "https://www.aljazeera.com/news/2026/8/12/platformicide-of-palestine-activists-struggle-to-be-heard-on-meta?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-08-12T20:15:38.000Z",
-      "summary": "Report by NGO 7amleh, Utrecht University analyses 3,520 cases of digital rights violations against Palestinians."
-    },
-    {
-      "id": "b0b691d599fe1369",
-      "title": "Trump reveals Karoline Leavitt to step down as White House press secretary",
-      "url": "https://www.aljazeera.com/news/2026/8/12/trump-reveals-karoline-leavitt-to-step-down-as-white-house-press-secretary?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-12T20:05:01.000Z",
-      "summary": "Leavitt is departing her role to spend more time with family after giving birth to a second child, according to Trump."
-    },
-    {
-      "id": "31c10bb3f5a5ce27",
-      "title": "Josh Kushner, Bob Iger, buying Los Angeles Lakers for record $12.5bn",
-      "url": "https://www.aljazeera.com/sports/2026/8/12/josh-kushner-bob-iger-buying-los-angeles-lakers-for-record-12-5bn?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-08-12T20:04:24.000Z",
-      "summary": "Billionaire Mark Walter's sale of the NBA's Lakers is a record-breaking valuation for a North American sports franchise."
-    },
-    {
-      "id": "7f408d5312938f7d",
-      "title": "GB's Hudson-Smith wins historic 400m gold on home track",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-08-12T20:04:08.000Z",
-      "summary": "Great Britain's Matthew Hudson-Smith makes history as the joint-most decorated man of all-time at European Championships by claiming 400m gold in Birmingham."
-    },
-    {
       "id": "8d3dd429ad7ee8a5",
       "title": "GB's Evans wins European gold in 100m breaststroke",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/ce34p76qedzo?at_medium=RSS&at_campaign=rss",
@@ -280,16 +290,6 @@
       "region": "americas",
       "publishedAt": "2026-08-12T18:46:30.000Z",
       "summary": "Ángel Aguirre indicted in case that rocked Mexico and became symbol of its brutal cartel violence The former governor of Guerrero state in Mexico has been formally charged over his alleged involvement in the disappearance of 43 students in 2014, a case that has become a symbol of the country’s brutal cartel violence and government impunity. Ángel Aguirre, who was arrested last week, is accused of forced disappearance"
-    },
-    {
-      "id": "93bf7e6988248ae5",
-      "title": "Greenland forces Trump-linked US oil firm to delay drilling",
-      "url": "https://www.theguardian.com/world/2026/aug/12/trump-greenland-oil",
-      "source": "The Guardian Environment",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-08-12T18:00:41.000Z",
-      "summary": "US envoy had claimed Americans could be extracting crude by as early as next year Greenland authorities have forced a US oil company connected to Donald Trump to postpone drilling wells in the Arctic territory, defying claims by the US president’s envoy that Americans could be extracting crude by next year. Amid Trump’s imperialist threats, tensions have been rising on Greenland’s eastern coast after the oil company "
     },
     {
       "id": "89bb9e6db26164d2",
@@ -325,7 +325,7 @@
       "id": "7ef7548547817720",
       "title": "US inflation eases as food and fuel costs cool",
       "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "source": "BBC Business",
       "category": "economy_business",
       "region": "global",
       "publishedAt": "2026-08-12T17:03:05.000Z",
@@ -340,6 +340,16 @@
       "region": "global",
       "publishedAt": "2026-08-12T17:00:00.000Z",
       "summary": "The Pixel 11 Pro. | Photo: David Imel / The Verge Google just added four new phones to the Pixel family: the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and the Pixel 11 Pro Fold. They're slightly more expensive than their predecessors, but they come with some notable upgrades, including improved cameras and a new Tensor G6 chip that should deliver faster performance. The phones also have new photography tools, like Mag"
+    },
+    {
+      "id": "60eae164508bae8c",
+      "title": "ICE wants to give agents electrified gloves that shock people into compliance",
+      "url": "https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-08-12T16:58:29.000Z",
+      "summary": "Immigration and Customs Enforcement (ICE) is aiming to spend up to $20 million on equipping officers and agents with specialized gloves that deliver painful electric shocks. These plans were outlined in a notice published by the Department of Homeland Security on Monday, with an unspecified quantity of the devices set to be delivered by March 2027. The electrified handwear outlined in the contract is the CTG 5 GLOVE "
     },
     {
       "id": "82a3326ebff3d3e0",
@@ -385,8 +395,8 @@
       "id": "5cd10ee1b4cc477b",
       "title": "LA Lakers to be sold in record $12.5bn deal",
       "url": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
+      "source": "BBC Sport",
+      "category": "sports",
       "region": "global",
       "publishedAt": "2026-08-12T16:11:04.000Z",
       "summary": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise."
@@ -432,14 +442,14 @@
       "summary": "Female staff alleged company failed to maintain safe workplace, after allegations of sexual assault against pilot The Canadian airline WestJet has agreed to pay C$4.5m (£2.4m) to settle a decade-long sexual harassment class action lawsuit levelled by its female flight attendants, who alleged the company failed to maintain a safe workplace. The suit followed allegations by Mandalena Lewis, a former flight attendant, t"
     },
     {
-      "id": "2083c41f566af7fd",
-      "title": "‘Nightmare fodder’: Roku’s AI slop channel is even worse than expected",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/12/roku-ai-slop-fairground-creator-tv-channel",
-      "source": "The Guardian Culture",
+      "id": "042578aa9562c178",
+      "title": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
+      "url": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world_politics",
       "region": "global",
-      "publishedAt": "2026-08-12T14:15:25.000Z",
-      "summary": "Fairground TV is a 24/7 channel devoted to low-quality AI content for viewers sick of watching real people move in ways that won’t haunt you The appeal of Roku is that, whatever you happen to want to watch, there will almost certainly be a live channel for it. Just want to watch Little House on the Prairie? There’s a channel for it. Just want to watch Duck Dynasty? There’s a channel for that too. Purely want to watch"
+      "publishedAt": "2026-08-12T13:55:56.000Z",
+      "summary": "The vessel is said to have overturned after being hit by strong waves."
     },
     {
       "id": "c1ada45532f77950",
@@ -542,14 +552,14 @@
       "summary": "Chandrasekaran said he would not seek reappointment when his term ends due to a lack of support from the Tata Sons board."
     },
     {
-      "id": "e3b7a7b9b93b1efd",
-      "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
-      "url": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "economy_business",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-12T07:44:44.000Z",
-      "summary": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries."
+      "id": "954e9e3cf0cf280b",
+      "title": "Best places to see partial solar eclipse across England",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7kzv5e3qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-08-12T08:28:13.000Z",
+      "summary": "Some parts of England could see up to 96 per cent of the moon covering the sun on 12 August."
     },
     {
       "id": "5770d22b948808d7",
@@ -582,16 +592,6 @@
       "summary": "Uncertainty over a ceasefire agreement between Iran and the United States, coupled with new attacks on ships in the Middle East, has escalated concerns about global energy supply. As a… The post International Oil Prices See Significant Jump appeared first on Bangla Online News Portal."
     },
     {
-      "id": "87b282b4dc681556",
-      "title": "Thailand suspends gun licences as teen shooter and grandparents he killed are cremated",
-      "url": "https://www.theguardian.com/world/2026/aug/12/thailand-suspends-gun-licences-teenage-shooter-grandparents-cremated",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-12T05:28:05.000Z",
-      "summary": "Prime minister Anutin Charnvirakul calls for tighter gun controls and ‘decisive penalties’ after nine dead in school shooting Thailand has suspended firearms licences after the deadly Nonthaburi school shooting, as the bodies of the teenage attacker and the grandparents he killed were cremated. The prime minister, Anutin Charnvirakul, said he had ordered the interior ministry and police to stop issuing licences to po"
-    },
-    {
       "id": "c1c7904e6444fcb4",
       "title": "British driver who broke sound barrier sets new speed record",
       "url": "https://www.bbc.co.uk/news/articles/czjl2yzx8epo?at_medium=RSS&at_campaign=rss",
@@ -622,6 +622,16 @@
       "summary": "The PM has announced a rake of measures to help people since taking office three weeks ago."
     },
     {
+      "id": "d371e8092bf3e3ef",
+      "title": "UK to get best eclipse since 1999 as Moon blocks out Sun across Europe",
+      "url": "https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "creativity_arts",
+      "region": "europe",
+      "publishedAt": "2026-08-11T23:17:15.000Z",
+      "summary": "Up to 96% of the Sun will be covered by the Moon in the UK, while parts of Spain, Greenland, Iceland, Portugal and Russia will see a total eclipse."
+    },
+    {
       "id": "b76261c24d458336",
       "title": "Tokenomics: Why making AI pay is tricky",
       "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
@@ -630,16 +640,6 @@
       "region": "global",
       "publishedAt": "2026-08-11T23:03:52.000Z",
       "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge."
-    },
-    {
-      "id": "95c34696553f6541",
-      "title": "Watch: Severe storms overturn vehicle and trigger flooding in Ohio",
-      "url": "https://www.bbc.co.uk/news/videos/cy451xqkdz5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-08-11T20:56:08.000Z",
-      "summary": "Residents are being urged to prepare for additional severe storms in the coming days, as officials also report at least one fatality."
     },
     {
       "id": "8c212fdd4785e170",
@@ -830,16 +830,6 @@
       "region": "europe",
       "publishedAt": "2026-08-07T21:44:38.000Z",
       "summary": "Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta Spain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measures after a mass rush of people from Morocco into Ceuta. The checks, which come “amid the persistent irregular migration pressure” facing Italy, will start at midnight on Saturday and last until 7 Sept"
-    },
-    {
-      "id": "5d8b76eb935263d0",
-      "title": "Judge approves Trump effort to end South Sudan TPS protections",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
-      "source": "The Guardian World",
-      "category": "war_conflict",
-      "region": "africa",
-      "publishedAt": "2026-08-07T18:34:34.000Z",
-      "summary": "Decision follows supreme court ruling that allowed US government to strip protections for Haitians and Syrians Temporary protected status (TPS) for hundreds of South Sudanese nationals in the United States is set to end after a federal judge ruled that the Trump administration can move forward with stripping their protections. On Friday, US district judge Patti Saris of the district of Massachusetts rejected an attem"
     },
     {
       "id": "64516e037c5621f9",
