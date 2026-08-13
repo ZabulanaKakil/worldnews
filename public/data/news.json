@@ -1,45 +1,225 @@
 {
-  "generatedAt": "2026-08-13T04:58:41.008Z",
+  "generatedAt": "2026-08-13T08:27:03.478Z",
   "articles": [
     {
-      "id": "06ec2e5dcf1e3d48",
-      "title": "Japan protests Putin visit to disputed islands",
+      "id": "04399e364ea44a70",
+      "title": "As temperatures soar, ‘exceptionally serious’ drought imperils UK farmers",
+      "url": "https://www.aljazeera.com/news/2026/8/13/uk-drought-imperils-farmers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "weather_climate",
+      "region": "europe",
+      "publishedAt": "2026-08-13T08:15:17.000Z",
+      "summary": "Farmers trying to adapt to extreme weather say even with the best planning, their industry is facing its toughest test."
+    },
+    {
+      "id": "cd1ddbc237c51163",
+      "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
       "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world_politics",
       "region": "europe",
-      "publishedAt": "2026-08-13T04:50:16.000Z",
-      "summary": "The Russian leader visited the Kuril islands for the first time, according to state media."
+      "publishedAt": "2026-08-13T08:13:55.000Z",
+      "summary": "It was the first time the Russian leader had visited the Kuril islands, according to state media."
     },
     {
-      "id": "9b6ee48049afdb38",
-      "title": "Three Palestinian families besieged in their homes by Israeli settlers",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/three-palestinian-families-besieged-in-their-homes-by-israeli-settlers?traffic_source=rss",
+      "id": "4ce6022793e25017",
+      "title": "Three US states to hold executions on same day for first time since 2010",
+      "url": "https://www.aljazeera.com/news/2026/8/13/three-us-states-to-hold-executions-on-same-day-for-first-time-since-2010?traffic_source=rss",
       "source": "Al Jazeera",
-      "category": "economy_business",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-13T08:13:08.000Z",
+      "summary": "The last three executions on the same day happened 16 years ago, in Louisiana, Ohio and Texas."
+    },
+    {
+      "id": "0859582c5cc536f3",
+      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
       "region": "middle_east",
-      "publishedAt": "2026-08-13T04:34:46.000Z",
-      "summary": "Three Palestinian families in Qusra, occupied West Bank, are being besieged inside their homes."
+      "publishedAt": "2026-08-13T08:12:53.000Z",
+      "summary": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday."
     },
     {
-      "id": "6ac8295c27529da5",
-      "title": "Search efforts in Colombia enter ‘final phase’ as quake toll reaches 265",
-      "url": "https://www.aljazeera.com/news/2026/8/13/search-efforts-in-colombia-enter-final-phase-as-quake-toll-reaches-265?traffic_source=rss",
+      "id": "1c9585dc471dc0b5",
+      "title": "Swiatek sinks Svitolina to set up Rybakina title clash in Toronto",
+      "url": "https://www.aljazeera.com/sports/2026/8/13/swiatek-sinks-svitolina-to-set-up-rybakina-title-clash-in-toronto?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-13T08:06:51.000Z",
+      "summary": "Iga Swiatek will face Elena Rybakina for the Toronto tennis title, as Elina Svitolina and Coco Gauff exit in semifinals."
+    },
+    {
+      "id": "46ce848752b3e629",
+      "title": "US defence secretary says drug cartels will be ‘targeted like ISIS’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/us-defence-secretary-says-drug-cartels-will-be-targeted-like?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-08-13T07:58:31.000Z",
+      "summary": "US defence secretary says drug cartels will be ‘targeted like ISIS’"
+    },
+    {
+      "id": "5cbffd85703a3798",
+      "title": "Malawi shock Algeria and Cameroon beat Morocco to reach WAFCON final",
+      "url": "https://www.aljazeera.com/sports/2026/8/13/malawi-shock-algeria-and-cameroon-beat-morocco-to-reach-wafcon-final?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "africa",
+      "publishedAt": "2026-08-13T07:41:12.000Z",
+      "summary": "Malawi will face Cameroon in the Women's Africa Cup of Nations final after respective wins over Algeria and Morocco."
+    },
+    {
+      "id": "6f01c8dfb0ab1573",
+      "title": "Twitch faces backlash over Amazon using content to train AI",
+      "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-08-13T07:32:07.000Z",
+      "summary": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault."
+    },
+    {
+      "id": "e670398960ecf79c",
+      "title": "Swiatek into first final of her 'toughest season'",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/ckgdppv82ymo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-13T07:24:28.000Z",
+      "summary": "Iga Swiatek will meet Elena Rybakina in the Canadian Open final after both players battled through their semi-finals in three sets."
+    },
+    {
+      "id": "d548e3acbd871be5",
+      "title": "Messi plays for Inter Miami after father's death",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz9722y1ee7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-13T07:19:46.000Z",
+      "summary": "Lionel Messi makes a substitute appearance for Inter Miami on Wednesday following the death of his father and hinting he may retire."
+    },
+    {
+      "id": "641f221341a6e202",
+      "title": "Messi plays in Inter Miami defeat by Leon only hours after retirement hint",
+      "url": "https://www.aljazeera.com/sports/2026/8/13/messi-plays-in-inter-miami-defeat-only-hours-after-retirement-hint?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-08-13T07:17:55.000Z",
+      "summary": "Argentina star Lionel Messi hinted at retirement on Wednesday before featuring in Inter Miami's defeat by Leon."
+    },
+    {
+      "id": "a8fd554de7cc7e88",
+      "title": "Israeli strikes in south Lebanon a ‘violation of international law’: PM",
+      "url": "https://www.aljazeera.com/news/2026/8/13/israeli-strikes-in-south-lebanon-a-violation-of-international-law-pm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-13T07:11:05.000Z",
+      "summary": "Prime Minister Nawaf Salam rejects Israel's claim that villages destroyed in southern Lebanon were military sites."
+    },
+    {
+      "id": "7b36b1b2122dd223",
+      "title": "Indian actor's video with endangered gibbon sparks investigation",
+      "url": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "economy_business",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-13T07:05:35.000Z",
+      "summary": "A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India."
+    },
+    {
+      "id": "203ded7696b7dfc1",
+      "title": "Amazon is using Twitch to train generative AI",
+      "url": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-08-13T07:04:31.000Z",
+      "summary": "The streaming platform's users criticised the move to allow the use of channel content for AI training."
+    },
+    {
+      "id": "1f4acb47ca8a2f75",
+      "title": "Palestinian women in Gaza face legal hurdles in divorce struggles",
+      "url": "https://www.aljazeera.com/features/2026/8/13/palestinian-women-in-gaza-face-legal-hurdles-in-divorce-struggles?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-13T07:01:35.000Z",
+      "summary": "Amid legal struggles, Gaza women opt for quicker divorces, sacrificing rights to escape prolonged court battles."
+    },
+    {
+      "id": "b07584b12327d634",
+      "title": "‘They destroyed us’: Palestinian family sleeps in the open after demolition",
+      "url": "https://www.aljazeera.com/features/2026/8/13/they-destroyed-us-palestinian-family-sleeps-in-the-open-after-demolition?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "economy_business",
       "region": "global",
-      "publishedAt": "2026-08-13T04:26:46.000Z",
-      "summary": "President de La Espriella promises to set up an emergency fund to help rebuild destroyed hospitals and schools."
+      "publishedAt": "2026-08-13T07:00:38.000Z",
+      "summary": "Palestinian family's home demolished despite court order, leaving them homeless under sweltering heat in the West Bank."
     },
     {
-      "id": "885bdac32743c658",
-      "title": "Oman says oil spill from stricken tanker has reached its coast",
-      "url": "https://www.aljazeera.com/economy/2026/8/13/oman-says-oil-spill-from-stricken-tanker-has-reached-its-coast?traffic_source=rss",
+      "id": "ad9dbf1863e1b4a7",
+      "title": "Jones uses geese to inspire Japan and picks student to face Australia",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cgq5pk5gpyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-13T06:37:23.000Z",
+      "summary": "Before their second Test against Australia, Eddie Jones reveals an interesting method he uses to coach Japan - watching videos of geese fly in formation."
+    },
+    {
+      "id": "8844af195213190a",
+      "title": "The US is now using the ‘terrorist’ label to interfere in Brazil’s election",
+      "url": "https://www.aljazeera.com/opinions/2026/8/13/the-us-is-now-using-the-terrorist-label-to-interfere-in-brazils-election?traffic_source=rss",
       "source": "Al Jazeera",
-      "category": "environment",
+      "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-08-13T06:33:31.000Z",
+      "summary": "The designation of PCC and CV serves to expand Washington’s reach into the country’s politics and security."
+    },
+    {
+      "id": "05f54f5bc105a6d8",
+      "title": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
+      "url": "https://www.bbc.co.uk/news/articles/c5y49e2z8yno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
       "region": "global",
-      "publishedAt": "2026-08-13T04:26:11.000Z",
-      "summary": "Up to 40km of coastline affected by oil pollution, Omani environmental authority says."
+      "publishedAt": "2026-08-13T05:40:24.000Z",
+      "summary": "Scotland's best chance of seeing a solar eclipse in 27 years left some disappointed, though there were moments of magic."
+    },
+    {
+      "id": "f5d348066385edd3",
+      "title": "Only wins can stop curfew hokey-cokey for England's 'grown adults'",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/czjl2pelp1go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-13T05:22:07.000Z",
+      "summary": "England have scrapped their midnight curfew seven months after introducing it. Now, only wins will repair the reputational damage they have sustained, says Stephan Shemilt."
+    },
+    {
+      "id": "559d47687b47602a",
+      "title": "Australia’s largest aluminium smelter to run on renewables by 2033 after Rio Tinto strikes $2.5bn taxpayer bailout deal",
+      "url": "https://www.theguardian.com/business/2026/aug/13/rio-tinto-australia-tomago-aluminium-2bn-bailout-deal-renewable-energy",
+      "source": "The Guardian Environment",
+      "category": "environment",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-13T05:00:25.000Z",
+      "summary": "Rio Tinto makes power supply deal with federal and NSW government to cut emissions and decarbonise, preventing potential closure Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Resources giant Rio Tinto says Australia’s largest aluminium smelter will run entirely on renewable energy by 2033 after it struck a $2.5bn subsidy deal with the federal and Ne"
+    },
+    {
+      "id": "925ef18190dd9c82",
+      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-08-13T04:55:58.000Z",
+      "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year."
     },
     {
       "id": "45a6ce1095b32139",
@@ -50,26 +230,6 @@
       "region": "global",
       "publishedAt": "2026-08-13T04:09:12.000Z",
       "summary": "The K-pop star says he has suffered hearing issues for over two years before revealing it publicly this week."
-    },
-    {
-      "id": "134f41b0f6d08887",
-      "title": "India fuels worldwide jump in planned coal production",
-      "url": "https://www.theguardian.com/environment/2026/aug/13/india-planned-coal-production-new-mine",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-13T04:00:48.000Z",
-      "summary": "Rise in new mine proposals, mainly in states of Odisha and Jharkhand, comes despite plateau in global demand Enough new coalmining projects were proposed last year to increase global supplies by 2.5bn tonnes a year, an increase of 11% from the year before, even as demand for coal plateaus, according to a new report. Global Energy Monitor, an NGO, found that India ignited a rise in new coalmine proposals in 2025 despi"
-    },
-    {
-      "id": "f8d511e58a4b1702",
-      "title": "Israeli settlers besiege three Palestinian families in West Bank’s Qusra",
-      "url": "https://www.aljazeera.com/news/2026/8/13/israeli-settlers-besiege-three-palestinian-families-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-08-13T03:54:09.000Z",
-      "summary": "Dozens of settlers besiege Palestinian families in Qusra, cutting off water, power and essential supplies."
     },
     {
       "id": "aff3249a013302e0",
@@ -92,26 +252,6 @@
       "summary": "Global oil prices have further decreased. As of 1 AM Bangladesh time on Thursday night, Brent crude prices fell by $1.29 per barrel, or 1.5 percent, to $87.69. Meanwhile, US… The post Oil Prices Drop by Over $1 Per Barrel appeared first on Bangla Online News Portal."
     },
     {
-      "id": "e5222e815ed7e79a",
-      "title": "Twitch users can now block Amazon from using their content to train AI",
-      "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-08-13T02:46:04.000Z",
-      "summary": "The streaming platform's users criticised the move to allow the use of channel content for AI training."
-    },
-    {
-      "id": "279b8ede5bf27a86",
-      "title": "Solar eclipse carves Eiffel Tower’s silhouette in Paris sky",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/solar-eclipse-carves-eiffel-towers-silhouette-in-paris-sky?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "europe",
-      "publishedAt": "2026-08-13T02:42:24.000Z",
-      "summary": "A partial solar eclipse illuminated Paris’s sky over the city’s iconic Eiffel Tower."
-    },
-    {
       "id": "3c9e0fa092928c87",
       "title": "Australian army whistleblower released on parole after more than two years in jail",
       "url": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
@@ -120,26 +260,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-08-13T02:23:39.000Z",
       "summary": "David McBride was jailed after pleading guilty to leaking military secrets about Afghanistan."
-    },
-    {
-      "id": "8665ce4058195425",
-      "title": "Olympic skateboarder times epic stunt with solar eclipse",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_skateboarder-times-epic-stunt-with-solar-eclipse-120826?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-13T01:56:11.000Z",
-      "summary": "Spanish Olympic skateboarder Danny León timed a jump with the moon passing in front of the sun during a solar eclipse."
-    },
-    {
-      "id": "7b7be361ed258ffb",
-      "title": "Zimbabwe’s land reform enters a new chapter",
-      "url": "https://www.aljazeera.com/news/2026/8/13/zimbabwes-land-reform-enters-a-new-chapter?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-08-13T01:48:39.000Z",
-      "summary": "A new land policy is reopening disputes over farms seized during Zimbabwe’s land reform after 2000."
     },
     {
       "id": "6b273d8a152f1659",
@@ -162,46 +282,6 @@
       "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden."
     },
     {
-      "id": "68991032b94e7880",
-      "title": "Half a tonne of Erling Haaland branded cocaine seized in Ecuador",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_erling-haaland-branded-cocaine-seized-in-ecuador-120826?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-13T00:05:28.000Z",
-      "summary": "Erling Haaland’s name and image turned up on hundreds of cocaine bricks seized by Ecuadorian police."
-    },
-    {
-      "id": "b5419c16eab6014b",
-      "title": "Iran war live: US, Tehran exchange opposing claims over Hormuz control",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-13T00:00:00.000Z",
-      "summary": "President Trump again insists US has 'total control' of strait, while Tehran resolute that the US must meet its demands."
-    },
-    {
-      "id": "6e527eddb7b9cd06",
-      "title": "Trump administration arrests Southern Poverty Law Center expert for fraud",
-      "url": "https://www.aljazeera.com/news/2026/8/12/trump-administration-arrests-southern-poverty-law-center-expert-for-fraud?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-12T23:23:14.000Z",
-      "summary": "Heidi Beirich, an expert on far-right groups, has been charged over alleged misuse of donor funds to pay informants."
-    },
-    {
-      "id": "a6bacbc05e474c8d",
-      "title": "Media groups sue Trump over paid access to public social media posts",
-      "url": "https://www.aljazeera.com/economy/2026/8/12/media-groups-sue-trump-over-paid-access-to-public-social-media-posts?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-12T23:23:00.000Z",
-      "summary": "Lawsuit claims Trump profits unfairly by charging up to $100,000 monthly for exclusive access to presidential posts."
-    },
-    {
       "id": "503e4bd368c0556f",
       "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
       "url": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
@@ -212,8 +292,8 @@
       "summary": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle."
     },
     {
-      "id": "d3aa693df19111e6",
-      "title": "Fearless Madjo, 17, ends eight-month wait with dream Villa debut",
+      "id": "63970fa4799f6c29",
+      "title": "Fearless Madjo, 17, ends eight-month wait with eye-catching Villa debut",
       "url": "https://www.bbc.co.uk/sport/football/articles/cg4dp23z5z7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
@@ -240,16 +320,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-08-12T23:00:47.000Z",
       "summary": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector."
-    },
-    {
-      "id": "d19a6d81db573b8a",
-      "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-      "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-12T22:58:45.000Z",
-      "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says."
     },
     {
       "id": "82a3326ebff3d3e0",
@@ -282,16 +352,6 @@
       "summary": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down."
     },
     {
-      "id": "05f54f5bc105a6d8",
-      "title": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
-      "url": "https://www.bbc.co.uk/news/articles/c5y49e2z8yno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-08-12T21:55:17.000Z",
-      "summary": "Scotland's best chance of seeing a solar eclipse in 27 years left some disappointed, though there were moments of magic."
-    },
-    {
       "id": "0200ef6774e05633",
       "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
       "url": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
@@ -300,26 +360,6 @@
       "region": "europe",
       "publishedAt": "2026-08-12T21:53:45.000Z",
       "summary": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse."
-    },
-    {
-      "id": "41488ba0398e8ae1",
-      "title": "Fernandes the centre of attention - but what next for Man Utd captain?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgwzegz9ggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-12T21:40:45.000Z",
-      "summary": "Manchester United skipper Bruno Fernandes is attracting attention on and off the pitch."
-    },
-    {
-      "id": "7722118513bbdc99",
-      "title": "Pixel 11 event live blog: Let&#8217;s watch Trevor Noah introduce Google&#8217;s new phones",
-      "url": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
-      "source": "The Verge",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-12T21:30:00.000Z",
-      "summary": "It's almost time for the Made by Google keynote, where the company will show off the brand-new Pixel hardware it announced today. Like last year, it'll be a celebrity-packed live show, though Trevor Noah is hosting instead of Jimmy Fallon. If the 2025 show was any indication, today's broadcast might be something of a cringefest. If you've been following tech news this morning, you already know a lot about the new Pix"
     },
     {
       "id": "9b27f232fbe091bc",
@@ -332,14 +372,14 @@
       "summary": "The 8BitDo mechanical keyboard and dual super buttons. | Image: The Verge If you’re looking for a mechanical keyboard that can give your desk a touch of retro flair, Amazon has 8BitDo’s Retro Mechanical Keyboard with Dual Super Buttons on sale for $69.99, one of the lowest prices we’ve seen for the bundle. The styling on this keyboard is thorough, with blocky retro legends on the rounded keycaps, and supplementary bu"
     },
     {
-      "id": "945bbd71a95d270f",
-      "title": "Atletico agree £34.2m deal for Tottenham's Romero",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy8e2vx2l30o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
+      "id": "1d03cf0dcfe81e9b",
+      "title": "Cats and dogs are missing meals after a popular smart feeder went down",
+      "url": "https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders",
+      "source": "The Verge",
+      "category": "creativity_arts",
       "region": "global",
-      "publishedAt": "2026-08-12T21:18:21.000Z",
-      "summary": "Cristian Romero is set to join La Liga side Atletico Madrid as they agree a £34.2m fee with Tottenham for their captain."
+      "publishedAt": "2026-08-12T21:07:17.000Z",
+      "summary": "Petlibro’s Granary 2 feeder. | Image: Petlibro A Petlibro outage is preventing its smart pet feeders and other devices from performing scheduled tasks, like dispensing food. The outage began on Tuesday, with users across Reddit reporting that their smart feeders, litter boxes, and water fountains have gone offline. Though Petlibro maintains that \"existing settings and schedules stored locally on your device will cont"
     },
     {
       "id": "be3e985706081e68",
@@ -360,16 +400,6 @@
       "region": "global",
       "publishedAt": "2026-08-12T20:52:20.000Z",
       "summary": "Despite growing opposition to the death penalty, one state is behind the rising numbers."
-    },
-    {
-      "id": "36292b70fe6d49f8",
-      "title": "Messi's most iconic moments as he ponders retirement",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74x9zd83vlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-12T20:32:58.000Z",
-      "summary": "As Lionel Messi considers his footballing future following the death of his father, BBC Sport looks back at some of his most iconic moments."
     },
     {
       "id": "88f830d5b05328a6",
@@ -442,16 +472,6 @@
       "summary": "Immigration and Customs Enforcement (ICE) is aiming to spend up to $20 million on equipping officers and agents with specialized gloves that deliver painful electric shocks. These plans were outlined in a notice published by the Department of Homeland Security on Monday, with an unspecified quantity of the devices set to be delivered by March 2027. The electrified handwear outlined in the contract is the CTG 5 GLOVE "
     },
     {
-      "id": "72819eacb58db336",
-      "title": "Post your questions for Amy Lee of Evanescence",
-      "url": "https://www.theguardian.com/music/2026/aug/12/post-your-questions-for-amy-lee-of-evanescence",
-      "source": "The Guardian Culture",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-08-12T16:37:27.000Z",
-      "summary": "The metal icon is here to answer your questions about the band’s 90s origins, MTV fame and being trailblazer in a male dominated genre It is 23 years since Evanescence released one of the defining debut singles of the 2000s, Bring Me to Life, frontperson Amy Lee’s account of escaping an abusive relationship. Since then, the Arkansas band – essentially Lee’s project – have become a towering force in rock, selling mill"
-    },
-    {
       "id": "0be1385506003808",
       "title": "Watch: Hydrogen car breaks land speed record at 406 mph",
       "url": "https://www.bbc.co.uk/news/videos/cvgjz88zpr1o?at_medium=RSS&at_campaign=rss",
@@ -460,26 +480,6 @@
       "region": "global",
       "publishedAt": "2026-08-12T16:30:07.000Z",
       "summary": "The new record surpasses the previous official hydrogen combustion title set in 2004 by more than double the speed."
-    },
-    {
-      "id": "dc4adb5d1db37a19",
-      "title": "Israeli settlers besieging Palestinian families in West Bank village",
-      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-08-12T16:14:08.000Z",
-      "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday."
-    },
-    {
-      "id": "5cd10ee1b4cc477b",
-      "title": "LA Lakers to be sold in record $12.5bn deal",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-12T16:11:04.000Z",
-      "summary": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise."
     },
     {
       "id": "6598fceab1d86076",
@@ -532,6 +532,16 @@
       "summary": "Efan Dafydd's love of the cosmos continued to grow after meeting his hero, astronaut Tim Peake."
     },
     {
+      "id": "0d15415054ba8ed4",
+      "title": "Bakery buys comedian's former sites after closure",
+      "url": "https://www.bbc.co.uk/news/articles/cr491p70dv5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-12T12:46:31.000Z",
+      "summary": "Bakery business Janes Pantry confirms its plans to reopen at least 20 of the Coughlans shops."
+    },
+    {
       "id": "42c7e05a032db742",
       "title": "When and where in the West Country to see the solar eclipse",
       "url": "https://www.bbc.co.uk/news/articles/cjrvn0wez48o?at_medium=RSS&at_campaign=rss",
@@ -570,6 +580,16 @@
       "region": "global",
       "publishedAt": "2026-08-12T09:00:24.000Z",
       "summary": "After the introduction of a key character in Spider-Man: Brand New Day, Marvel is bringing back one of its most beloved franchises – but the return comes at a precarious time Later-period Marvel movies have resorted to more fantastical plot devices such as parallel universes and time travel in an attempt to raise stakes in an increasingly complicated, superhero-populated cinematic universe. After Spider-Man: Brand Ne"
+    },
+    {
+      "id": "331e000358e16c39",
+      "title": "Jaguar Land Rover owner Tata Group's chairman to step down",
+      "url": "https://www.bbc.co.uk/news/articles/c1512909pgpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-12T08:50:52.000Z",
+      "summary": "Chandrasekaran said he would not seek reappointment when his term ends due to a lack of support from the Tata Sons board."
     },
     {
       "id": "954e9e3cf0cf280b",
@@ -612,16 +632,6 @@
       "summary": "Uncertainty over a ceasefire agreement between Iran and the United States, coupled with new attacks on ships in the Middle East, has escalated concerns about global energy supply. As a… The post International Oil Prices See Significant Jump appeared first on Bangla Online News Portal."
     },
     {
-      "id": "c1c7904e6444fcb4",
-      "title": "British driver who broke sound barrier sets new speed record",
-      "url": "https://www.bbc.co.uk/news/articles/czjl2yzx8epo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-08-12T05:24:53.000Z",
-      "summary": "Andy Green set the fastest time ever recorded in a hydrogen-powered car, reaching 406mph (654km/h)."
-    },
-    {
       "id": "ea524a0a6ad461f7",
       "title": "Mass evacuations in Beijing as Typhoon Dolphin brings more torrential rain to China",
       "url": "https://www.theguardian.com/world/2026/aug/12/tyhpoon-dolphin-beijing-thousands-evacuated-flooding-rainfall",
@@ -630,6 +640,16 @@
       "region": "americas",
       "publishedAt": "2026-08-12T04:43:19.000Z",
       "summary": "Forecasters warned the Chinese capital could receive more than one-third of its average annual rainfall over 24 hours Thousands of people have been evacuated from areas at risk of flooding and landslides in Beijing, as the remnants of Typhoon Dolphin continue to bring torrential rain to northern and central China. Forecasters warned on Tuesday that the Chinese capital could receive more than 150mm of rain over the fo"
+    },
+    {
+      "id": "c5f55a5a1bf985f3",
+      "title": "PM admits cost of living help is not enough and hints at further support",
+      "url": "https://www.bbc.co.uk/news/articles/cgmkee248vdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-12T04:13:45.000Z",
+      "summary": "The PM has announced a rake of measures to help people since taking office three weeks ago."
     },
     {
       "id": "b76261c24d458336",
@@ -660,16 +680,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-08-11T15:10:15.000Z",
       "summary": "Three large state-owned jute mills, which had been shut down for a long time, are finally set to resume operations under private management. This will create new employment opportunities for… The post 3 State-Owned Jute Mills to Resume Operation, Creating 11,000 Jobs appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "e3eea61a1af8dd1a",
-      "title": "Canadian airline cancels flight after child refuses to wear seatbelt",
-      "url": "https://www.theguardian.com/business/2026/aug/11/canadian-airline-cancels-flight-after-child-refuses-to-wear-seatbelt",
-      "source": "The Guardian World",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-11T14:03:28.000Z",
-      "summary": "Flight from Victoria to Toronto forced to return to terminal after repeated attempts to secure child in seat failed A Canadian airline cancelled a flight from Victoria to Toronto after a child refused to wear a seatbelt. The child was standing in their chair as the 6 August Porter Airlines flight taxied towards the runway, the airline said. Repeated attempts by an accompanying parent and crew to secure the child in t"
     },
     {
       "id": "d98110dfc2d2a609",
@@ -820,16 +830,6 @@
       "region": "europe",
       "publishedAt": "2026-08-07T21:44:38.000Z",
       "summary": "Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta Spain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measures after a mass rush of people from Morocco into Ceuta. The checks, which come “amid the persistent irregular migration pressure” facing Italy, will start at midnight on Saturday and last until 7 Sept"
-    },
-    {
-      "id": "5d8b76eb935263d0",
-      "title": "Judge approves Trump effort to end South Sudan TPS protections",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
-      "source": "The Guardian World",
-      "category": "war_conflict",
-      "region": "africa",
-      "publishedAt": "2026-08-07T18:34:34.000Z",
-      "summary": "Decision follows supreme court ruling that allowed US government to strip protections for Haitians and Syrians Temporary protected status (TPS) for hundreds of South Sudanese nationals in the United States is set to end after a federal judge ruled that the Trump administration can move forward with stripping their protections. On Friday, US district judge Patti Saris of the district of Massachusetts rejected an attem"
     },
     {
       "id": "64516e037c5621f9",
