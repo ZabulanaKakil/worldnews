@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T17:03:31.122Z",
+  "generatedAt": "2026-08-13T19:12:38.299Z",
   "articles": [
     {
       "id": "bfe785f273b00158",
@@ -7,9 +7,179 @@
       "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-08-13T19:07:55.000Z",
+      "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
+    },
+    {
+      "id": "d89b2685b7e26c84",
+      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
       "region": "global",
-      "publishedAt": "2026-08-13T17:01:50.000Z",
-      "summary": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been at sea since November."
+      "publishedAt": "2026-08-13T18:45:51.000Z",
+      "summary": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison."
+    },
+    {
+      "id": "d613c825a98c5440",
+      "title": "Kerr's Europeans absence ruining the sport - Ingebrigtsen",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cewrp0np7ppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-08-13T18:39:26.000Z",
+      "summary": "Jakob Ingebrigtsen says he is \"very\" disappointed by British rival Josh Kerr's decision to miss the European Championships in Birmingham."
+    },
+    {
+      "id": "d60ce3a2847a89f6",
+      "title": "Europe swelters in latest wave of extreme heat",
+      "url": "https://www.aljazeera.com/news/2026/8/13/europe-swelters-in-latest-wave-of-extreme-heat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "weather_climate",
+      "region": "europe",
+      "publishedAt": "2026-08-13T18:34:51.000Z",
+      "summary": "UK records its hottest day of the year as the temperature in west London reaches 38.1 degrees Celsius."
+    },
+    {
+      "id": "6963303f0ba98a83",
+      "title": "Carrick urges Manchester United to sign more transfers to boost title bid",
+      "url": "https://www.aljazeera.com/sports/2026/8/13/carrick-urges-manchester-united-to-sign-more-transfers-to-boost-title-bid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-08-13T18:33:28.000Z",
+      "summary": "United's preseason outlay pales in comparison with some of their fellow title contenders."
+    },
+    {
+      "id": "19ead2a7c56c13c6",
+      "title": "GB teenager Nowacki wins dramatic European gold",
+      "url": "https://www.bbc.co.uk/sport/swimming/articles/cre4peze9yyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-08-13T18:32:07.000Z",
+      "summary": "British teenager Filip Nowacki claims a dramatic gold in the men's 200m breaststroke final at the European Aquatics Championships in Paris."
+    },
+    {
+      "id": "4476b43509e99e89",
+      "title": "I finally found a robot lawnmower I’d trust with my yard",
+      "url": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "americas",
+      "publishedAt": "2026-08-13T18:30:00.000Z",
+      "summary": "From left, Segway, Roborock, Dreame, Husqvarna, and Mammotion automowers lined up to do battle with my lawn. | Photo: Jennifer Pattison Tuohy / The Verge Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these autonomous cutting machines to tear up your lawn or go roaming in your neighbors’ yard, you’re stil"
+    },
+    {
+      "id": "bb1e38bd4881b914",
+      "title": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
+      "url": "https://www.aljazeera.com/news/2026/8/13/judge-nixes-trump-lawsuit-alleging-harvard-did-not-protect-jewish-students?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-13T18:28:14.000Z",
+      "summary": "Ruling latest setback in Trump administration response to Gaza war protests that swept college campuses."
+    },
+    {
+      "id": "7dedb498497b4e5b",
+      "title": "Hackers breach govt webmail while running parallel crypto fraud",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-08-13T18:15:19.000Z",
+      "summary": "The Jewelbug hacker group has been carrying out espionage operations targeting governments and militaries while also engaging in cryptocurrency fraud. [...]"
+    },
+    {
+      "id": "21648647670d7af4",
+      "title": "New UN plastic treaty is going backwards, experts say",
+      "url": "https://www.theguardian.com/environment/2026/aug/13/new-un-plastic-treaty-going-backwards-experts",
+      "source": "The Guardian Environment",
+      "category": "diplomacy",
+      "region": "global",
+      "publishedAt": "2026-08-13T18:10:07.000Z",
+      "summary": "NGOs say agreement held back by tenuous human health commitments and lobbying from plastic industry The latest version of the long overdue plastic treaty is even less ambitious than the previous one, according to experts. A year after UN plastics treaty negotiations collapsed in Geneva in 2025, diplomats met informally in Nairobi between 30 June and 3 July, aiming to flesh out a new “no surprises” document. Continue "
+    },
+    {
+      "id": "f8d482a74c69fd61",
+      "title": "Poland arrests man who allegedly tried to kill Ukrainian American",
+      "url": "https://www.aljazeera.com/news/2026/8/13/poland-arrests-man-who-allegedly-tried-to-kill-ukrainian-american?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-08-13T18:04:43.000Z",
+      "summary": "The suspect has been identified as a Russian citizen who planned to kill one of Moscow's critics in Warsaw."
+    },
+    {
+      "id": "cd8df85c92a7fb9b",
+      "title": "Fossils show huge carbon emissions harm forests, not ‘green the planet’",
+      "url": "https://www.theguardian.com/us-news/2026/aug/13/forests-carbon-dioxide-emissions",
+      "source": "The Guardian Environment",
+      "category": "environment",
+      "region": "global",
+      "publishedAt": "2026-08-13T18:00:04.000Z",
+      "summary": "Study of 56m-year-old leaves counters claims from Trump administration members of ‘benefits’ of fossil fuel pollution Adding huge quantities of carbon dioxide into the atmosphere is set to cause the Earth’s forests to wither and die rather than flourish, according to a new study that counters erroneous claims that fossil fuel pollution will green the planet. An analysis of fossilized leaf cells from a period known as"
+    },
+    {
+      "id": "5f9b91bd2a42bbc8",
+      "title": "You can now just point at a mess and this robot vacuum will suck it up",
+      "url": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-08-13T18:00:00.000Z",
+      "summary": "The Matic robot vacuum now offers gesture controlled spot cleaning and a built-in voice assistant. | Photo by Jennifer Pattison Tuohy / The Verge Matic, my current favorite robot vacuum, just got a big upgrade. The company has launched Matic Cues, which brings voice and gesture control to the robot. Now, you can talk directly to your vacuum to tell it what you want it to do, or just point at a mess to have it spot-cl"
+    },
+    {
+      "id": "d9b7bab2524ba6b8",
+      "title": "Gaza mural for Burger King worker fired for shouting ‘Free Palestine’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/gaza-mural-for-burger-king-worker-fired-for-shouting-free?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "middle_east",
+      "publishedAt": "2026-08-13T17:57:21.000Z",
+      "summary": "Artists in Gaza painted a mural honouring former Burger King employee Arianna Hamilton."
+    },
+    {
+      "id": "f9810e9de741ce7f",
+      "title": "Microsoft patches LegacyHive Windows zero-day vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-08-13T17:46:20.000Z",
+      "summary": "Microsoft has released security patches to address a Windows zero-day vulnerability known as \"LegacyHive,\" disclosed after the July 2026 Patch Tuesday. [...]"
+    },
+    {
+      "id": "217a1f8a9cf206a0",
+      "title": "Trump administration ‘gutted’ federal civil rights enforcement, HRW says",
+      "url": "https://www.aljazeera.com/news/2026/8/13/trump-administration-gutted-federal-civil-rights-enforcement-hrw-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-13T17:46:18.000Z",
+      "summary": "A new report finds key federal agencies have stopped providing oversight of civil rights laws nationally."
+    },
+    {
+      "id": "12f899a108cf8ff3",
+      "title": "Mirza Fakhrul: From Student Politics to the Presidency",
+      "url": "https://www.bd24live.com/mirza-fakhrul-from-student-politics-to-the-presidency/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-13T17:40:15.000Z",
+      "summary": "Mirza Fakhrul Islam Alamgir, whose political journey began in his student days, is now poised to assume the nation’s highest constitutional office, the presidency. This follows a five-decade-long career in… The post Mirza Fakhrul: From Student Politics to the Presidency appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "8104efa8a98dc04e",
+      "title": "AI 'watermark removers' flood the web. Almost none can prove they work.",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/",
+      "source": "BleepingComputer",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-08-13T17:33:28.000Z",
+      "summary": "Multiple 'watermark removers' have surfaced days after Anthropic began watermarking text generated by Claude, including an open source project with over 4,500 GitHub stars and paid AI detection evasion services. None of the tools' claims about defeating the text watermark can be verified, as Anthropic has not released a detector. [...]"
     },
     {
       "id": "93c72ebcc3eae476",
@@ -20,16 +190,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-08-13T16:52:15.000Z",
       "summary": "It comes after one of its planes suddenly lost altitude last week, with a number of passengers injured."
-    },
-    {
-      "id": "d89b2685b7e26c84",
-      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-      "url": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-13T16:45:06.000Z",
-      "summary": "Mangione faces two federal stalking crimes that carry a maximum penalty of life in prison without parole."
     },
     {
       "id": "1738111cbc8d6c5d",
@@ -52,14 +212,14 @@
       "summary": "US senators call for inquiry as USS Lincoln has record-long period without port stop amid war on Iran."
     },
     {
-      "id": "b3705d6a2ccd06ea",
-      "title": "Is Russia’s economy cracking despite the Iran war windfall?",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-13T16:40:42.000Z",
-      "summary": "A widening deficit and Ukrainian strikes are testing Russia's economy, even as war in the Middle East lifts oil revenue."
+      "id": "aefba9d20cb80735",
+      "title": "2K launches new studio to build its &#8216;next blockbuster sports franchise&#8217;",
+      "url": "https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer",
+      "source": "The Verge",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-13T16:38:15.000Z",
+      "summary": "2K is launching a new AAA game development studio, Small Axe Studios, with an ambitious goal: to build the company's \"next blockbuster sports franchise,\" according to a LinkedIn post. The post doesn't explicitly say what sport this new game will focus on. But an image included in the post features what appears to be a mockup soccer badge, indicating that Small Axe might be making a soccer game that goes head-to-head "
     },
     {
       "id": "b4e32e2c33e2b5aa",
@@ -82,6 +242,16 @@
       "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks."
     },
     {
+      "id": "d0e916f41f084022",
+      "title": "Meta adds AI screening to detect WhatsApp scams",
+      "url": "https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-08-13T16:10:06.000Z",
+      "summary": "Meta is launching an optional Scam Alert feature on WhatsApp that uses on-device machine learning to flag suspicious messages. Earlier this year, Meta also launched scam detection for device linking requests on WhatsApp. The new Scam Alert feature, which is rolling out in a limited beta, shows users a warning if a chat seems like a scam: If the model identifies a message as a likely scam attempt, the user sees a warn"
+    },
+    {
       "id": "0444e3434392ce77",
       "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
       "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
@@ -92,14 +262,14 @@
       "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days."
     },
     {
-      "id": "ac4d54cf6bce3d82",
-      "title": "Handling hate and seeking stability - Fofana's Chelsea journey",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62vddx10gjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
+      "id": "552a31e0225b7f38",
+      "title": "The Corvette Grand Sport X delivers Porsche 911 performance for a fraction of the price",
+      "url": "https://www.theverge.com/transportation/979125/corvette-grand-sport-x-review-specs-price",
+      "source": "The Verge",
+      "category": "weather_climate",
       "region": "global",
-      "publishedAt": "2026-08-13T16:02:57.000Z",
-      "summary": "Wesley Fofana shed tears, faced criticism for laughing at the wrong moment and exposed racist abuse last season but believes stability will lead to \"amazing\" Chelsea future."
+      "publishedAt": "2026-08-13T16:00:00.000Z",
+      "summary": "My drive of the 2027 Corvette Grand Sport X began under oily black clouds, a torrential weather front releasing its grip on Manhattan - an inauspicious start for any mega-powered sports car. Rain pelted the waterlogged pavement, as I set course for the mountain-man roads of the Catskills, then on to Long Island and New England over three days. Fortunately, this Grand Sport, a name synonymous with value among Corvette"
     },
     {
       "id": "20c5066f450fc30d",
@@ -112,16 +282,6 @@
       "summary": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\"."
     },
     {
-      "id": "adb9322f083f9d86",
-      "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
-      "url": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-13T15:27:52.000Z",
-      "summary": "Analysts say Saudi Arabia is strengthening its position with regional allies as the Houthis increase their attacks."
-    },
-    {
       "id": "91768ac46c25c282",
       "title": "Trezor discloses data breach affecting nearly 14,000 customers",
       "url": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
@@ -130,16 +290,6 @@
       "region": "global",
       "publishedAt": "2026-08-13T15:13:19.000Z",
       "summary": "Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping and logistics provider, was hacked [...]"
-    },
-    {
-      "id": "ef3ea9b6f43208a4",
-      "title": "Turkiye’s AK Party turns 25: A journey of change and renewal",
-      "url": "https://www.aljazeera.com/opinions/2026/8/13/turkiyes-ak-party-turns-25-a-journey-of-change-and-renewal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-13T15:07:42.000Z",
-      "summary": "In a quarter-century, the party has strengthened democracy, driven development and elevated Turkiye’s global standing."
     },
     {
       "id": "a195c9547194340a",
@@ -152,16 +302,6 @@
       "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law."
     },
     {
-      "id": "415c7088702ebd27",
-      "title": "Iran says Strait of Hormuz under its control, rejects Trump claims",
-      "url": "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-13T14:59:42.000Z",
-      "summary": "Iran asserts full control over the Strait of Hormuz, challenging US claims of dominance in the strategic waterway."
-    },
-    {
       "id": "9e35a899a3b6f087",
       "title": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
       "url": "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&at_campaign=rss",
@@ -170,36 +310,6 @@
       "region": "americas",
       "publishedAt": "2026-08-13T14:51:44.000Z",
       "summary": "A fifth has been reinstated, though an appeals board found that the whole group broke Hockey Canada's code of conduct."
-    },
-    {
-      "id": "dafe28d7188721d4",
-      "title": "Pro-Palestine football fans lament West Ham for signing Manor Solomon",
-      "url": "https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "middle_east",
-      "publishedAt": "2026-08-13T14:41:58.000Z",
-      "summary": "The 27-year-old Israeli player has used his platform to defend Israel amid the genocide in Gaza."
-    },
-    {
-      "id": "5b78d3b336b51c4c",
-      "title": "Oman says massive oil spill reaches coastline: What damage could it do?",
-      "url": "https://www.aljazeera.com/news/2026/8/13/oman-says-massive-oil-spill-reaches-coastline-what-damage-could-it-do?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-13T14:29:58.000Z",
-      "summary": "Oil has been spilling from the Caroline Bezengi, a tanker that has been leaking crude since running aground off Oman."
-    },
-    {
-      "id": "7a935055ec76e629",
-      "title": "Henriques chasing 'cricket nirvana' with Portugal",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c2k725q70zqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-13T14:22:19.000Z",
-      "summary": "Moises Henriques says helping Portugal qualify for their first-ever men's T20 World Cup would be cricket \"nirvana\" at the twilight of his playing career."
     },
     {
       "id": "cea4457b32d67fab",
@@ -212,14 +322,14 @@
       "summary": "Disciplinary proceedings under way after security concerns raised over reported visits to official residence France has opened disciplinary proceedings against its ambassador to Central African Republic over allegations of misconduct, after claims he brought dozens of women into his official residence, raising potential security concerns. The investigation comes as Paris seeks to rebuild relations with CAR after thei"
     },
     {
-      "id": "643eb0ba22eea5c7",
-      "title": "Does Google even want to win at AI?",
-      "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "americas",
-      "publishedAt": "2026-08-13T14:10:31.000Z",
-      "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the company’s chief scientist, is leaving to form his own startup and DeepMind cofounder and CEO Demis Hassab"
+      "id": "6abeef89b18b8aae",
+      "title": "The main contenders to replace Rodri at Man City",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czdm2myqvyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-13T14:18:05.000Z",
+      "summary": "As a move for Manchester City midfielder Rodri looks increasingly likely, BBC Sport takes a look at the options to replace him."
     },
     {
       "id": "2980febf2d9dcf0e",
@@ -252,36 +362,6 @@
       "summary": "AI coding tools can introduce unvetted or hallucinated open source dependencies faster than traditional security reviews can keep pace. ActiveState explains why organizations should govern packages at the point of selection, before they enter the development pipeline. [...]"
     },
     {
-      "id": "d7ab642ce1122aa3",
-      "title": "Imelda Staunton: ‘Umbridge’s giggle needed to be short and sharp. So I just did a boom, boom’",
-      "url": "https://www.theguardian.com/film/2026/aug/13/imelda-staunton-interview-umbridge-harry-potter",
-      "source": "The Guardian Culture",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-08-13T14:00:01.000Z",
-      "summary": "The actor answers your questions on working with her dog, becoming a dame, Harry Potter, and making televisual history in The Singing Detective You and Bill Nighy were comrades in Pride, but play estranged spouses in & Sons. Was it more fun marching alongside him or giving him a piece of your mind? MrSOBaldrick It’s fun doing anything with Bill Nighy! I once saw you at RHS Garden Wisley. Are you a keen gardener? What"
-    },
-    {
-      "id": "bd4509a205042c69",
-      "title": "Rivian is finally getting a long-requested feature — and no, it’s not CarPlay",
-      "url": "https://www.theverge.com/transportation/978093/rivian-r1s-r1t-2027-captains-chairs",
-      "source": "The Verge",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-08-13T14:00:00.000Z",
-      "summary": "Rivian R1S owners, rejoice. Rivian has heard your pleas for second-row captain's chairs. For years, Rivian owners have lamented the absence of captain's chairs in the R1S, noting that the three-row SUV would be much improved with standalone seats instead of a bench in the second row. Parents groused that loading and unloading kids in the R1S could be a headache, especially with a child's seat in the second row. And s"
-    },
-    {
-      "id": "5619376c41ff6e70",
-      "title": "Hodgkinson into 800m final and Werro through despite nasty fall",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/cgq5pd4n0y5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-08-13T13:43:15.000Z",
-      "summary": "Keely Hodgkinson reaches the women's 800m final at the European Championships - moments after rival Audrey Werro suffers a dramatic fall that put her place in doubt."
-    },
-    {
       "id": "3cbbf1eb7b7ae0b1",
       "title": "Bangladesh dominate Australia despite Smith reprieve",
       "url": "https://www.bbc.co.uk/sport/cricket/articles/c86ndx87e8eo?at_medium=RSS&at_campaign=rss",
@@ -312,16 +392,6 @@
       "summary": "South American fish with razor-toothed jaws was probably released by someone who owned it as a pet, officials say An eight-year-old boy fishing for bass in Pennsylvania was stunned to catch something more associated with the Amazon – and countless horror movies – than the rolling landscape of the eastern US. Seamus Coffey, who was fishing with his father Michael in a lake near Philadelphia, hauled in a large red-bell"
     },
     {
-      "id": "507aaa9cfcc184e1",
-      "title": "White House taps security firms for offensive hack-back operations",
-      "url": "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "americas",
-      "publishedAt": "2026-08-13T13:30:53.000Z",
-      "summary": "A new White House memo signed by U.S. President Donald Trump instructs the National Coordination Center (NCC) to establish a program that would allow private security companies to apply for approval to hack foreign cybercrime organizations. [...]"
-    },
-    {
       "id": "31c7767ab819fcc4",
       "title": "Flock boss admits surveillance firm took too long to act over police abuse",
       "url": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
@@ -332,26 +402,6 @@
       "summary": "US police officers have quit after using licence plate-reading cameras to track romantic partners."
     },
     {
-      "id": "9956669a60f9f356",
-      "title": "Nintendo’s next Fire Emblem has a bold new structure",
-      "url": "https://www.theverge.com/games/977955/fire-emblem-fortunes-weave-preview-impressions-nintendo-switch-2",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-08-13T13:00:00.000Z",
-      "summary": "Nintendo's first Fire Emblem game for the Switch 2 is structured in an ambitious way. Unlike the well-loved Three Houses, a strategy game that tasked you with pledging allegiance to a specific faction and seeing their story all the way to the end, the new Fortune's Weave lets you swap between four heroes and their compatriots so you can tackle multiple storylines at once. With Three Houses, I only ever played one pat"
-    },
-    {
-      "id": "aa5f1ed17d8decc9",
-      "title": "Flock CEO: ‘We got this one wrong’",
-      "url": "https://www.theverge.com/policy/979339/flock-ceo-audits-data-retention",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-08-13T13:00:00.000Z",
-      "summary": "Surveillance tech company Flock is rolling out updates to address reports of cops across the country abusing its tools to stalk ex-romantic partners and others. CEO Garrett Langley is delivering a mea culpa, and in an interview with The Verge, says he's changed his mind on what responsibility Flock bears for how law enforcement uses it. Over the coming weeks, Flock will begin implementing updates that include requiri"
-    },
-    {
       "id": "eb178f701754e7ed",
       "title": "California bans paraquat, highly toxic herbicide outlawed in more than 70 countries",
       "url": "https://www.theguardian.com/us-news/2026/aug/13/california-paraquat-ban-pesticide",
@@ -360,16 +410,6 @@
       "region": "americas",
       "publishedAt": "2026-08-13T12:00:00.000Z",
       "summary": "State is US’s largest user of pesticide that is virtually proven to cause Parkinson’s disease California is banning paraquat, a highly toxic, controversial herbicide used across millions of acres of American cropland. Public health advocates characterize it as a deadly substance that is virtually proven to cause Parkinson’s disease. It is already outlawed in more than 70 countries, including China, the UK and the EU."
-    },
-    {
-      "id": "fd5d95a6f2b6d1ef",
-      "title": "Severe storms cut power supply to 540,000 homes in US midwest",
-      "url": "https://www.theguardian.com/us-news/2026/aug/13/power-outages-midwest-indiana-storms",
-      "source": "The Guardian Environment",
-      "category": "weather_climate",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-13T11:49:29.000Z",
-      "summary": "Indiana faced most outages at 267,000, about 8% of its customers, with severe thunderstorms and wind ahead Power supply was cut on Thursday ⁠to about 540,000 homes and businesses across the US midwest as severe storms battered the region, data ⁠from PowerOutage.us showed. Indiana ⁠was the ​hardest-hit state, with more than 267,000 outages, representing about 8% of its roughly 3.3 million customers, the data ⁠showed. "
     },
     {
       "id": "b919fd217bf8500a",
@@ -470,16 +510,6 @@
       "region": "africa",
       "publishedAt": "2026-08-12T23:19:28.000Z",
       "summary": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle."
-    },
-    {
-      "id": "1d529c2f924c562a",
-      "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
-      "url": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-08-12T23:07:23.000Z",
-      "summary": "An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. [...]"
     },
     {
       "id": "b2e7c4656372e45a",
@@ -772,16 +802,6 @@
       "summary": "Indian High Commissioner to Dhaka, Dinesh Trivedi, met with Prime Minister Tarique Rahman to further strengthen Bangladesh-India bilateral relations. During the meeting, discussions were held on economic cooperation between the… The post Indian High Commissioner Meets Prime Minister to Strengthen Bangladesh-India Ties appeared first on Bangla Online News Portal."
     },
     {
-      "id": "589ebc095d8f5529",
-      "title": "“Why Are You Calling It Bad? It’s a Beautiful Result”: Education Minister",
-      "url": "https://www.bd24live.com/why-are-you-calling-it-bad-its-a-beautiful-result-education-minister/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-10T06:35:13.000Z",
-      "summary": "Despite a decrease in both the pass rate and the number of GPA-5 recipients in this year’s SSC and equivalent examinations, Education Minister Dr. ANM Ehsanul Haque Milon has described… The post “Why Are You Calling It Bad? It’s a Beautiful Result”: Education Minister appeared first on Bangla Online News Portal."
-    },
-    {
       "id": "4fa8890dafdf7800",
       "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
       "url": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
@@ -820,6 +840,16 @@
       "region": "global",
       "publishedAt": "2026-08-06T15:59:34.000Z",
       "summary": "A flood of companies are revealing AI models gained access to the internet - with real consequences."
+    },
+    {
+      "id": "18db62ca0350dae3",
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "source": "Krebs on Security",
+      "category": "technology",
+      "region": "americas",
+      "publishedAt": "2026-07-22T01:10:38.000Z",
+      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties to route their Internet traffic through a user's TV."
     },
     {
       "id": "0c7c57ee5e25207d",
