@@ -1,6 +1,76 @@
 {
-  "generatedAt": "2026-08-14T19:06:02.434Z",
+  "generatedAt": "2026-08-14T20:37:14.789Z",
   "articles": [
+    {
+      "id": "ae67736895fd391d",
+      "title": "Walter puts dominant Super Giants in Hundred final",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c0qvy5p5gdlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-14T20:32:45.000Z",
+      "summary": "All-rounder Paul Walter is the unlikely star with 80 off 46 balls as Manchester Super Giants comfortably beat Sunrisers Leeds to reach the men's Hundred final."
+    },
+    {
+      "id": "dead286a01e4bcf8",
+      "title": "Dozens injured and thousands evacuated in Croatia wildfire",
+      "url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "disasters",
+      "region": "americas",
+      "publishedAt": "2026-08-14T20:22:56.000Z",
+      "summary": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history."
+    },
+    {
+      "id": "9c9efbe2d45b4793",
+      "title": "Son of Mexico’s former president AMLO alleges US revoked his visa",
+      "url": "https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "americas",
+      "publishedAt": "2026-08-14T19:44:43.000Z",
+      "summary": "The US has not confirmed the revocation which comes amid crackdown on Mexican politicians with alleged ties to cartels."
+    },
+    {
+      "id": "cc34fed31bdef528",
+      "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
+      "url": "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-08-14T19:43:03.000Z",
+      "summary": "British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal."
+    },
+    {
+      "id": "6c83a424b01066ca",
+      "title": "New aerial video reveals huge scale of oil spill off Oman",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "environment",
+      "region": "europe",
+      "publishedAt": "2026-08-14T19:36:45.000Z",
+      "summary": "A potential environmental disaster is unfolding off Oman, where a grounded tanker is leaking sanctioned Russian oil."
+    },
+    {
+      "id": "b00720c6a1002746",
+      "title": "Samsung has new Galaxy headphones in the works",
+      "url": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-08-14T19:18:45.000Z",
+      "summary": "Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly referring to the headphones as the \"Galaxy H1,\" and SamMobile says they could launch sometime in 2027. That would make these the company's first pair of over-ear headphones since the Level On in 2015, which was released well before Samsung ac"
+    },
+    {
+      "id": "48d458168e3845ad",
+      "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+      "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-08-14T19:17:16.000Z",
+      "summary": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns."
+    },
     {
       "id": "28e223a24c72ba42",
       "title": "Trump asks Supreme Court to allow ballroom work to continue",
@@ -12,24 +82,54 @@
       "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says."
     },
     {
-      "id": "9b3841e72936708f",
-      "title": "Burnham criticised for EV and North Sea drilling decisions as wildfires heighten climate fears",
+      "id": "925d1bcb80b1b66c",
+      "title": "Trump asks US Supreme Court to allow $400m ballroom project to proceed",
+      "url": "https://www.aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-14T19:02:49.000Z",
+      "summary": "Appeals court previously ruled that Trump administration must seek authorisation from Congress to continue with project."
+    },
+    {
+      "id": "94d924cad2b186f0",
+      "title": "Woman charged over vandalism of World War II Memorial in Washington, DC",
+      "url": "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-08-14T18:55:24.000Z",
+      "summary": "The arrest comes weeks after Trump criticised Jeanine Pirro for dropping charges over damage to the Reflecting Pool."
+    },
+    {
+      "id": "70f444d5de84a174",
+      "title": "Burnham criticised for EV and North Sea approach amid climate crisis",
       "url": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-new-ev-sales-targets",
       "source": "The Guardian Environment",
       "category": "disasters",
-      "region": "europe",
-      "publishedAt": "2026-08-14T18:41:08.000Z",
-      "summary": "Reduction in EV sales targets could add millions of tonnes of CO2 to emissions as UK faces impact of global heating Andy Burnham has been criticised for moving to cut electric vehicle (EV) sales targets and accept North Sea drilling at a time of devastating wildfires caused by the climate emergency. The prime minister for the first time acknowledged on Friday that the climate crisis was behind hundreds of wildfires t"
+      "region": "global",
+      "publishedAt": "2026-08-14T18:51:11.000Z",
+      "summary": "Cut in electric vehicle sales targets could add millions of tonnes of CO2 to emissions in UK, say green campaigners Andy Burnham has been criticised for moving to cut electric vehicle (EV) sales targets and accept North Sea drilling at a time of devastating wildfires caused by the climate emergency. The prime minister for the first time acknowledged on Friday that the climate crisis was behind hundreds of wildfires t"
     },
     {
-      "id": "cc34fed31bdef528",
-      "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-08-14T18:40:14.000Z",
-      "summary": "British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal."
+      "id": "0a24810c4252a77c",
+      "title": "Art offers young Gaza survivors solace and escape from war’s devastation",
+      "url": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-14T18:43:36.000Z",
+      "summary": "Young survivors of Israel's genocidal war in Gaza find safe spaces to process trauma and rediscover joy."
+    },
+    {
+      "id": "1d4239a43977a75c",
+      "title": "Italian police recover stolen paintings worth over $10m",
+      "url": "https://www.aljazeera.com/news/2026/8/14/italian-police-recover-stolen-paintings-worth-over-10m?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-14T18:37:59.000Z",
+      "summary": "Nine Moldovans are being investigated in connection with the theft of paintings by Cezanne, Renoir and Matisse."
     },
     {
       "id": "b36fc5d240fadc73",
@@ -40,6 +140,26 @@
       "region": "europe",
       "publishedAt": "2026-08-14T18:32:47.000Z",
       "summary": "The MacBook Neo is an easy recommendation. | Photo by Amelia Holowaty Krales / The Verge If you’re a student looking for an affordable laptop, I have bad news and I have good news. The bad news is that computer prices are out of whack due to the ongoing RAM and storage crunch, making some a little pricier than they used to be and others wildly more expensive. The good news? Despite that, there are still many great op"
+    },
+    {
+      "id": "8182dc265939e125",
+      "title": "CEO pay skyrockets in 2025 amid growing income inequality in the US",
+      "url": "https://www.aljazeera.com/economy/2026/8/14/ceo-pay-skyrockets-in-2025-amid-growing-income-inequality-in-the-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-14T18:28:17.000Z",
+      "summary": "Elon Musk earned 2.5 million times more than a Tesla worker's median pay in 2025, despite revenue and sales declines."
+    },
+    {
+      "id": "554d8a0a7bb76141",
+      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+      "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-14T18:25:38.000Z",
+      "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives."
     },
     {
       "id": "93ab478c28937396",
@@ -82,16 +202,6 @@
       "summary": "Arguably the coolest new photo feature for the Pixel 11 lineup is Google's new Camera Looks, which process image data differently at the sensor level to produce photos that don't have that \"smartphone\" look. The result is new styles like \"Digi,\" which mimics the style of photos taken by older digital cameras. But to use Camera Looks, at least initially, you'll need to have one of Google's Pixel 11 phones. \"Our latest"
     },
     {
-      "id": "6d48297f37d674a9",
-      "title": "Davies calls for WRU board to step down",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c330yrpdlz0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-14T17:12:11.000Z",
-      "summary": "Former Wales captain Jonathan Davies calls for the Welsh Rugby Union board to step down."
-    },
-    {
       "id": "5176cd366d8b8cfa",
       "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
       "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
@@ -120,16 +230,6 @@
       "region": "global",
       "publishedAt": "2026-08-14T16:59:41.000Z",
       "summary": "The 1892 Holdings consortium, led by former QPR chairman Amit Bhatia, also includes Bezos’s K5 Sports Fund."
-    },
-    {
-      "id": "fbc273c6b2d2ac80",
-      "title": "Analysis: Israel’s government can’t disown West Bank settler violence",
-      "url": "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-14T16:46:30.000Z",
-      "summary": "Rights groups warn settler and state-led violence aim to displace Palestinians and annex land in the occupied West Bank."
     },
     {
       "id": "79a4053a314202fc",
@@ -162,16 +262,6 @@
       "summary": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\"."
     },
     {
-      "id": "254a9f48477c53b5",
-      "title": "Philippines drug war victims seek justice through truth commission",
-      "url": "https://www.aljazeera.com/features/2026/8/14/philippines-drug-war-victims-seek-justice-through-truth-commission?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-14T16:08:07.000Z",
-      "summary": "Families of drug war victims testify before the Truth Commission, seeking answers and closure after years of silence."
-    },
-    {
       "id": "fa2e79c7ccfdf4d2",
       "title": "'Days of the farmers' union dictating policy are over' - Muir",
       "url": "https://www.bbc.co.uk/news/articles/cdj0pv2m812o?at_medium=RSS&at_campaign=rss",
@@ -202,36 +292,6 @@
       "summary": "Liverpool's owners agree to sell about a third of the club to a consortium including billionaire Amazon founder Jeff Bezos - in a deal that values the Reds at more than £5bn."
     },
     {
-      "id": "28efd0bc10b0a6c1",
-      "title": "Top French court upholds assisted dying law, rejects teen social media ban",
-      "url": "https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-14T15:52:57.000Z",
-      "summary": "The decisions mark both a victory and a setback for President Emmanuel Macron, who had championed both policies."
-    },
-    {
-      "id": "2d8ffd1d821abe8a",
-      "title": "Mangione pleads guilty to federal charges in UnitedHealthcare CEO killing",
-      "url": "https://www.aljazeera.com/news/2026/8/14/mangione-pleads-guilty-to-federal-charges-in-unitedhealthcare-ceo-killing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-14T15:43:15.000Z",
-      "summary": "Mangione admits to shooting Brian Thompson in federal court, still faces separate state charges."
-    },
-    {
-      "id": "6fcf53a5f09868da",
-      "title": "‘The party of the Cubans’: How Republicans courted a key South Florida vote",
-      "url": "https://www.aljazeera.com/news/longform/2026/8/14/the-party-of-the-cubans-how-republicans-courted-a-key-south-florida-vote?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "americas",
-      "publishedAt": "2026-08-14T15:25:11.000Z",
-      "summary": "Polls suggest Cuban American voters in Florida remain largely Republican, despite frustration over immigration."
-    },
-    {
       "id": "bb4194f27ae652bf",
       "title": "Ramsay-Peaty confused by early exit at Europeans",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/c0m7yxjemj0o?at_medium=RSS&at_campaign=rss",
@@ -240,6 +300,16 @@
       "region": "europe",
       "publishedAt": "2026-08-14T15:24:11.000Z",
       "summary": "Former Olympic and world champion Adam Ramsay-Peaty says he is \"confused\" as his poor run of form continues at the European Aquatics Championships."
+    },
+    {
+      "id": "d96ce59106dd73d8",
+      "title": "Who are the Chawinga sisters leading Malawi's bid for Wafcon glory?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp87rj8v946o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "africa",
+      "publishedAt": "2026-08-14T15:16:55.000Z",
+      "summary": "Sisters Tabitha and Temwa Chawinga are the undoubted stars of Malawi's unexpected run to the final of the 2026 Women's Africa Cup of Nations."
     },
     {
       "id": "4d203794b2c13c2b",
@@ -292,16 +362,6 @@
       "summary": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]"
     },
     {
-      "id": "ebab25c7dce065e8",
-      "title": "Johnson-Thompson boosts heptathlon medal hopes",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/cq561jgg721o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-08-14T13:40:37.000Z",
-      "summary": "Great Britain's Katarina Johnson-Thompson boosts her medal chances at the European Athletics Championships with a strong high jump performance."
-    },
-    {
       "id": "066553f42ab33107",
       "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
       "url": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
@@ -342,16 +402,6 @@
       "summary": "Investors say the actor and singer did not take an \"active role\" in the company as promised."
     },
     {
-      "id": "fcd54ebec4ef47c2",
-      "title": "Who’s Tracking You? Use This New Service to Find Out",
-      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
-      "source": "Krebs on Security",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-08-14T11:24:35.000Z",
-      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtec"
-    },
-    {
       "id": "4a6c5ac46c8c7346",
       "title": "VAR, timewasting and subs - new rules for the new season",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce85pje4gyqo?at_medium=RSS&at_campaign=rss",
@@ -360,16 +410,6 @@
       "region": "global",
       "publishedAt": "2026-08-14T11:00:52.000Z",
       "summary": "The 2026-27 season will feature an unprecedented number of new laws, mostly designed to tackle tempo disruption and make the game quicker."
-    },
-    {
-      "id": "70d482817c76a345",
-      "title": "Hoto’s new cordless soldering iron heats up in three seconds",
-      "url": "https://www.theverge.com/tech/979576/hoto-i-a06-cordless-soldering-iron-snapbloq-rechargeable",
-      "source": "The Verge",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-08-14T11:00:00.000Z",
-      "summary": "Hoto is introducing its first soldering iron through its modular Snapbloq collection that lets you assemble your own custom toolbox by stacking magnetic cases and tools together. The new I-A06 Cordless Soldering Iron can heat to just over 200 degrees Celsius in about three seconds and offers an adjustable temperature range from 100 to up to 450 degrees with customizable presets you can quickly jump to. The full kit v"
     },
     {
       "id": "85b8a358a39e01e0",
@@ -425,8 +465,8 @@
       "id": "5594f0b3dd7fd604",
       "title": "US says dozens of countries helped China dodge Trump's tariffs",
       "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
+      "source": "BBC Business",
+      "category": "economy_business",
       "region": "asia_pacific",
       "publishedAt": "2026-08-14T08:39:46.000Z",
       "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies."
@@ -502,16 +542,6 @@
       "summary": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market."
     },
     {
-      "id": "6df865713a08b915",
-      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-      "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "europe",
-      "publishedAt": "2026-08-13T21:43:47.000Z",
-      "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany."
-    },
-    {
       "id": "0444e3434392ce77",
       "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
       "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
@@ -542,14 +572,14 @@
       "summary": "Mirza Fakhrul Islam Alamgir, whose political journey began in his student days, is now poised to assume the nation’s highest constitutional office, the presidency. This follows a five-decade-long career in… The post Mirza Fakhrul: From Student Politics to the Presidency appeared first on Bangla Online News Portal."
     },
     {
-      "id": "23c6c398e5fe9739",
-      "title": "Temperatures soar to 38C as amber extreme heat warning in effect",
-      "url": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-13T15:53:37.000Z",
-      "summary": "Heat is spiking again on Thursday with a rare warning in place and more records falling."
+      "id": "3960165ef5f3b519",
+      "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+      "source": "The Guardian World",
+      "category": "world_politics",
+      "region": "africa",
+      "publishedAt": "2026-08-13T15:17:13.000Z",
+      "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which killed at least 11,000 people more than a decade ago. The current o"
     },
     {
       "id": "cea4457b32d67fab",
@@ -600,16 +630,6 @@
       "region": "americas",
       "publishedAt": "2026-08-13T12:00:00.000Z",
       "summary": "State is US’s largest user of pesticide that is virtually proven to cause Parkinson’s disease California is banning paraquat, a highly toxic, controversial herbicide used across millions of acres of American cropland. Public health advocates characterize it as a deadly substance that is virtually proven to cause Parkinson’s disease. It is already outlawed in more than 70 countries, including China, the UK and the EU."
-    },
-    {
-      "id": "fe874899219737d6",
-      "title": "Zero hours crackdown could cost firms up to £2.9bn a year",
-      "url": "https://www.bbc.co.uk/news/articles/c0l525k76d0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-08-13T11:12:33.000Z",
-      "summary": "Labour's employment rights bill crackdown on zero hours contracts could cost businesses up to £2.9bn a year, new official analysis has found."
     },
     {
       "id": "d02dd7f36615675d",
@@ -670,6 +690,16 @@
       "region": "asia_pacific",
       "publishedAt": "2026-08-12T23:00:47.000Z",
       "summary": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector."
+    },
+    {
+      "id": "0200ef6774e05633",
+      "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "creativity_arts",
+      "region": "europe",
+      "publishedAt": "2026-08-12T21:53:45.000Z",
+      "summary": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse."
     },
     {
       "id": "3720a0eee2413bb6",
@@ -780,16 +810,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-08-11T15:10:15.000Z",
       "summary": "Three large state-owned jute mills, which had been shut down for a long time, are finally set to resume operations under private management. This will create new employment opportunities for… The post 3 State-Owned Jute Mills to Resume Operation, Creating 11,000 Jobs appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "e3eea61a1af8dd1a",
-      "title": "Canadian airline cancels flight after child refuses to wear seatbelt",
-      "url": "https://www.theguardian.com/business/2026/aug/11/canadian-airline-cancels-flight-after-child-refuses-to-wear-seatbelt",
-      "source": "The Guardian World",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-11T14:03:28.000Z",
-      "summary": "Flight from Victoria to Toronto forced to return to terminal after repeated attempts to secure child in seat failed A Canadian airline cancelled a flight from Victoria to Toronto after a child refused to wear a seatbelt. The child was standing in their chair as the 6 August Porter Airlines flight taxied towards the runway, the airline said. Repeated attempts by an accompanying parent and crew to secure the child in t"
     },
     {
       "id": "d98110dfc2d2a609",
