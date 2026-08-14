@@ -1,6 +1,76 @@
 {
-  "generatedAt": "2026-08-14T17:56:45.258Z",
+  "generatedAt": "2026-08-14T19:06:02.434Z",
   "articles": [
+    {
+      "id": "28e223a24c72ba42",
+      "title": "Trump asks Supreme Court to allow ballroom work to continue",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-14T19:05:22.000Z",
+      "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says."
+    },
+    {
+      "id": "9b3841e72936708f",
+      "title": "Burnham criticised for EV and North Sea drilling decisions as wildfires heighten climate fears",
+      "url": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-new-ev-sales-targets",
+      "source": "The Guardian Environment",
+      "category": "disasters",
+      "region": "europe",
+      "publishedAt": "2026-08-14T18:41:08.000Z",
+      "summary": "Reduction in EV sales targets could add millions of tonnes of CO2 to emissions as UK faces impact of global heating Andy Burnham has been criticised for moving to cut electric vehicle (EV) sales targets and accept North Sea drilling at a time of devastating wildfires caused by the climate emergency. The prime minister for the first time acknowledged on Friday that the climate crisis was behind hundreds of wildfires t"
+    },
+    {
+      "id": "cc34fed31bdef528",
+      "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
+      "url": "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-08-14T18:40:14.000Z",
+      "summary": "British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal."
+    },
+    {
+      "id": "b36fc5d240fadc73",
+      "title": "A RAMageddon guide to back-to-school laptop shopping",
+      "url": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
+      "source": "The Verge",
+      "category": "economy_business",
+      "region": "europe",
+      "publishedAt": "2026-08-14T18:32:47.000Z",
+      "summary": "The MacBook Neo is an easy recommendation. | Photo by Amelia Holowaty Krales / The Verge If you’re a student looking for an affordable laptop, I have bad news and I have good news. The bad news is that computer prices are out of whack due to the ongoing RAM and storage crunch, making some a little pricier than they used to be and others wildly more expensive. The good news? Despite that, there are still many great op"
+    },
+    {
+      "id": "93ab478c28937396",
+      "title": "Luigi Mangione pleads guilty in UnitedHealthcare CEO’s killing",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/luigi-mangione-pleads-guilty-in-unitedhealthcare-ceos-killing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-14T18:09:12.000Z",
+      "summary": "Luigi Mangione pleaded guilty to killing UnitedHealthcare CEO Brian Thompson in 2024."
+    },
+    {
+      "id": "ba5c032a383fa9ed",
+      "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "americas",
+      "publishedAt": "2026-08-14T18:04:26.000Z",
+      "summary": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers' bank accounts. [...]"
+    },
+    {
+      "id": "33a5855088fe9f7b",
+      "title": "British cyclist Finlay Tarling dies in Tour of Portugal crash aged 19",
+      "url": "https://www.aljazeera.com/sports/2026/8/14/british-cyclist-finlay-tarling-dies-in-tour-of-portugal-crash-aged-19?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-14T18:04:08.000Z",
+      "summary": "Organisers said on social media that Tarling died following a 'serious accident' on the stage between Melgaco and Fafe."
+    },
     {
       "id": "45cef567d9077bd0",
       "title": "Google&#8217;s best new camera feature is only for the Pixel 11 series",
@@ -19,7 +89,7 @@
       "category": "sports",
       "region": "global",
       "publishedAt": "2026-08-14T17:12:11.000Z",
-      "summary": "Former Wales captain Jonathan Davies calls for the Welsh Rugby Union (WRU) board to step down."
+      "summary": "Former Wales captain Jonathan Davies calls for the Welsh Rugby Union board to step down."
     },
     {
       "id": "5176cd366d8b8cfa",
@@ -50,16 +120,6 @@
       "region": "global",
       "publishedAt": "2026-08-14T16:59:41.000Z",
       "summary": "The 1892 Holdings consortium, led by former QPR chairman Amit Bhatia, also includes Bezos’s K5 Sports Fund."
-    },
-    {
-      "id": "cc34fed31bdef528",
-      "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-08-14T16:47:21.000Z",
-      "summary": "British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal."
     },
     {
       "id": "fbc273c6b2d2ac80",
@@ -139,7 +199,7 @@
       "category": "sports",
       "region": "global",
       "publishedAt": "2026-08-14T16:00:16.000Z",
-      "summary": "Liverpool's owners agree to sell around a third of the club to a consortium including billionaire Amazon founder Jeff Bezos - in a deal that values the Reds at more than £5bn."
+      "summary": "Liverpool's owners agree to sell about a third of the club to a consortium including billionaire Amazon founder Jeff Bezos - in a deal that values the Reds at more than £5bn."
     },
     {
       "id": "28efd0bc10b0a6c1",
@@ -182,16 +242,6 @@
       "summary": "Former Olympic and world champion Adam Ramsay-Peaty says he is \"confused\" as his poor run of form continues at the European Aquatics Championships."
     },
     {
-      "id": "28e223a24c72ba42",
-      "title": "Trump asks Supreme Court to allow ballroom work to continue",
-      "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-14T15:10:41.000Z",
-      "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says."
-    },
-    {
       "id": "4d203794b2c13c2b",
       "title": "Iberian orca known for ramming boats seen with suspected gunshot wounds",
       "url": "https://www.theguardian.com/environment/2026/aug/14/iberian-orca-known-for-ramming-boats-seen-with-suspected-gunshot-wounds",
@@ -200,16 +250,6 @@
       "region": "europe",
       "publishedAt": "2026-08-14T15:07:10.000Z",
       "summary": "Marine conservationist says deliberate attack would be ‘act of extreme cruelty’ against endangered population Spanish officials have launched an investigation after the matriarch of an orca pod known for jostling and ramming boats off the Iberian Peninsula was spotted with wounds suggesting she had been shot by a pellet gun. On Friday, Spain’s environment ministry said Toñi, the oldest living member of the pod, had b"
-    },
-    {
-      "id": "25bf482ea9a7710e",
-      "title": "Andy Burnham moves to cut new EV sales targets",
-      "url": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-new-ev-sales-targets",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "europe",
-      "publishedAt": "2026-08-14T15:04:37.000Z",
-      "summary": "Possible cut from 80% down to as little as 50% could add millions of tonnes of CO2 to emissions and comes amid UK heatwaves Andy Burnham’s government has said it will look at cutting electric vehicle sales targets, in proposals that could add millions of tonnes a year to the UK’s carbon dioxide emissions. The government launched a consultation on Friday on cutting the target for new EVs to as little as 50% of all new"
     },
     {
       "id": "216508f51c0f6df3",
@@ -232,26 +272,6 @@
       "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, his organisation has said. Serving in Mission International said Kevin Rideout “is in good health in the care of US officials” and would soon be reunited with his extended family. Continue reading..."
     },
     {
-      "id": "d31f9669b0941ffb",
-      "title": "Kushner to visit Israel after Netanyahu rejects Gaza Board of Peace plan",
-      "url": "https://www.aljazeera.com/news/2026/8/14/kushner-to-visit-israel-after-netanyahu-rejects-gaza-board-of-peace-plan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-14T14:48:54.000Z",
-      "summary": "Visit to address Israeli opposition to plan for Hamas to disarm, Israel to withdraw from Gaza, board official says."
-    },
-    {
-      "id": "418ba941638ea609",
-      "title": "Mutual defence: The alliances that preceded Turkiye-Pakistan-Saudi pact",
-      "url": "https://www.aljazeera.com/news/2026/8/14/mutual-defence-the-alliances-that-preceded-turkiye-pakistan-saudi-pact?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-14T14:19:30.000Z",
-      "summary": "The pact says an armed ⁠⁠attack on any one of the ⁠⁠three countries would be ⁠⁠regarded as an ⁠⁠attack against them all."
-    },
-    {
       "id": "a81d5f7cbdc4b333",
       "title": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
       "url": "https://www.theguardian.com/business/2026/aug/14/bp-offshore-gasfield-venezuela-donald-trump",
@@ -260,16 +280,6 @@
       "region": "global",
       "publishedAt": "2026-08-14T14:04:49.000Z",
       "summary": "Move will be one of first large-scale foreign investments in country since US ousted leader Nicolás Maduro in January BP has answered Donald Trump’s call for oil companies to help rebuild Venezuela’s fossil fuel industry with new plans to develop a large offshore gasfield. BP will partner with two oil firms with close links to the Trump administration to develop the second phase of the Loran gasfield, in one of the f"
-    },
-    {
-      "id": "e29bc912e05637e2",
-      "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
-      "url": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
-      "source": "BleepingComputer",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-08-14T14:00:10.000Z",
-      "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain. [...]"
     },
     {
       "id": "26725e9ec174f870",
@@ -332,6 +342,16 @@
       "summary": "Investors say the actor and singer did not take an \"active role\" in the company as promised."
     },
     {
+      "id": "fcd54ebec4ef47c2",
+      "title": "Who’s Tracking You? Use This New Service to Find Out",
+      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "source": "Krebs on Security",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-08-14T11:24:35.000Z",
+      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtec"
+    },
+    {
       "id": "4a6c5ac46c8c7346",
       "title": "VAR, timewasting and subs - new rules for the new season",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce85pje4gyqo?at_medium=RSS&at_campaign=rss",
@@ -372,16 +392,6 @@
       "summary": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo."
     },
     {
-      "id": "f60cc02cfec5f325",
-      "title": "RingCentral data breach exposed info of 1.6 million accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-08-14T10:52:05.000Z",
-      "summary": "The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned. [...]"
-    },
-    {
       "id": "20a9b6f3cb4116fc",
       "title": "'Unprecedented' rain in Japan kills eight people",
       "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
@@ -390,16 +400,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-08-14T10:36:14.000Z",
       "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport."
-    },
-    {
-      "id": "03fb126589129376",
-      "title": "Apple trained its own AI model for China with help from Alibaba",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "americas",
-      "publishedAt": "2026-08-14T09:21:17.000Z",
-      "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with the matter. Developing a custom mod"
     },
     {
       "id": "22e92af36097440e",
@@ -540,16 +540,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-08-13T17:40:15.000Z",
       "summary": "Mirza Fakhrul Islam Alamgir, whose political journey began in his student days, is now poised to assume the nation’s highest constitutional office, the presidency. This follows a five-decade-long career in… The post Mirza Fakhrul: From Student Politics to the Presidency appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "8104efa8a98dc04e",
-      "title": "AI 'watermark removers' flood the web. Almost none can prove they work.",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/",
-      "source": "BleepingComputer",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-08-13T17:33:28.000Z",
-      "summary": "Multiple 'watermark removers' have surfaced days after Anthropic began watermarking text generated by Claude, including an open source project with over 4,500 GitHub stars and paid AI detection evasion services. None of the tools' claims about defeating the text watermark can be verified, as Anthropic has not released a detector. [...]"
     },
     {
       "id": "23c6c398e5fe9739",
