@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-08-14T14:59:42.099Z",
+  "generatedAt": "2026-08-14T16:01:21.423Z",
   "articles": [
+    {
+      "id": "d19a999df6f539f2",
+      "title": "Bezos-backed consortium buys a third of Liverpool",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2vj4l9wxyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-14T16:00:16.000Z",
+      "summary": "Liverpool's owners agree to sell around a third of the club to a consortium including billionaire Amazon founder Jeff Bezos - in a deal that values the Reds at more than £5bn."
+    },
+    {
+      "id": "ea02a244e68657c7",
+      "title": "Qatar challenges AFC over open letter attacking FIFA President Infantino",
+      "url": "https://www.aljazeera.com/sports/2026/8/14/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-08-14T15:36:58.000Z",
+      "summary": "Qatar FA President Hamad bin Khalifa Al-Thani complains about lack of consultation about AFC open letter to FIFA."
+    },
+    {
+      "id": "6fcf53a5f09868da",
+      "title": "‘The party of the Cubans’: How Republicans courted a key South Florida vote",
+      "url": "https://www.aljazeera.com/news/longform/2026/8/14/the-party-of-the-cubans-how-republicans-courted-a-key-south-florida-vote?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "americas",
+      "publishedAt": "2026-08-14T15:25:11.000Z",
+      "summary": "Polls suggest Cuban American voters in Florida remain largely Republican, despite frustration over immigration."
+    },
+    {
+      "id": "bb4194f27ae652bf",
+      "title": "Ramsay-Peaty confused by early exit at Europeans",
+      "url": "https://www.bbc.co.uk/sport/swimming/articles/c0m7yxjemj0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-08-14T15:24:11.000Z",
+      "summary": "Former Olympic and world champion Adam Ramsay-Peaty says he is \"confused\" as his poor run of form continues at the European Aquatics Championships."
+    },
+    {
+      "id": "4d203794b2c13c2b",
+      "title": "Iberian orca known for ramming boats seen with suspected gunshot wounds",
+      "url": "https://www.theguardian.com/environment/2026/aug/14/iberian-orca-known-for-ramming-boats-seen-with-suspected-gunshot-wounds",
+      "source": "The Guardian Environment",
+      "category": "environment",
+      "region": "europe",
+      "publishedAt": "2026-08-14T15:07:10.000Z",
+      "summary": "Marine conservationist says deliberate attack would be ‘act of extreme cruelty’ against endangered population Spanish officials have launched an investigation after the matriarch of an orca pod known for jostling and ramming boats off the Iberian Peninsula was spotted with wounds suggesting she had been shot by a pellet gun. On Friday, Spain’s environment ministry said Toñi, the oldest living member of the pod, had b"
+    },
+    {
+      "id": "25bf482ea9a7710e",
+      "title": "Andy Burnham moves to cut new EV sales targets",
+      "url": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-new-ev-sales-targets",
+      "source": "The Guardian Environment",
+      "category": "environment",
+      "region": "europe",
+      "publishedAt": "2026-08-14T15:04:37.000Z",
+      "summary": "Possible cut from 80% down to as little as 50% could add millions of tonnes of CO2 to emissions and comes amid UK heatwaves Andy Burnham’s government has said it will look at cutting electric vehicle sales targets, in proposals that could add millions of tonnes a year to the UK’s carbon dioxide emissions. The government launched a consultation on Friday on cutting the target for new EVs to as little as 50% of all new"
+    },
+    {
+      "id": "591f061e5aab8776",
+      "title": "Ahmed al-Sharaa: A New Vision for Syria",
+      "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/8/14/ahmed-al-sharaa-a-new-vision-for-syria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-08-14T15:00:00.000Z",
+      "summary": "An exclusive interview with the man who became president of Syria in 2025 about his vision for his country’s future."
+    },
+    {
+      "id": "216508f51c0f6df3",
+      "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-08-14T14:59:55.000Z",
+      "summary": "The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]"
+    },
+    {
+      "id": "b3b0b4f490789f87",
+      "title": "American missionary kidnapped in Niger freed after nine months",
+      "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
+      "source": "The Guardian World",
+      "category": "diplomacy",
+      "region": "americas",
+      "publishedAt": "2026-08-14T14:55:17.000Z",
+      "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, his organisation has said According to a statement released by Serving in Mission International, Kevin Rideout “is in good health in the care of US officials” and would soon be reunited with his extended family. Continue "
+    },
     {
       "id": "d31f9669b0941ffb",
       "title": "Kushner to visit Israel after Netanyahu rejects Gaza Board of Peace plan",
@@ -12,16 +102,6 @@
       "summary": "Visit to address Israeli opposition to plan for Hamas to disarm, Israel to withdraw from Gaza, board official says."
     },
     {
-      "id": "25bf482ea9a7710e",
-      "title": "Andy Burnham moves to cut new EV sales targets",
-      "url": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-new-ev-sales-targets",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "europe",
-      "publishedAt": "2026-08-14T14:22:00.000Z",
-      "summary": "Possible cut from 80% down to as little as 50% could add millions of tonnes of CO2 to emissions and comes amid UK heatwaves Andy Burnham’s government has said it will look at cutting electric vehicle sales targets, in proposals that could add millions of tonnes a year to the UK’s carbon dioxide emissions. The government launched a consultation on Friday on cutting the target for new EVs to as little as 50% of all new"
-    },
-    {
       "id": "418ba941638ea609",
       "title": "Mutual defence: The alliances that preceded Turkiye-Pakistan-Saudi pact",
       "url": "https://www.aljazeera.com/news/2026/8/14/mutual-defence-the-alliances-that-preceded-turkiye-pakistan-saudi-pact?traffic_source=rss",
@@ -30,16 +110,6 @@
       "region": "middle_east",
       "publishedAt": "2026-08-14T14:19:30.000Z",
       "summary": "The pact says an armed ⁠⁠attack on any one of the ⁠⁠three countries would be ⁠⁠regarded as an ⁠⁠attack against them all."
-    },
-    {
-      "id": "b3b0b4f490789f87",
-      "title": "American missionary kidnapped in Niger freed after nine months",
-      "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
-      "source": "The Guardian World",
-      "category": "diplomacy",
-      "region": "americas",
-      "publishedAt": "2026-08-14T14:14:35.000Z",
-      "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, his organisation has said According to a statement released on Friday by Serving in Mission International, Kevin Rideout “is in good health in the care of US officials” and would soon be reunited with his extended family."
     },
     {
       "id": "a81d5f7cbdc4b333",
@@ -182,14 +252,14 @@
       "summary": "Israeli soldiers prevent aid delivery to besieged Palestinians"
     },
     {
-      "id": "fb491c4e566452d4",
-      "title": "Israeli forces block activists from reaching besieged Qusra families",
+      "id": "e7483f66416e99db",
+      "title": "US wants Netanyahu to condemn settler violence in Qusra",
       "url": "https://www.aljazeera.com/news/2026/8/14/israeli-forces-block-activists-from-reaching-besieged-qusra-families?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "war_conflict",
       "region": "middle_east",
       "publishedAt": "2026-08-14T12:09:47.000Z",
-      "summary": "About 15 Palestinians, including two children, have been trapped in three homes in Qusra for nearly a week."
+      "summary": "Mike Huckabee, US ambassador to Israel, described the settlers in Qusra as \"Israeli terrorists\" amid weeklong siege."
     },
     {
       "id": "a88691e8a42de0a1",
@@ -200,16 +270,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-08-14T12:02:02.000Z",
       "summary": "Jessica Bang won her first professional event this year but died after collapse in Thailand and emergency surgery."
-    },
-    {
-      "id": "5954ba44caa30d33",
-      "title": "Israeli PM Netanyahu calls UK ‘the Islamic Republic of Britain’",
-      "url": "https://www.aljazeera.com/news/2026/8/14/israeli-pm-netanyahu-calls-uk-the-islamic-republic-of?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-08-14T11:57:56.000Z",
-      "summary": "The Israeli PM's remark comes amid signs of growing tension between Israel and the UK's Labour government."
     },
     {
       "id": "5cd4c8dbaa0dba06",
@@ -230,36 +290,6 @@
       "region": "global",
       "publishedAt": "2026-08-14T11:32:05.000Z",
       "summary": "Investors say the actor and singer did not take an \"active role\" in the company as promised."
-    },
-    {
-      "id": "3d79f369e4e25bee",
-      "title": "Huckabee calls Israeli settlers ‘terrorists’: Can US push end Qusra siege?",
-      "url": "https://www.aljazeera.com/news/2026/8/14/huckabee-calls-israeli-settlers-terrorists-can-us-push-end-qusra-siege?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-08-14T11:28:14.000Z",
-      "summary": "US ambassador to Israel has issued a rare condemnation of a violent siege on families in the West Bank village of Qusra."
-    },
-    {
-      "id": "c0d2366b4e525fd2",
-      "title": "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
-      "url": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-14T11:18:22.000Z",
-      "summary": "Manchester City's Enzo Maresca coy on the future of midfielder Rodri ahead of Community Shield showdown with Arsenal."
-    },
-    {
-      "id": "8112d8bdb6c444fd",
-      "title": "'The department has lost touch with farmers' - call for minister's resignation over cattle cull",
-      "url": "https://www.bbc.co.uk/news/articles/cdj0pv2m812o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-14T11:08:27.000Z",
-      "summary": "The minister has previously said there was \"no reasonable alternative\" to the cattle being euthanised on site after the 51 cattle were culled following a court order."
     },
     {
       "id": "4a6c5ac46c8c7346",
@@ -302,16 +332,6 @@
       "summary": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo."
     },
     {
-      "id": "96860c6319fb8aa2",
-      "title": "Hasan hits Bangladesh's first century in Australia",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c8dn2em268jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-14T10:54:53.000Z",
-      "summary": "Tanzid Hasan Tamim becomes the first Bangladesh cricketer to score a Test century in Australia as the visitors continued to dominate on day two in Darwin."
-    },
-    {
       "id": "f60cc02cfec5f325",
       "title": "RingCentral data breach exposed info of 1.6 million accounts",
       "url": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
@@ -340,16 +360,6 @@
       "region": "global",
       "publishedAt": "2026-08-14T10:18:02.000Z",
       "summary": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials."
-    },
-    {
-      "id": "08492daa58a74df4",
-      "title": "European Cup winner Rimmer dies aged 78",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20eyww3vyro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-08-14T10:13:47.000Z",
-      "summary": "European Cup winner and former Aston Villa and Manchester United goalkeeper Jimmy Rimmer dies at the age of 78."
     },
     {
       "id": "03fb126589129376",
@@ -390,16 +400,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-08-14T08:39:46.000Z",
       "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies."
-    },
-    {
-      "id": "847195e864972fbd",
-      "title": "‘They do look majestic’: tears and pride as first white storks set free in Cornwall",
-      "url": "https://www.theguardian.com/environment/2026/aug/14/first-white-storks-released-bodmin-moor-cornwall",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-08-14T08:00:21.000Z",
-      "summary": "Twenty-one birds released on Bodmin Moor where it is hoped they will one day return to produce their own young They took a little coaxing at first – after all, they had got used to a safe, comfortable aviary tucked away in woodland on the edge of Bodmin Moor. But after a few minutes, the birds stepped out into freedom and the bolder ones were soon soaring into the blue, the first white storks to be released into the "
     },
     {
       "id": "2f898b822ba526ed",
@@ -502,14 +502,14 @@
       "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany."
     },
     {
-      "id": "2c88139a5befc772",
-      "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
-      "url": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
+      "id": "b9c0828c31391c8f",
+      "title": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
+      "url": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
       "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-08-13T20:47:02.000Z",
-      "summary": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]"
+      "category": "economy_business",
+      "region": "europe",
+      "publishedAt": "2026-08-13T21:12:47.000Z",
+      "summary": "Authorities in Ukraine shut down 94 fraudulent call centers across the country that lured people into investment scams or tried to obtain access to bank accounts. [...]"
     },
     {
       "id": "986b796203250e32",
@@ -570,16 +570,6 @@
       "region": "global",
       "publishedAt": "2026-08-13T15:30:57.000Z",
       "summary": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\"."
-    },
-    {
-      "id": "3960165ef5f3b519",
-      "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
-      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "africa",
-      "publishedAt": "2026-08-13T15:17:13.000Z",
-      "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which killed at least 11,000 people more than a decade ago. The current o"
     },
     {
       "id": "cea4457b32d67fab",
@@ -812,6 +802,16 @@
       "summary": "Three large state-owned jute mills, which had been shut down for a long time, are finally set to resume operations under private management. This will create new employment opportunities for… The post 3 State-Owned Jute Mills to Resume Operation, Creating 11,000 Jobs appeared first on Bangla Online News Portal."
     },
     {
+      "id": "e3eea61a1af8dd1a",
+      "title": "Canadian airline cancels flight after child refuses to wear seatbelt",
+      "url": "https://www.theguardian.com/business/2026/aug/11/canadian-airline-cancels-flight-after-child-refuses-to-wear-seatbelt",
+      "source": "The Guardian World",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-11T14:03:28.000Z",
+      "summary": "Flight from Victoria to Toronto forced to return to terminal after repeated attempts to secure child in seat failed A Canadian airline cancelled a flight from Victoria to Toronto after a child refused to wear a seatbelt. The child was standing in their chair as the 6 August Porter Airlines flight taxied towards the runway, the airline said. Repeated attempts by an accompanying parent and crew to secure the child in t"
+    },
+    {
       "id": "d98110dfc2d2a609",
       "title": "AI agent hacks gym to get its user a spot in pilates class",
       "url": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
@@ -860,6 +860,16 @@
       "region": "bangladesh",
       "publishedAt": "2026-08-11T08:15:10.000Z",
       "summary": "Prime Minister Tareq Rahman stated that there is currently a favorable investment climate in Bangladesh. He added that the government is ready to provide all kinds of cooperation to interested… The post Government Ready to Provide All Kinds of Cooperation to Foreign Investors: Prime Minister appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "2f2a252939781e3e",
+      "title": "Fascist Government Destroyed Everything, Now It’s Time for Reconstruction: Prime Minister",
+      "url": "https://www.bd24live.com/fascist-government-destroyed-everything-now-its-time-for-reconstruction-prime-minister/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-10T11:20:14.000Z",
+      "summary": "Prime Minister Tarique Rahman remarked that the fascist government, over more than a decade and a half, has destroyed various sectors of the country, including education, health, and economy. He… The post Fascist Government Destroyed Everything, Now It’s Time for Reconstruction: Prime Minister appeared first on Bangla Online News Portal."
     },
     {
       "id": "4fa8890dafdf7800",
