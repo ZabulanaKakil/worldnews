@@ -1,6 +1,216 @@
 {
-  "generatedAt": "2026-08-15T18:39:34.118Z",
+  "generatedAt": "2026-08-15T21:28:19.168Z",
   "articles": [
+    {
+      "id": "5363fb0c001362d8",
+      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-08-15T21:27:28.000Z",
+      "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island."
+    },
+    {
+      "id": "eaca4f8537562bcc",
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-15T21:03:57.000Z",
+      "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war."
+    },
+    {
+      "id": "c23b9494e8f999f7",
+      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "africa",
+      "publishedAt": "2026-08-15T20:58:31.000Z",
+      "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday."
+    },
+    {
+      "id": "9c5a232f7c9f094f",
+      "title": "Qatar denies it is detaining three Iranian bomber pilots",
+      "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-15T20:55:29.000Z",
+      "summary": "Iran says Qatar is holding three pilots who were shot down in March. Doha decries 'misleading statements'."
+    },
+    {
+      "id": "645261ff5986d5eb",
+      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-08-15T20:45:00.000Z",
+      "summary": "If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplayin"
+    },
+    {
+      "id": "129e7ec97328744e",
+      "title": "California tackles multiple wildfires as firefighter workforce faces strain",
+      "url": "https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "disasters",
+      "region": "global",
+      "publishedAt": "2026-08-15T20:40:48.000Z",
+      "summary": "The federal wildland firefighting workforce, faced with low pay and cost of living issues, copes with Trump-era cuts."
+    },
+    {
+      "id": "494df93c8948cd9a",
+      "title": "Villa begin Suzuki talks - Sunday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cnvnndmz4reo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "diplomacy",
+      "region": "global",
+      "publishedAt": "2026-08-15T20:23:00.000Z",
+      "summary": "Aston Villa are in negotiations over Zion Suzuki, boosting Juventus' hope of signing Emiliano Martinez, while Arsenal are told price for Victor Osimhen, plus more."
+    },
+    {
+      "id": "abda56751ed82497",
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-15T20:21:14.000Z",
+      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers."
+    },
+    {
+      "id": "20dba36043474ddd",
+      "title": "West Ham break EFL record to sign Engels for £22m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c77ggr5nk7jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-15T20:19:40.000Z",
+      "summary": "West Ham United pay a £22m fee, a new EFL record, to sign Celtic's Belgium international midfielder Arne Engels."
+    },
+    {
+      "id": "2544e5d2f5e646a2",
+      "title": "O'Connor secures European gold in heptathlon",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cvgjjpe85z1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-08-15T20:18:18.000Z",
+      "summary": "Kate O'Connor says her late grandmother \"would have been jumping for joy\" at the Irish athlete claims gold in the heptathlon at the European Championships in Birmingham."
+    },
+    {
+      "id": "89933aa456667bc5",
+      "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
+      "url": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-15T20:09:33.000Z",
+      "summary": "The petition is set to be discussed by House of Commons in a sign of discontent with policies of US President Trump."
+    },
+    {
+      "id": "752060c9e9545ade",
+      "title": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-15T20:07:07.000Z",
+      "summary": "Security forces in Fnideq have stepped up operations to prevent migrants from crossing into Ceuta."
+    },
+    {
+      "id": "fc04264be70f61b6",
+      "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
+      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "creativity_arts",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-15T20:00:15.000Z",
+      "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia."
+    },
+    {
+      "id": "7d8c498f3047fd97",
+      "title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
+      "url": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-15T19:46:20.000Z",
+      "summary": "A social media campaign encouraged people to flock to Ceuta just weeks after many died while making the crossing."
+    },
+    {
+      "id": "d105b6ac1b76d0fd",
+      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+      "url": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-08-15T19:41:57.000Z",
+      "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000."
+    },
+    {
+      "id": "88c617d328e54dde",
+      "title": "Twenty-two more bodies recovered after Zimbabwe boat accident",
+      "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+      "source": "The Guardian World",
+      "category": "diplomacy",
+      "region": "global",
+      "publishedAt": "2026-08-15T19:39:07.000Z",
+      "summary": "Death toll now stands at 68, with 18 children among the killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba, on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds. Continue reading..."
+    },
+    {
+      "id": "da120891b0ca735a",
+      "title": "Multiple suspects at large after five shot at Virginia State University, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-15T19:34:22.000Z",
+      "summary": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday."
+    },
+    {
+      "id": "3390befe07d4e249",
+      "title": "Rashford returns as AC Milan highlight issues facing Carrick",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg5ll71pqv1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-15T19:25:09.000Z",
+      "summary": "Manchester United finish their pre-season campaign with a 4-2 defeat by Ruben Amorim's AC Milan in Poland, as Marcus Rashford returns to Red Devils action."
+    },
+    {
+      "id": "cc7396dd41342ef0",
+      "title": "Death toll from Zimbabwe ferry disaster rises to 72",
+      "url": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "disasters",
+      "region": "global",
+      "publishedAt": "2026-08-15T19:10:06.000Z",
+      "summary": "Police say 26 more bodies have been recovered from Lake Kariba after the overloaded vessel capsized on Tuesday."
+    },
+    {
+      "id": "f81ac21f161b3efa",
+      "title": "'Fury' at Tarling death as cycling union calls for better helmets",
+      "url": "https://www.bbc.co.uk/sport/cycling/articles/czxqqlpnx98o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-15T19:05:32.000Z",
+      "summary": "The cyclists' union expresses \"fury\" over the death of British rider Fin Tarling during Friday's stage of the Volta a Portugal."
+    },
+    {
+      "id": "ab9bb2f13b2a0201",
+      "title": "La Liga: Real Madrid key talking points heading into new 2026-27 season",
+      "url": "https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-15T18:19:23.000Z",
+      "summary": "Real Madrid welcome back Jose Mourinho as manager as they attempt to stop a three-peat by Barcelona in La Liga."
+    },
     {
       "id": "b30f59132da39d5b",
       "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
@@ -22,6 +232,16 @@
       "summary": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territory Moroccan police have arrested 111 people as they tried to enter Spain’s north African territory of Ceuta, amid ⁠tightened security on both sides after social media posts ​called for another mass crossing. The attempted crossing on Saturday came two weeks after more than 72,000 migrants surged into Ce"
     },
     {
+      "id": "a0bfbb77080d7e2c",
+      "title": "Why is Australia's mushroom killer back in court this week?",
+      "url": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-15T18:02:30.000Z",
+      "summary": "The BBC’s Katy Watson explains why triple-murder Erin Patterson is back in court this week trying to overturn her conviction."
+    },
+    {
       "id": "55f847010ad6e669",
       "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
       "url": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
@@ -30,16 +250,6 @@
       "region": "middle_east",
       "publishedAt": "2026-08-15T17:49:42.000Z",
       "summary": "The USS Washington's movement comes amid reports of dire conditions on the USS Lincoln amid the ongoing Iran war."
-    },
-    {
-      "id": "8bc30dd2a2854aef",
-      "title": "Inter Milan sign England’s Djed Spence from Tottenham Hotspur",
-      "url": "https://www.aljazeera.com/sports/2026/8/15/inter-milan-sign-englands-djed-spence-from-tottenham-hotspur?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-15T17:48:32.000Z",
-      "summary": "The 26-year-old, who has signed a five-year deal, cost the Italian champions about $40m, according to media reports."
     },
     {
       "id": "1fbb7b9feee96e9f",
@@ -52,24 +262,14 @@
       "summary": "The fire burning through the major park was described as the country's worst in recent years."
     },
     {
-      "id": "da120891b0ca735a",
-      "title": "Multiple suspects at large after five shot at Virginia State University, police say",
-      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-15T17:42:36.000Z",
-      "summary": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday."
-    },
-    {
-      "id": "0d420438eddfe02c",
-      "title": "Tropical Storm Lala expected to strengthen as it nears Hawaii",
+      "id": "4e418d59dc85169e",
+      "title": "Storm Lala strengthens into a Category 1 hurricane as it nears Hawaii",
       "url": "https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss",
       "source": "Al Jazeera",
-      "category": "war_conflict",
+      "category": "weather_climate",
       "region": "global",
       "publishedAt": "2026-08-15T17:27:57.000Z",
-      "summary": "Authorities warn residents to take precautions as storm expected to bring rain and strong winds to the island chain."
+      "summary": "Authorities warn residents to take precautions as storm is expected to bring rain and strong winds to the island chain."
     },
     {
       "id": "36a13022e11421d0",
@@ -82,16 +282,6 @@
       "summary": "Sunderland agree a £25.6m fee to sign left-back Dayann Methalie from Toulouse."
     },
     {
-      "id": "e256edfca2486094",
-      "title": "UK PM Burnham reacts to death of former Cambridge professor",
-      "url": "https://www.aljazeera.com/news/2026/8/15/uk-pm-burnham-reacts-to-death-of-former-cambridge-professor?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-08-15T17:19:12.000Z",
-      "summary": "Jason Arday was found dead on Friday, just days after resigning amid intense scrutiny over his academic work."
-    },
-    {
       "id": "0f24fa2d9dc93690",
       "title": "Inter sign England full-back Spence from Tottenham",
       "url": "https://www.bbc.co.uk/sport/football/articles/cz64vg6znz1o?at_medium=RSS&at_campaign=rss",
@@ -100,26 +290,6 @@
       "region": "europe",
       "publishedAt": "2026-08-15T17:15:16.000Z",
       "summary": "England full-back Djed Spence signs a five-year deal at Inter Milan as he makes a move to Italy from Tottenham."
-    },
-    {
-      "id": "39d6d46cdc173f19",
-      "title": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
-      "url": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "africa",
-      "publishedAt": "2026-08-15T16:39:52.000Z",
-      "summary": "Turkish president tells Al Jazeera that the recently signed agreement is open to new members as he pledges continued support."
-    },
-    {
-      "id": "7266fe120ed34bac",
-      "title": "One killed, dozens injured after wildfire hits Croatian coast",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "disasters",
-      "region": "global",
-      "publishedAt": "2026-08-15T16:33:05.000Z",
-      "summary": "At least one person was killed and around 42 others were injured after a violent wildfire hit a coastal town in Croatia."
     },
     {
       "id": "74af544d8daa8b63",
@@ -132,16 +302,6 @@
       "summary": "Enzo Fernandez is booed by sections of the Chelsea support, Morgan Rogers scores on his first appearance and Xabi Alonso offers a glimpse of what could be his blueprint for the season."
     },
     {
-      "id": "23ccad7266a248cb",
-      "title": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
-      "url": "https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "africa",
-      "publishedAt": "2026-08-15T16:17:43.000Z",
-      "summary": "Al-Burhan pledged temporary immunity and legal protections for participants in a Sudanese national dialogue."
-    },
-    {
       "id": "284075d40eea153c",
       "title": "Passenger Vehicle Plunges 300 Feet into Gorge in India, Killing 5 Laborers",
       "url": "https://www.bd24live.com/passenger-vehicle-plunges-300-feet-into-gorge-in-india-killing-5-laborers/",
@@ -150,16 +310,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-08-15T16:10:13.000Z",
       "summary": "In Damduru, Kishtwar district of Jammu and Kashmir, India, a passenger vehicle plunged approximately 300 feet into a deep gorge, killing five people. Police confirmed this information on Saturday (August… The post Passenger Vehicle Plunges 300 Feet into Gorge in India, Killing 5 Laborers appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "abda56751ed82497",
-      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-15T16:02:49.000Z",
-      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers."
     },
     {
       "id": "5c57aa4c8e271717",
@@ -182,26 +332,6 @@
       "summary": "Exclusive: More than 100 homes on King Charles and Prince William’s inherited estates have EPC ratings of F or G • ‘It’s archaic’: the struggle to heat poorly insulated homes let by royal estates More than 100 homes on the inherited royal estates of King Charles and Prince William fail to meet the legal minimum energy standards for landlords, the Guardian can reveal. An analysis of a large sample of domestic lets on "
     },
     {
-      "id": "426e3e68351e75d1",
-      "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
-      "url": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-08-15T15:50:06.000Z",
-      "summary": "Ukraine used domestically produced Flamingo missiles to hit targets in Russia's southwestern Samara region."
-    },
-    {
-      "id": "0163f7e8ff935828",
-      "title": "Israeli settlers besiege Palestinian families in occupied West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-08-15T15:48:07.000Z",
-      "summary": "Three Palestinian families say they have been trapped inside their homes in the occupied West Bank for nearly a week."
-    },
-    {
       "id": "335a9642398c56ef",
       "title": "Powerful earthquake kills dozens in eastern Indonesia",
       "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
@@ -220,26 +350,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-08-15T15:30:14.000Z",
       "summary": "Gholam-Hossein Mohseni-Eje’i, the head of Iran’s judiciary, has issued a stern warning to US President Donald Trump, describing the Strait of Hormuz as an ‘inseparable part’ of Iran’s territorial waters… The post Iran Issues Stern Warning to Trump over Strait of Hormuz appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "04347c9b834a5535",
-      "title": "How blind football is helping women overcome barriers in Mexico",
-      "url": "https://www.aljazeera.com/news/longform/2026/8/15/how-blind-football-is-helping-women-overcome-barriers-in-mexico?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "americas",
-      "publishedAt": "2026-08-15T15:15:45.000Z",
-      "summary": "Mexico is sending its first blind women's football team to compete in an international tournament. Players cannot wait."
-    },
-    {
-      "id": "0a0c3cf2e754f691",
-      "title": "South Korea proposes talks to officially end war with North",
-      "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-15T14:40:15.000Z",
-      "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953."
     },
     {
       "id": "f74ec47fb7ddb35f",
@@ -262,16 +372,6 @@
       "summary": "The new X-Men MCU cast on stage at D-23. | Image: Marvel Entertainment With Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the company revealed the cast for its upcoming, untitled X-Men film, which is scheduled to hit theaters on May 5th of 2028. Though, seeing as that's quite "
     },
     {
-      "id": "444b85190b3cf31b",
-      "title": "Bournemouth to 'do better' after 'disgusting' email",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy8ee0gzqx2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-15T14:02:48.000Z",
-      "summary": "Bournemouth vow to \"do better\" after changes to matchday staffing were handled in a manner which \"did not reflect the standards we expect\"."
-    },
-    {
       "id": "cf226848c917e46b",
       "title": "A New Feather in Rani Mukerji’s Cap",
       "url": "https://www.bd24live.com/a-new-feather-in-rani-mukerjis-cap/",
@@ -292,16 +392,6 @@
       "summary": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui."
     },
     {
-      "id": "fc04264be70f61b6",
-      "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-15T13:35:57.000Z",
-      "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia."
-    },
-    {
       "id": "9fa9e06f80b7818b",
       "title": "Facebook Launches New Initiative for Content Creators",
       "url": "https://www.bd24live.com/facebook-launches-new-initiative-for-content-creators/",
@@ -320,16 +410,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-08-15T12:20:23.000Z",
       "summary": "Whether for office, gym, travel, or daily use, a steel water bottle has become a constant companion for many. Steel bottles are more popular than plastic ones due to their… The post Steel water bottle has a persistent musty smell? Solve it instantly! appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "4ff3bcbff99401a8",
-      "title": "Soaring heat, falling crowds - The Hundred's peculiar summer",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cp8xpgxy5p5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-15T12:00:08.000Z",
-      "summary": "BBC Sport looks at the numbers behind the drop in attendances at The Hundred compared to 2025, in the tournament's first year under new private ownership."
     },
     {
       "id": "bb0fa6a34589712a",
@@ -362,16 +442,6 @@
       "summary": "Spanish club Atletico Madrid has signed Argentine defender Cristian Romero from Tottenham Hotspur on a long-term contract. The 28-year-old center-back has signed a deal with his new club until June… The post Romero at Atletico Madrid until 2031 appeared first on Bangla Online News Portal."
     },
     {
-      "id": "e1fad864b2af0848",
-      "title": "Bangladesh move closer to historic win in Australia",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c39eygmrlnjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-15T10:36:03.000Z",
-      "summary": "Spinner Mehidy Hasan Miraz takes the crucial wicket of Steve Smith as Bangladesh move closer to a historic first Test victory in Australia on day three in Darwin."
-    },
-    {
       "id": "a30605c90ada0746",
       "title": "Teachers to no longer face hurdles for retirement funds: Prime Minister",
       "url": "https://www.bd24live.com/teachers-to-no-longer-face-hurdles-for-retirement-funds-prime-minister/",
@@ -390,6 +460,16 @@
       "region": "bangladesh",
       "publishedAt": "2026-08-15T06:45:13.000Z",
       "summary": "Prime Minister Tarique Rahman announced that the government is working to deliver healthcare services to poor and marginalized people. He made this statement on Saturday (August 15) during a discussion… The post Government Working to Deliver Healthcare to Marginalized People: Prime Minister appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "55564e98dbdfdb6f",
+      "title": "Khaleda Zia’s 82nd Birthday Today",
+      "url": "https://www.bd24live.com/khaleda-zias-82nd-birthday-today/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-15T04:15:24.000Z",
+      "summary": "Today, Saturday, marks the 82nd birthday of former Prime Minister and late Chairperson of BNP, Khaleda Zia. She was born on August 15, 1945, in Dinajpur. Khaleda Zia was the… The post Khaleda Zia’s 82nd Birthday Today appeared first on Bangla Online News Portal."
     },
     {
       "id": "ccfd2a42e0d7b778",
@@ -422,16 +502,6 @@
       "summary": "Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI."
     },
     {
-      "id": "c3ff518fe7fe8930",
-      "title": "Burnham announces £65m for drought-hit farmers after Labour pressure",
-      "url": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-climate-response-drought-hit-farmers-labour-pressure",
-      "source": "The Guardian Environment",
-      "category": "weather_climate",
-      "region": "europe",
-      "publishedAt": "2026-08-14T21:30:38.000Z",
-      "summary": "PM steps up climate response with measures including better water access and support for building farm reservoirs Farmers must not carry the risks of the climate crisis alone, Andy Burnham has said, as he announced £65m of funding to help them manage the devastating drought. The prime minister is stepping up his response to the immediate climate crisis after facing a backlash from his own MPs and Labour’s grassroots "
-    },
-    {
       "id": "a779f32c2f6f9021",
       "title": "Protein or pickled garlic? What's new in ice cream",
       "url": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
@@ -440,16 +510,6 @@
       "region": "global",
       "publishedAt": "2026-08-14T21:20:19.000Z",
       "summary": "There's a constant battle in ice cream to come up with new flavours and to keep costs down."
-    },
-    {
-      "id": "554d8a0a7bb76141",
-      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-      "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-14T18:25:38.000Z",
-      "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives."
     },
     {
       "id": "ba5c032a383fa9ed",
@@ -470,26 +530,6 @@
       "region": "americas",
       "publishedAt": "2026-08-14T17:36:27.000Z",
       "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
-    },
-    {
-      "id": "5176cd366d8b8cfa",
-      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-      "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-08-14T17:03:17.000Z",
-      "summary": "Two families have been trapped in their homes in the occupied West Bank for several days."
-    },
-    {
-      "id": "07f85c0f1189ba79",
-      "title": "France's top court blocks social media ban for under-15s",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-08-14T16:35:06.000Z",
-      "summary": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft."
     },
     {
       "id": "fa2e79c7ccfdf4d2",
@@ -532,14 +572,14 @@
       "summary": "Move will be one of first large-scale foreign investments in country since US ousted leader Nicolás Maduro in January BP has answered Donald Trump’s call for oil companies to help rebuild Venezuela’s fossil fuel industry with new plans to develop a large offshore gasfield. BP will partner with two oil firms with close links to the Trump administration to develop the second phase of the Loran gasfield, in one of the f"
     },
     {
-      "id": "066553f42ab33107",
-      "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
+      "id": "e29bc912e05637e2",
+      "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
+      "url": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
+      "source": "BleepingComputer",
+      "category": "economy_business",
       "region": "global",
-      "publishedAt": "2026-08-14T13:18:08.000Z",
-      "summary": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes."
+      "publishedAt": "2026-08-14T14:00:10.000Z",
+      "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain. [...]"
     },
     {
       "id": "eaeb15431933915b",
@@ -632,6 +672,16 @@
       "summary": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market."
     },
     {
+      "id": "b9c0828c31391c8f",
+      "title": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
+      "url": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
+      "source": "BleepingComputer",
+      "category": "economy_business",
+      "region": "europe",
+      "publishedAt": "2026-08-13T21:12:47.000Z",
+      "summary": "Authorities in Ukraine shut down 94 fraudulent call centers across the country that lured people into investment scams or tried to obtain access to bank accounts. [...]"
+    },
+    {
       "id": "0444e3434392ce77",
       "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
       "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
@@ -650,16 +700,6 @@
       "region": "global",
       "publishedAt": "2026-08-13T18:00:04.000Z",
       "summary": "Study of 56m-year-old leaves counters claims from Trump administration members of ‘benefits’ of fossil fuel pollution Adding huge quantities of carbon dioxide into the atmosphere is set to cause the Earth’s forests to wither and die rather than flourish, according to a new study that counters erroneous claims that fossil fuel pollution will green the planet. An analysis of fossilized leaf cells from a period known as"
-    },
-    {
-      "id": "3960165ef5f3b519",
-      "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
-      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "africa",
-      "publishedAt": "2026-08-13T15:17:13.000Z",
-      "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which killed at least 11,000 people more than a decade ago. The current o"
     },
     {
       "id": "cea4457b32d67fab",
@@ -700,6 +740,16 @@
       "region": "americas",
       "publishedAt": "2026-08-13T13:34:51.000Z",
       "summary": "South American fish with razor-toothed jaws was probably released by someone who owned it as a pet, officials say An eight-year-old boy fishing for bass in Pennsylvania was stunned to catch something more associated with the Amazon – and countless horror movies – than the rolling landscape of the eastern US. Seamus Coffey, who was fishing with his father Michael in a lake near Philadelphia, hauled in a large red-bell"
+    },
+    {
+      "id": "31c7767ab819fcc4",
+      "title": "Flock boss admits surveillance firm took too long to act over police abuse",
+      "url": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-08-13T13:02:24.000Z",
+      "summary": "US police officers have quit after using licence plate-reading cameras to track romantic partners."
     },
     {
       "id": "eb178f701754e7ed",
@@ -772,6 +822,16 @@
       "summary": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector."
     },
     {
+      "id": "0200ef6774e05633",
+      "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "creativity_arts",
+      "region": "europe",
+      "publishedAt": "2026-08-12T21:53:45.000Z",
+      "summary": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse."
+    },
+    {
       "id": "3720a0eee2413bb6",
       "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
       "url": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
@@ -780,16 +840,6 @@
       "region": "americas",
       "publishedAt": "2026-08-12T18:46:30.000Z",
       "summary": "Ángel Aguirre indicted in case that rocked Mexico and became symbol of its brutal cartel violence The former governor of Guerrero state in Mexico has been formally charged over his alleged involvement in the disappearance of 43 students in 2014, a case that has become a symbol of the country’s brutal cartel violence and government impunity. Ángel Aguirre, who was arrested last week, is accused of forced disappearance"
-    },
-    {
-      "id": "aaa080ba613d2cf9",
-      "title": "Trump administration pulls support for annual Arctic environmental report",
-      "url": "https://www.theguardian.com/us-news/2026/aug/12/trump-administration-arctic-environmental-report",
-      "source": "The Guardian Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-08-12T18:17:51.000Z",
-      "summary": "Move by National Oceanic and Atmospheric Administration is latest government rollback of climate science activity The Trump administration has pulled its support for an annual report on the environmental changes across the Arctic, a region that is already heating up four times faster than the global average due to the climate crisis. On Tuesday, Kim Doster, the communications director of the National Oceanic and Atmo"
     },
     {
       "id": "f2ec04824fb602f8",
@@ -910,16 +960,6 @@
       "region": "americas",
       "publishedAt": "2026-07-12T12:00:18.000Z",
       "summary": "Dozens of projects are in development across US despite concerns over environmental and health risks The plan to bury carbon under remote Indiana farmland is supposed to be a slam dunk for the climate, according to its supporters – all generously funded by US tax dollars. But as far as Melissa Harrison and some other residents of Clymers, Indiana, are concerned, it just might be the end of their town. “This is our pl"
-    },
-    {
-      "id": "aa8304f4d62d8241",
-      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
-      "source": "Krebs on Security",
-      "category": "cybersecurity",
-      "region": "europe",
-      "publishedAt": "2026-06-23T16:12:49.000Z",
-      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial."
     }
   ]
 }
