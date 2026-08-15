@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-08-15T22:29:09.220Z",
+  "generatedAt": "2026-08-15T23:27:19.602Z",
   "articles": [
+    {
+      "id": "85552a6bec30a34e",
+      "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
+      "url": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-08-15T23:04:47.000Z",
+      "summary": "Post-earthquake reconstruction is expected to cost about $6.4bn, but Colombia has been hit by renewed US tariffs."
+    },
+    {
+      "id": "13ca4aca376e18b9",
+      "title": "US Democrats finalise major shakeup to 2028 presidential primary calendar",
+      "url": "https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-15T22:22:46.000Z",
+      "summary": "South Carolina will again take centre stage as the first nominating contest, pushing Iowa from its top spot."
+    },
     {
       "id": "5378c3c8c0fcc9f7",
       "title": "Why is the latest Ebola outbreak worsening?",
@@ -162,16 +182,6 @@
       "summary": "Kate O'Connor says her late grandmother \"would have been jumping for joy\" at the Irish athlete claims gold in the heptathlon at the European Championships in Birmingham."
     },
     {
-      "id": "89933aa456667bc5",
-      "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
-      "url": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-15T20:09:33.000Z",
-      "summary": "The petition is set to be discussed by House of Commons in a sign of discontent with policies of US President Trump."
-    },
-    {
       "id": "a43014990e7fdfe3",
       "title": "Moroccan police intercept migrants heading for Ceuta enclave",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
@@ -300,16 +310,6 @@
       "region": "global",
       "publishedAt": "2026-08-15T17:47:42.000Z",
       "summary": "The fire burning through the major park was described as the country's worst in recent years."
-    },
-    {
-      "id": "4e418d59dc85169e",
-      "title": "Storm Lala strengthens into a Category 1 hurricane as it nears Hawaii",
-      "url": "https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-08-15T17:27:57.000Z",
-      "summary": "Authorities warn residents to take precautions as storm is expected to bring rain and strong winds to the island chain."
     },
     {
       "id": "74af544d8daa8b63",
@@ -752,16 +752,6 @@
       "summary": "South American fish with razor-toothed jaws was probably released by someone who owned it as a pet, officials say An eight-year-old boy fishing for bass in Pennsylvania was stunned to catch something more associated with the Amazon – and countless horror movies – than the rolling landscape of the eastern US. Seamus Coffey, who was fishing with his father Michael in a lake near Philadelphia, hauled in a large red-bell"
     },
     {
-      "id": "31c7767ab819fcc4",
-      "title": "Flock boss admits surveillance firm took too long to act over police abuse",
-      "url": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-13T13:02:24.000Z",
-      "summary": "US police officers have quit after using licence plate-reading cameras to track romantic partners."
-    },
-    {
       "id": "eb178f701754e7ed",
       "title": "California bans paraquat, highly toxic herbicide outlawed in more than 70 countries",
       "url": "https://www.theguardian.com/us-news/2026/aug/13/california-paraquat-ban-pesticide",
@@ -850,6 +840,16 @@
       "region": "americas",
       "publishedAt": "2026-08-12T18:46:30.000Z",
       "summary": "Ángel Aguirre indicted in case that rocked Mexico and became symbol of its brutal cartel violence The former governor of Guerrero state in Mexico has been formally charged over his alleged involvement in the disappearance of 43 students in 2014, a case that has become a symbol of the country’s brutal cartel violence and government impunity. Ángel Aguirre, who was arrested last week, is accused of forced disappearance"
+    },
+    {
+      "id": "aaa080ba613d2cf9",
+      "title": "Trump administration pulls support for annual Arctic environmental report",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/trump-administration-arctic-environmental-report",
+      "source": "The Guardian Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-08-12T18:17:51.000Z",
+      "summary": "Move by National Oceanic and Atmospheric Administration is latest government rollback of climate science activity The Trump administration has pulled its support for an annual report on the environmental changes across the Arctic, a region that is already heating up four times faster than the global average due to the climate crisis. On Tuesday, Kim Doster, the communications director of the National Oceanic and Atmo"
     },
     {
       "id": "f2ec04824fb602f8",
