@@ -1,41 +1,181 @@
 {
-  "generatedAt": "2026-08-16T20:30:56.113Z",
+  "generatedAt": "2026-08-16T23:27:21.015Z",
   "articles": [
     {
-      "id": "47e3e05878604ab5",
-      "title": "Senegal’s Saint-Louis Regatta keeps centuries of tradition alive",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-senegal-boat-tradition-sn?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-08-16T20:04:51.000Z",
-      "summary": "Thousands gathered in Saint-Louis, Senegal, for the annual regatta."
-    },
-    {
-      "id": "34e4d564d7c033a3",
-      "title": "Newcastle at best when 'us against world' - Burn",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx27798g37ko?at_medium=RSS&at_campaign=rss",
+      "id": "d1187ef90229a7c9",
+      "title": "McIlroy admits concerns as Scheffler regains winning feeling at St Jude",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cre44r1y17no?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-08-16T20:04:32.000Z",
-      "summary": "Dan Burn has his sights set on leading a new-look Newcastle back into Europe as the club's captain."
+      "region": "global",
+      "publishedAt": "2026-08-16T23:15:12.000Z",
+      "summary": "Rory McIlroy says \"he felt lost\" as he toils to a 66th-place finish - 25 strokes behind champion Scottie Scheffler - at the St Jude Championship in Memphis."
     },
     {
-      "id": "35a9048469eedb55",
-      "title": "Anti-corruption raids in Baghdad as dozens of officials arrested",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss",
+      "id": "2acca9f438c37ca2",
+      "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-16T22:41:34.000Z",
+      "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises."
+    },
+    {
+      "id": "fc6807326eb18dd4",
+      "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-08-16T22:28:57.000Z",
+      "summary": "Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. [...]"
+    },
+    {
+      "id": "117a1146809913c1",
+      "title": "Englishman Whaley wins US Amateur title",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/c1711189q2ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "americas",
+      "publishedAt": "2026-08-16T22:05:54.000Z",
+      "summary": "Jack Whaley becomes only the second Englishman since 1911 to win the US Amateur Championship as he beats American Jay Leng Jr 4&3 at Merion."
+    },
+    {
+      "id": "6a4e42f4756f64bd",
+      "title": "What could stop Israeli settler attacks on Palestinians?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "middle_east",
+      "publishedAt": "2026-08-16T21:54:58.000Z",
+      "summary": "Violence in the occupied West Bank has intensified under Israel's far-right Netanyahu government."
+    },
+    {
+      "id": "9f9a2ec1dceb5967",
+      "title": "Hundreds of migrants arrested near Ceuta border in latest crackdown",
+      "url": "https://www.aljazeera.com/news/2026/8/16/hundreds-of-migrants-arrested-near-ceuta-border-in-latest-crackdown?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-16T21:51:39.000Z",
+      "summary": "Nearly 300 migrants and 61 alleged facilitators detained during mass migration attempt."
+    },
+    {
+      "id": "ce688fe46a0ca50a",
+      "title": "What has been the impact of new owners on The Hundred?",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cy4kknnpyvvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-16T21:43:22.000Z",
+      "summary": "BBC Sport looks at the impact new owners have had on The Hundred as the first season since private stakes were sold in teams ends."
+    },
+    {
+      "id": "7279125f46479e57",
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "source": "The Verge",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-08-16T21:32:56.000Z",
+      "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility has instead been divided up for specific areas like bio and cyber, then moved into exist"
+    },
+    {
+      "id": "82cb4ed0cadaa97f",
+      "title": "Anwar Ibrahim: Malaysia between the superpowers",
+      "url": "https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-16T21:23:03.000Z",
+      "summary": "Malaysian PM Anwar Ibrahim joins Sreenivasan Jain on justice, trade, and a middle power holding superpowers to account."
+    },
+    {
+      "id": "82c05bfb57f1f9ab",
+      "title": "US commander says mental health a 'priority' on USS Lincoln",
+      "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-16T21:04:27.000Z",
+      "summary": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship."
+    },
+    {
+      "id": "cda86ef1655033d1",
+      "title": "Death toll rises to 84 from capsized ferry in Zimbabwe",
+      "url": "https://www.aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-16T21:03:53.000Z",
+      "summary": "The boat overturned during heavy winds near the Zambian border."
+    },
+    {
+      "id": "dd2ab0b90ef0e4cc",
+      "title": "Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israelis-harass-palestinian-owned-cafe-in-iceland-tear-down-palestine-map?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "war_conflict",
       "region": "middle_east",
-      "publishedAt": "2026-08-16T20:02:09.000Z",
-      "summary": "Iraq’s Integrity Commission seized of millions in cash and jewelry said to be linked to corruption charges."
+      "publishedAt": "2026-08-16T21:02:08.000Z",
+      "summary": "CCTV from a Palestinian-owned cafe in Iceland shows what appear to be Israeli tourists ripping a framed map of Palestine"
+    },
+    {
+      "id": "11b342173a23f65a",
+      "title": "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-16T20:55:19.000Z",
+      "summary": "Erdogan said Hamas has shown all possible sincere solidarity, while Israel continues aggressive attacks on Gaza."
+    },
+    {
+      "id": "5a9a663dbb3d9baa",
+      "title": "Brazil: Lula, Bolsonaro return to strongholds to launch runs for president",
+      "url": "https://www.aljazeera.com/news/2026/8/16/brazil-lula-bolsonaro-return-to-strongholds-to-launch-runs-for-president?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-08-16T20:36:32.000Z",
+      "summary": "Lula and Bolsonaro appeal to Brazil’s women voters with promises to combat rising femicide and gender violence."
+    },
+    {
+      "id": "e76615a1cfd02e3f",
+      "title": "What awaits new Scotland head coach Pocognoli?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly995z1j8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-16T20:25:07.000Z",
+      "summary": "Shifting the playing style, maintaining qualification for major tournaments and refreshing the squad await the new Scotland boss."
+    },
+    {
+      "id": "4216d254a08f49f1",
+      "title": "Super Giants survive late wobble to win men's Hundred",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c2dkk2j086lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-16T20:22:18.000Z",
+      "summary": "Trent Rockets fail in their bid to become the first team to win both Hundred trophies in the same year, as they are beaten by Manchester Super Giants in the men's final."
+    },
+    {
+      "id": "03cf2439f2c4c30a",
+      "title": "History for Hunt and Asher-Smith in golden finish for GB",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/c30444dmqe0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-08-16T20:14:46.000Z",
+      "summary": "Amy Hunt and Dina Asher-Smith make history while Georgia Hunter Bell claims a commanding 1500m gold as Great Britain finish strongly at the European Championships."
     },
     {
       "id": "277e1634abd46eed",
       "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
       "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "source": "BBC Science & Environment",
       "category": "disasters",
       "region": "global",
       "publishedAt": "2026-08-16T20:01:51.000Z",
@@ -72,8 +212,8 @@
       "summary": "Jeremiah Azu, Dina-Asher Smith, Zharnel Hughes and Amy Hunt combine to win gold for Great Britain in the first mixed 4x100m relay at the European Athletics Championships."
     },
     {
-      "id": "0ca03b23a3019c1d",
-      "title": "Barcelona agree £65m deal to sign Rodri from Man City",
+      "id": "5c424ca38d1549aa",
+      "title": "Barcelona agree £65m Rodri deal - who could replace him at Man City?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
@@ -90,16 +230,6 @@
       "region": "middle_east",
       "publishedAt": "2026-08-16T19:29:31.000Z",
       "summary": "Turkish President Recep Tayyip Erdogan said continued Israeli attacks on Lebanon are a source of serious concern."
-    },
-    {
-      "id": "de17fc827f780ee1",
-      "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
-      "url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "diplomacy",
-      "region": "africa",
-      "publishedAt": "2026-08-16T19:23:28.000Z",
-      "summary": "Trump envoy has pushed for disarmament to end any future Hamas role in running Gaza, diplomatic sources tell AFP."
     },
     {
       "id": "0080ace71e7499c7",
@@ -132,86 +262,6 @@
       "summary": "A search-and-rescue operation is under way after properties were uprooted from their foundations."
     },
     {
-      "id": "007a160a67b70c22",
-      "title": "Foxes beat Notts to reach One-Day Cup final",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cdeww6j85gro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-16T18:45:00.000Z",
-      "summary": "Leicestershire reach a second One-Day Cup final in four years as they overcome Notts Outlaws by 23 runs in their semi-final at Grace Road."
-    },
-    {
-      "id": "1480a10ce53b8540",
-      "title": "Shop window or new chance - what next for Grealish?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c07rr20g732o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-16T18:30:55.000Z",
-      "summary": "Jack Grealish made an unexpected return to the Manchester City team on Sunday - so what could his future hold?"
-    },
-    {
-      "id": "b3624db3cabeb715",
-      "title": "Hollman leads Middlesex to first List A final for 36 years",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c4g48y40e0lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-08-16T18:03:00.000Z",
-      "summary": "Luke Hollman scores an unbeaten 83 to help Middlesex stun Durham with a two-wicket win in their One-Day Cup semi-final to reach their first List A decider since 1990."
-    },
-    {
-      "id": "a7721f3bc7ffc657",
-      "title": "Oliveira dedicates Portugal stage win to Tarling family",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/cy07720z94no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-16T17:59:03.000Z",
-      "summary": "Rui Oliveira wins the final stage of the Volta a Portugal in his home city of Porto before dedicating the win to Finlay Tarling's family."
-    },
-    {
-      "id": "8af032329be5f29a",
-      "title": "Belgian Pocognoli confirmed as Scotland boss",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyrre1qzwlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-08-16T17:56:58.000Z",
-      "summary": "The Scottish FA say they have appointed \"one of Europe's brightest emerging coaching talents\" by securing Sebastien Pocognoli as Scotland men's new head coach on a two-year deal."
-    },
-    {
-      "id": "0699dbf63c2659da",
-      "title": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-16T17:46:21.000Z",
-      "summary": "Former Israeli captive Rom Braslavski asked Ben Gvir to allow him to execute Palestinian prisoners by hanging."
-    },
-    {
-      "id": "526638e16d860ba6",
-      "title": "Israeli army besieges Palestinian homes in occupied West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-16T17:45:52.000Z",
-      "summary": "Israeli troops have raided the village of Qusra, south of Nablus, in the occupied West Bank."
-    },
-    {
-      "id": "9fd9b6af037c4c6e",
-      "title": "Why are sandwiches more regulated than AI?",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-16T17:36:02.000Z",
-      "summary": "Futurist Max Tegmark wonders why sandwiches are more regulated than artificial intelligence in the US."
-    },
-    {
       "id": "0b81a7b58bd32256",
       "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
       "url": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
@@ -222,26 +272,6 @@
       "summary": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]"
     },
     {
-      "id": "bf7b0703e0add2e2",
-      "title": "‘Water and salt’: Qusra residents trapped in Israeli settler siege",
-      "url": "https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-16T17:18:00.000Z",
-      "summary": "Israeli settlers and soldiers besiege Qusra families for eight days, blocking water and aid."
-    },
-    {
-      "id": "acd980e957e29f06",
-      "title": "Cristiano Ronaldo hints at retirement at end of season",
-      "url": "https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-16T17:03:18.000Z",
-      "summary": "Superstar forward gave his clearest indication yet that he might end his playing career after the current season."
-    },
-    {
       "id": "1697156fb4c3018d",
       "title": "'Probably my last year' - Ronaldo hints at retirement",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3300lxjz7lo?at_medium=RSS&at_campaign=rss",
@@ -250,26 +280,6 @@
       "region": "global",
       "publishedAt": "2026-08-16T16:33:16.000Z",
       "summary": "Cristiano Ronaldo says this season will probably be his last as a player after a glittering football career."
-    },
-    {
-      "id": "2c8cfa47a07f3b47",
-      "title": "Arsenal cruise to win over Manchester City in Community Shield",
-      "url": "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-16T16:17:36.000Z",
-      "summary": "Premier League champions hand new ​City boss Enzo Maresca a humbling defeat ⁠in his first football game in ​charge."
-    },
-    {
-      "id": "5c40d7ef5bb4903e",
-      "title": "Moroccan migrants stage sit-in as thousands remain stranded in Ceuta",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-08-16T15:51:26.000Z",
-      "summary": "Moroccan migrants are protesting in Ceuta, demanding asylum two weeks after more than a massive migrant surge."
     },
     {
       "id": "e77206417e45692c",
@@ -339,7 +349,7 @@
       "category": "world_politics",
       "region": "europe",
       "publishedAt": "2026-08-16T11:35:25.000Z",
-      "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer."
+      "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Janeiro's Christ the Redeemer."
     },
     {
       "id": "4ea143036362c754",
@@ -522,16 +532,6 @@
       "summary": "Doh! | Image: Activision / 20th Century Fox At D23, when asked about the potential for a sequel to the cult classic The Simpsons: Hit & Run game, Matt Groening replied, \"I think the original game is coming back in some form,\" before current showrunner Matt Selman added, \"or not.\" The tone in both of their voices and the body language suggests that Groening may have just revealed something he wasn't supposed to. The o"
     },
     {
-      "id": "c23b9494e8f999f7",
-      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-      "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "africa",
-      "publishedAt": "2026-08-15T20:58:31.000Z",
-      "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday."
-    },
-    {
       "id": "645261ff5986d5eb",
       "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
       "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
@@ -582,16 +582,6 @@
       "summary": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped."
     },
     {
-      "id": "a0c712ea9cdfd853",
-      "title": "How Anthropic plans to watermark Claude's AI-generated text",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-08-14T23:24:17.000Z",
-      "summary": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials. [...]"
-    },
-    {
       "id": "a039f0d845990efb",
       "title": "Why tech bosses keep sharing their manifestos about AI",
       "url": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss",
@@ -610,16 +600,6 @@
       "region": "global",
       "publishedAt": "2026-08-14T21:20:19.000Z",
       "summary": "There's a constant battle in ice cream to come up with new flavours and to keep costs down."
-    },
-    {
-      "id": "ba5c032a383fa9ed",
-      "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "americas",
-      "publishedAt": "2026-08-14T18:04:26.000Z",
-      "summary": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers' bank accounts. [...]"
     },
     {
       "id": "fa2e79c7ccfdf4d2",
@@ -692,6 +672,16 @@
       "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the…"
     },
     {
+      "id": "b9ab2012aca24e67",
+      "title": "Cloning could be used to save species—or make human “organ sacks”",
+      "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+      "source": "MIT Tech Review",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-08-14T09:00:00.000Z",
+      "summary": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, except for the missing Y chromosome.…"
+    },
+    {
       "id": "5594f0b3dd7fd604",
       "title": "US says dozens of countries helped China dodge Trump's tariffs",
       "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
@@ -730,6 +720,16 @@
       "region": "asia_pacific",
       "publishedAt": "2026-08-13T22:00:10.000Z",
       "summary": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market."
+    },
+    {
+      "id": "0444e3434392ce77",
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-08-13T19:46:27.000Z",
+      "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days."
     },
     {
       "id": "cd8df85c92a7fb9b",
