@@ -1,6 +1,76 @@
 {
-  "generatedAt": "2026-08-18T08:46:57.831Z",
+  "generatedAt": "2026-08-18T09:40:45.814Z",
   "articles": [
+    {
+      "id": "d273b6dc2f32b572",
+      "title": "Russia warns UK will pay for supplying drones to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-08-18T09:33:49.000Z",
+      "summary": "Russia accuses the UK after British-made drones were used in Ukrainian strikes, but the MoD says it stands against Russian aggression."
+    },
+    {
+      "id": "e45800e54fb0820f",
+      "title": "Microsoft confirms outage affecting search in Microsoft 365 apps",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-08-18T09:24:49.000Z",
+      "summary": "Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. [...]"
+    },
+    {
+      "id": "c1b2f33e7290f8cc",
+      "title": "Pakistan top court orders Imran Khan’s hospital transfer amid access battle",
+      "url": "https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-18T09:15:03.000Z",
+      "summary": "Supreme Court grants jailed ex-PM Imran Khan transfer to hospital for a month after concerns raised over blood pressure."
+    },
+    {
+      "id": "4934ac318a41d225",
+      "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
+      "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-08-18T09:00:33.000Z",
+      "summary": "US states are suing the social media giant to force an overhaul of its platforms for young users."
+    },
+    {
+      "id": "642eb86e7e112790",
+      "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
+      "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-08-18T09:00:01.000Z",
+      "summary": "The AirPods in the video look like a chunkier version of Apple’s AirPods Pro 3. | Image: Apple / MacRumors We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence can see the bo"
+    },
+    {
+      "id": "bafa9b4931b5a34d",
+      "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
+      "url": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-18T08:59:28.000Z",
+      "summary": "Small firms cite labour and operating costs as reasons for scaling back hiring, the UK's statistics body says."
+    },
+    {
+      "id": "4901aa8c9083e1ef",
+      "title": "Cincinnati Open: Williams sisters fall in doubles while Zverev advances",
+      "url": "https://www.aljazeera.com/sports/2026/8/18/cincinnati-open-williams-sisters-fall-in-doubles-while-zverev-advances?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-18T08:56:14.000Z",
+      "summary": "Alexander Zverev survives third-round scare versus Terrance Atmane while Venus, Serena Williams lose in doubles return."
+    },
     {
       "id": "6f090a9d0f55fcad",
       "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
@@ -10,6 +80,16 @@
       "region": "global",
       "publishedAt": "2026-08-18T08:44:10.000Z",
       "summary": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday."
+    },
+    {
+      "id": "72202b8d6423be33",
+      "title": "Trump lashes out at CNN reporter over South Korea question",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-18T08:33:46.000Z",
+      "summary": "Trump lashes out at CNN reporter over South Korea question"
     },
     {
       "id": "bbbcab366f879c9e",
@@ -29,17 +109,7 @@
       "category": "war_conflict",
       "region": "middle_east",
       "publishedAt": "2026-08-18T08:23:59.000Z",
-      "summary": "The former regime figure was found guilty of charges including premeditated murder and torture."
-    },
-    {
-      "id": "4934ac318a41d225",
-      "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
-      "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-08-18T08:19:37.000Z",
-      "summary": "US states are suing the social media giant to force an overhaul of its platforms for young users."
+      "summary": "Cousin of Bashar al-Assad and former regime figure found guilty of crimes including premeditated murder and torture"
     },
     {
       "id": "80ae8f08d193146d",
@@ -72,14 +142,14 @@
       "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents."
     },
     {
-      "id": "f097f73c61a239e2",
-      "title": "Top Russian economist ousted after warning of growing costs of Ukraine war",
-      "url": "https://www.aljazeera.com/news/2026/8/18/top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-war?traffic_source=rss",
+      "id": "f95bcb18fbcda9d4",
+      "title": "Lakers’ Jeanie Buss ‘contesting’ family’s vote to sell to Kushner, Iger",
+      "url": "https://www.aljazeera.com/sports/2026/8/18/los-angeles-lakers-jeanie-buss-contesting-familys-vote-to-sell-to-kushner-iger?traffic_source=rss",
       "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-08-18T08:05:42.000Z",
-      "summary": "Andrey Klepach, top economist at Russia's state development bank VEB, had warned Russia was lagging behind rivals."
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-18T07:59:53.000Z",
+      "summary": "The Lakers governor is resisting attempts to sell family's minority share to new owners Bob Iger and Josh Kushner."
     },
     {
       "id": "bf4c99200b76ba1c",
@@ -110,36 +180,6 @@
       "region": "middle_east",
       "publishedAt": "2026-08-18T07:46:17.000Z",
       "summary": "Israeli settlers besiege Palestinian homes in West Bank, while Board of Peace goes back on Gaza disarmament deal."
-    },
-    {
-      "id": "0e65c3ba62a46d22",
-      "title": "Israel’s siege on Gaza is creating a breast cancer crisis",
-      "url": "https://www.aljazeera.com/features/2026/8/18/israels-siege-on-gaza-is-creating-a-breast-cancer-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-18T07:43:45.000Z",
-      "summary": "Al Jazeera looks at the devastating impact that Israel's war and siege on Gaza are having on women with breast cancer."
-    },
-    {
-      "id": "24b179096a1cdb11",
-      "title": "Canada battles the clock, politics in scramble to avert Trump’s tariffs",
-      "url": "https://www.aljazeera.com/economy/2026/8/18/canada-battles-the-clock-politics-in-scramble-to-avert-trumps-tariffs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-08-18T07:41:41.000Z",
-      "summary": "Canadian officials are making a last-ditch effort to negotiate a reprieve from 50-percent tariffs."
-    },
-    {
-      "id": "bafa9b4931b5a34d",
-      "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
-      "url": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-08-18T07:30:35.000Z",
-      "summary": "Small firms cite labour and operating costs as reasons for scaling back hiring, the UK's statistics body says."
     },
     {
       "id": "de08ede681cf2e70",
@@ -210,36 +250,6 @@
       "region": "global",
       "publishedAt": "2026-08-18T06:53:11.000Z",
       "summary": "The bladder stone, which weighs as much as a full-term baby, is believed to be the largest on record."
-    },
-    {
-      "id": "ea2e4d6b9f5debda",
-      "title": "Russian strikes kill 10 in Kharkiv as Ukrainian drones hit Moscow",
-      "url": "https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-08-18T06:47:40.000Z",
-      "summary": "Russian attacks reportedly killed 10 people and injured eight in Ukraine's Kharkiv."
-    },
-    {
-      "id": "383ecd566f139dc2",
-      "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-08-18T06:40:00.000Z",
-      "summary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine."
-    },
-    {
-      "id": "d55d58fcc4f7adde",
-      "title": "Vessel hit by ‘unknown projectile’ in Strait of Hormuz, UKMTO says",
-      "url": "https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "disasters",
-      "region": "global",
-      "publishedAt": "2026-08-18T06:35:43.000Z",
-      "summary": "British maritime agency says the incident caused one casualty and damaged the vessel's engine room."
     },
     {
       "id": "8afeb9908c70e505",
@@ -322,14 +332,14 @@
       "summary": "Person dies after landslide hits apartment building in southern city of Geoje as torrential rains lead to power cuts and mass evacuations Torrential downpours that pounded southern parts of South Korea since Saturday have killed one person and injured four others, officials have confirmed. Heavy rains have been recorded in South Gyeongsang province, including the city of Geoje, where an 800mm (31in) deluge over the w"
     },
     {
-      "id": "50bb09083953c24d",
-      "title": "US-Canada trade talks 'intense' as new tariff deadline looms",
+      "id": "056f2da207e39091",
+      "title": "Carney's final chance to convince Trump as US-Canada trade deadline looms",
       "url": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "economy_business",
       "region": "americas",
       "publishedAt": "2026-08-18T00:02:31.000Z",
-      "summary": "Mark Carney will need to sell Canadians on any concessions made to the US as negotiators scramble to reach a deal to avoid Trump’s latest tariffs."
+      "summary": "Negotiators want a deal to avoid fresh US tariffs - though Canadians are not in the mood to offer many concessions."
     },
     {
       "id": "be619bcea3fbe1f8",
@@ -862,16 +872,6 @@
       "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge."
     },
     {
-      "id": "d98110dfc2d2a609",
-      "title": "AI agent hacks gym to get its user a spot in pilates class",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-08-11T12:09:26.000Z",
-      "summary": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks."
-    },
-    {
       "id": "12d57fa016b467ee",
       "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
       "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
@@ -920,16 +920,6 @@
       "region": "americas",
       "publishedAt": "2026-07-12T12:00:18.000Z",
       "summary": "Dozens of projects are in development across US despite concerns over environmental and health risks The plan to bury carbon under remote Indiana farmland is supposed to be a slam dunk for the climate, according to its supporters – all generously funded by US tax dollars. But as far as Melissa Harrison and some other residents of Clymers, Indiana, are concerned, it just might be the end of their town. “This is our pl"
-    },
-    {
-      "id": "8a090d98bf68e0f7",
-      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
-      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
-      "source": "Krebs on Security",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-07-08T12:31:39.000Z",
-      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names."
     },
     {
       "id": "aa8304f4d62d8241",
