@@ -1,15 +1,285 @@
 {
-  "generatedAt": "2026-08-18T09:40:45.814Z",
+  "generatedAt": "2026-08-18T12:59:17.718Z",
   "articles": [
     {
-      "id": "d273b6dc2f32b572",
-      "title": "Russia warns UK will pay for supplying drones to Ukraine",
+      "id": "bafa9b4931b5a34d",
+      "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
+      "url": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-18T12:52:26.000Z",
+      "summary": "Small firms cite labour and operating costs as reasons for scaling back hiring, the UK's statistics body says."
+    },
+    {
+      "id": "c094a6868b9639a0",
+      "title": "Qatar rejects Iran’s ‘false’ claims about missing pilots",
+      "url": "https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-18T12:39:43.000Z",
+      "summary": "Majed al-Ansari says the Iranian planes 'violated Qatar’s sovereignty' and were dealt with in accordance with the law."
+    },
+    {
+      "id": "f2fc46d72189e8f8",
+      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
       "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "war_conflict",
       "region": "europe",
-      "publishedAt": "2026-08-18T09:33:49.000Z",
-      "summary": "Russia accuses the UK after British-made drones were used in Ukrainian strikes, but the MoD says it stands against Russian aggression."
+      "publishedAt": "2026-08-18T12:36:11.000Z",
+      "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\"."
+    },
+    {
+      "id": "056f2da207e39091",
+      "title": "Carney's final chance to convince Trump as US-Canada trade deadline looms",
+      "url": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "americas",
+      "publishedAt": "2026-08-18T12:27:47.000Z",
+      "summary": "Negotiators want a deal to avoid fresh US tariffs - though Canadians are not in the mood to offer many concessions."
+    },
+    {
+      "id": "a9d29b337ebd5e49",
+      "title": "How soon will the drought be over?",
+      "url": "https://www.bbc.co.uk/news/articles/c0kmlrkypjpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "europe",
+      "publishedAt": "2026-08-18T12:26:05.000Z",
+      "summary": "Rain has returned to parts of the UK this week but is it enough to end the drought some regions are facing?"
+    },
+    {
+      "id": "07da3ff6d8cdbe5a",
+      "title": "Myanmar: The Architecture of Statelessness",
+      "url": "https://www.aljazeera.com/video/aljazeerauntangles/2026/8/18/myanmar-the-architecture-of-statelessness?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-18T12:25:40.000Z",
+      "summary": "How Myanmar stripped the Rohingya of citizenship, leading to mass expulsions and a genocide case at the ICJ."
+    },
+    {
+      "id": "ad89c8cb6357c431",
+      "title": "The Download: how people really use AI, and Flock’s design choices",
+      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "source": "MIT Tech Review",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-08-18T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the…"
+    },
+    {
+      "id": "fa62ae8f6fc6ba04",
+      "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "disasters",
+      "region": "global",
+      "publishedAt": "2026-08-18T12:04:11.000Z",
+      "summary": "Recovery efforts continue in what is the country's deadliest transport disaster."
+    },
+    {
+      "id": "19ab0472ae57b1b5",
+      "title": "Google&#8217;s Pet Memory forgot who my cats are",
+      "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-08-18T12:01:29.000Z",
+      "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, I thought this could be the perfect solution. Pet Memory promises to teach your Google Home smart home who your p"
+    },
+    {
+      "id": "39f3128697295875",
+      "title": "The Verge Guide to Pets",
+      "url": "https://www.theverge.com/tech/975556/pets-tech-autofeeder-litter-robot-scale",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-08-18T12:01:28.000Z",
+      "summary": "Ah, the relationship between animals and the technology they can’t quite understand. Today, it seems like there’s a high-tech solution to every element of pet ownership, with devices on the market designed to keep pets fed, cleaned, watched over, and entertained. And if you have a pet you know: nothing is too good — or too cutting-edge — for your (furry, slimy, feathery) best friend. But while some tech can help care"
+    },
+    {
+      "id": "b787f31ea1ffea66",
+      "title": "Russia protests Japan PM’s comments after Putin’s Kuril visit",
+      "url": "https://www.aljazeera.com/news/2026/8/18/russia-protests-japan-pms-comments-after-putins-kuril-visit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-08-18T11:39:34.000Z",
+      "summary": "Russia summons Japan's ambassador to Moscow over Prime Minister Sanae ⁠Takaichi's 'anti-Russian' remarks."
+    },
+    {
+      "id": "cfc7c82662145254",
+      "title": "Why has Trump threatened to bomb Oman – for a second time?",
+      "url": "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "diplomacy",
+      "region": "middle_east",
+      "publishedAt": "2026-08-18T11:33:15.000Z",
+      "summary": "The US president threatened to bomb Oman over Hormuz, with US-Iran peace negotiations in a deadlock."
+    },
+    {
+      "id": "4aad38b7462e8e47",
+      "title": "‘A new normal’: Miami faces worsening seaweed problem as piles of algae wash up on beaches",
+      "url": "https://www.theguardian.com/us-news/2026/aug/18/miami-sargassum-seaweed-problem-climate-crisis",
+      "source": "The Guardian Environment",
+      "category": "weather_climate",
+      "region": "americas",
+      "publishedAt": "2026-08-18T11:30:44.000Z",
+      "summary": "Officials have had to remove thousands of tons of sargassum from Florida’s beaches amid the climate crisis Dealing with seaweed is the bulk of Chris Bumpus’s job during the summer. As chief of conservation for Miami-Dade county’s parks, recreation and open spaces department, Bumpus is in charge of cleaning sargassum off 17 miles (27km) of county beaches. But some days, the odds are stacked against him and his team. M"
+    },
+    {
+      "id": "447dc7001166a0f0",
+      "title": "Oops! My cat is an iPad kid",
+      "url": "https://www.theverge.com/tech/980226/cat-ipad-kid-pet-tech-games-youtube",
+      "source": "The Verge",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-18T11:30:00.000Z",
+      "summary": "Pets, like children, come with the responsibility to keep them happy, healthy, and mentally stimulated - obligations I readily committed to before getting my cat, Trevor. I work from home, so he's never lonely, and play with him using a mountain of toys at every opportunity outside of my working hours. But younger cats can be incredibly demanding of your attention. I simply don't have the capacity to physically enter"
+    },
+    {
+      "id": "8adbe563489c2299",
+      "title": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
+      "url": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-08-18T11:26:26.000Z",
+      "summary": "OpenAI insisted this was not in response to a particular issue with children believing ChatGPT to be alive."
+    },
+    {
+      "id": "36d0952bb00c6571",
+      "title": "Premier League what to know: Schedule, prediction, transfers and more",
+      "url": "https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-18T11:22:27.000Z",
+      "summary": "Matchday 1 fixtures, title predictions, where to watch and latest transfer news ahead of the new Premier League season."
+    },
+    {
+      "id": "baf2523f67580b44",
+      "title": "How I turned my fish tank high tech",
+      "url": "https://www.theverge.com/tech/978229/fish-tank-tech",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-08-18T11:15:00.000Z",
+      "summary": "When I was a kid, I owned two goldfish that eventually outgrew the size of their tank. At the time, I didn't realize just how much actually goes into having fish and keeping them healthy. I've learned a lot over the past couple of years while keeping nano fish - a group of five celestial pearl danios and four corydoras habrosus - along with some live plants. After filling up a 10-gallon tank with water and adding a f"
+    },
+    {
+      "id": "4c50d48d32b07160",
+      "title": "ChatGPT is getting a dedicated mode for teens",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-08-18T11:00:00.000Z",
+      "summary": "ChatGPT for Teens includes safeguards and parental controls. | Image: OpenAI OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and teen-specific protections. ChatGPT for Teens is \"an experience d"
+    },
+    {
+      "id": "fbc56664ec71bf50",
+      "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
+      "url": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-18T10:59:22.000Z",
+      "summary": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians."
+    },
+    {
+      "id": "6473abaddfdaa050",
+      "title": "Tupac Shakur murder trial begins thirty years after his death",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/tupac-shakur-murder-trial-begins-thirty-years-after-his-death?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-18T10:55:16.000Z",
+      "summary": "Former gang boss Duane ‘Keffe D’ Davis stands trial over Tupac Shakur’s 1996 murder, the first prosecution in the case."
+    },
+    {
+      "id": "5f6f2e958ce04f8c",
+      "title": "Why Fernandez uncertainty has echoes of Isak saga",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2dzj2w25vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-18T10:46:17.000Z",
+      "summary": "Enzo Fernandez's possible Manchester City move is following the pattern of Alexander Isak's transfer last summer - and creating headaches for Chelsea."
+    },
+    {
+      "id": "977b0e9159638f24",
+      "title": "Putin’s ‘illusion of victory:’ Russia ramps up missile attacks on Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/8/18/putins-illusion-of-victory-russia-ramps-up-missile-attacks-on-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-08-18T10:45:37.000Z",
+      "summary": "Deaths mount as Russia ramps up missile attacks on Ukraine, while Washington's promises of support remain elusive."
+    },
+    {
+      "id": "1ffcae195c4ecc40",
+      "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "americas",
+      "publishedAt": "2026-08-18T10:32:16.000Z",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April. [...]"
+    },
+    {
+      "id": "398a0d0b5d0a9a66",
+      "title": "India’s ‘Cockroach’ movement makes schools next battleground against Modi",
+      "url": "https://www.aljazeera.com/features/2026/8/18/indias-cockroach-movement-makes-schools-next-battleground-against-modi?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-18T10:22:03.000Z",
+      "summary": "Cockroach leaders asked supporters to audit their nearest government-run schools. But it has started with a killing."
+    },
+    {
+      "id": "b526b2ae213e1275",
+      "title": "Asian Champions League draw: Holders Al-Ahli to face former winners Al Ain",
+      "url": "https://www.aljazeera.com/sports/2026/8/18/asian-champions-league-draw-holders-al-ahli-to-face-former-winners-al-ain?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-18T10:20:06.000Z",
+      "summary": "Al-Ahli and Al Ain, who will also face Cristiano Ronaldo's Al-Nassr, are the pick of the match-ups in AFC's Elite draw."
+    },
+    {
+      "id": "8cbea2bf8349fd2f",
+      "title": "Eight air strikes hit airbase in Syria’s Idlib",
+      "url": "https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-18T10:11:53.000Z",
+      "summary": "Syrian state TV quotes military source as saying Israeli forces carried out attack, causing damage and no casualties."
+    },
+    {
+      "id": "40c6997bd3b150c0",
+      "title": "We still don’t know how people are really using AI",
+      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "source": "MIT Tech Review",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-08-18T10:06:43.000Z",
+      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to corroborate it,” says Anka Reuel, a Computer Science PhD candidate at the Stanford Trustworthy AI Research…"
+    },
+    {
+      "id": "82f1d7fd8cd1bf48",
+      "title": "Premier League to publish verdicts on referee and VAR decisions",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c98v0mrerz2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-18T10:00:14.000Z",
+      "summary": "The Premier League will publish the judgements of its Key Match Incidents Panel for the first time this season."
     },
     {
       "id": "e45800e54fb0820f",
@@ -20,16 +290,6 @@
       "region": "global",
       "publishedAt": "2026-08-18T09:24:49.000Z",
       "summary": "Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. [...]"
-    },
-    {
-      "id": "c1b2f33e7290f8cc",
-      "title": "Pakistan top court orders Imran Khan’s hospital transfer amid access battle",
-      "url": "https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-18T09:15:03.000Z",
-      "summary": "Supreme Court grants jailed ex-PM Imran Khan transfer to hospital for a month after concerns raised over blood pressure."
     },
     {
       "id": "4934ac318a41d225",
@@ -52,24 +312,14 @@
       "summary": "The AirPods in the video look like a chunkier version of Apple’s AirPods Pro 3. | Image: Apple / MacRumors We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence can see the bo"
     },
     {
-      "id": "bafa9b4931b5a34d",
-      "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
-      "url": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
+      "id": "050d6a0b3fa05a05",
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "source": "MIT Tech Review",
+      "category": "ai_innovation",
       "region": "global",
-      "publishedAt": "2026-08-18T08:59:28.000Z",
-      "summary": "Small firms cite labour and operating costs as reasons for scaling back hiring, the UK's statistics body says."
-    },
-    {
-      "id": "4901aa8c9083e1ef",
-      "title": "Cincinnati Open: Williams sisters fall in doubles while Zverev advances",
-      "url": "https://www.aljazeera.com/sports/2026/8/18/cincinnati-open-williams-sisters-fall-in-doubles-while-zverev-advances?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-18T08:56:14.000Z",
-      "summary": "Alexander Zverev survives third-round scare versus Terrance Atmane while Venus, Serena Williams lose in doubles return."
+      "publishedAt": "2026-08-18T09:00:00.000Z",
+      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon. …"
     },
     {
       "id": "6f090a9d0f55fcad",
@@ -82,16 +332,6 @@
       "summary": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday."
     },
     {
-      "id": "72202b8d6423be33",
-      "title": "Trump lashes out at CNN reporter over South Korea question",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-18T08:33:46.000Z",
-      "summary": "Trump lashes out at CNN reporter over South Korea question"
-    },
-    {
       "id": "bbbcab366f879c9e",
       "title": "Newcastle complete £30m move for Benfica's Dedic",
       "url": "https://www.bbc.co.uk/sport/football/articles/czekzxd09zlo?at_medium=RSS&at_campaign=rss",
@@ -100,36 +340,6 @@
       "region": "global",
       "publishedAt": "2026-08-18T08:33:04.000Z",
       "summary": "Newcastle United sign defender Amar Dedic from Benfica for around £30m."
-    },
-    {
-      "id": "de749c4505a31002",
-      "title": "Syrian court sentences Wassim al-Assad to death",
-      "url": "https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-18T08:23:59.000Z",
-      "summary": "Cousin of Bashar al-Assad and former regime figure found guilty of crimes including premeditated murder and torture"
-    },
-    {
-      "id": "80ae8f08d193146d",
-      "title": "Chinese company unveils new ‘Superman’ humanoid robot",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/chinese-company-unveils-new-superman-humanoid-robot?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-08-18T08:10:36.000Z",
-      "summary": "Chinese company unveils new ‘Superman’ humanoid robot"
-    },
-    {
-      "id": "277a6c006b4f097d",
-      "title": "What to watch in Tuesday’s Florida primary elections",
-      "url": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-tuesdays-florida-primary-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-18T08:08:39.000Z",
-      "summary": "Islamophobia, anti-Semitism, Trump's politics and Israel's war on Gaza figure prominently in the elections."
     },
     {
       "id": "6cf6763cb1b86e1a",
@@ -142,16 +352,6 @@
       "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents."
     },
     {
-      "id": "f95bcb18fbcda9d4",
-      "title": "Lakers’ Jeanie Buss ‘contesting’ family’s vote to sell to Kushner, Iger",
-      "url": "https://www.aljazeera.com/sports/2026/8/18/los-angeles-lakers-jeanie-buss-contesting-familys-vote-to-sell-to-kushner-iger?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-18T07:59:53.000Z",
-      "summary": "The Lakers governor is resisting attempts to sell family's minority share to new owners Bob Iger and Josh Kushner."
-    },
-    {
       "id": "bf4c99200b76ba1c",
       "title": "'I'm in Barbados': The dos and don'ts of writing an out-of-office reply",
       "url": "https://www.bbc.co.uk/news/articles/c934xy32919o?at_medium=RSS&at_campaign=rss",
@@ -160,26 +360,6 @@
       "region": "global",
       "publishedAt": "2026-08-18T07:52:24.000Z",
       "summary": "As we hit peak holiday season, the BBC looks at the dos and don'ts of composing a good out-of-office message."
-    },
-    {
-      "id": "89865665bdc5ed8a",
-      "title": "Zambia's president wins second term with 60% of the vote",
-      "url": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-18T07:46:55.000Z",
-      "summary": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians."
-    },
-    {
-      "id": "76b4649b5aa703d7",
-      "title": "Palestine weekly: Global outcry fails to break West Bank siege",
-      "url": "https://www.aljazeera.com/features/2026/8/18/palestine-weekly-global-outcry-fails-break-west-bank-siege?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-08-18T07:46:17.000Z",
-      "summary": "Israeli settlers besiege Palestinian homes in West Bank, while Board of Peace goes back on Gaza disarmament deal."
     },
     {
       "id": "de08ede681cf2e70",
@@ -192,26 +372,6 @@
       "summary": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state."
     },
     {
-      "id": "409ef10600d74af3",
-      "title": "Is Haaland worth the price? Pick Rogers or Palmer? Five key FPL questions",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn0np755k4wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-18T07:23:59.000Z",
-      "summary": "BBC Sport's team of Fantasy Premier League experts debate some of the new season's big talking points to help you select your team before Friday's deadline."
-    },
-    {
-      "id": "534adc9a450df352",
-      "title": "Israeli settler children attack ambulance in occupied West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-08-18T07:20:35.000Z",
-      "summary": "Video released by the Palestinian Red Crescent shows Israeli settler children attacking and blocking an ambulance."
-    },
-    {
       "id": "dc61a738fa68f49c",
       "title": "China censors public mourning as it holds former premier's funeral",
       "url": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
@@ -220,16 +380,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-08-18T07:17:07.000Z",
       "summary": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule."
-    },
-    {
-      "id": "4bccaf8afd143c18",
-      "title": "Could refreshed Odegaard be like a new signing?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2lq80lwwpdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-18T07:14:06.000Z",
-      "summary": "The Arsenal captain had a hugely frustrating 2025-26 season despite leading his team to the title - but now appears fit and refreshed."
     },
     {
       "id": "574980421d3a3fb6",
@@ -262,6 +412,16 @@
       "summary": "Serena and Venus Williams lose a thriller at the Cincinnati Open in their first doubles match together for four years."
     },
     {
+      "id": "14c15875679c11b3",
+      "title": "Disabled people in England to get 24-hour free bus travel",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-18T06:11:30.000Z",
+      "summary": "The change, which has been welcomed by campaign groups, will come into effect in England from April."
+    },
+    {
       "id": "556475ecdce8dbfc",
       "title": "Government Aims to Progress by Including Everyone: Prime Minister",
       "url": "https://www.bd24live.com/government-aims-to-progress-by-including-everyone-prime-minister/",
@@ -270,26 +430,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-08-18T06:05:13.000Z",
       "summary": "Prime Minister Tarique Rahman has stated that the government’s goal is to advance the country by including everyone. He made this statement on Tuesday (August 18) at the National Revenue… The post Government Aims to Progress by Including Everyone: Prime Minister appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "c9fbb60480792617",
-      "title": "Five in Five: Football quiz No 2",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gw6k476elo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-18T05:59:57.000Z",
-      "summary": "Will you beat the clock by getting all five of today's answers in five minutes?"
-    },
-    {
-      "id": "ac4cb5a8b99bd0f0",
-      "title": "Breakouts & wildcards - 13 surprise stars for new season",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1l197j4gvro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-18T05:49:00.000Z",
-      "summary": "BBC Sport TV and radio commentators identify the players they think could be the breakout stars of the new Premier League season."
     },
     {
       "id": "9f590b10218c3581",
@@ -332,16 +472,6 @@
       "summary": "Person dies after landslide hits apartment building in southern city of Geoje as torrential rains lead to power cuts and mass evacuations Torrential downpours that pounded southern parts of South Korea since Saturday have killed one person and injured four others, officials have confirmed. Heavy rains have been recorded in South Gyeongsang province, including the city of Geoje, where an 800mm (31in) deluge over the w"
     },
     {
-      "id": "056f2da207e39091",
-      "title": "Carney's final chance to convince Trump as US-Canada trade deadline looms",
-      "url": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "americas",
-      "publishedAt": "2026-08-18T00:02:31.000Z",
-      "summary": "Negotiators want a deal to avoid fresh US tariffs - though Canadians are not in the mood to offer many concessions."
-    },
-    {
       "id": "be619bcea3fbe1f8",
       "title": "Guardiola-Walker fallout revealed in new documentary",
       "url": "https://www.bbc.co.uk/sport/football/articles/c62xj5evpjpo?at_medium=RSS&at_campaign=rss",
@@ -372,16 +502,6 @@
       "summary": "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition."
     },
     {
-      "id": "9de1509ca852ff98",
-      "title": "ABC&#8217;s livestreamed news show is powered by trending topics",
-      "url": "https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show",
-      "source": "The Verge",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-08-17T20:59:23.000Z",
-      "summary": "ABC News has officially introduced Searched, a livestreamed show that highlights stories people are discussing on social media and searching on the web, as reported earlier by Variety. Though the network just announced the show now, Searched began airing on the ABC News Live streaming channel in April, which appears on both Disney Plus and Hulu. In the press release, ABC News says Searched \"pulls real-time data from "
-    },
-    {
       "id": "300c7311b0bf936b",
       "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
       "url": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
@@ -392,16 +512,6 @@
       "summary": "A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]"
     },
     {
-      "id": "67279542c004eff0",
-      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "diplomacy",
-      "region": "middle_east",
-      "publishedAt": "2026-08-17T19:25:05.000Z",
-      "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires."
-    },
-    {
       "id": "6eb2308f0b60c62d",
       "title": "Pokémon Center data breach exposes customer info, cancels some orders",
       "url": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
@@ -410,16 +520,6 @@
       "region": "europe",
       "publishedAt": "2026-08-17T19:12:39.000Z",
       "summary": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...]"
-    },
-    {
-      "id": "9bcf24478c141ae8",
-      "title": "Wordle meets Clippy in this new word game",
-      "url": "https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-08-17T19:03:41.000Z",
-      "summary": "Like many of us, Sam Rosenthal plays games like Wordle every day, chasing after good scores and sharing the results with friends and family. But he's also a game designer, the creative director at Blaseball developer The Game Band, and so this regular habit got him thinking about what else could be done in the space. \"When I was a kid and I played word games with my family, they weren't the New York Times puzzle game"
     },
     {
       "id": "ffeb3aeb088be3bf",
@@ -442,16 +542,6 @@
       "summary": "The government has decided to bring a significant change to the country’s fiscal year timeline. Instead of the current July 1 to June 30 period, the fiscal year will now… The post Bangladesh Sets New Fiscal Year Timeline appeared first on Bangla Online News Portal."
     },
     {
-      "id": "5a6b27bb0b3b902b",
-      "title": "French PM booed on visit to wildfire-affected region as EU sends assistance to Belgium and Spain – as it happened",
-      "url": "https://www.theguardian.com/world/live/2026/aug/17/europe-wildfires-france-greece-belgium-germany-climate-crisis-drought-extreme-heat-latest-news-updates",
-      "source": "The Guardian Environment",
-      "category": "disasters",
-      "region": "europe",
-      "publishedAt": "2026-08-17T15:48:39.000Z",
-      "summary": "Belgium wildfire creeps closer to German border, as 104 firefighters and 36 vehicles from France help with Spain wildfire effort As flagged earlier, Belgium’s King Philippe is now visiting the emergency coordination centre looking after the firefighters tackling the major fire in the eastern part of the country (9:39). The European Commission has deployed assistance to Belgium and Spain as part of the bloc’s civil pr"
-    },
-    {
       "id": "b7deee19d6b2ca38",
       "title": "Watch: Flash flood sweeps vehicle away in Hawaii after Hurricane Lala",
       "url": "https://www.bbc.co.uk/news/videos/c2el0wd0w3go?at_medium=RSS&at_campaign=rss",
@@ -470,16 +560,6 @@
       "region": "global",
       "publishedAt": "2026-08-17T15:27:01.000Z",
       "summary": "Nearly 30 million people have been placed under hosepipe bans due to higher demand and low rainfall."
-    },
-    {
-      "id": "57d0c22d54878573",
-      "title": "Microsoft confirms GitHub is down worldwide",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-08-17T14:47:08.000Z",
-      "summary": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]"
     },
     {
       "id": "aed57eb2595632f5",
@@ -520,16 +600,6 @@
       "region": "americas",
       "publishedAt": "2026-08-17T10:00:52.000Z",
       "summary": "Kemp’s ridley sea turtle, near death on Welsh beach in 2023, is thriving in Houston despite lingering pneumonia A Kemp’s ridley sea turtle native to the Gulf of Mexico is largely thriving after he was found nearly dead on a beach in Wales in late 2023, nursed back to health and then flown to Houston recently to continue recovering – though scans revealed signs that the creature has been grappling with lingering pneum"
-    },
-    {
-      "id": "7e4ceec4db2b4fbd",
-      "title": "How much hydrogen awaits us underground?",
-      "url": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
-      "source": "MIT Tech Review",
-      "category": "ai_innovation",
-      "region": "americas",
-      "publishedAt": "2026-08-17T09:00:00.000Z",
-      "summary": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemists found water that had been confined underground for more than a billion years. This ancient brine turned out to be a habitat…"
     },
     {
       "id": "2b7417d418c9b38b",
@@ -722,36 +792,6 @@
       "summary": "Move will be one of first large-scale foreign investments in country since US ousted leader Nicolás Maduro in January BP has answered Donald Trump’s call for oil companies to help rebuild Venezuela’s fossil fuel industry with new plans to develop a large offshore gasfield. BP will partner with two oil firms with close links to the Trump administration to develop the second phase of the Loran gasfield, in one of the f"
     },
     {
-      "id": "fcd54ebec4ef47c2",
-      "title": "Who’s Tracking You? Use This New Service to Find Out",
-      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
-      "source": "Krebs on Security",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-08-14T11:24:35.000Z",
-      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtec"
-    },
-    {
-      "id": "22e92af36097440e",
-      "title": "This scientist is helping build a missing map of childhood",
-      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
-      "source": "MIT Tech Review",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-08-14T09:00:00.000Z",
-      "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the…"
-    },
-    {
-      "id": "b9ab2012aca24e67",
-      "title": "Cloning could be used to save species—or make human “organ sacks”",
-      "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
-      "source": "MIT Tech Review",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-08-14T09:00:00.000Z",
-      "summary": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, except for the missing Y chromosome.…"
-    },
-    {
       "id": "31987c3843364af7",
       "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
       "url": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
@@ -780,16 +820,6 @@
       "region": "global",
       "publishedAt": "2026-08-13T14:09:05.000Z",
       "summary": "The dating app's boss says the move is in response to a successful trial and a change in what users want."
-    },
-    {
-      "id": "31c7767ab819fcc4",
-      "title": "Flock boss admits surveillance firm took too long to act over police abuse",
-      "url": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-13T13:02:24.000Z",
-      "summary": "US police officers have quit after using licence plate-reading cameras to track romantic partners."
     },
     {
       "id": "d02dd7f36615675d",
@@ -822,16 +852,6 @@
       "summary": "Scotland's best chance of seeing a solar eclipse in 27 years left some disappointed, though there were moments of magic."
     },
     {
-      "id": "503e4bd368c0556f",
-      "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
-      "url": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "africa",
-      "publishedAt": "2026-08-12T23:19:28.000Z",
-      "summary": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle."
-    },
-    {
       "id": "b2e7c4656372e45a",
       "title": "Why Japanese firms are being so slow to use AI",
       "url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
@@ -862,16 +882,6 @@
       "summary": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\""
     },
     {
-      "id": "b76261c24d458336",
-      "title": "Tokenomics: Why making AI pay is tricky",
-      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-08-11T23:03:52.000Z",
-      "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge."
-    },
-    {
       "id": "12d57fa016b467ee",
       "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
       "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
@@ -880,16 +890,6 @@
       "region": "global",
       "publishedAt": "2026-08-06T17:00:56.000Z",
       "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers."
-    },
-    {
-      "id": "18db62ca0350dae3",
-      "title": "LG to Ban Residential Proxies from Smart TV Apps",
-      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "source": "Krebs on Security",
-      "category": "technology",
-      "region": "americas",
-      "publishedAt": "2026-07-22T01:10:38.000Z",
-      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties to route their Internet traffic through a user's TV."
     },
     {
       "id": "0c7c57ee5e25207d",
