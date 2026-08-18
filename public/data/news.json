@@ -1,6 +1,126 @@
 {
-  "generatedAt": "2026-08-18T15:38:26.911Z",
+  "generatedAt": "2026-08-18T16:39:42.377Z",
   "articles": [
+    {
+      "id": "3dedb6fcd689b072",
+      "title": "Tesla is finally launching the Cybercab — let’s hope it’s ready",
+      "url": "https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready",
+      "source": "The Verge",
+      "category": "cybersecurity",
+      "region": "americas",
+      "publishedAt": "2026-08-18T16:26:29.000Z",
+      "summary": "Tesla Cybercabs are lined up on a lot at Tesla Giga Texas in Austin, Wednesday, April 8, 2026. | Image: Jay Janner/The Austin American-Statesman via Getty Images The Tesla Cybercab, that golden two-seater central to Elon Musk's robo-supremacist ambitions, is finally nearing it's public launch. Whether or not the no-steering wheel and no-pedal vehicle is actually ready for public roads, let alone customers, remains ve"
+    },
+    {
+      "id": "ddb30c848ecf4eb5",
+      "title": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
+      "url": "https://www.bbc.co.uk/news/articles/c1e155428qyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-08-18T16:26:22.000Z",
+      "summary": "Afolabi Kazeem Micheal has not commented on allegations he is linked to a global drug trafficking network."
+    },
+    {
+      "id": "3b0a0d066cf05c34",
+      "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-18T16:22:54.000Z",
+      "summary": "The network accuses the administration of retaliation against ABC, as it \"disapproves of what ABC broadcasts\"."
+    },
+    {
+      "id": "acffab324114db04",
+      "title": "Iran prepares to keep economy alive as US threatens further sanctions",
+      "url": "https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "diplomacy",
+      "region": "americas",
+      "publishedAt": "2026-08-18T16:21:49.000Z",
+      "summary": "Iran’s authorities say they could shift to offensive operations as Washington considers further sanctions."
+    },
+    {
+      "id": "b1bd426e09b3880b",
+      "title": "Disney sues US regulator, claiming political retaliation over ABC stations",
+      "url": "https://www.aljazeera.com/economy/2026/8/18/disney-sues-us-regulator-claiming-political-retaliation-over-abc-stations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-18T16:12:15.000Z",
+      "summary": "FCC faces scrutiny as Disney claims licence renewal order is tied to political motives against ABC's coverage."
+    },
+    {
+      "id": "f5301659991b1a56",
+      "title": "Real Madrid officially present Mourinho in bizarre closed-door ceremony",
+      "url": "https://www.aljazeera.com/sports/2026/8/18/real-madrid-officially-presents-mourinho-in-bizarre-closed-door-ceremony?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-18T16:09:49.000Z",
+      "summary": "Jose Mourinho makes first official Real Madrid statements since returning as manager in unusually low-key ceremony."
+    },
+    {
+      "id": "67f92e8d07586f55",
+      "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-18T16:00:30.000Z",
+      "summary": "Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated."
+    },
+    {
+      "id": "dc3e25a37c1ffd50",
+      "title": "Spain builds tent cities for the thousands stuck in Ceuta",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/spain-builds-tent-cities-for-the-thousands-stuck-in-ceuta?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-08-18T15:53:42.000Z",
+      "summary": "Spain is building four temporary reception sites with 1,500 places as an estimated 5,000 migrants remain in Ceuta."
+    },
+    {
+      "id": "0f96c620800140f8",
+      "title": "Palestinian living in caves older than Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-living-in-caves-older-than-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "middle_east",
+      "publishedAt": "2026-08-18T15:53:38.000Z",
+      "summary": "Farhan al Rashaydeh lives in a cave in the occupied West Bank with his family."
+    },
+    {
+      "id": "6665e7db9b202a09",
+      "title": "“I fear for my family’s lives” says Loui Ridi as settlers besiege home",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/i-fear-for-my-familys-lives-says-loui-ridi-as-settlers-besiege-home?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-08-18T15:53:12.000Z",
+      "summary": "Palestinian-American Loui Ridi expressed distress over how Israeli settlers have roamed around Qusra unchallenged."
+    },
+    {
+      "id": "6cb1c7abfef97f1c",
+      "title": "Tarling death shows risks of smaller races - Vaughters",
+      "url": "https://www.bbc.co.uk/sport/cycling/articles/cddjv2jn846o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-18T15:52:00.000Z",
+      "summary": "Riders are risking their lives in races where organisers battle huge costs, and cycling's governing body \"cannot keep traffic off the roads\", according to former rider and team boss Jonathan Vaughters."
+    },
+    {
+      "id": "05f7eee74f927fee",
+      "title": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
+      "url": "https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "middle_east",
+      "publishedAt": "2026-08-18T15:14:17.000Z",
+      "summary": "Following the start of the US-Israel war on Iran, the first match of the Iranian league was played last week."
+    },
     {
       "id": "99c7d7ed4c1fdb29",
       "title": "US cites India on voter IDs, but are elections under Modi clean?",
@@ -20,16 +140,6 @@
       "region": "europe",
       "publishedAt": "2026-08-18T14:49:56.000Z",
       "summary": "Russia is suffering attacks inside its own territory as long-range drones strike its strategic assets."
-    },
-    {
-      "id": "42e627279a1d46f1",
-      "title": "Patrick Vieira appointed Senegal head coach with AFCON qualifiers looming",
-      "url": "https://www.aljazeera.com/sports/2026/8/18/patrick-vieira-appointed-senegal-head-coach-with-afcon-qualifiers-looming?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-08-18T14:46:59.000Z",
-      "summary": "Former France, Arsenal and Manchester City midfielder Patrick Vieira replaces Pape Thiaw as Senegal coach."
     },
     {
       "id": "dbb85ad4aa726546",
@@ -62,26 +172,6 @@
       "summary": "Play BBC Sport's new Match of the Day predictor game to test your football knowledge and build up your streak."
     },
     {
-      "id": "d63e396cb9471277",
-      "title": "What to know about Gaza working groups and their mandate?",
-      "url": "https://www.aljazeera.com/news/2026/8/18/what-to-know-about-gaza-working-groups-and-their-mandate?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-18T13:58:58.000Z",
-      "summary": "What to know about the new Gaza working groups conditioning reconstruction on immediate disarmament."
-    },
-    {
-      "id": "3c26a0798a5d75ff",
-      "title": "Why Sheff Utd are in the High Court and what it could mean",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2kz1gl724o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-18T13:54:15.000Z",
-      "summary": "Sheffield United's owners face a winding-up order in the High Court on Wednesday which could have a wide range of outcomes - including a 12-point deduction for the Championship club."
-    },
-    {
       "id": "8291b7d97b774988",
       "title": "Bezos consortium bought almost 40% of Liverpool",
       "url": "https://www.bbc.co.uk/sport/football/articles/cly9l92kj6po?at_medium=RSS&at_campaign=rss",
@@ -90,16 +180,6 @@
       "region": "global",
       "publishedAt": "2026-08-18T13:51:25.000Z",
       "summary": "A consortium including Amazon founder Jeff Bezos bought close to 40% of Liverpool from Fenway Sports Group (FSG)."
-    },
-    {
-      "id": "b31c5c90c442c78e",
-      "title": "Albon to stay with Williams for 2027 season",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cr5909rr1v7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-18T13:48:11.000Z",
-      "summary": "Alex Albon will stay at Williams for the 2027 season after signing a one-year contract extension."
     },
     {
       "id": "3114ed31dfcd7d8e",
@@ -150,26 +230,6 @@
       "region": "americas",
       "publishedAt": "2026-08-18T13:13:54.000Z",
       "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon."
-    },
-    {
-      "id": "2422b8d35a9073e2",
-      "title": "Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-18T13:12:56.000Z",
-      "summary": "Qatar says Iran’s claim it is holding missing aircrew is untrue and a “media ploy”, with Tehran yet to verify it."
-    },
-    {
-      "id": "6e67d4e47861f2ad",
-      "title": "Palestinian-American confronts Israeli settler at his besieged home",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-08-18T13:11:21.000Z",
-      "summary": "Palestinian-American Loui Abu Ridi confronted an Israeli settler at his home in Qusra, south of Nablus."
     },
     {
       "id": "bafa9b4931b5a34d",
@@ -252,16 +312,6 @@
       "summary": "Officials have had to remove thousands of tons of sargassum from Florida’s beaches amid the climate crisis Dealing with seaweed is the bulk of Chris Bumpus’s job during the summer. As chief of conservation for Miami-Dade county’s parks, recreation and open spaces department, Bumpus is in charge of cleaning sargassum off 17 miles (27km) of county beaches. But some days, the odds are stacked against him and his team. M"
     },
     {
-      "id": "447dc7001166a0f0",
-      "title": "Oops! My cat is an iPad kid",
-      "url": "https://www.theverge.com/tech/980226/cat-ipad-kid-pet-tech-games-youtube",
-      "source": "The Verge",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-08-18T11:30:00.000Z",
-      "summary": "Pets, like children, come with the responsibility to keep them happy, healthy, and mentally stimulated - obligations I readily committed to before getting my cat, Trevor. I work from home, so he's never lonely, and play with him using a mountain of toys at every opportunity outside of my working hours. But younger cats can be incredibly demanding of your attention. I simply don't have the capacity to physically enter"
-    },
-    {
       "id": "8adbe563489c2299",
       "title": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
       "url": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
@@ -280,16 +330,6 @@
       "region": "global",
       "publishedAt": "2026-08-18T11:18:39.000Z",
       "summary": "An increased demand in wool has meant prices have increased more than 70% in the last year."
-    },
-    {
-      "id": "fbc56664ec71bf50",
-      "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
-      "url": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-18T10:59:22.000Z",
-      "summary": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians."
     },
     {
       "id": "5f6f2e958ce04f8c",
@@ -432,16 +472,6 @@
       "summary": "BBC Sport TV and radio commentators identify the players they think could be the breakout stars of the new Premier League season."
     },
     {
-      "id": "9f590b10218c3581",
-      "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-      "url": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-18T05:24:15.000Z",
-      "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified."
-    },
-    {
       "id": "3fcc345d997175fa",
       "title": "Inside secret police warehouse as Germany targets small boats gangs",
       "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
@@ -462,16 +492,6 @@
       "summary": "The alleged shooter, also a student, later took his own life."
     },
     {
-      "id": "87f08ff6b1878e50",
-      "title": "Norway's king admitted to hospital and put on sick leave",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-08-17T21:34:26.000Z",
-      "summary": "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition."
-    },
-    {
       "id": "300c7311b0bf936b",
       "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
       "url": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
@@ -480,16 +500,6 @@
       "region": "global",
       "publishedAt": "2026-08-17T19:35:01.000Z",
       "summary": "A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]"
-    },
-    {
-      "id": "6eb2308f0b60c62d",
-      "title": "Pokémon Center data breach exposes customer info, cancels some orders",
-      "url": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "europe",
-      "publishedAt": "2026-08-17T19:12:39.000Z",
-      "summary": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...]"
     },
     {
       "id": "ffeb3aeb088be3bf",
