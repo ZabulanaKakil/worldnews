@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-08-18T19:33:13.425Z",
+  "generatedAt": "2026-08-18T20:31:52.820Z",
   "articles": [
+    {
+      "id": "c86c22713b9b2ef3",
+      "title": "Man in Chucky-style mask terrorises Philadelphia residents",
+      "url": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-18T20:27:44.000Z",
+      "summary": "\"It was just weird, like some twisted game.\""
+    },
+    {
+      "id": "f612e6f2a673a03b",
+      "title": "US announces new sanctions on top ICC figures",
+      "url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "diplomacy",
+      "region": "global",
+      "publishedAt": "2026-08-18T20:21:49.000Z",
+      "summary": "The Trump administration has vowed to dismantle the international court \"brick by brick\"."
+    },
+    {
+      "id": "f93875cd5caf9cae",
+      "title": "US sanctions International Criminal Court president and trial lawyer",
+      "url": "https://www.aljazeera.com/news/2026/8/18/us-sanctions-international-criminal-court-president-and-trial-lawyer?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "diplomacy",
+      "region": "global",
+      "publishedAt": "2026-08-18T20:09:07.000Z",
+      "summary": "The Trump administration has led a campaign to 'dismantle' the court, calling it a threat to national sovereignty."
+    },
+    {
+      "id": "b70bfe9d42b16bc5",
+      "title": "Musiala collapses during match for second time in four-day period",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c330kg5xm8no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-18T19:57:08.000Z",
+      "summary": "Bayern Munich midfielder Jamal Musiala says he is being treated for a \"neurological dysfunction\" after collapsing during a match for the second time in a four-day period."
+    },
+    {
+      "id": "67c22800fe92efda",
+      "title": "US Justice Department denies whistleblower claims on anti-Semitism probes",
+      "url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-08-18T19:56:48.000Z",
+      "summary": "Ivy League schools were pressured into settlements despite a lack of evidence, according to a former DOJ lawyer."
+    },
+    {
+      "id": "ce2f82750086a03e",
+      "title": "Judge swapped in Trump's defamation case against BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-18T19:52:32.000Z",
+      "summary": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC."
+    },
+    {
+      "id": "2446437de4404a58",
+      "title": "Turkish politician Melih Meric stabbed",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/turkish-politician-melih-meric-stabbed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-08-18T19:51:17.000Z",
+      "summary": "Footage shows the moment Turkish New Party MP Melih Meric got into an argument with a man who stabbed him."
+    },
+    {
+      "id": "c04322667056c889",
+      "title": "US seeks to revive criminal case against Kilmar Abrego Garcia",
+      "url": "https://www.aljazeera.com/news/2026/8/18/us-seeks-to-revive-criminal-case-against-kilmar-abrego-garcia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-18T19:46:39.000Z",
+      "summary": "Judge previously found US government brought charges against Abrego Garcia as retaliation for case that embarrassed it."
+    },
+    {
+      "id": "041ca08532a285c7",
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "source": "The Verge",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-08-18T19:28:30.000Z",
+      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the company says it instituted a two-week pause i"
+    },
     {
       "id": "3765ca6dafa77701",
       "title": "The ‘witch-hunt’ of Jason Arday",
@@ -10,16 +100,6 @@
       "region": "global",
       "publishedAt": "2026-08-18T19:22:45.000Z",
       "summary": "The ‘witch-hunt’ of Jason Arday"
-    },
-    {
-      "id": "f612e6f2a673a03b",
-      "title": "US announces new sanctions on top ICC figures",
-      "url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "diplomacy",
-      "region": "global",
-      "publishedAt": "2026-08-18T19:18:30.000Z",
-      "summary": "The Trump administration has vowed to dismantle the international court \"brick by brick\"."
     },
     {
       "id": "88ca53197900cd75",
@@ -132,26 +212,6 @@
       "summary": "Analysts say the attack on Abu al-Duhur was likely an Israeli message warning to not rebuild Syria's air force."
     },
     {
-      "id": "0ad2ceeb37ca91a5",
-      "title": "The British state has recast protest as terrorism",
-      "url": "https://www.aljazeera.com/opinions/2026/8/18/the-british-state-has-recast-protest-as-terrorism?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-08-18T17:34:44.000Z",
-      "summary": "Britain’s ever-broader terrorism laws are erasing the line between political violence, protest and dissent."
-    },
-    {
-      "id": "076687d8ac2980c2",
-      "title": "Tropical Storm Lala leaves Hawaii flooded and without power",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/tropical-storm-lala-leaves-hawaii-flooded-and-without-power?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-08-18T17:22:38.000Z",
-      "summary": "Tropical Storm Lala leaves Hawaii flooded and without power"
-    },
-    {
       "id": "e0bf236c9d8d679a",
       "title": "PlayStation&#8217;s wireless gaming speakers launch in November",
       "url": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder",
@@ -232,16 +292,6 @@
       "summary": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\"."
     },
     {
-      "id": "acffab324114db04",
-      "title": "Iran prepares to keep economy alive as US threatens further sanctions",
-      "url": "https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "diplomacy",
-      "region": "americas",
-      "publishedAt": "2026-08-18T16:21:49.000Z",
-      "summary": "Iran’s authorities say they could shift to offensive operations as Washington considers further sanctions."
-    },
-    {
       "id": "67f92e8d07586f55",
       "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
       "url": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss",
@@ -250,16 +300,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-08-18T16:00:30.000Z",
       "summary": "Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated."
-    },
-    {
-      "id": "6cb1c7abfef97f1c",
-      "title": "Tarling death shows risks of smaller races - Vaughters",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/cddjv2jn846o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-18T15:52:00.000Z",
-      "summary": "Riders are risking their lives in races where organisers battle huge costs, and cycling's governing body \"cannot keep traffic off the roads\", according to former rider and team boss Jonathan Vaughters."
     },
     {
       "id": "f2365bae530b212e",
@@ -482,16 +522,6 @@
       "summary": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday."
     },
     {
-      "id": "6cf6763cb1b86e1a",
-      "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-      "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-08-18T08:07:37.000Z",
-      "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents."
-    },
-    {
       "id": "bf4c99200b76ba1c",
       "title": "'I'm in Barbados': The dos and don'ts of writing an out-of-office reply",
       "url": "https://www.bbc.co.uk/news/articles/c934xy32919o?at_medium=RSS&at_campaign=rss",
@@ -522,6 +552,16 @@
       "summary": "Prime Minister Tarique Rahman has stated that the government’s goal is to advance the country by including everyone. He made this statement on Tuesday (August 18) at the National Revenue… The post Government Aims to Progress by Including Everyone: Prime Minister appeared first on Bangla Online News Portal."
     },
     {
+      "id": "c0935b6aa9fcd7ff",
+      "title": "South Korea president calls for military independence in wake of Trump call to cut joint drills",
+      "url": "https://www.theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un",
+      "source": "The Guardian World",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-18T05:50:33.000Z",
+      "summary": "Lee Jae Myung reiterates desire for full command back in Seoul’s hands after Donald Trump cuts joint exercises, citing warm ties with Kim Jong-un ‘Inane, haphazard decision’ by Trump to gut South Korea alliance South Korea’s president ⁠has renewed his push to regain independent control of the military from the US in the event of war and urged faster progress in acquiring nuclear-powered submarines after Donald Trump’"
+    },
+    {
       "id": "ac4cb5a8b99bd0f0",
       "title": "Breakouts & wildcards - 13 surprise stars for new season",
       "url": "https://www.bbc.co.uk/sport/football/articles/c1l197j4gvro?at_medium=RSS&at_campaign=rss",
@@ -530,26 +570,6 @@
       "region": "global",
       "publishedAt": "2026-08-18T05:49:00.000Z",
       "summary": "BBC Sport TV and radio commentators identify the players they think could be the breakout stars of the new Premier League season."
-    },
-    {
-      "id": "3fcc345d997175fa",
-      "title": "Inside secret police warehouse as Germany targets small boats gangs",
-      "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-08-18T05:02:58.000Z",
-      "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling."
-    },
-    {
-      "id": "300c7311b0bf936b",
-      "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-08-17T19:35:01.000Z",
-      "summary": "A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]"
     },
     {
       "id": "ffeb3aeb088be3bf",
@@ -590,16 +610,6 @@
       "region": "global",
       "publishedAt": "2026-08-17T15:27:01.000Z",
       "summary": "Nearly 30 million people have been placed under hosepipe bans due to higher demand and low rainfall."
-    },
-    {
-      "id": "1b4257fdc9595c65",
-      "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
-      "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-17T14:07:31.000Z",
-      "summary": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country’s history, with at least 2,325 people dead, according to government data, surpassing the toll from the 2018-20 outbreak. The DRC’s public health institute said confirmed cases had risen to 4,945, inclu"
     },
     {
       "id": "aed57eb2595632f5",
@@ -670,6 +680,16 @@
       "region": "global",
       "publishedAt": "2026-08-17T00:20:51.000Z",
       "summary": "The state's governor says there \"amazingly\" does not seem to have been any loss of life besides a car crash."
+    },
+    {
+      "id": "1f3ce4af94b32fa7",
+      "title": "Lala weakens to tropical storm as it lashes Hawaii with heavy wind and rain",
+      "url": "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall",
+      "source": "The Guardian Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-08-16T23:45:12.000Z",
+      "summary": "Hurricane Lala downgraded after skirting Big Island as one person dies and 183,000 still without power Hurricane Lala weakened to a tropical storm on Sunday after skirting Hawaii without making landfall, but it wasn’t done punishing the Big Island with hurricane-force gusts. Total rainfall of nearly 3ft (1 meter) was expected on the higher windward slopes, turning rivers into raging torrents and threatening mudslides"
     },
     {
       "id": "277e1634abd46eed",
@@ -762,16 +782,6 @@
       "summary": "Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI."
     },
     {
-      "id": "fa2e79c7ccfdf4d2",
-      "title": "'Days of the farmers' union dictating policy are over' - Muir",
-      "url": "https://www.bbc.co.uk/news/articles/cdj0pv2m812o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-14T16:07:57.000Z",
-      "summary": "The Agriculture Minister Andrew Muir says he will continue to engage with the Ulster Farmers' Union."
-    },
-    {
       "id": "b3b0b4f490789f87",
       "title": "American missionary kidnapped in Niger freed after nine months",
       "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
@@ -802,24 +812,14 @@
       "summary": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?"
     },
     {
-      "id": "0444e3434392ce77",
-      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "id": "23c6c398e5fe9739",
+      "title": "Temperatures soar to 38C as amber extreme heat warning in effect",
+      "url": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss",
       "source": "BBC Science & Environment",
-      "category": "creativity_arts",
+      "category": "war_conflict",
       "region": "global",
-      "publishedAt": "2026-08-13T19:46:27.000Z",
-      "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days."
-    },
-    {
-      "id": "3960165ef5f3b519",
-      "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
-      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "africa",
-      "publishedAt": "2026-08-13T15:17:13.000Z",
-      "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which killed at least 11,000 people more than a decade ago. The current o"
+      "publishedAt": "2026-08-13T15:53:37.000Z",
+      "summary": "Heat is spiking again on Thursday with a rare warning in place and more records falling."
     },
     {
       "id": "2980febf2d9dcf0e",
