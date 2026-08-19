@@ -1,65 +1,115 @@
 {
-  "generatedAt": "2026-08-19T03:04:51.152Z",
+  "generatedAt": "2026-08-19T06:56:41.706Z",
   "articles": [
     {
-      "id": "14e4efa602b74c92",
-      "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
-      "url": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
+      "id": "fe43e47c426d8971",
+      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "europe",
+      "publishedAt": "2026-08-19T06:50:04.000Z",
+      "summary": "The cost of things is now rising at a faster pace compared with last month."
+    },
+    {
+      "id": "85d595d83bcb8718",
+      "title": "South Africa to Australia: Why coal profits are surging during Iran war",
+      "url": "https://www.aljazeera.com/news/2026/8/19/south-africa-to-australia-why-coal-profits-are-surging-during-iran-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "africa",
+      "publishedAt": "2026-08-19T06:27:30.000Z",
+      "summary": "Coal companies are reporting a huge rise in profits, but analysts say global clean energy transition is still on track."
+    },
+    {
+      "id": "b3e5234d22a612fc",
+      "title": "Scaling back US-South Korea drills may fail to woo Kim away from China",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/scaling-back-us-south-korea-drills-may-fail-to-woo-kim-away-from-china?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-19T06:16:53.000Z",
+      "summary": "Trump is scaling back US-South Korea military exercises as he signals interest in renewed talks with Kim Jong Un."
+    },
+    {
+      "id": "0cadbbfb9bb881f9",
+      "title": "Ukraine’s ousted defence minister calls for elections during war",
+      "url": "https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-08-19T05:59:44.000Z",
+      "summary": "Mykhailo Fedorov's call is first such demand by a major Ukrainian political figure since Russia's full-scale invasion."
+    },
+    {
+      "id": "f38c27b32f177d12",
+      "title": "South Korea shortens war games with US, citing Washington request",
+      "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-08-19T05:53:53.000Z",
+      "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un."
+    },
+    {
+      "id": "0261831613a157c3",
+      "title": "Five in Five: Football quiz No 3",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74gde30nryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-19T05:37:16.000Z",
+      "summary": "Will you beat the clock by getting all five of today's answers in five minutes?"
+    },
+    {
+      "id": "f04ef54db5bbec8b",
+      "title": "Lebanon no longer a safe haven for former Syrian regime officials",
+      "url": "https://www.aljazeera.com/features/2026/8/19/lebanon-no-longer-a-safe-haven-for-former-syrian-regime-officials?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-19T05:23:03.000Z",
+      "summary": "Figures connected to the former Syrian regime are still in Lebanon but risk being returned."
+    },
+    {
+      "id": "194fc31e0f67ee41",
+      "title": "How will your club fare? Phil McNulty's Premier League predictions",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-19T05:21:19.000Z",
+      "summary": "How will your club fare in the 2026-27 Premier League? BBC chief football writer Phil McNulty makes his annual predictions."
+    },
+    {
+      "id": "e7e9c271d67470d9",
+      "title": "Former US official calls shift in relations with Syria ‘surreal’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/former-us-official-calls-shift-in-relations-with-syria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "americas",
+      "publishedAt": "2026-08-19T05:12:54.000Z",
+      "summary": "A former US State Department advisor on Syria tells Al Jazeera’s ‘This is America’ the improved relationship"
+    },
+    {
+      "id": "6ce2eeae70343059",
+      "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
+      "url": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world_politics",
       "region": "global",
-      "publishedAt": "2026-08-19T03:00:35.000Z",
-      "summary": "The witness said he had little love for the man on trial for the rapper's murder, but refused to answer questions that he thought would send Duane \"Keffe D\" to prison."
+      "publishedAt": "2026-08-19T05:00:39.000Z",
+      "summary": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories."
     },
     {
-      "id": "9e20e56d39aa9727",
-      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "economy_business",
-      "region": "americas",
-      "publishedAt": "2026-08-19T02:41:36.000Z",
-      "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal."
-    },
-    {
-      "id": "14b799698543a48c",
-      "title": "US, Canada reach trade deal to avert steep tariffs, Trump says",
-      "url": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
+      "id": "df24eb16f7570d23",
+      "title": "South Korea, US scale back annual military drills after Trump’s order",
+      "url": "https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss",
       "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "americas",
-      "publishedAt": "2026-08-19T02:35:15.000Z",
-      "summary": "Trump announces pause on 50 percent duty on Canadian exports shortly before midnight deadline."
-    },
-    {
-      "id": "2dce5cb0332e346f",
-      "title": "US-led drills to end six days early, South Korea says, amid Trump push for Kim Jong-un talks",
-      "url": "https://www.theguardian.com/world/2026/aug/19/us-south-korea-army-drills-cut-trump-push-kim-jong-un-talks",
-      "source": "The Guardian World",
       "category": "war_conflict",
       "region": "asia_pacific",
-      "publishedAt": "2026-08-19T02:18:25.000Z",
-      "summary": "South Korea’s joint chiefs of staff said the Ulchi Freedom Shield exercise would end on 21 August at the request of the US South Korea’s military has confirmed that joint military drills with the US will be cut short, days after Donald Trump ordered the Pentagon to scale back the exercises. In a statement on Wednesday, South Korea’s joint chiefs of staff said at the request of the US side, the Ulchi Freedom Shield (U"
-    },
-    {
-      "id": "85600cc1e82d8a5a",
-      "title": "Chinese robotics giant Unitree soars in stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-08-19T02:09:46.000Z",
-      "summary": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday."
-    },
-    {
-      "id": "ba9372b5e19f2c34",
-      "title": "US refineries taking in half of Venezuela’s oil output, official says",
-      "url": "https://www.aljazeera.com/news/2026/8/19/venezuela-oil-exports-surge-with-us-refineries-taking-in-half-of-output?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-19T02:00:43.000Z",
-      "summary": "US official says Venezuela is sending 500,000 of its 1.25 million barrels per day output to Gulf Coast refineries."
+      "publishedAt": "2026-08-19T04:59:32.000Z",
+      "summary": "Seoul says the duration of the annual Ulchi Freedom Shield exercise has been reduced from 11 days to five."
     },
     {
       "id": "be4eac5c869686e4",
@@ -68,78 +118,108 @@
       "source": "BBC World",
       "category": "world_politics",
       "region": "europe",
-      "publishedAt": "2026-08-19T01:31:15.000Z",
+      "publishedAt": "2026-08-19T04:44:41.000Z",
       "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
     },
     {
-      "id": "76b22f24df6ce969",
-      "title": "How Ebola became the deadliest outbreak in DR Congo’s history",
-      "url": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss",
+      "id": "256147705b8ec602",
+      "title": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-19T00:53:34.000Z",
-      "summary": "Conflict, delayed detection, and mistrust are complicating efforts to contain the virus in eastern DR Congo."
+      "region": "africa",
+      "publishedAt": "2026-08-19T04:25:26.000Z",
+      "summary": "An attack on a village in Nigeria’s central Plateau state has killed at least 25 people."
     },
     {
-      "id": "f02e76ccfe8e47b9",
-      "title": "US ambassador to Israel calls settler violence ‘terror’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-08-19T00:49:10.000Z",
-      "summary": "US Ambassador to Israel Mike Huckabee says Israeli settler violence in the occupied West Bank"
-    },
-    {
-      "id": "00ad43daa6983e6e",
-      "title": "Quebec separatist says no independence referendum while Trump in office",
-      "url": "https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-19T00:17:01.000Z",
-      "summary": "Leader of Canadian province's secessionist party says debate over independence stymied by turbulence in US politics."
-    },
-    {
-      "id": "abb75831d5fe4d9e",
-      "title": "Harvard agrees to pay millions after morgue manager sold body parts",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0lyde9rvo?at_medium=RSS&at_campaign=rss",
+      "id": "9e20e56d39aa9727",
+      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-19T00:07:37.000Z",
-      "summary": "Harvard Medical School has agreed to pay $53 million to families who alleged the school mishandled the donated remains of loved ones."
+      "category": "economy_business",
+      "region": "americas",
+      "publishedAt": "2026-08-19T03:56:35.000Z",
+      "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal."
     },
     {
-      "id": "215437c2fc49e105",
-      "title": "Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
+      "id": "29f56c0e75e4655a",
+      "title": "Five Australian rules footy players suspended amid police investigation",
+      "url": "https://www.bbc.co.uk/news/articles/cg4d7q2ne7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-19T03:36:59.000Z",
+      "summary": "The suspensions, for drinking and inviting women to a hotel, come as police investigate an alleged sexual assault."
+    },
+    {
+      "id": "85600cc1e82d8a5a",
+      "title": "Chinese robotics giant Unitree soars in stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-19T03:26:27.000Z",
+      "summary": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday."
+    },
+    {
+      "id": "0a7331dc1d384698",
+      "title": "US sanctions International Criminal Court’s president and top lawyer",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-sanctions-international-criminal-courts-president-and-top-lawyer?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "diplomacy",
+      "region": "global",
+      "publishedAt": "2026-08-19T03:25:33.000Z",
+      "summary": "The US has sanctioned International Criminal Court president Tomoko Akane and trial lawyer Abdoulaye Seye."
+    },
+    {
+      "id": "0f72d986286192b9",
+      "title": "Devastating Fire at Hotel Near Kolkata’s New Market Claims 9 Bangladeshi Lives",
+      "url": "https://www.bd24live.com/devastating-fire-at-hotel-near-kolkatas-new-market-claims-9-bangladeshi-lives/",
+      "source": "BD24Live",
+      "category": "economy_business",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-19T03:15:11.000Z",
+      "summary": "Nine Bangladeshi nationals have died in a devastating hotel fire in Kolkata, with several others sustaining injuries. The blaze erupted at ‘Shikha Inn’, a residential hotel, around 1:45 AM on… The post Devastating Fire at Hotel Near Kolkata’s New Market Claims 9 Bangladeshi Lives appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "ed5efc317541f013",
+      "title": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
+      "url": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
       "region": "middle_east",
-      "publishedAt": "2026-08-19T00:00:00.000Z",
-      "summary": "Trump says no talks with Tehran scheduled; Iranian Foreign Minister Abbas Araghchi claims US 'begging' for negotiations."
+      "publishedAt": "2026-08-19T03:12:06.000Z",
+      "summary": "The immigration status of Maryam Tahmasebi was revoked because her husband is the son of a prominent figure in Iran."
     },
     {
-      "id": "1550b4d0ac085599",
-      "title": "Al Jazeera reports from Indonesia’s quake zone, desperate for help",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "americas",
-      "publishedAt": "2026-08-18T23:59:43.000Z",
-      "summary": "Thousands are still displaced on Indonesia’s Flores Island after a 7.7-magnitude earthquake killed at least 70 people."
+      "id": "58f92e8e769fd008",
+      "title": "Husband and mother-in-law charged over Indian bride's death",
+      "url": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-19T03:04:07.000Z",
+      "summary": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May."
     },
     {
-      "id": "ab4c80ccff3c8946",
-      "title": "Democrats call for USS Lincoln probe, question US Navy’s readiness",
-      "url": "https://www.aljazeera.com/news/2026/8/18/democrats-call-for-uss-lincoln-probe-question-us-navys-readiness?traffic_source=rss",
-      "source": "Al Jazeera",
+      "id": "e1b86977f2cacfda",
+      "title": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
+      "url": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-19T03:00:35.000Z",
+      "summary": "A member of Tupac Shakur's entourage said he was threatened with contempt of court if he did not testify in the murder trial of Duane \"Keffe D\" Davis."
+    },
+    {
+      "id": "37e11821ac7155ce",
+      "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
+      "url": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "war_conflict",
       "region": "middle_east",
-      "publishedAt": "2026-08-18T23:45:16.000Z",
-      "summary": "Lawmakers question whether conditions on the aircraft carrier indicate a 'pattern' of poor planning amid the Iran war."
+      "publishedAt": "2026-08-19T00:48:16.000Z",
+      "summary": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security."
     },
     {
       "id": "2233dc7a5b83968c",
@@ -160,16 +240,6 @@
       "region": "global",
       "publishedAt": "2026-08-18T23:04:53.000Z",
       "summary": "Nine in 10 mobile wallet users have their debit card loaded as their default payment method, new data shows."
-    },
-    {
-      "id": "273cbf040c5555a1",
-      "title": "Minnesota official sues Texas governor to force ICE agent’s extradition",
-      "url": "https://www.aljazeera.com/news/2026/8/18/minnesota-official-sues-texas-governor-to-force-ice-agents-extradition?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-18T22:55:50.000Z",
-      "summary": "State Attorney General Keith Ellison has called for the transfer of ICE agent accused of lying about nonfatal shooting."
     },
     {
       "id": "a05e73270841fc56",
@@ -202,48 +272,8 @@
       "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started."
     },
     {
-      "id": "162a7ab896e26073",
-      "title": "Bolivia arrests political adviser to Latin American right-wingers",
-      "url": "https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-08-18T21:50:43.000Z",
-      "summary": "Arrest comes after attack on activist Nadia Beller, who says she was targeted for her opposition to corruption."
-    },
-    {
-      "id": "33278d95a8f0c075",
-      "title": "Trump administration moves to end rule protecting swaths of forest land",
-      "url": "https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-18T21:26:47.000Z",
-      "summary": "US Agriculture Department says rescinding 2001 rule will help reduce wildfire risk and return control to local managers."
-    },
-    {
-      "id": "815052e7eb78e71b",
-      "title": "Why is the US ramping up Tomahawk production?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-18T21:26:07.000Z",
-      "summary": "The Pentagon has contracted a defence manufacturer to increase the output of cruise missiles."
-    },
-    {
-      "id": "f612e6f2a673a03b",
-      "title": "US announces new sanctions on top ICC figures",
-      "url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "diplomacy",
-      "region": "global",
-      "publishedAt": "2026-08-18T20:21:49.000Z",
-      "summary": "The Trump administration has vowed to dismantle the international court \"brick by brick\"."
-    },
-    {
-      "id": "b70bfe9d42b16bc5",
-      "title": "Musiala collapses during match for second time in four-day period",
+      "id": "08dfbb643185e43a",
+      "title": "Musiala collapses in match for second time in four days",
       "url": "https://www.bbc.co.uk/sport/football/articles/c330kg5xm8no?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
@@ -262,34 +292,24 @@
       "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the company says it instituted a two-week pause i"
     },
     {
-      "id": "fdba065aa57f6681",
-      "title": "Rodri ready for 'excitement again' after Barca complete £65m deal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2k7w3vwv5yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-08-18T18:14:01.000Z",
-      "summary": "Barcelona sign Spain midfielder Rodri, the player of the 2026 World Cup, from Manchester City after a trophy-laden seven years with the Premier League club."
+      "id": "25cfd96b1bf6da30",
+      "title": "Global borrowing costs hit fresh highs over oil, AI and inflation concerns",
+      "url": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-18T18:20:08.000Z",
+      "summary": "Interest rates on long-term US, UK, German and Japanese government debt have soared."
     },
     {
-      "id": "84432bcb66945961",
-      "title": "Aston Villa agree deal for West Ham's Wan-Bissaka",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgr7vvpkw0eo?at_medium=RSS&at_campaign=rss",
+      "id": "8c6582a0e7a6243a",
+      "title": "Even the Queen could not watch - 10 years since Olympic hockey gold",
+      "url": "https://www.bbc.co.uk/sport/hockey/articles/czek237r51po?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
       "region": "global",
-      "publishedAt": "2026-08-18T17:56:13.000Z",
-      "summary": "Aston Villa agree to sign West Ham defender Aaron Wan-Bissaka on an initial loan deal with an obligation to buy at the end of the season."
-    },
-    {
-      "id": "5993f4b0d50f1bfc",
-      "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
-      "url": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-18T17:54:46.000Z",
-      "summary": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis."
+      "publishedAt": "2026-08-18T17:43:16.000Z",
+      "summary": "Ten years since Team GB clinched women's hockey gold at the Rio Olympics, BBC Sport looks back at the legacy of that historic win."
     },
     {
       "id": "e0bf236c9d8d679a",
@@ -300,16 +320,6 @@
       "region": "global",
       "publishedAt": "2026-08-18T17:18:57.000Z",
       "summary": "Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a PS5, PlayStation Portal, PC, and Mac, and they include \"studio-inspired planar magnetic drivers\" that offer \"lifelike sound across the entire audible spectrum,\" Sony says. They also include a built-in mic for voice chat, S"
-    },
-    {
-      "id": "e08105bea33f6379",
-      "title": "Earthquake rocks Spain's historic Granada, injuring three",
-      "url": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "europe",
-      "publishedAt": "2026-08-18T17:15:39.000Z",
-      "summary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed."
     },
     {
       "id": "fd47bfbac4deba93",
@@ -352,16 +362,6 @@
       "summary": "Tesla Cybercabs are lined up on a lot at Tesla Giga Texas in Austin, Wednesday, April 8, 2026. | Image: Jay Janner/The Austin American-Statesman via Getty Images The Tesla Cybercab, that golden two-seater central to Elon Musk's robo-supremacist ambitions, is finally nearing it's public launch. Whether or not the no-steering wheel and no-pedal vehicle is actually ready for public roads, let alone customers, remains ve"
     },
     {
-      "id": "67f92e8d07586f55",
-      "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
-      "url": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-18T16:00:30.000Z",
-      "summary": "Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated."
-    },
-    {
       "id": "f2365bae530b212e",
       "title": "Peacock is raising prices by up to $3",
       "url": "https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026",
@@ -402,16 +402,6 @@
       "summary": "Xfinity gateways XB7 and newer can now act as motion sensors in your home. | Image: Comcast Comcast is bringing Wi-Fi motion sensing to millions of routers that are already in customers' homes, turning the devices into activity monitors. A new update to the Xfinity Internet app, arriving today, August 18th, enables the feature on compatible Xfinity routers at no extra cost. Announced as part of its new Xfinity Shield"
     },
     {
-      "id": "d50f96040b4e6a9f",
-      "title": "Philippine school shooter kills fellow student and himself in livestreamed attack",
-      "url": "https://www.theguardian.com/world/2026/aug/18/philippines-school-shooting-two-dead-zamboanga",
-      "source": "The Guardian World",
-      "category": "economy_business",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-18T13:21:43.000Z",
-      "summary": "Country’s second fatal school shooting in two months took place in southern city of ⁠Zamboanga A student livestreamed himself shooting and killing another pupil in a classroom in the southern Philippines before taking his own ⁠life, ​the second school attack in the country in less than two months. The shooting took ⁠place at a school attached to Ateneo de Zamboanga University in the southern city of ⁠Zamboanga, a Cat"
-    },
-    {
       "id": "1b08d37623e0a2b2",
       "title": "Brazil's President Lula hails oil discovery near Amazon river",
       "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
@@ -442,16 +432,6 @@
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the…"
     },
     {
-      "id": "fa62ae8f6fc6ba04",
-      "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "disasters",
-      "region": "global",
-      "publishedAt": "2026-08-18T12:04:11.000Z",
-      "summary": "Recovery efforts continue in what is the country's deadliest transport disaster."
-    },
-    {
       "id": "4aad38b7462e8e47",
       "title": "‘A new normal’: Miami faces worsening seaweed problem as piles of algae wash up on beaches",
       "url": "https://www.theguardian.com/us-news/2026/aug/18/miami-sargassum-seaweed-problem-climate-crisis",
@@ -470,16 +450,6 @@
       "region": "global",
       "publishedAt": "2026-08-18T11:26:26.000Z",
       "summary": "OpenAI insisted this was not in response to a particular issue with children believing ChatGPT to be alive."
-    },
-    {
-      "id": "5f6f2e958ce04f8c",
-      "title": "Why Fernandez uncertainty has echoes of Isak saga",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2dzj2w25vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-18T10:46:17.000Z",
-      "summary": "Enzo Fernandez's possible Manchester City move is following the pattern of Alexander Isak's transfer last summer - and creating headaches for Chelsea."
     },
     {
       "id": "1ffcae195c4ecc40",
@@ -532,14 +502,14 @@
       "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon. …"
     },
     {
-      "id": "037b02f7b75395d1",
-      "title": "Haaland's main rivals for the Premier League Golden Boot",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgwjgxend0o?at_medium=RSS&at_campaign=rss",
+      "id": "409ef10600d74af3",
+      "title": "Is Haaland worth the price? Pick Rogers or Palmer? Five key FPL questions",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn0np755k4wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
       "region": "global",
-      "publishedAt": "2026-08-18T06:11:55.000Z",
-      "summary": "Erling Haaland will hope for a record-equalling fourth Golden Boot this season - but who could challenge him as the Premier League's top-scorer?"
+      "publishedAt": "2026-08-18T07:23:59.000Z",
+      "summary": "BBC Sport's team of Fantasy Premier League experts debate some of the new season's big talking points to help you select your team before Friday's deadline."
     },
     {
       "id": "556475ecdce8dbfc",
@@ -702,16 +672,6 @@
       "summary": "Hundreds of firefighters are trying to contain the flames consuming the major park."
     },
     {
-      "id": "10383a5f5c0cac20",
-      "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
-      "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-08-16T18:44:41.000Z",
-      "summary": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’ Brazil’s leftwing president, Luiz Inácio Lula da Silva, has launched his campaign for a historic fourth term and vowed that as long as he lived he would not allow the “shameless” right to return to power. Addressing a sea of supporters in São Bernardo do Campo, the industrial city where his political care"
-    },
-    {
       "id": "640de9fbd8e7b4ef",
       "title": "‘Awed by nature’: fans mourn California’s beloved Jackie the bald eagle, whose legacy soars on",
       "url": "https://www.theguardian.com/us-news/2026/aug/16/california-jackie-the-bald-eagle-legacy",
@@ -742,14 +702,14 @@
       "summary": "Regional power dynamics are shifting with the emergence of a new defense alliance involving Saudi Arabia, Turkey, and Pakistan. While not explicitly framed as an alliance against a specific country,… The post Saudi’s Wealth, Turkey’s Tech, Pakistan’s Nuke Power: India’s Security Concerns Mount appeared first on Bangla Online News Portal."
     },
     {
-      "id": "c86f35a6dd5ac6fa",
-      "title": "Golden Fiber Under Dark Cloud: Jute Prices Plummet by Thousand Taka in Two Weeks",
-      "url": "https://www.bd24live.com/golden-fiber-under-dark-cloud-jute-prices-plummet-by-thousand-taka-in-two-weeks/",
-      "source": "BD24Live",
-      "category": "economy_business",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-16T08:45:57.000Z",
-      "summary": "Jute farmers in Rajshahi are in distress as market prices have suddenly plummeted, despite receiving good prices at the beginning of the season. At the Naohata jute market in Poba… The post Golden Fiber Under Dark Cloud: Jute Prices Plummet by Thousand Taka in Two Weeks appeared first on Bangla Online News Portal."
+      "id": "8cb35147cdd59371",
+      "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+      "url": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "creativity_arts",
+      "region": "europe",
+      "publishedAt": "2026-08-15T23:45:44.000Z",
+      "summary": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart"
     },
     {
       "id": "450488f6ca2d2e45",
@@ -792,14 +752,14 @@
       "summary": "Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI."
     },
     {
-      "id": "d9143759d11f7eda",
-      "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
-      "url": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
-      "source": "The Guardian World",
-      "category": "world_politics",
+      "id": "fa2e79c7ccfdf4d2",
+      "title": "'Days of the farmers' union dictating policy are over' - Muir",
+      "url": "https://www.bbc.co.uk/news/articles/cdj0pv2m812o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "creativity_arts",
       "region": "global",
-      "publishedAt": "2026-08-14T21:03:43.000Z",
-      "summary": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic ills The Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after the region’s top court ruled in favour of the province on Friday, overturning a lower court’s decision that decreed removal would violate constitutional rights. The win is significant for Ontario’s premier, Doug Ford, and"
+      "publishedAt": "2026-08-14T16:07:57.000Z",
+      "summary": "The Agriculture Minister Andrew Muir says he will continue to engage with the Ulster Farmers' Union."
     },
     {
       "id": "b3b0b4f490789f87",
@@ -810,6 +770,16 @@
       "region": "americas",
       "publishedAt": "2026-08-14T14:55:17.000Z",
       "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, his organisation has said. Serving in Mission International said Kevin Rideout “is in good health in the care of US officials” and would soon be reunited with his extended family. Continue reading..."
+    },
+    {
+      "id": "a81d5f7cbdc4b333",
+      "title": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
+      "url": "https://www.theguardian.com/business/2026/aug/14/bp-offshore-gasfield-venezuela-donald-trump",
+      "source": "The Guardian World",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-08-14T14:04:49.000Z",
+      "summary": "Move will be one of first large-scale foreign investments in country since US ousted leader Nicolás Maduro in January BP has answered Donald Trump’s call for oil companies to help rebuild Venezuela’s fossil fuel industry with new plans to develop a large offshore gasfield. BP will partner with two oil firms with close links to the Trump administration to develop the second phase of the Loran gasfield, in one of the f"
     },
     {
       "id": "fcd54ebec4ef47c2",
@@ -832,14 +802,14 @@
       "summary": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?"
     },
     {
-      "id": "23c6c398e5fe9739",
-      "title": "Temperatures soar to 38C as amber extreme heat warning in effect",
-      "url": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss",
+      "id": "0444e3434392ce77",
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Science & Environment",
-      "category": "war_conflict",
+      "category": "creativity_arts",
       "region": "global",
-      "publishedAt": "2026-08-13T15:53:37.000Z",
-      "summary": "Heat is spiking again on Thursday with a rare warning in place and more records falling."
+      "publishedAt": "2026-08-13T19:46:27.000Z",
+      "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days."
     },
     {
       "id": "3960165ef5f3b519",
@@ -860,6 +830,16 @@
       "region": "global",
       "publishedAt": "2026-08-13T14:09:05.000Z",
       "summary": "The dating app's boss says the move is in response to a successful trial and a change in what users want."
+    },
+    {
+      "id": "31c7767ab819fcc4",
+      "title": "Flock boss admits surveillance firm took too long to act over police abuse",
+      "url": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-08-13T13:02:24.000Z",
+      "summary": "US police officers have quit after using licence plate-reading cameras to track romantic partners."
     },
     {
       "id": "d02dd7f36615675d",
