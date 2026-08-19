@@ -1,6 +1,106 @@
 {
-  "generatedAt": "2026-08-19T19:32:03.569Z",
+  "generatedAt": "2026-08-19T21:32:21.310Z",
   "articles": [
+    {
+      "id": "f438794c43bf210c",
+      "title": "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts",
+      "url": "https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-19T21:01:54.000Z",
+      "summary": "Reports of dire conditions underscore supply challenges, questions of US plans going forward, experts say."
+    },
+    {
+      "id": "c8e18b30f16a39d5",
+      "title": "Spain plans transfer of 500 migrant children from Ceuta to mainland",
+      "url": "https://www.aljazeera.com/news/2026/8/19/spain-plans-transfer-of-500-migrant-children-from-ceuta-to-mainland?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-08-19T20:53:55.000Z",
+      "summary": "Ceuta leaders want children returned to Morocco, but Madrid says deporting them is 'outrageous'."
+    },
+    {
+      "id": "3e477d05816dad74",
+      "title": "Moderna, Merck unveil mRNA-based cancer vaccine that cuts spread",
+      "url": "https://www.aljazeera.com/news/2026/8/19/moderna-merck-unveil-mrna-based-cancer-vaccine-that-cuts-spread?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-19T20:39:14.000Z",
+      "summary": "Moderna's mRNA vaccine Intismeran shows promise, reducing melanoma recurrence and spread in late-stage trials."
+    },
+    {
+      "id": "3927ca7761f98077",
+      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+      "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-08-19T20:34:41.000Z",
+      "summary": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash."
+    },
+    {
+      "id": "be4eac5c869686e4",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-08-19T20:34:39.000Z",
+      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
+    },
+    {
+      "id": "93344d0bc1b6481b",
+      "title": "What’s behind Israel’s latest attack on Syria?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-19T20:18:40.000Z",
+      "summary": "US envoy warns Israel's strike could have sparked direct confrontation with Turkish forces."
+    },
+    {
+      "id": "dc5f3e0ada0b84e8",
+      "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
+      "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
+      "source": "The Guardian World",
+      "category": "creativity_arts",
+      "region": "americas",
+      "publishedAt": "2026-08-19T20:17:39.000Z",
+      "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of northern Kenya, according to local police and the state department. Among the dead were an executive with Telemundo, the US-based Spanish-language network owned by NBC Universal, and the"
+    },
+    {
+      "id": "a2de46803802fe37",
+      "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "economy_business",
+      "region": "americas",
+      "publishedAt": "2026-08-19T19:59:14.000Z",
+      "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline."
+    },
+    {
+      "id": "f455daf10b20a572",
+      "title": "Seven people, mostly foreign tourists, killed in helicopter crash in Kenya",
+      "url": "https://www.aljazeera.com/news/2026/8/19/seven-mostly-tourists-killed-in-helicopter-crash-in-northern-kenya?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "africa",
+      "publishedAt": "2026-08-19T19:53:12.000Z",
+      "summary": "Ecuador's intelligence chief Michele Sensi-Contugi and NBCUniversal journalist Jose Suarez are among the dead."
+    },
+    {
+      "id": "cb3dce7bb704bd3c",
+      "title": "How Root brought welcome calm on return as England captain",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c36d944wlweo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-19T19:49:23.000Z",
+      "summary": "Joe Root took advice from Harry Brook and adopted a hands-off approach with his bowlers on his return as England Test skipper."
+    },
     {
       "id": "d6067cd7789f293c",
       "title": "582 skeletons, including children discovered in Sri Lanka mass grave",
@@ -32,16 +132,6 @@
       "summary": "The death of Syrian White Helmets rescuer Mohammad Ghamira after an alleged police beating has sparked protests."
     },
     {
-      "id": "3927ca7761f98077",
-      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-      "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-08-19T18:43:11.000Z",
-      "summary": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash."
-    },
-    {
       "id": "860ae0632e614a66",
       "title": "81-year-old confesses to German cold case murder of US tourist in 1994",
       "url": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
@@ -62,16 +152,6 @@
       "summary": "Citizens and entities would have to seek authorisation to contact universities or talk to foreign media."
     },
     {
-      "id": "eb91af1102b91297",
-      "title": "Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’",
-      "url": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-19T18:08:09.000Z",
-      "summary": "Canada official condemns Israel's 'invasion' of Lebanon, calls for sovereignty as aid pledged to the crisis-hit nation."
-    },
-    {
       "id": "77b5abb7a6c175f8",
       "title": "The wearable future is stuck in weird, experimental, existential limbo",
       "url": "https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai",
@@ -90,46 +170,6 @@
       "region": "americas",
       "publishedAt": "2026-08-19T17:56:15.000Z",
       "summary": "The iPad Air M4 in space gray. | Image: The Verge Almost everything with high-end memory or storage is more expensive these days, and tablets are no exception, so we’re glad to see that Amazon and Best Buy have the most recent 11-inch iPad Air with the M4 chip on sale for $649. That’s $100 lower than the new retail price that went into effect (alongside plenty of other Apple price hikes) in June. You can also grab th"
-    },
-    {
-      "id": "455da4d65aaf236c",
-      "title": "Brazil bus crash kills at least 23 and injures five in Parana state",
-      "url": "https://www.aljazeera.com/news/2026/8/19/brazil-bus-crash-kills-at-least-23-and-injures-five-in-parana-state?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-08-19T17:54:37.000Z",
-      "summary": "The bus was travelling to hospitals near Curitiba when the accident occurred."
-    },
-    {
-      "id": "6d88273d8628f57f",
-      "title": "NATO ‘prepared’ to defend allies amid report of Iranian strike plans",
-      "url": "https://www.aljazeera.com/news/2026/8/19/nato-prepared-to-defend-allies-amid-report-of-iranian-strike-plans?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-08-19T17:50:50.000Z",
-      "summary": "NATO says it will 'do what is necessary' amid media report Iran considered strikes against US targets in Europe."
-    },
-    {
-      "id": "65e685b462e0b80a",
-      "title": "US Department of Justice defends prosecution of Comey over seashell post",
-      "url": "https://www.aljazeera.com/news/2026/8/19/us-department-of-justice-defends-prosecution-of-comey-over-seashell-post?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "americas",
-      "publishedAt": "2026-08-19T17:50:26.000Z",
-      "summary": "The ex-FBI chief faces accusations of transmitting threats and exploiting controversy to market his upcoming novel."
-    },
-    {
-      "id": "a2de46803802fe37",
-      "title": "Canada and US say they are finalising a trade deal, but details remain murky",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "economy_business",
-      "region": "americas",
-      "publishedAt": "2026-08-19T17:47:52.000Z",
-      "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline."
     },
     {
       "id": "42700badc861f178",
@@ -182,16 +222,6 @@
       "summary": "Image captured in early June shows animal foraging in the waterway in first since early 1900s, signaling its recovery An otter has been spotted in the Bronx River for the first time in more than 100 years, in a further sign that New York’s previously befouled waterways are recovering some of their ecological health. The North American river otter was photographed by a motion-activated camera foraging near some vegeta"
     },
     {
-      "id": "be4eac5c869686e4",
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-08-19T17:23:42.000Z",
-      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
-    },
-    {
       "id": "cee34fb72bb38d3c",
       "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
       "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
@@ -200,16 +230,6 @@
       "region": "americas",
       "publishedAt": "2026-08-19T17:16:28.000Z",
       "summary": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned."
-    },
-    {
-      "id": "11f775232250a8d7",
-      "title": "Kane plays down returning to Premier League in future",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clylkxekeleo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-08-19T17:14:38.000Z",
-      "summary": "Harry Kane says \"the itch isn't there as much anymore\" to one day return to England from Germany and try and break the all-time scoring record in the Premier League."
     },
     {
       "id": "c7dfe4ece814b700",
@@ -252,16 +272,6 @@
       "summary": "The maker of indie classics Kids, Swoon and Poison on daring to have a temper in the 90s, what some producer credits mean – and what happened between her and Joaquin Phoenix Trailblazing producer Christine Vachon bestrides the world of US independent film-making like a colossus. She has championed idiosyncratic American cinema for more than 35 years, scoring hits such as the romcom Materialists, which starred three s"
     },
     {
-      "id": "b0143a6c842d4089",
-      "title": "Is the US actually too chicken to take on China for trade?",
-      "url": "https://www.theguardian.com/us-news/2026/aug/19/china-trump-trade-weak-yuan",
-      "source": "The Guardian World",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-08-19T16:42:08.000Z",
-      "summary": "A weak yuan guarantees Beijing massive trade surplus even as the White House tries tamp down on Chinese imports Since China offered a truce in the trade war last October following its threat to deprive the United States of rare-earth magnets, the Trump administration has been happy to stop escalating. After all, imports from China have been falling, down by 40% in the year to June, compared with the same period in 20"
-    },
-    {
       "id": "328cf7eddbd02795",
       "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
       "url": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
@@ -302,16 +312,6 @@
       "summary": "The digital bank said all of its services were now \"back up and running\""
     },
     {
-      "id": "4eed3d488e9f9755",
-      "title": "Reijnders leaves Man City for Al-Qadsiah in £52m deal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0m7el3zr2eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "middle_east",
-      "publishedAt": "2026-08-19T16:01:32.000Z",
-      "summary": "Netherlands midfielder Tijjani Reijnders completes a £52m move to Saudi Arabian side Al-Qadsiah from Manchester City."
-    },
-    {
       "id": "f7c5a165ad54129c",
       "title": "Insidious: Out of the Further review – evil returns but so does boredom",
       "url": "https://www.theguardian.com/film/2026/aug/19/insidious-out-of-the-further-review",
@@ -322,14 +322,14 @@
       "summary": "Uninteresting mythology and junky effects push a once-promising horror franchise further from what it once was When the Insidious franchise started in 2010, it felt like a liberating moment for director James Wan and writer (and later director) Leigh Whannell, the Australian duo who captured the zeitgeist with the original Saw movie, which imported the gonzo energy of low-budget Ozploitation flicks. As the partners q"
     },
     {
-      "id": "db9cd41bf94fec78",
-      "title": "Google’s Pixel 11 Pro Fold feels like the end of an era",
-      "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
-      "source": "The Verge",
-      "category": "economy_business",
+      "id": "a0d3a59cc940c7c0",
+      "title": "Delap loses number nine shirt & trains away from first team",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y4nel5gddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
       "region": "global",
-      "publishedAt": "2026-08-19T16:00:00.000Z",
-      "summary": "The Pixel 11 Pro Fold has a square screen and a very obvious crease. The foldable phone market is in the middle of a huge transformation, but no one told Google. Last year, Samsung transformed its Galaxy Z Fold 7 with a dramatically thinner design. This year, it made its phones thinner and lighter again, almost eliminated the crease, and introduced a new passport-sized form factor that feels like the future. Next mon"
+      "publishedAt": "2026-08-19T15:58:44.000Z",
+      "summary": "Chelsea have split their players into two training groups at Cobham, involving several players who could move before the transfer window closes, including Liam Delap, Nicolas Jackson and Mykhailo Mudryk."
     },
     {
       "id": "6f881b0b7d06ad3c",
@@ -520,6 +520,16 @@
       "region": "global",
       "publishedAt": "2026-08-19T11:14:28.000Z",
       "summary": "Microsoft has resolved a bug that caused Windows Defender to crash after a recent security update, resulting in 0xc0000005 access violation errors on some affected systems. [...]"
+    },
+    {
+      "id": "d70e1eb9df46abed",
+      "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjqe62574o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-19T11:08:42.000Z",
+      "summary": "The consumer watchdog said they were trying to find out if the three companies were not showing full prices upfront to customers."
     },
     {
       "id": "9345ac4a3d184a16",
@@ -822,16 +832,6 @@
       "summary": "The Agriculture Minister Andrew Muir says he will continue to engage with the Ulster Farmers' Union."
     },
     {
-      "id": "b3b0b4f490789f87",
-      "title": "American missionary kidnapped in Niger freed after nine months",
-      "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
-      "source": "The Guardian World",
-      "category": "diplomacy",
-      "region": "americas",
-      "publishedAt": "2026-08-14T14:55:17.000Z",
-      "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, his organisation has said. Serving in Mission International said Kevin Rideout “is in good health in the care of US officials” and would soon be reunited with his extended family. Continue reading..."
-    },
-    {
       "id": "31987c3843364af7",
       "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
       "url": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
@@ -850,16 +850,6 @@
       "region": "global",
       "publishedAt": "2026-08-13T19:46:27.000Z",
       "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days."
-    },
-    {
-      "id": "23c6c398e5fe9739",
-      "title": "Temperatures soar to 38C as amber extreme heat warning in effect",
-      "url": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-13T15:53:37.000Z",
-      "summary": "Heat is spiking again on Thursday with a rare warning in place and more records falling."
     },
     {
       "id": "2980febf2d9dcf0e",
