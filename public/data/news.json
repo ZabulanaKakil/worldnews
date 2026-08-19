@@ -1,6 +1,166 @@
 {
-  "generatedAt": "2026-08-19T07:47:35.487Z",
+  "generatedAt": "2026-08-19T10:36:04.058Z",
   "articles": [
+    {
+      "id": "9345ac4a3d184a16",
+      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "americas",
+      "publishedAt": "2026-08-19T10:12:24.000Z",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions component. [...]"
+    },
+    {
+      "id": "1e1d3e585ffdd634",
+      "title": "Apparent human remains found in US reservoir as water levels hit record low",
+      "url": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-19T10:10:09.000Z",
+      "summary": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says."
+    },
+    {
+      "id": "bd65c9d50bbceb64",
+      "title": "Manav Suthar takes 10-wicket haul as India beat Sri Lanka in 600th Test",
+      "url": "https://www.aljazeera.com/sports/2026/8/19/manav-suthar-takes-10-wicket-haul-as-sri-lanka-beaten-in-indias-600th-test?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-19T10:02:16.000Z",
+      "summary": "India take a 1-0 lead with a 165-run win against the hosts in Galle to begin the two-Test series."
+    },
+    {
+      "id": "03bcfe5cc0796469",
+      "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
+      "url": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "creativity_arts",
+      "region": "middle_east",
+      "publishedAt": "2026-08-19T09:48:16.000Z",
+      "summary": "Many of the alleged cyber attacks were carried out for the Iranian government, the Department of Justice says."
+    },
+    {
+      "id": "abe3ae3be2f76b66",
+      "title": "At least five killed in Russian air attacks on Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-08-19T09:34:38.000Z",
+      "summary": "Russia's Defence Ministry says 453 Ukrainian drones were downed overnight in various regions."
+    },
+    {
+      "id": "466de6163ad4fe9a",
+      "title": "Nick Kyrgios provisionally suspended after positive test for cocaine",
+      "url": "https://www.aljazeera.com/sports/2026/8/19/nick-kyrgios-provisionally-suspended-after-positive-test-for-cocaine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-19T09:29:41.000Z",
+      "summary": "The Australian said he made no excuses but admitted to struggling with the twilight of his career."
+    },
+    {
+      "id": "2c29cf52ca9314de",
+      "title": "Anti-Muslim protesters call for ‘Christian Crusade’ in Dearborn, US",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/anti-muslim-protesters-call-for-christian-crusade-in-dearborn-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-08-19T09:26:16.000Z",
+      "summary": "Far-right protesters clashed with police at an anti-Muslim rally in the US city of Dearborn."
+    },
+    {
+      "id": "46eea5ddc40013b4",
+      "title": "Diego Maradona’s doctors missed renal red flag, Argentinian court told",
+      "url": "https://www.aljazeera.com/sports/2026/8/19/maradonas-doctors-missed-renal-red-flag-court-in-argentina-told?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-08-19T09:23:17.000Z",
+      "summary": "Second trial claims Diego Maradona's doctors missed crucial warning signs before Argentina football icon's 2020 passing."
+    },
+    {
+      "id": "c3bea61d8dc669ef",
+      "title": "Cars swept downhill as flash floods hit northern Chile",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/cars-swept-downhill-as-flash-floods-hit-northern-chile?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-19T09:22:30.000Z",
+      "summary": "Cars were swept downhill as floodwaters and mudslides tore through northern Chile."
+    },
+    {
+      "id": "d70e1eb9df46abed",
+      "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjqe62574o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-19T09:11:08.000Z",
+      "summary": "The consumer watchdog said they were trying to find out if the three companies were not showing full prices upfront to customers."
+    },
+    {
+      "id": "f2fa503586bb5f9c",
+      "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-08-19T09:10:20.000Z",
+      "summary": "Microsoft has reminded customers that systems running Home and Pro editions of Windows 11 24H2 will stop receiving updates in two months. [...]"
+    },
+    {
+      "id": "be4eac5c869686e4",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-08-19T09:02:08.000Z",
+      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
+    },
+    {
+      "id": "141a11df5520c550",
+      "title": "Kyrgios suspended after positive cocaine test",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-19T08:38:37.000Z",
+      "summary": "Nick Kyrgios is provisionally suspended from tennis after testing positive for cocaine."
+    },
+    {
+      "id": "89df569df5fe11ce",
+      "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
+      "url": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-19T08:25:03.000Z",
+      "summary": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms."
+    },
+    {
+      "id": "b68af27e0f2cad2e",
+      "title": "Frank, Young and more join MOTD as BBC launches four new YouTube shows",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9d8wd8y36zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-19T08:22:39.000Z",
+      "summary": "BBC Sport will bring football fans closer to the action across TV, radio, YouTube, website and app."
+    },
+    {
+      "id": "9aad6a2f0e511c5a",
+      "title": "Shares in humanoid robot firm Unitree surge 600% on Chinese stock market debut",
+      "url": "https://www.theguardian.com/technology/2026/aug/19/unitree-shares-surge-humanoid-robot-firm-chinese-stock-market-debut",
+      "source": "The Guardian World",
+      "category": "economy_business",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-19T07:49:58.000Z",
+      "summary": "Company’s robots have gained global fame via videos of them performing martial arts and as dancers for pop stars Unitree, the world’s biggest humanoid robot maker, has made a spectacular entry on to China’s stock market, with its shares surging by more than 600%. The Chinese company’s robots have gained global fame via viral videos of them performing martial arts, running at Olympic speeds and serving as backup dance"
+    },
     {
       "id": "21b36a0e4472f866",
       "title": "Beyond Street Children: Dreams of the Pavement – Shakila Barsha",
@@ -22,16 +182,6 @@
       "summary": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday."
     },
     {
-      "id": "be4eac5c869686e4",
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-08-19T07:14:50.000Z",
-      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
-    },
-    {
       "id": "b5e2b1977ac2c312",
       "title": "I won FPL last season - here are my five best tips",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3ekq87e214o?at_medium=RSS&at_campaign=rss",
@@ -40,46 +190,6 @@
       "region": "global",
       "publishedAt": "2026-08-19T07:11:05.000Z",
       "summary": "Want to win your Fantasy Premier League mini-league but need some expert advice? Here are some tips from last season's champion Erik Ibsen."
-    },
-    {
-      "id": "fe43e47c426d8971",
-      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
-      "url": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "europe",
-      "publishedAt": "2026-08-19T07:09:57.000Z",
-      "summary": "The cost of things is now rising at a faster pace compared with last month."
-    },
-    {
-      "id": "85d595d83bcb8718",
-      "title": "South Africa to Australia: Why coal profits are surging during Iran war",
-      "url": "https://www.aljazeera.com/news/2026/8/19/south-africa-to-australia-why-coal-profits-are-surging-during-iran-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "africa",
-      "publishedAt": "2026-08-19T06:27:30.000Z",
-      "summary": "Coal companies are reporting a huge rise in profits, but analysts say global clean energy transition is still on track."
-    },
-    {
-      "id": "b3e5234d22a612fc",
-      "title": "Scaling back US-South Korea drills may fail to woo Kim away from China",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/scaling-back-us-south-korea-drills-may-fail-to-woo-kim-away-from-china?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-19T06:16:53.000Z",
-      "summary": "Trump is scaling back US-South Korea military exercises as he signals interest in renewed talks with Kim Jong Un."
-    },
-    {
-      "id": "0cadbbfb9bb881f9",
-      "title": "Ukraine’s ousted defence minister calls for elections during war",
-      "url": "https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-08-19T05:59:44.000Z",
-      "summary": "Mykhailo Fedorov's call is first such demand by a major Ukrainian political figure since Russia's full-scale invasion."
     },
     {
       "id": "f38c27b32f177d12",
@@ -102,16 +212,6 @@
       "summary": "Will you beat the clock by getting all five of today's answers in five minutes?"
     },
     {
-      "id": "f04ef54db5bbec8b",
-      "title": "Lebanon no longer a safe haven for former Syrian regime officials",
-      "url": "https://www.aljazeera.com/features/2026/8/19/lebanon-no-longer-a-safe-haven-for-former-syrian-regime-officials?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-19T05:23:03.000Z",
-      "summary": "Figures connected to the former Syrian regime are still in Lebanon but risk being returned."
-    },
-    {
       "id": "194fc31e0f67ee41",
       "title": "How will your club fare? Phil McNulty's Premier League predictions",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo?at_medium=RSS&at_campaign=rss",
@@ -120,16 +220,6 @@
       "region": "global",
       "publishedAt": "2026-08-19T05:21:19.000Z",
       "summary": "How will your club fare in the 2026-27 Premier League? BBC chief football writer Phil McNulty makes his annual predictions."
-    },
-    {
-      "id": "e7e9c271d67470d9",
-      "title": "Former US official calls shift in relations with Syria ‘surreal’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/former-us-official-calls-shift-in-relations-with-syria?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "americas",
-      "publishedAt": "2026-08-19T05:12:54.000Z",
-      "summary": "A former US State Department advisor on Syria tells Al Jazeera’s ‘This is America’ the improved relationship"
     },
     {
       "id": "fe5ee491e1cdb5c0",
@@ -152,26 +242,6 @@
       "summary": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories."
     },
     {
-      "id": "df24eb16f7570d23",
-      "title": "South Korea, US scale back annual military drills after Trump’s order",
-      "url": "https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-19T04:59:32.000Z",
-      "summary": "Seoul says the duration of the annual Ulchi Freedom Shield exercise has been reduced from 11 days to five."
-    },
-    {
-      "id": "256147705b8ec602",
-      "title": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "africa",
-      "publishedAt": "2026-08-19T04:25:26.000Z",
-      "summary": "An attack on a village in Nigeria’s central Plateau state has killed at least 25 people."
-    },
-    {
       "id": "b04220747e09161d",
       "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
       "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
@@ -182,26 +252,6 @@
       "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods."
     },
     {
-      "id": "29f56c0e75e4655a",
-      "title": "Five Australian rules footy players suspended amid police investigation",
-      "url": "https://www.bbc.co.uk/news/articles/cg4d7q2ne7go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-19T03:36:59.000Z",
-      "summary": "The suspensions, for drinking and inviting women to a hotel, come as police investigate an alleged sexual assault."
-    },
-    {
-      "id": "0a7331dc1d384698",
-      "title": "US sanctions International Criminal Court’s president and top lawyer",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-sanctions-international-criminal-courts-president-and-top-lawyer?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "diplomacy",
-      "region": "global",
-      "publishedAt": "2026-08-19T03:25:33.000Z",
-      "summary": "The US has sanctioned International Criminal Court president Tomoko Akane and trial lawyer Abdoulaye Seye."
-    },
-    {
       "id": "0f72d986286192b9",
       "title": "Devastating Fire at Hotel Near Kolkata’s New Market Claims 9 Bangladeshi Lives",
       "url": "https://www.bd24live.com/devastating-fire-at-hotel-near-kolkatas-new-market-claims-9-bangladeshi-lives/",
@@ -210,16 +260,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-08-19T03:15:11.000Z",
       "summary": "Nine Bangladeshi nationals have died in a devastating hotel fire in Kolkata, with several others sustaining injuries. The blaze erupted at ‘Shikha Inn’, a residential hotel, around 1:45 AM on… The post Devastating Fire at Hotel Near Kolkata’s New Market Claims 9 Bangladeshi Lives appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "ed5efc317541f013",
-      "title": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
-      "url": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "middle_east",
-      "publishedAt": "2026-08-19T03:12:06.000Z",
-      "summary": "The immigration status of Maryam Tahmasebi was revoked because her husband is the son of a prominent figure in Iran."
     },
     {
       "id": "58f92e8e769fd008",
@@ -292,14 +332,14 @@
       "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started."
     },
     {
-      "id": "3027e5efb199b51d",
-      "title": "American Airlines to bring back TV screens on US flights",
-      "url": "https://www.bbc.co.uk/news/articles/c70glp55y95o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "americas",
-      "publishedAt": "2026-08-18T20:17:33.000Z",
-      "summary": "It is also adding more premium seats, with the changes aimed at improving the travel experience and boosting revenue."
+      "id": "e91e6afd10baffd9",
+      "title": "SteelSeries’ comfy wireless gaming headset is nearly half off",
+      "url": "https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-08-18T20:01:01.000Z",
+      "summary": "The Nova 3P in eye-catching cyan. | Image: SteelSeries While many gaming headsets come with extra features, the tradeoff is that they’re often uncomfortable and heavy. A lightweight, affordable alternative that can connect to a bunch of platforms is available at Woot. The SteelSeries Arctis Nova 3P in cyan is on sale for $59.99, a 45 percent discount from their usual $109.99 price. SteelSeries Arctis Nova 3P Where to"
     },
     {
       "id": "08dfbb643185e43a",
@@ -389,7 +429,7 @@
       "category": "cybersecurity",
       "region": "americas",
       "publishedAt": "2026-08-18T16:26:29.000Z",
-      "summary": "Tesla Cybercabs are lined up on a lot at Tesla Giga Texas in Austin, Wednesday, April 8, 2026. | Image: Jay Janner/The Austin American-Statesman via Getty Images The Tesla Cybercab, that golden two-seater central to Elon Musk's robo-supremacist ambitions, is finally nearing it's public launch. Whether or not the no-steering wheel and no-pedal vehicle is actually ready for public roads, let alone customers, remains ve"
+      "summary": "Tesla Cybercabs are lined up on a lot at Tesla Giga Texas in Austin, Wednesday, April 8, 2026. | Image: Jay Janner/The Austin American-Statesman via Getty Images The Tesla Cybercab, that golden two-seater central to Elon Musk's robo-supremacist ambitions, is finally nearing its public launch. Whether or not the no-steering wheel and no-pedal vehicle is actually ready for public roads, let alone customers, remains ver"
     },
     {
       "id": "f2365bae530b212e",
@@ -410,26 +450,6 @@
       "region": "global",
       "publishedAt": "2026-08-18T14:04:22.000Z",
       "summary": "Play BBC Sport's new Match of the Day predictor game to test your football knowledge and build up your streak."
-    },
-    {
-      "id": "123dadd82284d8b8",
-      "title": "Comcast is turning millions of its routers into motion detectors",
-      "url": "https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-08-18T13:30:00.000Z",
-      "summary": "Xfinity gateways XB7 and newer can now act as motion sensors in your home. | Image: Comcast Comcast is bringing Wi-Fi motion sensing to millions of routers that are already in customers' homes, turning the devices into activity monitors. A new update to the Xfinity Internet app, arriving today, August 18th, enables the feature on compatible Xfinity routers at no extra cost. Announced as part of its new Xfinity Shield"
-    },
-    {
-      "id": "1b08d37623e0a2b2",
-      "title": "Brazil's President Lula hails oil discovery near Amazon river",
-      "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "environment",
-      "region": "americas",
-      "publishedAt": "2026-08-18T13:13:54.000Z",
-      "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon."
     },
     {
       "id": "a9d29b337ebd5e49",
@@ -472,16 +492,6 @@
       "summary": "OpenAI insisted this was not in response to a particular issue with children believing ChatGPT to be alive."
     },
     {
-      "id": "1ffcae195c4ecc40",
-      "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "americas",
-      "publishedAt": "2026-08-18T10:32:16.000Z",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April. [...]"
-    },
-    {
       "id": "40c6997bd3b150c0",
       "title": "We still don’t know how people are really using AI",
       "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
@@ -490,16 +500,6 @@
       "region": "global",
       "publishedAt": "2026-08-18T10:06:43.000Z",
       "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research…"
-    },
-    {
-      "id": "e45800e54fb0820f",
-      "title": "Microsoft confirms outage affecting search in Microsoft 365 apps",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-08-18T09:24:49.000Z",
-      "summary": "Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. [...]"
     },
     {
       "id": "4934ac318a41d225",
@@ -522,16 +522,6 @@
       "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon. …"
     },
     {
-      "id": "037b02f7b75395d1",
-      "title": "Haaland's main rivals for the Premier League Golden Boot",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgwjgxend0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-18T06:11:55.000Z",
-      "summary": "Erling Haaland will hope for a record-equalling fourth Golden Boot this season - but who could challenge him as the Premier League's top-scorer?"
-    },
-    {
       "id": "556475ecdce8dbfc",
       "title": "Government Aims to Progress by Including Everyone: Prime Minister",
       "url": "https://www.bd24live.com/government-aims-to-progress-by-including-everyone-prime-minister/",
@@ -540,16 +530,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-08-18T06:05:13.000Z",
       "summary": "Prime Minister Tarique Rahman has stated that the government’s goal is to advance the country by including everyone. He made this statement on Tuesday (August 18) at the National Revenue… The post Government Aims to Progress by Including Everyone: Prime Minister appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "ac4cb5a8b99bd0f0",
-      "title": "Breakouts & wildcards - 13 surprise stars for new season",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1l197j4gvro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-18T05:49:00.000Z",
-      "summary": "BBC Sport TV and radio commentators identify the players they think could be the breakout stars of the new Premier League season."
     },
     {
       "id": "ffeb3aeb088be3bf",
@@ -642,16 +622,6 @@
       "summary": "Kemp’s ridley sea turtle, near death on Welsh beach in 2023, is thriving in Houston despite lingering pneumonia A Kemp’s ridley sea turtle native to the Gulf of Mexico is largely thriving after he was found nearly dead on a beach in Wales in late 2023, nursed back to health and then flown to Houston recently to continue recovering – though scans revealed signs that the creature has been grappling with lingering pneum"
     },
     {
-      "id": "2b7417d418c9b38b",
-      "title": "What happens when a kid’s robot best friend dies?",
-      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-      "source": "MIT Tech Review",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-08-17T09:00:00.000Z",
-      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,…"
-    },
-    {
       "id": "7e4ceec4db2b4fbd",
       "title": "How much hydrogen awaits us underground?",
       "url": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
@@ -660,6 +630,16 @@
       "region": "americas",
       "publishedAt": "2026-08-17T09:00:00.000Z",
       "summary": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemists found water that had been confined underground for more than a billion years. This ancient brine turned out to be a habitat…"
+    },
+    {
+      "id": "2b7417d418c9b38b",
+      "title": "What happens when a kid’s robot best friend dies?",
+      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "source": "MIT Tech Review",
+      "category": "environment",
+      "region": "global",
+      "publishedAt": "2026-08-17T09:00:00.000Z",
+      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,…"
     },
     {
       "id": "580ca1d708220c81",
@@ -782,16 +762,6 @@
       "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, his organisation has said. Serving in Mission International said Kevin Rideout “is in good health in the care of US officials” and would soon be reunited with his extended family. Continue reading..."
     },
     {
-      "id": "a81d5f7cbdc4b333",
-      "title": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
-      "url": "https://www.theguardian.com/business/2026/aug/14/bp-offshore-gasfield-venezuela-donald-trump",
-      "source": "The Guardian World",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-14T14:04:49.000Z",
-      "summary": "Move will be one of first large-scale foreign investments in country since US ousted leader Nicolás Maduro in January BP has answered Donald Trump’s call for oil companies to help rebuild Venezuela’s fossil fuel industry with new plans to develop a large offshore gasfield. BP will partner with two oil firms with close links to the Trump administration to develop the second phase of the Loran gasfield, in one of the f"
-    },
-    {
       "id": "fcd54ebec4ef47c2",
       "title": "Who’s Tracking You? Use This New Service to Find Out",
       "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -880,6 +850,16 @@
       "region": "global",
       "publishedAt": "2026-08-06T17:00:56.000Z",
       "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers."
+    },
+    {
+      "id": "18db62ca0350dae3",
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "source": "Krebs on Security",
+      "category": "technology",
+      "region": "americas",
+      "publishedAt": "2026-07-22T01:10:38.000Z",
+      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties to route their Internet traffic through a user's TV."
     },
     {
       "id": "0c7c57ee5e25207d",
