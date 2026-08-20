@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-08-19T23:29:08.752Z",
+  "generatedAt": "2026-08-20T01:42:39.852Z",
   "articles": [
+    {
+      "id": "b177eec39fa2e964",
+      "title": "US national debt passes $40tn after doubling in a decade",
+      "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-20T01:24:26.000Z",
+      "summary": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years."
+    },
+    {
+      "id": "03b8d537a45ceba5",
+      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-20T01:02:51.000Z",
+      "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict."
+    },
+    {
+      "id": "9777b264fc3126a1",
+      "title": "‘Like a miracle’: 84-year-old woman pulled alive from rubble three days after Indonesian quake",
+      "url": "https://www.theguardian.com/world/2026/aug/20/indonesia-earthquake-flores-miracle-rescue-elderly-woman-found-alive-in-rubble",
+      "source": "The Guardian World",
+      "category": "disasters",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-20T00:57:42.000Z",
+      "summary": "A landslide triggered by the quake had blocked access to the village where Paulina Pobi had lived, leaving her buried under the collapsed remains An 84-year-old woman has been discovered alive in the flattened remains of her home three days after a powerful earthquake hit eastern Indonesia, authorities have confirmed. The 7.7-magnitude quake struck off Indonesia’s Flores island on Saturday morning, killing at least 7"
+    },
+    {
+      "id": "cee34fb72bb38d3c",
+      "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
+      "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "economy_business",
+      "region": "middle_east",
+      "publishedAt": "2026-08-20T00:53:20.000Z",
+      "summary": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\"."
+    },
     {
       "id": "f3fc373b36410144",
       "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
@@ -8,8 +48,148 @@
       "source": "BBC World",
       "category": "diplomacy",
       "region": "middle_east",
-      "publishedAt": "2026-08-19T22:55:37.000Z",
-      "summary": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision."
+      "publishedAt": "2026-08-20T00:48:57.000Z",
+      "summary": "Australia's foreign minister says she will summon the Israeli ambassador over 'insulting' Zomi Frankcom decision."
+    },
+    {
+      "id": "e6a2350122d1a2b6",
+      "title": "Publisher of US military newspaper resigns over differences with government",
+      "url": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-20T00:34:13.000Z",
+      "summary": "Retirement of longtime Stars and Stripes publisher comes amid the Trump administration's push for editorial control."
+    },
+    {
+      "id": "4d7c69cb58d41e12",
+      "title": "‘Tsunami’ of emigration reshapes Israel’s future, experts warn",
+      "url": "https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-20T00:26:59.000Z",
+      "summary": "Nearly 270,000 Israelis have left the country over three years, citing political uncertainty and security concerns."
+    },
+    {
+      "id": "3b9898409b49084d",
+      "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
+      "source": "BleepingComputer",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-08-20T00:20:55.000Z",
+      "summary": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations. [...]"
+    },
+    {
+      "id": "a2de46803802fe37",
+      "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "economy_business",
+      "region": "americas",
+      "publishedAt": "2026-08-20T00:18:01.000Z",
+      "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline."
+    },
+    {
+      "id": "4b2d92c419504143",
+      "title": "More than 100 dead after goldmine collapses in Central African Republic",
+      "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
+      "source": "The Guardian World",
+      "category": "creativity_arts",
+      "region": "africa",
+      "publishedAt": "2026-08-20T00:14:17.000Z",
+      "summary": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue More than 100 people have died after an artisanal goldmine at a small village in western Central African Republic (CAR) caved in due to a landslide, local officials and aid workers said on Wednesday. The landslide happened on Tuesday afternoon in the village of Zamboye, about 50km (31 miles)"
+    },
+    {
+      "id": "f09200e1a807dfbc",
+      "title": "Harry Kane scores goal by winning Golden Shoe for the second time",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-08-20T00:12:59.000Z",
+      "summary": "English footballer Harry Kane won the title of ‘Europe’s best goalscorer’, awarded the Golden Shoe for the second time."
+    },
+    {
+      "id": "60b95916ce474f41",
+      "title": "Nigeria’s election campaign begins with Tinubu facing a reform test",
+      "url": "https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "africa",
+      "publishedAt": "2026-08-20T00:06:05.000Z",
+      "summary": "Rising costs fuel anger, but President Bola Tinubu’s machinery and opposition divisions may shape the race."
+    },
+    {
+      "id": "1e1f2c30f87488e6",
+      "title": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-08-20T00:00:00.000Z",
+      "summary": "Trump says Washington may resume talks with Tehran 'at some point'."
+    },
+    {
+      "id": "3ac0f92e837e26f6",
+      "title": "US national debt passes record $40 trillion",
+      "url": "https://www.aljazeera.com/economy/2026/8/19/us-national-debt-passes-record-40-trillion?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-19T23:59:16.000Z",
+      "summary": "The amount has doubled in the last decade, from Trump's first term through the Biden administration."
+    },
+    {
+      "id": "626d7b1b36e57466",
+      "title": "‘We do not trust Israeli judiciary’ says Hind Rajab’s grandmother",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/we-do-not-trust-israeli-judiciary-says-hind-rajabs-grandmother?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-19T23:56:47.000Z",
+      "summary": "The grandmother of Hind Rajab, a five-year-old Palestinian girl killed in her family’s car by Israeli forces in Gaza."
+    },
+    {
+      "id": "8ec032c00339df23",
+      "title": "Downpours to continue for UK with risk of flash flooding",
+      "url": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "europe",
+      "publishedAt": "2026-08-19T23:56:33.000Z",
+      "summary": "The prolonged dry spell has come to an end with heavy, thundery showers continuing to sweep across the UK, as Ben Rich explains."
+    },
+    {
+      "id": "48491243aaeed2d8",
+      "title": "South Korea’s rookie investors lose small fortunes amid AI stocks frenzy",
+      "url": "https://www.aljazeera.com/economy/2026/8/19/south-koreas-rookie-investors-lose-small-fortunes-amid-ai-stocks-frenzy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-19T23:51:12.000Z",
+      "summary": "South Korea's stock market has attracted a wave of novice investors amid booming demand for chips used in AI."
+    },
+    {
+      "id": "360b8f32f7e5b07f",
+      "title": "California becomes first US state to set efficiency rules for replacement tires",
+      "url": "https://www.theguardian.com/us-news/2026/aug/19/california-replacement-tires",
+      "source": "The Guardian Environment",
+      "category": "environment",
+      "region": "global",
+      "publishedAt": "2026-08-19T23:48:06.000Z",
+      "summary": "Regulations that would block sale of older tires praised by environmental groups amid rightwing backlash California has become the first state in the nation to mandate that replacement tires be energy efficient, a major auto industry regulation set to block the sale of older tires and make vehicles on the road greener. State regulators have said the new rules will reduce emissions and drivers’ fuel costs. But the rul"
+    },
+    {
+      "id": "8e791d68b15b70eb",
+      "title": "India's Gen Z are driving up a mega boom in its beauty market",
+      "url": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-19T23:31:24.000Z",
+      "summary": "E-commerce, rising income levels and the world's largest youth population are fuelling India's beauty boom."
     },
     {
       "id": "f830f2b12af01cce",
@@ -22,26 +202,6 @@
       "summary": "England seamers Josh Tongue and Ollie Robinson find a solution as to who keeps the ball after the both claim a five-wicket haul at Headingley - split it in half."
     },
     {
-      "id": "b177eec39fa2e964",
-      "title": "US national debt passes $40tn after doubling in a decade",
-      "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-08-19T22:31:46.000Z",
-      "summary": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years."
-    },
-    {
-      "id": "4459c2049f49a673",
-      "title": "What the social media addiction lawsuit could cost Meta",
-      "url": "https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-19T22:01:26.000Z",
-      "summary": "Landmark trial against Meta could lead to fines and fundamental changes in Facebook and Instagram's operations."
-    },
-    {
       "id": "3927ca7761f98077",
       "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
       "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
@@ -50,66 +210,6 @@
       "region": "americas",
       "publishedAt": "2026-08-19T21:32:15.000Z",
       "summary": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash."
-    },
-    {
-      "id": "526bd197f7c5266f",
-      "title": "Israeli strike on Gaza City police headquarters kills women’s police chief",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "middle_east",
-      "publishedAt": "2026-08-19T21:22:17.000Z",
-      "summary": "An Israeli strike on Gaza City’s police headquarters has killed the women’s police chief and several officers."
-    },
-    {
-      "id": "1aab2ae487deded3",
-      "title": "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-19T21:10:39.000Z",
-      "summary": "“You can't do anything. Just stand here and watch.” Al Jazeera’s Ali Hashem watched Israeli attacks near his home town."
-    },
-    {
-      "id": "937daac9fff06c64",
-      "title": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-19T21:09:15.000Z",
-      "summary": "The Israeli military announced criminal investigations into the killings of six-year-old Hind Rajab."
-    },
-    {
-      "id": "f438794c43bf210c",
-      "title": "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts",
-      "url": "https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-19T21:01:54.000Z",
-      "summary": "Reports of dire conditions underscore supply challenges, questions of US plans going forward, experts say."
-    },
-    {
-      "id": "c8e18b30f16a39d5",
-      "title": "Spain plans transfer of 500 migrant children from Ceuta to mainland",
-      "url": "https://www.aljazeera.com/news/2026/8/19/spain-plans-transfer-of-500-migrant-children-from-ceuta-to-mainland?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-08-19T20:53:55.000Z",
-      "summary": "Ceuta leaders want children returned to Morocco, but Madrid says deporting them is 'outrageous'."
-    },
-    {
-      "id": "3e477d05816dad74",
-      "title": "Moderna, Merck unveil mRNA-based cancer vaccine that cuts spread",
-      "url": "https://www.aljazeera.com/news/2026/8/19/moderna-merck-unveil-mrna-based-cancer-vaccine-that-cuts-spread?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-19T20:39:14.000Z",
-      "summary": "Moderna's mRNA vaccine Intismeran shows promise, reducing melanoma recurrence and spread in late-stage trials."
     },
     {
       "id": "be4eac5c869686e4",
@@ -122,16 +222,6 @@
       "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
     },
     {
-      "id": "93344d0bc1b6481b",
-      "title": "What’s behind Israel’s latest attack on Syria?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-19T20:18:40.000Z",
-      "summary": "US envoy warns Israel's strike could have sparked direct confrontation with Turkish forces."
-    },
-    {
       "id": "dc5f3e0ada0b84e8",
       "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
       "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
@@ -140,16 +230,6 @@
       "region": "americas",
       "publishedAt": "2026-08-19T20:17:39.000Z",
       "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of northern Kenya, according to local police and the state department. Among the dead were an executive with Telemundo, the US-based Spanish-language network owned by NBC Universal, and the"
-    },
-    {
-      "id": "a2de46803802fe37",
-      "title": "Canada and US say they are finalising a trade deal, but details remain murky",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "economy_business",
-      "region": "americas",
-      "publishedAt": "2026-08-19T19:59:14.000Z",
-      "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline."
     },
     {
       "id": "cb3dce7bb704bd3c",
@@ -252,16 +332,6 @@
       "summary": "Image captured in early June shows animal foraging in the waterway in first since early 1900s, signaling its recovery An otter has been spotted in the Bronx River for the first time in more than 100 years, in a further sign that New York’s previously befouled waterways are recovering some of their ecological health. The North American river otter was photographed by a motion-activated camera foraging near some vegeta"
     },
     {
-      "id": "cee34fb72bb38d3c",
-      "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
-      "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "economy_business",
-      "region": "americas",
-      "publishedAt": "2026-08-19T17:16:28.000Z",
-      "summary": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned."
-    },
-    {
       "id": "c7dfe4ece814b700",
       "title": "OpenAI hit the brakes. Now what?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
@@ -342,6 +412,16 @@
       "summary": "The digital bank said all of its services were now \"back up and running\""
     },
     {
+      "id": "f7c5a165ad54129c",
+      "title": "Insidious: Out of the Further review – evil returns but so does boredom",
+      "url": "https://www.theguardian.com/film/2026/aug/19/insidious-out-of-the-further-review",
+      "source": "The Guardian Culture",
+      "category": "creativity_arts",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-19T16:00:25.000Z",
+      "summary": "Uninteresting mythology and junky effects push a once-promising horror franchise further from what it once was When the Insidious franchise started in 2010, it felt like a liberating moment for director James Wan and writer (and later director) Leigh Whannell, the Australian duo who captured the zeitgeist with the original Saw movie, which imported the gonzo energy of low-budget Ozploitation flicks. As the partners q"
+    },
+    {
       "id": "a0d3a59cc940c7c0",
       "title": "Delap loses number nine shirt & trains away from first team",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5y4nel5gddo?at_medium=RSS&at_campaign=rss",
@@ -400,16 +480,6 @@
       "region": "global",
       "publishedAt": "2026-08-19T15:21:21.000Z",
       "summary": "Nick Kyrgios once said he did not want to play tennis into his 30s. A positive cocaine test could have brought an end to his career aged 31."
-    },
-    {
-      "id": "090d619a7978e8f4",
-      "title": "'I was born in South Africa', says beauty queen facing legal bid to deport her",
-      "url": "https://www.bbc.co.uk/news/articles/cj364xxr5ngo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "africa",
-      "publishedAt": "2026-08-19T15:12:41.000Z",
-      "summary": "Chidimma Adetshina is challenging efforts to have her deported from South Africa, which she says is her home."
     },
     {
       "id": "4a4a9b036d11d393",
@@ -492,16 +562,6 @@
       "summary": "The Executive Committee of the National Economic Council (ECNEC) has approved 10 development projects totaling BDT 9,333.58 crore. Among the approved projects, the Dhaka Medical College’s unusable facility replacement and… The post ECNEC Approves 10 Projects Worth BDT 9,333 Crore appeared first on Bangla Online News Portal."
     },
     {
-      "id": "272002efca6f85e3",
-      "title": "Inflation is heating up but don't expect another crisis",
-      "url": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-08-19T11:27:39.000Z",
-      "summary": "Rising living costs could heap pressure on PM Andy Burnham though it depends what happens in the coming months."
-    },
-    {
       "id": "493d5a6dc033ed50",
       "title": "OpenAI slows down training after its AI carried out hack",
       "url": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
@@ -520,16 +580,6 @@
       "region": "global",
       "publishedAt": "2026-08-19T11:14:28.000Z",
       "summary": "Microsoft has resolved a bug that caused Windows Defender to crash after a recent security update, resulting in 0xc0000005 access violation errors on some affected systems. [...]"
-    },
-    {
-      "id": "d70e1eb9df46abed",
-      "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
-      "url": "https://www.bbc.co.uk/news/articles/cwyjqe62574o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-08-19T11:08:42.000Z",
-      "summary": "The consumer watchdog said they were trying to find out if the three companies were not showing full prices upfront to customers."
     },
     {
       "id": "9345ac4a3d184a16",
@@ -652,16 +702,6 @@
       "summary": "US states are suing the social media giant to force an overhaul of its platforms for young users."
     },
     {
-      "id": "050d6a0b3fa05a05",
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "source": "MIT Tech Review",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-08-18T09:00:00.000Z",
-      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon. …"
-    },
-    {
       "id": "556475ecdce8dbfc",
       "title": "Government Aims to Progress by Including Everyone: Prime Minister",
       "url": "https://www.bd24live.com/government-aims-to-progress-by-including-everyone-prime-minister/",
@@ -732,16 +772,6 @@
       "summary": "Supporters and opponents of the controversial plans have been making their cases on the £8.7bn project."
     },
     {
-      "id": "70a272f3b9c430a5",
-      "title": "Rhossi, a rare sea turtle, recovers after 5,000-mile trek from Wales to Texas",
-      "url": "https://www.theguardian.com/us-news/2026/aug/17/rhossi-sea-turtle-texas-wales-recovery-update-houston-zoo",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "americas",
-      "publishedAt": "2026-08-17T10:00:52.000Z",
-      "summary": "Kemp’s ridley sea turtle, near death on Welsh beach in 2023, is thriving in Houston despite lingering pneumonia A Kemp’s ridley sea turtle native to the Gulf of Mexico is largely thriving after he was found nearly dead on a beach in Wales in late 2023, nursed back to health and then flown to Houston recently to continue recovering – though scans revealed signs that the creature has been grappling with lingering pneum"
-    },
-    {
       "id": "2b7417d418c9b38b",
       "title": "What happens when a kid’s robot best friend dies?",
       "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
@@ -790,16 +820,6 @@
       "region": "global",
       "publishedAt": "2026-08-15T19:39:07.000Z",
       "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba, on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds. Continue reading..."
-    },
-    {
-      "id": "410ff1aff2b464b8",
-      "title": "Moroccan police arrest more than 100 people attempting to enter Ceuta",
-      "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
-      "source": "The Guardian World",
-      "category": "creativity_arts",
-      "region": "europe",
-      "publishedAt": "2026-08-15T18:08:21.000Z",
-      "summary": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territory Moroccan police have arrested 111 people as they tried to enter Spain’s north African territory of Ceuta, amid ⁠tightened security on both sides after social media posts ​called for another mass crossing. The attempted crossing on Saturday came two weeks after more than 72,000 migrants surged into Ce"
     },
     {
       "id": "bb0fa6a34589712a",
@@ -860,16 +880,6 @@
       "region": "global",
       "publishedAt": "2026-08-13T14:09:05.000Z",
       "summary": "The dating app's boss says the move is in response to a successful trial and a change in what users want."
-    },
-    {
-      "id": "05f54f5bc105a6d8",
-      "title": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
-      "url": "https://www.bbc.co.uk/news/articles/c5y49e2z8yno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-08-13T05:40:24.000Z",
-      "summary": "Scotland's best chance of seeing a solar eclipse in 27 years left some disappointed, though there were moments of magic."
     },
     {
       "id": "12d57fa016b467ee",
