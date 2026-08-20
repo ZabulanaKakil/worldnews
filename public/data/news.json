@@ -1,6 +1,136 @@
 {
-  "generatedAt": "2026-08-20T17:36:54.708Z",
+  "generatedAt": "2026-08-20T18:51:25.314Z",
   "articles": [
+    {
+      "id": "12c5137ea1ff6101",
+      "title": "Cricket: Today at the Test",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-20T19:00:05.000Z",
+      "summary": "Day 2 highlights from the Test match between England and Pakistan at Headingley."
+    },
+    {
+      "id": "19a4a7f803684086",
+      "title": "Bessent urges US partners to back plans to 'squash' Iran economy",
+      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "creativity_arts",
+      "region": "middle_east",
+      "publishedAt": "2026-08-20T18:40:46.000Z",
+      "summary": "The US Treasury secretary says allies will need to decide whether they \"are with us or against us\"."
+    },
+    {
+      "id": "af6313868d4c3510",
+      "title": "Sparkling Brook builds England lead over Pakistan",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c62qp3e1dw9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-20T18:40:32.000Z",
+      "summary": "Harry Brook sparkles in the Headingley gloom to build England’s commanding lead over Pakistan on a shortened second day of the first Test."
+    },
+    {
+      "id": "1fea30c9a6fd5e27",
+      "title": "First group of US deportees, out of an expected 1,200, arrive in Liberia",
+      "url": "https://www.aljazeera.com/news/2026/8/20/first-group-of-us-deportees-out-of-an-expected-1200-arrive-in-liberia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-08-20T18:22:58.000Z",
+      "summary": "Liberia is part of a growing list of partners under US President Donald Trump to accept third-country deportations."
+    },
+    {
+      "id": "82a260845f720316",
+      "title": "The road to el-Obeid, Sudan’s besieged city sheltering thousands",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-road-to-el-obeid-sudans-besieged-city-sheltering-thousands?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-08-20T18:16:55.000Z",
+      "summary": "Al Jazeera’s AlMigdad Alruhaid travelled along one of the main supply roads to Sudan’s besieged city of el-Obeid."
+    },
+    {
+      "id": "bcfa92d6b786d35b",
+      "title": "Russian paramilitaries in Mali kill nine, including children: HRW",
+      "url": "https://www.aljazeera.com/news/2026/8/20/russian-paramilitaries-in-mali-kill-nine-including-children-hrw?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-08-20T18:13:49.000Z",
+      "summary": "Human Rights Watch alleges that the killings by Africa Corps troops took place in the presence of Malian soldiers."
+    },
+    {
+      "id": "c5064a498d04b6ff",
+      "title": "Carlos Alcaraz confirms US Open return after four-month injury layoff",
+      "url": "https://www.aljazeera.com/sports/2026/8/20/carlos-alcaraz-confirms-us-open-return-after-four-month-injury-layoff?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-20T18:06:14.000Z",
+      "summary": "Spanish tennis star had missed the French Open, ‌Wimbledon and the hard-court events in Toronto and ​Cincinnati."
+    },
+    {
+      "id": "699c556aa33b87d1",
+      "title": "Why first 10 days of new season could tell us a lot about Man Utd",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy5dx427yw7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-20T17:54:26.000Z",
+      "summary": "The first 10 days of the new Premier League season could tell us a lot about what lies ahead for Manchester United."
+    },
+    {
+      "id": "581c90cbc7cdb742",
+      "title": "Hackers poison arrayref Rust crate to push infostealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-08-20T17:53:52.000Z",
+      "summary": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]"
+    },
+    {
+      "id": "3ca61e2966f1ba37",
+      "title": "Seven defenders on the books - why Arsenal still want Konsa",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62ey2y9n79o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-20T17:48:12.000Z",
+      "summary": "Arsenal have already spent more than £100m this summer as they look to defend their Premier League title - so why do they want Ezri Konsa as well?"
+    },
+    {
+      "id": "422b81985ed99043",
+      "title": "Australia says Roblox hasn&#8217;t fixed its child predator problem",
+      "url": "https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-20T17:42:34.000Z",
+      "summary": "Roblox is promising more changes to its child safety features following testing from Australia's online safety regulator, eSafety. eSafety has been looking into concerns that the company hasn't been in compliance with Australia's Online Safety Act, including \"allegedly failing to have sufficient measures in place to prevent contact between adults and children under 16.\" While Roblox has put some new safety measures i"
+    },
+    {
+      "id": "a3fb97865746ea92",
+      "title": "FCC officially decides gigabit speeds are too good for you",
+      "url": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "americas",
+      "publishedAt": "2026-08-20T17:38:30.000Z",
+      "summary": "Another day, another sad thing to report about our compromised Federal Communications Commission. Chairman Brendan Carr has followed through on his 2025 threat to kill long-term broadband speed goals established during the Biden administration, which aimed for eventually getting us to gigabit download and half-gigabit upload speeds. How dare we dream of spreading great download and upload speeds across the country! I"
+    },
+    {
+      "id": "d8721b79da796551",
+      "title": "Bangladesh elects ruling party veteran Alamgir as president",
+      "url": "https://www.aljazeera.com/news/2026/8/20/bangladesh-elects-ruling-party-veteran-alamgir-as-president?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-20T17:35:34.000Z",
+      "summary": "Bangladesh elects Mirza Fakhrul Islam Alamgir by parliamentary vote, filling vacancy after Shahabuddin's resignation."
+    },
     {
       "id": "8a7d4fe78f76e786",
       "title": "Glass deposit operator confirmed after months of wrangling",
@@ -122,26 +252,6 @@
       "summary": "Hundreds of migrants are being removed from their makeshift camps on a beach in Ceuta, Spain."
     },
     {
-      "id": "45b4835bc177970f",
-      "title": "Rider 'nearly hit' by car on day one of Tour of Britain Women",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/cp3rg3x0e7wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-08-20T16:21:46.000Z",
-      "summary": "Australian rider Maeve Plouffe says she narrowly avoided being hit by a car during the first stage of the Tour Of Britain Women."
-    },
-    {
-      "id": "37da633bf9ef560d",
-      "title": "Syria detains policeman over death of White Helmets rescuer hit in custody",
-      "url": "https://www.aljazeera.com/news/2026/8/20/syria-detains-policeman-over-death-of-white-helmets-rescuer-hit-in-custody?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-20T16:19:30.000Z",
-      "summary": "Authorities were warned about the dangers of hitting Mohammad Ghamira, who suffered from the rare medical condition haemophilia."
-    },
-    {
       "id": "0f5c8aae84d1990f",
       "title": "Togo charges two French journalists over incorrect documents, rights group says",
       "url": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo?at_medium=RSS&at_campaign=rss",
@@ -172,16 +282,6 @@
       "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown The United States sent 20 deportees to Liberia, who arrived on Thursday as part of 1,200 migrants that the African country will receive under a new deal. The deportees arrived at the Roberts international airport outside Monrovia. The Liberia-US agreement is among the largest third-country deportations driven "
     },
     {
-      "id": "7417e1f5cf246417",
-      "title": "Marvel’s Wolverine: Spider-Man developers turn to a more cutthroat character",
-      "url": "https://www.theguardian.com/games/2026/aug/20/marvel-wolverine-spider-man-developers-turn-more-cutthroat-character",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-20T15:40:04.000Z",
-      "summary": "Even film-makers have been inspired by Insomniac’s take on Spidey. But the studio’s tried and tested format might not fit a superhero with such sharp claws The recent Marvel’s Spider-Man games have become so tightly interwoven with the character’s core that they’ve been cited, by both actor Tom Holland and director Destin Daniel Cretton, as an influence on this year’s blockbuster film Spider-Man: Brand New Day. Now t"
-    },
-    {
       "id": "b2532b99f0b8072a",
       "title": "This app makes the Pixel 11&#8217;s HiLight feature actually useful",
       "url": "https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
@@ -192,16 +292,6 @@
       "summary": "Google's new HiLight notification LED on the Pixel 11 Pro is nearly useless. Out of the box, the only two things it can glow for are when the phone is face down and you're interacting with Gemini, or when you get a call from a favorite contact. And even then, it can only glow one of five colors! This is a massive wasted opportunity for a feature that used to be so beloved on older Android phones, so developers have w"
     },
     {
-      "id": "68ccdbfa37f311cc",
-      "title": "Can US, Middle Eastern powers unite Libya 15 years after Gaddafi overthrow?",
-      "url": "https://www.aljazeera.com/news/2026/8/20/can-us-middle-eastern-powers-unite-libya-15-years-after-gaddafi-overthrow?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "middle_east",
-      "publishedAt": "2026-08-20T15:24:42.000Z",
-      "summary": "The US government is intensifying efforts to unify the country's two rival governments."
-    },
-    {
       "id": "abe2a12a1e282944",
       "title": "LG’s 65-inch B6 OLED is $300 lower than its previous best price",
       "url": "https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale",
@@ -210,16 +300,6 @@
       "region": "global",
       "publishedAt": "2026-08-20T15:08:38.000Z",
       "summary": "Best Buy has a whole host of LG products discounted for today’s Deal of the Day festivities, including laptops, home theater gear, and more. One that stood out is a price cut on LG’s 65-inch B6 OLED TV that’s deeper than I’ve seen before. At Best Buy, it’s $1,399.99 (originally $1,999.99) for the rest of the Thursday, August 20th, which is currently $300 lower than Amazon’s price. LG B6 OLED TV Where to Buy: $1999.99"
-    },
-    {
-      "id": "0bbdf4175c7bc9f0",
-      "title": "Landslide kills 13 at illegal gold mine in Colombia’s southwest",
-      "url": "https://www.aljazeera.com/news/2026/8/20/13-workers-killed-in-colombia-mine-landslide-local-official?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "disasters",
-      "region": "global",
-      "publishedAt": "2026-08-20T15:08:16.000Z",
-      "summary": "Mining activity caused a deadly slope collapse in Narino, claiming 13 lives and injuring seven others."
     },
     {
       "id": "fa86c1d885286b35",
@@ -242,16 +322,6 @@
       "summary": "Heavy showers and thunderstorms will continue to affect large parts of the UK."
     },
     {
-      "id": "e63a6eee6a9c7868",
-      "title": "Chelsea happy with Fernandez, says Alonso",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpq8gq5llp9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-20T14:39:54.000Z",
-      "summary": "Enzo Fernandez has shown a \"really good attitude\" since his return to Chelsea, says head coach Xabi Alonso, as speculation over the midfielder's future continues."
-    },
-    {
       "id": "91758ac4162e1680",
       "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
@@ -260,16 +330,6 @@
       "region": "global",
       "publishedAt": "2026-08-20T14:39:48.000Z",
       "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]"
-    },
-    {
-      "id": "29d578e26889c1d5",
-      "title": "‘I need to think like a CEO’: Weezer on the shifting sands of success, ugly feelings and the joy of spreadsheets",
-      "url": "https://www.theguardian.com/music/2026/aug/20/weezer-rivers-cuomo-patrick-wilson-ceo",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-20T14:16:19.000Z",
-      "summary": "As the self-professed geeky rockers release their conceptual 20th album, Rivers Cuomo and Patrick Wilson discuss dodging failure, being saved by fans and their obsessive creativity The first song Rivers Cuomo wrote for Weezer’s new album, their 20th, blatantly mimics the US rockers’ 1994 debut single, Undone (The Sweater Song). On the track CEO, the singer-guitarist grumbles over a slow, Velvets-y backing about havin"
     },
     {
       "id": "7299b65c0432524b",
@@ -292,26 +352,6 @@
       "summary": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox. [...]"
     },
     {
-      "id": "3662a111b38e52d2",
-      "title": "Here’s what data Comcast says its motion-detecting routers collect",
-      "url": "https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-08-20T14:00:22.000Z",
-      "summary": "Wi-Fi Motion is an opt-in service from Xfinity that turns your Gateway into a motion-sensing device. | Image: Comcast Comcast announced a new platform this week called Xfinity Shield that includes the option to let customers turn their routers into motion sensors. Many people reacted with fear and anger. \"I am not enabling this. I am also seriously considering replacing my leased gateway with my own equipment, becaus"
-    },
-    {
-      "id": "76adcbcebd97f720",
-      "title": "Welcome to the AI crisis in math",
-      "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-      "source": "The Verge",
-      "category": "economy_business",
-      "region": "europe",
-      "publishedAt": "2026-08-20T14:00:00.000Z",
-      "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in math that went off like a bombshell in the field. It caused a huge debate in the math community, and Rob spent some time talking to some of t"
-    },
-    {
       "id": "bb95e66025c516a9",
       "title": "Gazette Issued Declaring Mirza Fakhrul Elected President",
       "url": "https://www.bd24live.com/gazette-issued-declaring-mirza-fakhrul-elected-president/",
@@ -332,6 +372,16 @@
       "summary": "After signing a contract extension with Red Bull to 2030, Max Verstappen says he was \"closer to retiring\" from F1 \"than changing teams\"."
     },
     {
+      "id": "903563ba219bfff9",
+      "title": "Danone €1bn takeover of Huel approved by watchdog",
+      "url": "https://www.bbc.co.uk/news/articles/crl7y671w8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-20T13:24:57.000Z",
+      "summary": "French firm says the acquisition of Huel will help it grow in the nutritional sector."
+    },
+    {
       "id": "0bb8d2bcb15ba848",
       "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
       "url": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
@@ -340,16 +390,6 @@
       "region": "global",
       "publishedAt": "2026-08-20T13:04:15.000Z",
       "summary": "Investigators believe they have identified an arsonist who attacked a Jewish community centre in Munich in 1970, killing seven people."
-    },
-    {
-      "id": "b56e9b0684020571",
-      "title": "The Premier League's new plan to end corner chaos",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0jl03lv775o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-20T12:53:03.000Z",
-      "summary": "Holding, pushing, shoving, jostling and grappling. It became something of an epidemic in the Premier League last season - here's what's being done to fix it."
     },
     {
       "id": "9fee6fe9f32133ca",
@@ -442,16 +482,6 @@
       "summary": "Jo Boydell had been criticised for the company's handling of issues with its safety and security."
     },
     {
-      "id": "617bdccd5a2690df",
-      "title": "Trump vows tougher economic measures on Iran and supporting countries",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-20T09:13:18.000Z",
-      "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict."
-    },
-    {
       "id": "dcc212f67cd670ee",
       "title": "UN’s New Secretary-General Election: ‘Female Secretary-General’ and the Equation of Global Politics",
       "url": "https://www.bd24live.com/uns-new-secretary-general-election-female-secretary-general-and-the-equation-of-global-politics/",
@@ -462,16 +492,6 @@
       "summary": "Masudur Rahman: A new dynamism has emerged globally on the eve of the election for the next head of the United Nations, the pinnacle of global politics. As current Secretary-General… The post UN’s New Secretary-General Election: ‘Female Secretary-General’ and the Equation of Global Politics appeared first on Bangla Online News Portal."
     },
     {
-      "id": "d1ddeb7a459b27fd",
-      "title": "Tottenham in talks to sign Man City's Savinho and Marmoush",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz645z0w3ypo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-20T09:01:26.000Z",
-      "summary": "Spurs open talks with Manchester City to sign attacking duo Omar Marmoush and Savinho."
-    },
-    {
       "id": "7d8cd946269de6c8",
       "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
       "url": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
@@ -480,16 +500,6 @@
       "region": "global",
       "publishedAt": "2026-08-20T07:08:35.000Z",
       "summary": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole."
-    },
-    {
-      "id": "9d13131f8d53fb9b",
-      "title": "Microsoft says August Windows updates may cause gaming issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-08-20T06:51:03.000Z",
-      "summary": "Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]"
     },
     {
       "id": "b177eec39fa2e964",
@@ -510,16 +520,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-08-20T06:08:02.000Z",
       "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector."
-    },
-    {
-      "id": "4cd12bb9af8cde49",
-      "title": "Premier League predictions 2026-27: BBC Sport pundits pick their top four",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp8edryd7plo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-20T05:24:16.000Z",
-      "summary": "We ask 26 BBC Sport football pundits to predict who will win the 2026-27 Premier League title, and which clubs will finish in the top four."
     },
     {
       "id": "6a40a6078020f922",
@@ -712,16 +712,6 @@
       "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started."
     },
     {
-      "id": "fd47bfbac4deba93",
-      "title": "Prime Minister: Many Major Problems Can Be Solved If Everyone Comes Forward",
-      "url": "https://www.bd24live.com/prime-minister-many-major-problems-can-be-solved-if-everyone-comes-forward/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-18T17:15:17.000Z",
-      "summary": "Prime Minister Tarique Rahman stated, “Many major problems can be solved if everyone in society comes forward bit by bit.” Assuring the private sector of the government’s full cooperation in… The post Prime Minister: Many Major Problems Can Be Solved If Everyone Comes Forward appeared first on Bangla Online News Portal."
-    },
-    {
       "id": "a9d29b337ebd5e49",
       "title": "How soon will the drought be over?",
       "url": "https://www.bbc.co.uk/news/articles/c0kmlrkypjpo?at_medium=RSS&at_campaign=rss",
@@ -840,16 +830,6 @@
       "region": "global",
       "publishedAt": "2026-08-15T11:25:32.000Z",
       "summary": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped."
-    },
-    {
-      "id": "fcd54ebec4ef47c2",
-      "title": "Who’s Tracking You? Use This New Service to Find Out",
-      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
-      "source": "Krebs on Security",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-08-14T11:24:35.000Z",
-      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtec"
     },
     {
       "id": "12d57fa016b467ee",
