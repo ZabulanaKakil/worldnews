@@ -1,15 +1,95 @@
 {
-  "generatedAt": "2026-08-20T10:37:52.376Z",
+  "generatedAt": "2026-08-20T11:33:52.717Z",
   "articles": [
     {
-      "id": "5017148e2522e3d9",
-      "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "id": "7cdee46e6dca4761",
+      "title": "Mirza Fakhrul Elected as 23rd President",
+      "url": "https://www.bd24live.com/mirza-fakhrul-elected-as-23rd-president/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-20T11:30:16.000Z",
+      "summary": "Mirza Fakhrul Islam Alamgir, the candidate nominated by the BNP, has been elected as the 23rd President of the country through direct voting in the Jatiya Sangsad (National Parliament) after… The post Mirza Fakhrul Elected as 23rd President appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "7fa57057d9066d5e",
+      "title": "Northern Ireland farm profits topped £1bn in 2025",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5ddjyl5xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-08-20T11:25:04.000Z",
+      "summary": "The overall performance in 2025 was heavily influenced by developments in the beef sector which saw prices rise to record levels."
+    },
+    {
+      "id": "b9b86df9d375090b",
+      "title": "Carney asks for end to US alcohol ban, province leader says, as trade deal nears",
+      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "americas",
+      "publishedAt": "2026-08-20T11:10:25.000Z",
+      "summary": "An agreement preventing a new wave of US tariffs is close and could include an end to Canada's boycott of US whiskey."
+    },
+    {
+      "id": "115550e9e63c93d3",
+      "title": "Presidential Election to be Held Under Amended Article 70 in Future: Home Minister",
+      "url": "https://www.bd24live.com/presidential-election-to-be-held-under-amended-article-70-in-future-home-minister/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-20T11:10:10.000Z",
+      "summary": "Home Minister Salahuddin Ahmed has announced that the much-discussed Article 70 of the Constitution will be amended in the future, and the subsequent presidential election will be held in accordance… The post Presidential Election to be Held Under Amended Article 70 in Future: Home Minister appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "62384c61a9a37e3c",
+      "title": "Former Liberian vice-president charged in drug-trafficking probe",
+      "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-20T11:08:19.000Z",
+      "summary": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations."
+    },
+    {
+      "id": "41f46f293fa896ef",
+      "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
       "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "war_conflict",
       "region": "europe",
-      "publishedAt": "2026-08-20T10:34:33.000Z",
+      "publishedAt": "2026-08-20T11:06:54.000Z",
       "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say."
+    },
+    {
+      "id": "8fabfb3161f29cd1",
+      "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-08-20T11:06:14.000Z",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]"
+    },
+    {
+      "id": "617f4d91205d3034",
+      "title": "How Myanmar’s war drives the Rohingya crisis",
+      "url": "https://www.aljazeera.com/video/investigations/2026/8/20/how-myanmars-war-drives-the-rohingya-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-20T11:00:00.000Z",
+      "summary": "Al Jazeera exposes atrocities committed against the Rohingya ethnic minority group during Myanmar’s civil war."
+    },
+    {
+      "id": "0156acac6a4a0d70",
+      "title": "The piano that taught my cat to play for her supper",
+      "url": "https://www.theverge.com/entertainment/980552/pet-piano-cat-autofeeder",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-08-20T11:00:00.000Z",
+      "summary": "The artist, in a moment of quiet contemplation. | Photo by Elizabeth Lopatto / The Verge The pianist sits before her instrument. She carefully extends a front paw, pressing gingerly on a key. She presses again, and again. She is composing some soul music, because something terrible has happened to her: The vacuum cleaner has come out of the closet. Yes, my cat is a tortured artist. When Jeeves is moved by something t"
     },
     {
       "id": "dc9dbdfed6a7098b",
@@ -40,16 +120,6 @@
       "region": "global",
       "publishedAt": "2026-08-20T10:14:30.000Z",
       "summary": "The Taliban navigates a complex web of global trade and security alliances without gaining full political recognition."
-    },
-    {
-      "id": "62384c61a9a37e3c",
-      "title": "Former Liberian vice-president charged in drug-trafficking probe",
-      "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-20T10:11:26.000Z",
-      "summary": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations."
     },
     {
       "id": "73021e1be2007d4c",
@@ -180,16 +250,6 @@
       "region": "europe",
       "publishedAt": "2026-08-20T08:41:57.000Z",
       "summary": "The prolonged dry spell has come to an end with heavy, thundery showers continuing to sweep across the UK, as Ben Rich explains."
-    },
-    {
-      "id": "40e6172bb6ea8b27",
-      "title": "Max Verstappen signs new F1 contract with Red Bull until 2030",
-      "url": "https://www.aljazeera.com/sports/2026/8/20/verstappen-signs-new-red-bull-contract-until-2030?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-20T08:27:55.000Z",
-      "summary": "Four-time F1 World Drivers' Champion's new deal puts to rest rumours that he would exit the team at the end of 2028."
     },
     {
       "id": "54f1af5bccd54ded",
@@ -332,16 +392,6 @@
       "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives."
     },
     {
-      "id": "5b59f2a948587b1a",
-      "title": "Canada and US say they are finalising a trade deal",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "americas",
-      "publishedAt": "2026-08-20T03:10:48.000Z",
-      "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline."
-    },
-    {
       "id": "1bdf0345c2af5720",
       "title": "Contested Presidential Election Today, First in 35 Years",
       "url": "https://www.bd24live.com/contested-presidential-election-today-first-in-35-years/",
@@ -442,16 +492,6 @@
       "summary": "AI on the wrist is one such experimental feature. This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past week, I've been testing the Google Pixel Watch 5. In many ways, it's a typical, modern smartwatch. In others, it feels like one part of a wea"
     },
     {
-      "id": "8f870189427c59c5",
-      "title": "Grab an iPad Air M4 for its lowest price since the June increase",
-      "url": "https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "americas",
-      "publishedAt": "2026-08-19T17:56:15.000Z",
-      "summary": "The iPad Air M4 in space gray. | Image: The Verge Almost everything with high-end memory or storage is more expensive these days, and tablets are no exception, so we’re glad to see that Amazon and Best Buy have the most recent 11-inch iPad Air with the M4 chip on sale for $649. That’s $100 lower than the new retail price that went into effect (alongside plenty of other Apple price hikes) in June. You can also grab th"
-    },
-    {
       "id": "ffe6fc27b80cb8cb",
       "title": "Excelerate Energy’s LNG Supply Halted Again, Crisis Feared",
       "url": "https://www.bd24live.com/excelerate-energys-lng-supply-halted-again-crisis-feared/",
@@ -462,16 +502,6 @@
       "summary": "Gas supply from US company Excelerate Energy’s terminal has been halted again. Due to the absence of an LNG cargo, the terminal’s gas reserves in Moheshkhali, Cox’s Bazar, ran out… The post Excelerate Energy’s LNG Supply Halted Again, Crisis Feared appeared first on Bangla Online News Portal."
     },
     {
-      "id": "e2296a04ed588a4d",
-      "title": "Human remains again found at Lake Mead as water levels drop amid drought",
-      "url": "https://www.theguardian.com/us-news/2026/aug/19/lake-mead-human-remains",
-      "source": "The Guardian Environment",
-      "category": "weather_climate",
-      "region": "americas",
-      "publishedAt": "2026-08-19T17:30:28.000Z",
-      "summary": "Discovery marks latest grim finding in lake as water levels in crucial reservoir outside Las Vegas continue to decline Human remains have once again been discovered at Lake Mead outside Las Vegas, Nevada, marking the latest in a line of gruesome discoveries as water levels in the crucial reservoir continue to drop, authorities said. These remains were discovered on 16 August, USA Today reported. The National Park Ser"
-    },
-    {
       "id": "50c84926ab5e75a1",
       "title": "Otter spotted for first time in 100 years in New York City’s Bronx River",
       "url": "https://www.theguardian.com/us-news/2026/aug/19/otter-bronx-river-new-york-city",
@@ -480,26 +510,6 @@
       "region": "americas",
       "publishedAt": "2026-08-19T17:27:55.000Z",
       "summary": "Image captured in early June shows animal foraging in the waterway in first since early 1900s, signaling its recovery An otter has been spotted in the Bronx River for the first time in more than 100 years, in a further sign that New York’s previously befouled waterways are recovering some of their ecological health. The North American river otter was photographed by a motion-activated camera foraging near some vegeta"
-    },
-    {
-      "id": "c7dfe4ece814b700",
-      "title": "OpenAI hit the brakes. Now what?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-      "source": "The Verge",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-08-19T17:10:09.000Z",
-      "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause in reinforcement learning training on its \"latest models intended for deployment,\" and"
-    },
-    {
-      "id": "3c00eb66af26c769",
-      "title": "GTA VI keeps leaking ahead of its gameplay premiere",
-      "url": "https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-08-19T17:03:11.000Z",
-      "summary": "Clips of what appears to be Grand Theft Auto VI have hit the internet, possibly spoiling aspects of the game ahead of Rockstar Games' deep dive debuting on Netflix next week and its long-awaited launch in November. I've seen three clips seemingly showing off the game, though two have been pulled from the site I saw them on \"due to a copyright claim.\" The first clip (now removed) was a quiet scene that mostly focused "
     },
     {
       "id": "4c77ee6fbc351c9d",
@@ -600,16 +610,6 @@
       "region": "global",
       "publishedAt": "2026-08-19T11:19:12.000Z",
       "summary": "The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place."
-    },
-    {
-      "id": "a3ec748a8d26bcdb",
-      "title": "Microsoft fixes known issue causing Windows Defender crashes",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-08-19T11:14:28.000Z",
-      "summary": "Microsoft has resolved a bug that caused Windows Defender to crash after a recent security update, resulting in 0xc0000005 access violation errors on some affected systems. [...]"
     },
     {
       "id": "21b36a0e4472f866",
@@ -722,26 +722,6 @@
       "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon. …"
     },
     {
-      "id": "556475ecdce8dbfc",
-      "title": "Government Aims to Progress by Including Everyone: Prime Minister",
-      "url": "https://www.bd24live.com/government-aims-to-progress-by-including-everyone-prime-minister/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-18T06:05:13.000Z",
-      "summary": "Prime Minister Tarique Rahman has stated that the government’s goal is to advance the country by including everyone. He made this statement on Tuesday (August 18) at the National Revenue… The post Government Aims to Progress by Including Everyone: Prime Minister appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "ffeb3aeb088be3bf",
-      "title": "A K M Asaduzzaman Appointed New ACC Chairman",
-      "url": "https://www.bd24live.com/a-k-m-asaduzzaman-appointed-new-acc-chairman/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-17T18:05:14.000Z",
-      "summary": "Retired Justice A K M Asaduzzaman of the Supreme Court has been appointed as the new Chairman of the Anti-Corruption Commission (ACC). Simultaneously, Dr. Jahangir Alam Khan and Dr. Md.… The post A K M Asaduzzaman Appointed New ACC Chairman appeared first on Bangla Online News Portal."
-    },
-    {
       "id": "b7deee19d6b2ca38",
       "title": "Watch: Flash flood sweeps vehicle away in Hawaii after Hurricane Lala",
       "url": "https://www.bbc.co.uk/news/videos/c2el0wd0w3go?at_medium=RSS&at_campaign=rss",
@@ -852,6 +832,16 @@
       "summary": "The Agriculture Minister Andrew Muir says he will continue to engage with the Ulster Farmers' Union."
     },
     {
+      "id": "fcd54ebec4ef47c2",
+      "title": "Who’s Tracking You? Use This New Service to Find Out",
+      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "source": "Krebs on Security",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-08-14T11:24:35.000Z",
+      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtec"
+    },
+    {
       "id": "31987c3843364af7",
       "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
       "url": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
@@ -862,16 +852,6 @@
       "summary": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?"
     },
     {
-      "id": "0444e3434392ce77",
-      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-13T19:46:27.000Z",
-      "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days."
-    },
-    {
       "id": "12d57fa016b467ee",
       "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
       "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
@@ -880,6 +860,16 @@
       "region": "global",
       "publishedAt": "2026-08-06T17:00:56.000Z",
       "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers."
+    },
+    {
+      "id": "18db62ca0350dae3",
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "source": "Krebs on Security",
+      "category": "technology",
+      "region": "americas",
+      "publishedAt": "2026-07-22T01:10:38.000Z",
+      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties to route their Internet traffic through a user's TV."
     },
     {
       "id": "0c7c57ee5e25207d",
