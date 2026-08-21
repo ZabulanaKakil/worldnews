@@ -1,6 +1,166 @@
 {
-  "generatedAt": "2026-08-20T22:35:29.425Z",
+  "generatedAt": "2026-08-21T01:47:59.266Z",
   "articles": [
+    {
+      "id": "3b3b3af0b121ecee",
+      "title": "Panama Canal to limit shipping ahead of extreme weather during El Nino",
+      "url": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-08-21T01:12:02.000Z",
+      "summary": "The El Nino weather phenomenon is expected to increase the likelihood of drought and excess heat across the region."
+    },
+    {
+      "id": "2331f384c4aba1d7",
+      "title": "Antigovernment protesters take to Tunisia’s streets for second month",
+      "url": "https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-21T01:06:30.000Z",
+      "summary": "Tunisia has seen an uptick in protests as economic conditions in the country have deteriorated."
+    },
+    {
+      "id": "42acdb378f131187",
+      "title": "Taliban release two detained UN staff members in Afghanistan",
+      "url": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-21T00:44:46.000Z",
+      "summary": "The two men, detained in the western city of Herat on August 9, were released on Thursday morning."
+    },
+    {
+      "id": "0e52edeab0a156b6",
+      "title": "El Niño set to be 'strongest in living memory', says Met Office",
+      "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-08-21T00:33:21.000Z",
+      "summary": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record."
+    },
+    {
+      "id": "b58de905f12b51ff",
+      "title": "Rain to stop in time for weekend as sun returns",
+      "url": "https://www.bbc.co.uk/weather/articles/c2el98pkd3po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-08-21T00:14:00.000Z",
+      "summary": "The heavy downpours that have caused flash flooding will ease during Friday with sunshine returning for the weekend. But there are some chilly nights in store, as Ben Rich explains."
+    },
+    {
+      "id": "edb3ca395725fa71",
+      "title": "California oil pipeline can continue to operate, judge rules",
+      "url": "https://www.theguardian.com/us-news/2026/aug/20/california-oil-pipeline-trump-judge-ruling",
+      "source": "The Guardian Environment",
+      "category": "environment",
+      "region": "middle_east",
+      "publishedAt": "2026-08-21T00:13:47.000Z",
+      "summary": "State sought to stop system off coast of Santa Barbara from resuming operations after Trump ordered its reopening An oil pipeline can continue to operate off the California coast after a judge gave it the green light this week, despite the opposition of state regulators and environmental groups. The system off the coast of Santa Barbara resumed operations earlier this year for the first time in more than a decade aft"
+    },
+    {
+      "id": "f15e6a00e6fb9d0c",
+      "title": "US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections",
+      "url": "https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-08-21T00:12:37.000Z",
+      "summary": "The Trump administration has ramped up deportations to third countries in an apparent bid to deter immigration."
+    },
+    {
+      "id": "cf2a699914846ee1",
+      "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-21T00:00:00.000Z",
+      "summary": "US Treasury Secretary Bessent says new economic measures will 'collapse' Iranian government."
+    },
+    {
+      "id": "6757329c67664967",
+      "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
+      "url": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-08-20T23:19:56.000Z",
+      "summary": "Gov't forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia."
+    },
+    {
+      "id": "5aae768e4d0be70f",
+      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+      "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "diplomacy",
+      "region": "middle_east",
+      "publishedAt": "2026-08-20T23:16:45.000Z",
+      "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy."
+    },
+    {
+      "id": "a822ea53957d3cc8",
+      "title": "Why the US economy is ringing alarm bells",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-20T23:15:15.000Z",
+      "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?"
+    },
+    {
+      "id": "c3cedf5275fd49f1",
+      "title": "How landscape gardening is being electrified",
+      "url": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-08-20T23:12:38.000Z",
+      "summary": "The switch to quieter electric equipment is not going as fast as some would like."
+    },
+    {
+      "id": "6570449b97b8f71b",
+      "title": "Millennials are struggling to buy a home - but is it actually getting easier?",
+      "url": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-20T23:10:58.000Z",
+      "summary": "Twenty-somethings are much less likely to own a home than previous generations. But data suggests things may be turning a corner."
+    },
+    {
+      "id": "d70e2429ff669ba5",
+      "title": "US charges woman for allegedly plotting attack on New York State Capitol",
+      "url": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-20T23:01:15.000Z",
+      "summary": "The suspect, Jessica Bowie, 35, was arrested on charges of providing material support for 'terrorism'."
+    },
+    {
+      "id": "735a7758aa6a6d7e",
+      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
+      "url": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-20T22:59:35.000Z",
+      "summary": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat."
+    },
+    {
+      "id": "214140e09c5bde7a",
+      "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "creativity_arts",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-20T22:43:42.000Z",
+      "summary": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, according to his party."
+    },
     {
       "id": "e53e908a572b3c3e",
       "title": "McIlroy back in form with lead at BMW Championship",
@@ -22,6 +182,16 @@
       "summary": "Rangers beat Jablonec in the first leg of their Conference League play-off, but it wasn't a pretty watch, writes Tom English."
     },
     {
+      "id": "ec520143f0c30994",
+      "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-20T22:01:26.000Z",
+      "summary": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength."
+    },
+    {
       "id": "f5a8af431c9969bb",
       "title": "Google Discover is getting an AI chatbot-tuned feed",
       "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
@@ -32,14 +202,24 @@
       "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-dot menu on your Discover feed. As shown in a video shared by Google, tapping the feature will open a chatbot-style inte"
     },
     {
-      "id": "07a53ab64b24d50f",
-      "title": "Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail",
+      "id": "f8ea36e9a571769a",
+      "title": "Pakistan’s ex-PM Imran Khan moved to hospital from jail after court order",
       "url": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
       "source": "Al Jazeera",
-      "category": "war_conflict",
+      "category": "world_politics",
       "region": "asia_pacific",
       "publishedAt": "2026-08-20T21:18:10.000Z",
-      "summary": "Former leader was escorted from Adiala jail to Shifa International Hospital, following court order, local media reports."
+      "summary": "Khan, who was voted out of the office in April 2022, has been in prison for more than three years."
+    },
+    {
+      "id": "15b2a1b9626b67e4",
+      "title": "FBI arrests woman over alleged plot to bomb New York capitol building",
+      "url": "https://www.bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-20T21:03:30.000Z",
+      "summary": "Prosecutors say the Albany woman had pledged allegiance to the Islamic State group, and wanted to bomb the statehouse to kill lawmakers."
     },
     {
       "id": "ac671962da80c674",
@@ -50,16 +230,6 @@
       "region": "global",
       "publishedAt": "2026-08-20T20:47:39.000Z",
       "summary": "A tradition on a river once fished by US President Jimmy Carter could be coming to an end."
-    },
-    {
-      "id": "214140e09c5bde7a",
-      "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-20T20:40:17.000Z",
-      "summary": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, local media report."
     },
     {
       "id": "011293cb67254ec9",
@@ -92,26 +262,6 @@
       "summary": "At least 13 people have been killed and seven others injured in an unlicensed gold mine in southwest Colombia."
     },
     {
-      "id": "a3a0aa8bb3d10992",
-      "title": "Hundreds of Tibetans protest China’s ethnic unity law by shaving heads",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/hundreds-of-tibetans-protest-chinas-ethnic-unity-law-by-shaving-heads?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-20T20:32:13.000Z",
-      "summary": "A protest organised by hundreds of Tibetans in New Delhi led many exiles to shave their heads."
-    },
-    {
-      "id": "a16d23715e6abeb3",
-      "title": "Heartbreak, loss on Lebanon’s front lines, the story of a first responder",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/heartbreak-loss-on-lebanons-front-lines-the-story-of-a-first-responder?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "middle_east",
-      "publishedAt": "2026-08-20T20:28:44.000Z",
-      "summary": "Heartbreak, loss on Lebanon’s front lines, the story of a first responder"
-    },
-    {
       "id": "bae1662a2dcaca5f",
       "title": "Dozens dead after boat capsizes in north-western Nigeria",
       "url": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
@@ -120,36 +270,6 @@
       "region": "africa",
       "publishedAt": "2026-08-20T20:27:36.000Z",
       "summary": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children."
-    },
-    {
-      "id": "aa732bbb22f401eb",
-      "title": "Four railway workers killed by express train at station in Japan",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-26-japan-railyway-crash-clip?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-20T20:27:27.000Z",
-      "summary": "Four railway workers spraying herbicide on tracks north of Tokyo were killed by an express train."
-    },
-    {
-      "id": "0f5492dcf578b696",
-      "title": "Controversial California oil pipeline can continue to operate, judge rules",
-      "url": "https://www.theguardian.com/us-news/2026/aug/20/california-oil-pipeline-trump-judge-ruling",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "middle_east",
-      "publishedAt": "2026-08-20T20:13:27.000Z",
-      "summary": "State sought to stop system off coast of Santa Barbara from resuming operations after Trump ordered its reopening A controversial oil pipeline can continue to operate off the California coast after a judge gave it the green light this week, despite the opposition of state regulators and environmental groups. The system off the coast of Santa Barbara resumed operations earlier this year for the first time in more than"
-    },
-    {
-      "id": "7e90e3f9289b18c7",
-      "title": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
-      "url": "https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-20T20:10:42.000Z",
-      "summary": "WHO says vaccines for Ebola virus disease being allocated to DRC amid largest outbreak that has killed nearly 2,500."
     },
     {
       "id": "2ae29318830c7fb0",
@@ -162,26 +282,6 @@
       "summary": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\"."
     },
     {
-      "id": "cd7917963fc66c19",
-      "title": "Amputee children learn to swim after losing limbs in Israel’s war on Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-20T20:05:53.000Z",
-      "summary": "Amputee children in Gaza are learning to swim as part of a programme helping them rebuild confidence and mobility."
-    },
-    {
-      "id": "23dd70c3d995d15f",
-      "title": "Syria’s civil society navigates post-Assad era: Partnership or control?",
-      "url": "https://www.aljazeera.com/features/2026/8/20/syrias-civil-society-navigates-post-assad-era-partnership-or-control?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "middle_east",
-      "publishedAt": "2026-08-20T19:59:54.000Z",
-      "summary": "Syria's civil society grapples with redefining its role as the state reasserts itself after Assad's fall."
-    },
-    {
       "id": "d9c5dfe17a175495",
       "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
       "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
@@ -192,36 +292,6 @@
       "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will see the west African country receive as many as 1,200 people under the Trump administration’s immigration crackdown. The group arrived at the Roberts international airport outside the capital, Monrovia."
     },
     {
-      "id": "d1b314caed82de2d",
-      "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "diplomacy",
-      "region": "middle_east",
-      "publishedAt": "2026-08-20T19:52:48.000Z",
-      "summary": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\"."
-    },
-    {
-      "id": "fd254e9033239112",
-      "title": "Brook makes Pakistan pay for dropped catch as England dominate first Test",
-      "url": "https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-20T19:45:08.000Z",
-      "summary": "England were 366-8 at stumps on a rain-marred second day, 195 runs ahead of Pakistan's meagre first innings of 171."
-    },
-    {
-      "id": "70569ba488f30998",
-      "title": "Could US sanctions destroy the International Criminal Court?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "diplomacy",
-      "region": "americas",
-      "publishedAt": "2026-08-20T19:38:29.000Z",
-      "summary": "Washington's new measures against the ICC have been widely condemned but welcomed by Israel."
-    },
-    {
       "id": "a36e8003ed4f2401",
       "title": "Brook shines as England take control against Pakistan",
       "url": "https://www.bbc.co.uk/sport/cricket/videos/c62xjkyd7dzo?at_medium=RSS&at_campaign=rss",
@@ -230,16 +300,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-08-20T19:27:51.000Z",
       "summary": "WWatch highlights as Harry Brook shines in the Headingley gloom as England build a commanding 195-run lead over Pakistan on a shortened second day of the first Test."
-    },
-    {
-      "id": "b9fbd0773b41b35c",
-      "title": "Walmart sees sales drop as US consumer spending retreats",
-      "url": "https://www.aljazeera.com/economy/2026/8/20/walmart-sees-sales-drop-as-us-consumer-spending-retreats?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-20T19:18:38.000Z",
-      "summary": "Fuel prices above $4 per gallon impact consumer behaviour, driving spending trade-offs and slowing Walmart's growth."
     },
     {
       "id": "1c73edacb91014ef",
@@ -342,26 +402,6 @@
       "summary": "The app lets users create six-second looping videos and hosts more than two million classic videos."
     },
     {
-      "id": "3737b379f05417cb",
-      "title": "Bernard Matthews confirms closure of Derby factory",
-      "url": "https://www.bbc.co.uk/news/articles/c998e0my7k5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-08-20T16:27:26.000Z",
-      "summary": "Bernard Matthews Foods says its Shaftesbury Street factory will close by the end of 2026."
-    },
-    {
-      "id": "0f5c8aae84d1990f",
-      "title": "Togo charges two French journalists over incorrect documents, rights group says",
-      "url": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-20T16:00:27.000Z",
-      "summary": "Gaël Mocaër and Sebastian Perez Pezzani's detention is \"unjustified and disproportionate\", Reporters Without Borders says."
-    },
-    {
       "id": "261a227cf8b9bb3e",
       "title": "It’s Greg Brockman’s OpenAI now",
       "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
@@ -430,26 +470,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-08-20T13:50:11.000Z",
       "summary": "The Election Commission (EC) has issued a gazette declaring Mirza Fakhrul Islam Alamgir as the 23rd President. The related gazette, signed by Akhtar Ahmed, Senior Secretary of the EC, was… The post Gazette Issued Declaring Mirza Fakhrul Elected President appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "903563ba219bfff9",
-      "title": "Danone €1bn takeover of Huel approved by watchdog",
-      "url": "https://www.bbc.co.uk/news/articles/crl7y671w8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-08-20T13:24:57.000Z",
-      "summary": "French firm says the acquisition of Huel will help it grow in the nutritional sector."
-    },
-    {
-      "id": "0bb8d2bcb15ba848",
-      "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
-      "url": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-20T13:04:15.000Z",
-      "summary": "Investigators believe they have identified an arsonist who attacked a Jewish community centre in Munich in 1970, killing seven people."
     },
     {
       "id": "9fee6fe9f32133ca",
@@ -522,6 +542,16 @@
       "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]"
     },
     {
+      "id": "1949186cd00d5517",
+      "title": "Belgian car salesman becomes prince after royal parentage confirmed",
+      "url": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-08-20T10:14:47.000Z",
+      "summary": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony."
+    },
+    {
       "id": "fcb955804c57ccad",
       "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
       "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
@@ -540,26 +570,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-08-20T09:10:18.000Z",
       "summary": "Masudur Rahman: A new dynamism has emerged globally on the eve of the election for the next head of the United Nations, the pinnacle of global politics. As current Secretary-General… The post UN’s New Secretary-General Election: ‘Female Secretary-General’ and the Equation of Global Politics appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "7d8cd946269de6c8",
-      "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
-      "url": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-20T07:08:35.000Z",
-      "summary": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole."
-    },
-    {
-      "id": "b177eec39fa2e964",
-      "title": "US national debt passes $40tn after doubling in a decade",
-      "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-08-20T06:23:23.000Z",
-      "summary": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years."
     },
     {
       "id": "0cf5a96042fe79b8",
@@ -742,6 +752,16 @@
       "summary": "Nine Bangladeshi nationals have died in a devastating hotel fire in Kolkata, with several others sustaining injuries. The blaze erupted at ‘Shikha Inn’, a residential hotel, around 1:45 AM on… The post Devastating Fire at Hotel Near Kolkata’s New Market Claims 9 Bangladeshi Lives appeared first on Bangla Online News Portal."
     },
     {
+      "id": "99b82c6e90eabf45",
+      "title": "Meta hooked children on Facebook and Instagram, US court hears",
+      "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-08-18T22:11:07.000Z",
+      "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started."
+    },
+    {
       "id": "fd47bfbac4deba93",
       "title": "Prime Minister: Many Major Problems Can Be Solved If Everyone Comes Forward",
       "url": "https://www.bd24live.com/prime-minister-many-major-problems-can-be-solved-if-everyone-comes-forward/",
@@ -802,26 +822,6 @@
       "summary": "US states are suing the social media giant to force an overhaul of its platforms for young users."
     },
     {
-      "id": "b7deee19d6b2ca38",
-      "title": "Watch: Flash flood sweeps vehicle away in Hawaii after Hurricane Lala",
-      "url": "https://www.bbc.co.uk/news/videos/c2el0wd0w3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-08-17T15:35:47.000Z",
-      "summary": "Tropical storm warnings remain for some of the state's islands, as the storm is due to progress west."
-    },
-    {
-      "id": "695fa76c29daf12c",
-      "title": "More hosepipe bans in force as drought declared - is your area affected?",
-      "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-08-17T15:27:01.000Z",
-      "summary": "Nearly 30 million people have been placed under hosepipe bans due to higher demand and low rainfall."
-    },
-    {
       "id": "1b4257fdc9595c65",
       "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
       "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
@@ -842,34 +842,14 @@
       "summary": "Supporters and opponents of the controversial plans have been making their cases on the £8.7bn project."
     },
     {
-      "id": "580ca1d708220c81",
-      "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
-      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-08-17T00:20:51.000Z",
-      "summary": "The state's governor says there \"amazingly\" does not seem to have been any loss of life besides a car crash."
-    },
-    {
-      "id": "bb0fa6a34589712a",
-      "title": "Secondhand book sales are booming. Is it because of AI?",
-      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+      "id": "8cb35147cdd59371",
+      "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+      "url": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-08-15T11:25:32.000Z",
-      "summary": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped."
-    },
-    {
-      "id": "fcd54ebec4ef47c2",
-      "title": "Who’s Tracking You? Use This New Service to Find Out",
-      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
-      "source": "Krebs on Security",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-08-14T11:24:35.000Z",
-      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtec"
+      "category": "creativity_arts",
+      "region": "europe",
+      "publishedAt": "2026-08-15T23:45:44.000Z",
+      "summary": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart"
     },
     {
       "id": "12d57fa016b467ee",
