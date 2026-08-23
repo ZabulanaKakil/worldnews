@@ -1,45 +1,155 @@
 {
-  "generatedAt": "2026-08-23T07:39:19.919Z",
+  "generatedAt": "2026-08-23T08:39:04.647Z",
   "articles": [
     {
-      "id": "7265e9107236e60f",
-      "title": "Pegula's three-hour epic sets up all‑US final",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cr595z6jqjdo?at_medium=RSS&at_campaign=rss",
+      "id": "de7c4320a8930109",
+      "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-08-23T08:36:53.000Z",
+      "summary": "The sacked former defence minister has also called for elections to be held in Ukraine."
+    },
+    {
+      "id": "d4a105487b9462d0",
+      "title": "সুডোকু সমাধান করে A, B, C, D, E এর মান বের কর?",
+      "url": "https://www.prothomalo.com/education/study/iqy0o7pvf6",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-23T08:20:00.000Z",
+      "summary": "সুডোকু নিয়ে নিয়মিত আয়োজন থাকছে গণিত ইশকুলে। আজ সুডোকু পর্ব–৪ এ সুডোকু সমাধান করে A, B, C, D, E এর মান বের কর?"
+    },
+    {
+      "id": "c32a327d9e8abf7f",
+      "title": "কুয়েতে পাঠানো যায়নি উপহারের ২০ টন রূপচাঁদা, গলদা ও বাগদা চিংড়ি, এবার নিলামে উঠছে",
+      "url": "https://www.prothomalo.com/business/economics/w47v2nt42x",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-23T08:15:34.000Z",
+      "summary": ""
+    },
+    {
+      "id": "602fa4dda5cdda6a",
+      "title": "Flooding across Caracas, Venezuela, after heavy rains",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-23T08:08:27.000Z",
+      "summary": "Flooding across Caracas, Venezuela, after heavy rains"
+    },
+    {
+      "id": "bf12b511e1ce9181",
+      "title": "Photos: Russia celebrates National Flag Day amid war and tensions with the West",
+      "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-08-23T08:07:54.000Z",
+      "summary": "Participants in St Petersburg honour Russia’s tricolour with patriotic events and ribbon distributions across the city."
+    },
+    {
+      "id": "cd07a89e2800abf9",
+      "title": "Struggling households need more help with bills, energy industry says",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "environment",
+      "region": "europe",
+      "publishedAt": "2026-08-23T08:03:52.000Z",
+      "summary": "Industry body Energy UK says the current support for households most in need does not go far enough."
+    },
+    {
+      "id": "e46bf338ac1943b1",
+      "title": "DR Congo, M23 rebels agree on roadmap for peace talks",
+      "url": "https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-08-23T08:03:41.000Z",
+      "summary": "Roadmap sets out steps, timelines for talks to end fighting that has killed thousands and displaced millions."
+    },
+    {
+      "id": "4c6d77157ebf3974",
+      "title": "পাঁচ ইঁদুরের চাঁদ ভ্রমণের গল্প",
+      "url": "https://www.prothomalo.com/technology/science/ns5gl6qgyx",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-23T08:03:11.000Z",
+      "summary": "গবেষণার অংশ হিসেবে ১৯৭২ সালে অ্যাপোলো ১৭ অভিযানে অংশ নিয়ে চাঁদের চারপাশে ঘুরে এসেছিল পাঁচটি ইঁদুর।"
+    },
+    {
+      "id": "037c8ec4a3252bd8",
+      "title": "শরীরের লোম অপসারণের পেছনে কেন ছুটছেন জাপানের পুরুষেরা",
+      "url": "https://www.prothomalo.com/world/asia/ga5rr7ir0e",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-23T08:00:00.000Z",
+      "summary": "জাপানে আরও বেশিসংখ্যক পুরুষ শর্টস পরার ব্যাপারে তাঁদের আগের অনীহা কাটিয়ে ওঠায় লোম অপসারণের প্রবণতা বাড়ছে।"
+    },
+    {
+      "id": "66d8ad279913a640",
+      "title": "ফুটবল তাঁকে সবকিছু দিয়েছিল, সুখের সমাপ্তি ছাড়া",
+      "url": "https://www.bondhushava.com/sports/y5cj8ew2mb",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-23T08:00:00.000Z",
+      "summary": "অনেকেই বলতেন, খাটো গড়নের এই ছেলেটি বড় ফুটবলার হতে পারবে না। ডনকাস্টার রোভার্সও তাঁকে ফিরিয়ে দিয়েছিল। মাত্র ১৬ বছর বয়সে পিতলের কারখানায় কাজ শুরু করেন। খেলতেন কারখানার দল ও স্থানীয় একটি পাব দলের হয়ে। সেখানেই ভাগ্য বদলে যায়। স্কানথর্প ইউনাইটেডের এক স্কাউট তাঁর খেলা দেখে ট্রায়ালের সুযোগ করে দেন।"
+    },
+    {
+      "id": "8dc9b9df2121a139",
+      "title": "দুই দিনে টেস্ট শেষ, বাকি তিন দিন নাজমুলরা ঘুমাবেন",
+      "url": "https://www.prothomalo.com/sports/cricket/m0cnf05zni",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-23T07:59:53.000Z",
+      "summary": "কোনো টেস্টের দুই ইনিংস বাংলাদেশ এক শর কমে অলআউট হলো এই প্রথম, টেস্ট ক্রিকেটেই এমন ঘটনা ঘটল ২১ বছর পর।"
+    },
+    {
+      "id": "852468ef490d3e0d",
+      "title": "বঙ্গভবনে রাষ্ট্রপতি মির্জা ফখরুল ইসলাম আলমগীর",
+      "url": "https://www.prothomalo.com/video/k3oig5r8e5",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-23T07:54:30.000Z",
+      "summary": ""
+    },
+    {
+      "id": "c343f803821b11a2",
+      "title": "নেশার টাকার জন্য মা-ভাইকে বঁটি দিয়ে কুপিয়ে জখম, যুবক গ্রেপ্তার",
+      "url": "https://www.prothomalo.com/bangladesh/district/l908v2b6i5",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-23T07:50:40.000Z",
+      "summary": "ঘটনার পর অভিযুক্তকে পিটুনি দেন স্থানীয় লোকজন। পরে তিনজনকেই উদ্ধার করে রাজশাহী মেডিকেল কলেজ হাসপাতালে ভর্তি করে পুলিশ।"
+    },
+    {
+      "id": "10e9c9242ba94a3d",
+      "title": "What does Savinho's £75m move reveal about Man City's multi-club model?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3w0wpy86z7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
-      "region": "americas",
-      "publishedAt": "2026-08-23T07:27:28.000Z",
-      "summary": "Jessica Pegula's win over Iga Swiatek means the Cincinnati Open will stage its first all‑American women's final in 56 years."
+      "region": "global",
+      "publishedAt": "2026-08-23T07:43:38.000Z",
+      "summary": "Does Savinho's £75m move from Manchester City to Tottenham represent a sporting success for the Abu Dhabi-owned club?"
     },
     {
-      "id": "c963ba8674c6f30c",
-      "title": "সোনারগাঁও হোটেলে নিয়োগ, অভিজ্ঞতার সঙ্গে যে যে যোগ্যতায় আবেদন",
-      "url": "https://www.prothomalo.com/chakri/employment/c185lwyjji",
-      "source": "Prothom Alo",
-      "category": "world_politics",
+      "id": "b1d2b7325f5e5729",
+      "title": "Australia beat Bangladesh in two days",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c9989723r7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
       "region": "bangladesh",
-      "publishedAt": "2026-08-23T07:25:42.000Z",
-      "summary": "প্যান প্যাসিফিক সোনারগাঁও হোটেলে অ্যাসিস্ট্যান্ট মেইনটেন্যান্স ইঞ্জিনিয়ার পদে নিয়োগ বিজ্ঞপ্তি প্রকাশিত হয়েছে"
-    },
-    {
-      "id": "0bc3e5a6ee816a7e",
-      "title": "প্রতিশোধের জয়? অস্ট্রেলিয়া অধিনায়ক বললেন, ‘আত্মসম্মানের ব্যাপার’ ছিল",
-      "url": "https://www.prothomalo.com/sports/cricket/9vjp7yq4fc",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-23T07:19:12.000Z",
-      "summary": "২৩ বছর পর অস্ট্রেলিয়ায় খেলতে যাওয়া বাংলাদেশের কাছে ডারউইনে ৯ উইকেটে হেরে গিয়েছিল প্যাট কামিন্সের দল। তবে দ্বিতীয় টেস্টে অস্ট্রেলিয়া জিতেছে ইনিংস ব্যবধানে।"
-    },
-    {
-      "id": "0befafbb7287835e",
-      "title": "ট্রাম্পের ‘অর্থনৈতিক যুদ্ধে’ যোগ দিলে প্রতিবেশীদের শত্রু গণ্য করবে ইরান, ইউরোপের মার্কিন মিত্রদের ওপর হামলার ভাবনা",
-      "url": "https://www.prothomalo.com/world/usa/1xgh0qot1l",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-23T07:16:08.000Z",
-      "summary": "দুই দেশের মধ্যে চলমান শত্রুতার অংশ হিসেবে গত বুধবার ট্রাম্প ঘোষণা করেন, তাঁর সরকার ইরানের বিরুদ্ধে এযাবৎকালের ‘সবচেয়ে বিধ্বংসী অর্থনৈতিক অভিযান’ শুরু করতে যাচ্ছে।"
+      "publishedAt": "2026-08-23T07:39:21.000Z",
+      "summary": "Mitchell Starc takes 10 wickets in the match as Australia bounce back to win the second Test against Bangladesh by an innings and 51 runs and draw the series."
     },
     {
       "id": "1b965599ba509351",
@@ -52,46 +162,6 @@
       "summary": "Rory McIlroy shoots a five-under-par 65 to move into a share of second place after three rounds of the BMW Championship in St Louis."
     },
     {
-      "id": "23a5aab8baa25fb8",
-      "title": "চলেই গেলেন খাইরুল ভাই",
-      "url": "https://www.prothomalo.com/opinion/column/hbo7iwf8p2",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-23T07:06:15.000Z",
-      "summary": "পৃথিবীতে খাইরুল ভাইদের সংখ্যা খুবই কম। তাঁদের চলে যাওয়া বিরল প্রজাতির উপকারী উদ্ভিদ ও প্রাণী হারিয়ে যাওয়ার মতোই স্থায়ী ক্ষতের জন্ম দেয়।"
-    },
-    {
-      "id": "04382c43c39ba47e",
-      "title": "র‍্যাঙ্কিংয়ে বড় উত্থান বাংলাদেশের, প্রথমবারের মতো ছয়ে",
-      "url": "https://www.prothomalo.com/sports/cricket/l0rnnnkhcp",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-23T07:05:53.000Z",
-      "summary": "এর আগে নিজেদের ইতিহাসে সর্বোচ্চ সাত নম্বরে উঠেছিল বাংলাদেশ। সেটি ছিল ২০২৪ সালে পাকিস্তানকে তাদের মাটিতে ২-০ তে সিরিজ হারানোর পর।"
-    },
-    {
-      "id": "3232090932d7ad32",
-      "title": "ডেমরায় রেডিমিক্স মিক্সার ট্রাক থেকে পড়ে এক ব্যক্তির মৃত্যু",
-      "url": "https://www.prothomalo.com/bangladesh/capital/fmy626uj3o",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-23T07:04:45.000Z",
-      "summary": "সহকর্মী মিজানুর রহমান জানান, সকালে ট্রাকের ওপরের সিঁড়িতে দাঁড়িয়ে পরিষ্কারের কাজ করছিলেন মেহেদী। এ সময় তিনি হঠাৎ নিচে পড়ে গুরুতর আহত হন।"
-    },
-    {
-      "id": "ae1613ddc6cf9c39",
-      "title": "কো কুট দ্বীপে নায়িকা, ভক্তরা বললেন...",
-      "url": "https://www.prothomalo.com/entertainment/tv/eneh5ikyp9",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-23T07:04:06.000Z",
-      "summary": "কাজের ফাঁসে ফুরসত মিললেই ঢুঁ মারেন এখানে–সেখানে। আজ সকালে নিজের ফেসবুকে একগুচ্ছ ছবি পোস্ট করেছেন তিনি।"
-    },
-    {
       "id": "6825eb89084919b0",
       "title": "London’s low emission zone is working – so why are cities around the world so cautious about clean air?",
       "url": "https://www.theguardian.com/environment/2026/aug/23/london-low-emission-zone-working-other-cities-cautious-clean-air",
@@ -102,16 +172,6 @@
       "summary": "Similar initiatives have been launched from Barcelona to Bogotá, but they have misinformation, political pressure and vested interests stacked against them Ten years ago, Alastair Harper was an advocate for young people’s health sitting in a stuffy meeting room in London planning an air pollution campaign. “My phone started buzzing,” he said. “I took the call, and then told the room I needed to leave immediately. “I "
     },
     {
-      "id": "3e39b57d101e80b6",
-      "title": "প্রশংসা পেলে মুমিনের ৫ করণীয়",
-      "url": "https://www.prothomalo.com/religion/islam/q4juhb50rd",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-23T07:00:00.000Z",
-      "summary": "কেউ প্রশংসা করলে মনে রাখা উচিত, তার জীবনের এমন অনেক বিষয় আছে, যা অন্যরা জানে না। অথচ আল্লাহ তার প্রকাশ্য ও গোপন সবই জানেন।"
-    },
-    {
       "id": "a518f4ebd85758de",
       "title": "Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles",
       "url": "https://www.aljazeera.com/sports/2026/8/23/serena-williams-teams-up-with-carlos-alcaraz-in-us-open-mixed-doubles?traffic_source=rss",
@@ -120,16 +180,6 @@
       "region": "global",
       "publishedAt": "2026-08-23T06:59:51.000Z",
       "summary": "The 23-time Grand Slam champion will not be playing singles, but could team up with her older sister Venus for doubles."
-    },
-    {
-      "id": "7c412de4aca5818c",
-      "title": "পাথরের আঘাতে মাথা ফেটে রক্তাক্ত কক্সবাজার এক্সপ্রেসের যাত্রী, চলন্ত ট্রেনে খোঁজা হচ্ছিল চিকিৎসক",
-      "url": "https://www.prothomalo.com/bangladesh/district/uw88hcmimj",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-23T06:54:31.000Z",
-      "summary": "চট্টগ্রামের লোহাগাড়া এলাকায় পৌঁছালে ট্রেনটিতে পাথর নিক্ষেপ করা হয়। এতে শাহীন আহত হন। মাইকের ঘোষণার পর কয়েকজন চিকিৎসক এসে তাঁকে দেখেন।"
     },
     {
       "id": "32943b09d7e85c74",
@@ -182,26 +232,6 @@
       "summary": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium."
     },
     {
-      "id": "50616ec2addfde82",
-      "title": "In rural Chad, solar kiosks bring healthcare closer",
-      "url": "https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-23T03:21:03.000Z",
-      "summary": "Solar-powered telemedicine is helping rural Chadians overcome distance and limited access to doctors."
-    },
-    {
-      "id": "34b5af468945a8c0",
-      "title": "Chinese robot beats Usain Bolt’s 100m world record at humanoid games",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "ai_innovation",
-      "region": "americas",
-      "publishedAt": "2026-08-23T03:16:19.000Z",
-      "summary": "A Chinese humanoid robot ran 100m in 9.39 seconds, beating Usain Bolt’s 9.58 second world record."
-    },
-    {
       "id": "764cede812079e39",
       "title": "Mayors to get powers to overrule local councils on planning decisions",
       "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
@@ -222,26 +252,6 @@
       "summary": "The government says at no point was there a risk to the UK's energy system during the attack in July."
     },
     {
-      "id": "d9e0bd6a4e511420",
-      "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
-      "url": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-08-23T02:34:49.000Z",
-      "summary": "Mark Carney says Canada will impose tariffs starting September 8 on imports of US steel, electronics and other products."
-    },
-    {
-      "id": "41d70bf07481f515",
-      "title": "Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-08-23T01:51:47.000Z",
-      "summary": "Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid."
-    },
-    {
       "id": "f64a9f118a574db1",
       "title": "Girl, 17, killed in Swedish sword attack, police say",
       "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
@@ -250,16 +260,6 @@
       "region": "global",
       "publishedAt": "2026-08-23T01:34:15.000Z",
       "summary": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained."
-    },
-    {
-      "id": "cd07a89e2800abf9",
-      "title": "Struggling households need more help with bills, energy industry says",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "environment",
-      "region": "europe",
-      "publishedAt": "2026-08-22T23:00:03.000Z",
-      "summary": "Industry body Energy UK says the current support for households most in need does not go far enough."
     },
     {
       "id": "93a6628308da5a50",
@@ -292,24 +292,14 @@
       "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences."
     },
     {
-      "id": "69ac37d715696024",
-      "title": "Stokes stars as leaders Durham hammer Derbyshire",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c3d3gd39y49o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "id": "87873d7fa710f07c",
+      "title": "The hotel booking mix-up that could free mushroom murderer",
+      "url": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "sports",
       "region": "global",
-      "publishedAt": "2026-08-22T19:09:08.000Z",
-      "summary": "Ben Stokes hits 66 not out and takes 5-17 as Durham wrap up a 338-run victory at Derbyshire inside three days in Division Two of the County Championship."
-    },
-    {
-      "id": "6189f65c1b5b8766",
-      "title": "Ex-West Brom midfielder Castro, 25, dies during friendly",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8dnd416pzyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-22T18:06:43.000Z",
-      "summary": "Former West Brom midfielder Quevin Castro dies at the age of 25 after collapsing during a match in Portugal."
+      "publishedAt": "2026-08-22T19:03:03.000Z",
+      "summary": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions."
     },
     {
       "id": "48d7149c1e475023",
@@ -495,8 +485,8 @@
       "id": "b2562d9604cb189b",
       "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
       "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
+      "source": "BBC Technology",
+      "category": "technology",
       "region": "global",
       "publishedAt": "2026-08-21T22:36:12.000Z",
       "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13."
@@ -602,6 +592,16 @@
       "summary": "This year's El Niño is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn."
     },
     {
+      "id": "dd64d201b022e736",
+      "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-21T11:20:57.000Z",
+      "summary": "The struggling firm said it had improved its performance but missed regulator-set delivery targets."
+    },
+    {
       "id": "ab4b58ba4a766288",
       "title": "Tiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’",
       "url": "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
@@ -660,16 +660,6 @@
       "region": "global",
       "publishedAt": "2026-08-21T05:06:39.000Z",
       "summary": "The tradition on a Carmarthenshire river once fished by US President Jimmy Carter could be coming to an end."
-    },
-    {
-      "id": "4d74213badc1d95d",
-      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-      "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-08-21T05:00:57.000Z",
-      "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful."
     },
     {
       "id": "b58de905f12b51ff",
@@ -820,16 +810,6 @@
       "region": "global",
       "publishedAt": "2026-08-18T11:26:26.000Z",
       "summary": "OpenAI insisted this was not in response to a particular issue with children believing ChatGPT to be alive."
-    },
-    {
-      "id": "fcd54ebec4ef47c2",
-      "title": "Who’s Tracking You? Use This New Service to Find Out",
-      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
-      "source": "Krebs on Security",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-08-14T11:24:35.000Z",
-      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtec"
     },
     {
       "id": "12d57fa016b467ee",
