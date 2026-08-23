@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-08-23T21:28:26.478Z",
+  "generatedAt": "2026-08-23T22:29:38.400Z",
   "articles": [
+    {
+      "id": "4e96d21664ad6c6e",
+      "title": "Watch Match of the Day",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-23T22:30:25.000Z",
+      "summary": "Highlights of the day's three matches in the Premier League."
+    },
+    {
+      "id": "71af625c0a812e1c",
+      "title": "Landslide at waste mound in Guinea’s capital kills 30, government says",
+      "url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
+      "source": "The Guardian World",
+      "category": "creativity_arts",
+      "region": "africa",
+      "publishedAt": "2026-08-23T22:16:53.000Z",
+      "summary": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state A ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the government said on Sunday, after heavy rains overnight prompted it to ⁠collapse, engulfing nearby tents and shacks. The incident occurred less than a week after the government announced plans to close the ⁠site and relocate the"
+    },
+    {
+      "id": "fbd0c67f8851bc7c",
+      "title": "Raphinha and Lopez score braces as Barcelona trounce Elche 5-0",
+      "url": "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-23T21:45:05.000Z",
+      "summary": "Barcelona ‌begin their La Liga title ⁠defence ⁠and bid for a third successive crown with a 5-0 ⁠victory at Elche."
+    },
+    {
+      "id": "aec7a087799ce897",
+      "title": "Will Donald Trump’s new sanctions against Iran work?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "diplomacy",
+      "region": "middle_east",
+      "publishedAt": "2026-08-23T21:34:53.000Z",
+      "summary": "The US president says he will impose 'crushing measures' on Tehran."
+    },
+    {
+      "id": "c56d0a60432152fc",
+      "title": "What will it take to stop the England hangovers?",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/clyey486g4eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-23T21:31:03.000Z",
+      "summary": "Yet again, England are dealing with a player involved in a late-night incident. Only strong action will ensure there are no more, writes Stephan Shemilt."
+    },
+    {
+      "id": "a403281aff94a5ef",
+      "title": "Serbia requests international assistance to battle wildfires",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "disasters",
+      "region": "europe",
+      "publishedAt": "2026-08-23T21:27:57.000Z",
+      "summary": "Serbia requested assistance from the European Union and Russia to help bring intense wildfires under control."
+    },
     {
       "id": "b52fe7a740101730",
       "title": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
@@ -100,16 +160,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-08-23T19:27:59.000Z",
       "summary": "দ্বিতীয় সমাবর্তনের উদ্যোগ নেওয়া হলেও নানা কারণে তা আর আয়োজন করা হয়নি। ২০২২ সালেও বিশ্ববিদ্যালয় প্রশাসনের পক্ষ থেকে দ্বিতীয় সমাবর্তনের নীতিগত সিদ্ধান্তের কথা জানা গিয়েছিল।"
-    },
-    {
-      "id": "0d6dd547e97894fd",
-      "title": "Two killed after giant Ganesha statue collapses onto crowd in Mumbai",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/two-killed-after-giant-ganesha-statue-collapses-onto-crowd-in-mumbai?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-23T19:27:17.000Z",
-      "summary": "Two people were killed after a massive Ganesha idol fell onto a crowd during a procession in Mumbai, India."
     },
     {
       "id": "57f48bbf3a8faa3b",
@@ -242,16 +292,6 @@
       "summary": "Hundreds attended the funeral of 14-year-old Islam Ahmad Maher Ajouri, who was killed by Israeli gunfire during a raid."
     },
     {
-      "id": "867f2bc0e2b8d7e3",
-      "title": "Ferrari delay in moving Leclerc costly - Hamilton",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cvgvgvrg8m2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-23T18:39:27.000Z",
-      "summary": "Lewis Hamilton says Ferrari's delay in moving team-mate Charles Leclerc out of his way could have cost him second place at the Dutch Grand Prix."
-    },
-    {
       "id": "13cd152de1f96239",
       "title": "Fast-moving wildfire in Reno, Nevada, forces thousands to evacuate homes",
       "url": "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire",
@@ -259,7 +299,7 @@
       "category": "disasters",
       "region": "americas",
       "publishedAt": "2026-08-23T18:22:15.000Z",
-      "summary": "Hawk fire has covered more than 13,000 acres as blaze approaches University of Nevada campus in Reno A fast-moving Nevada wildfire exploded to more than 13,000 acres (5,200 hectares) early on Sunday, pushing from the Sierra foothills toward the center of Reno and forcing nearly 42,000 residents to evacuate as flames threatened neighborhoods and reached the edge of the University of Nevada campus. The Hawk fire’s “GO "
+      "summary": "Human-caused Hawk fire covers more than 13,000 acres as blaze approaches University of Nevada campus in Reno A fast-moving Nevada wildfire exploded to more than 13,000 acres (5,200 hectares) on Sunday, pushing from the Sierra foothills toward the center of Reno and urging nearly 90,000 residents to evacuate as flames threatened neighborhoods and reached the edge of the University of Nevada campus. The Hawk fire’s “GO"
     },
     {
       "id": "b90562470354a285",
@@ -282,16 +322,6 @@
       "summary": "ভারতের ওডিশা উপকূলে পণ্যবাহী জাহাজডুবির পর নিখোঁজ বাংলাদেশি মেরিন ইঞ্জিনিয়ার আবদুল্লাহ আল মামুন। এখনো সুনির্দিষ্ট তথ্য না পেয়ে গভীর উৎকণ্ঠায় রয়েছে তাঁর পরিবার।"
     },
     {
-      "id": "619b0bea611eb76f",
-      "title": "জ্বালানি খাতের সংকটকে দুটি ভিন্ন দৃষ্টিকোণ থেকে দেখার পরামর্শ",
-      "url": "https://www.prothomalo.com/bangladesh/8f3s4pw6zg",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-23T17:58:53.000Z",
-      "summary": "যুক্তরাজ্যের ইউনিভার্সিটি অব লন্ডনের স্কুল অব ওরিয়েন্টাল অ্যান্ড আফ্রিকান স্টাডিজের অধ্যাপক মুশতাক খান আদানি গ্রুপের বিদ্যুৎ নিয়ে জটিলতা নিরসনে বিকল্প প্রস্তুত রাখা ও কৌশলগত দর–কষাকষির পরামর্শ দিয়েছেন।"
-    },
-    {
       "id": "c7d14a4d2a913bb3",
       "title": "France links sharp rise in drownings to heatwaves",
       "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
@@ -312,16 +342,6 @@
       "summary": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\"."
     },
     {
-      "id": "9011a97f545fae52",
-      "title": "Newcastle and Liverpool united in tribute to legend Keegan",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-23T15:53:38.000Z",
-      "summary": "Both Newcastle and Liverpool pay tribute to their legendary player on the opening weekend of the Premier League season."
-    },
-    {
       "id": "9ed974d62dc10dd8",
       "title": "ECB investigates Carse 'nightclub incident'",
       "url": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo?at_medium=RSS&at_campaign=rss",
@@ -339,7 +359,17 @@
       "category": "environment",
       "region": "asia_pacific",
       "publishedAt": "2026-08-23T15:00:36.000Z",
-      "summary": "Hundreds of experts write to environment minister calling for stronger protections for ‘unique and distinct’ marine ecosystems Get our breaking news email, free app or daily news podcast The Australian government has been accused of leaving coastal waters largely unprotected by establishing the bulk of highly protected marine parks in remote areas. More than 270 leading marine scientists from 84 research institutes h"
+      "summary": "Hundreds of experts write to environment minister calling for stronger protections for ‘unique and distinct’ marine ecosystems Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The Australian government has been accused of leaving coastal waters largely unprotected by establishing the bulk of highly protected marine parks in remote areas. More than 270 "
+    },
+    {
+      "id": "6438e3fdb5a2959c",
+      "title": "ব্রাহ্মণবাড়িয়ায় গানবাজনার অনুষ্ঠানে হামলা কি বৈধ",
+      "url": "https://www.prothomalo.com/opinion/column/dm6156vhy5",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-23T15:00:00.000Z",
+      "summary": ""
     },
     {
       "id": "7863188e9e6238d1",
@@ -700,16 +730,6 @@
       "region": "global",
       "publishedAt": "2026-08-21T09:00:00.000Z",
       "summary": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib). Now was the moment when our son’s eyelids were supposed to flutter gently closed,…"
-    },
-    {
-      "id": "80bb356408c20d50",
-      "title": "'I've caught one fish all season' - how a polluted river could end 300 years of coracle fishing",
-      "url": "https://www.bbc.co.uk/news/articles/cewr9evwdwko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-08-21T05:06:39.000Z",
-      "summary": "The tradition on a Carmarthenshire river once fished by US President Jimmy Carter could be coming to an end."
     },
     {
       "id": "b58de905f12b51ff",
