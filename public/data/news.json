@@ -1,6 +1,56 @@
 {
-  "generatedAt": "2026-08-25T22:34:48.008Z",
+  "generatedAt": "2026-08-25T23:31:02.092Z",
   "articles": [
+    {
+      "id": "ae809224a0ab4a6c",
+      "title": "Yellow warnings in force as rain and thunderstorms hit parts of UK",
+      "url": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "europe",
+      "publishedAt": "2026-08-25T23:11:15.000Z",
+      "summary": "Torrential downpours will affect parts of England and Wales, delivering some of the wettest weather in several weeks"
+    },
+    {
+      "id": "bf5440dc37ebb538",
+      "title": "AI gold rush draws crypto firms away from Bitcoin",
+      "url": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-08-25T23:11:02.000Z",
+      "summary": "The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines."
+    },
+    {
+      "id": "5043efd3a4c54193",
+      "title": "Firms scramble for battery power in Spain and Portugal",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "europe",
+      "publishedAt": "2026-08-25T23:09:31.000Z",
+      "summary": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups."
+    },
+    {
+      "id": "800887bf3d2a74bb",
+      "title": "Back to school: How to save on uniform costs",
+      "url": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-25T23:08:31.000Z",
+      "summary": "From baby banks to supermarket deals, there are many ways parents can ease the back-to-school burden."
+    },
+    {
+      "id": "ae46f5f1e299ee8b",
+      "title": "Winter energy prices expected to rise to three-year high",
+      "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "environment",
+      "region": "global",
+      "publishedAt": "2026-08-25T23:07:29.000Z",
+      "summary": "Millions of households will be affected by an increase in the energy price cap by regulator Ofgem."
+    },
     {
       "id": "7ebd99b1322a37d3",
       "title": "Does 'rewilded' land need better wildfire prevention measures?",
@@ -160,16 +210,6 @@
       "region": "global",
       "publishedAt": "2026-08-25T21:00:00.000Z",
       "summary": "Vaccines that turn the body’s immune system against tumors have shown promise in clinical trials, and a handful have been FDA approved for certain cancers. In many patients, however, these vaccines don’t stimulate enough of a response, and the approach some researchers have taken to strengthening it—delivering the vaccine along with immune-stimulating molecules called cytokines—can…"
-    },
-    {
-      "id": "12144aec2082f0fb",
-      "title": "Seeing through murky waters",
-      "url": "https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/",
-      "source": "MIT Tech Review",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-08-25T21:00:00.000Z",
-      "summary": "When remotely operated vehicles settle on the seafloor or dig through a sand bed, they can kick up clouds of sediment that onboard cameras struggle to see through. Often, the only thing to do is wait until the dust settles. But a new system developed by Amy Phung, SM ’23, PhD ’26, and her advisor…"
     },
     {
       "id": "b9abd6064aa03796",
@@ -342,26 +382,6 @@
       "summary": "Among those charged are two Super Micro employees and one from Nvidia, marking another flashpoint in US-China AI rivalry Taiwanese prosecutors charged nine people Monday, including one from Nvidia and two from Super Micro, for illegally exporting “high-end AI servers” to mainland China, adding another wave of turbulence in the AI ​​rivalry between China and the United States. Prosecutors said the servers involved wer"
     },
     {
-      "id": "2233026b605e415b",
-      "title": "মিয়ানমারের মানবাধিকার পরিস্থিতির আরও অবনতি, শিশুকে দিয়ে সরানো হয় দেহাবশেষ",
-      "url": "https://www.prothomalo.com/world/asia/yksixr3b8x",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-25T18:52:04.000Z",
-      "summary": ""
-    },
-    {
-      "id": "cf35f44839afbe5c",
-      "title": "রাকসু নির্বাচনের তফসিল ঘোষণাসহ ৫ দাবি শিবিরের",
-      "url": "https://www.prothomalo.com/bangladesh/district/1insoqfswu",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-25T18:41:02.000Z",
-      "summary": "মঙ্গলবার দুপুরে বিশ্ববিদ্যালয়ের পরিবহন মার্কেট চত্বরে আয়োজিত সংবাদ সম্মেলনে এ দাবি জানায় সংগঠনটি।"
-    },
-    {
       "id": "44aa7705ad34bff0",
       "title": "Take a look at Microsoft&#8217;s new 25th anniversary Halo accessories",
       "url": "https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories",
@@ -400,16 +420,6 @@
       "region": "global",
       "publishedAt": "2026-08-25T16:58:53.000Z",
       "summary": "With the new design of Nothing OS 5.0, app icons and widgets can use adaptive color to get color tints pulled from your wallpaper, which update whenever your wallpaper changes. Alongside Android's built-in Dynamic Colors, the company says it allows you to have specific elements change to match your wallpaper \"while Nothing's predominantly monochrome character stays underneath.\" While I like Nothing's simplified, mono"
-    },
-    {
-      "id": "b4a7fd8ee85e9c34",
-      "title": "বিয়ে নিয়ে ‘ভিত্তিহীন’ খবরে মানসিকভাবে ভেঙে পড়েছেন প্রভা",
-      "url": "https://www.prothomalo.com/entertainment/tv/thggfb34hx",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-25T16:50:18.000Z",
-      "summary": ""
     },
     {
       "id": "3ad7b15b9a6cc609",
@@ -520,16 +530,6 @@
       "region": "europe",
       "publishedAt": "2026-08-25T12:10:13.000Z",
       "summary": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London."
-    },
-    {
-      "id": "2ced257be18ddb03",
-      "title": "US fossil fuel lobbyists also represent hundreds of cities fighting for climate damages",
-      "url": "https://www.theguardian.com/environment/2026/aug/25/fossil-fuel-lobbyists-fight-climate-damage",
-      "source": "The Guardian Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-08-25T12:00:35.000Z",
-      "summary": "Local governments working with firms also linked to fossil fuel giants, analysis of federal lobbying disclosures shows Congressional lobbyists working for fossil fuel firms that are exacerbating the climate crisis are simultaneously representing more than 300 local governments raising funding to recover from climate damage, according to a new analysis. The research by F Minus and Make Polluters Pay reviewed congressi"
     },
     {
       "id": "a8c57a1b89ca4d06",
@@ -652,6 +652,16 @@
       "summary": "There will be a partial lunar eclipse in the UK on 28 August, and may cause the Moon appear reddish in colour."
     },
     {
+      "id": "53fbed1d3abb7c9f",
+      "title": "Songs created by AI banned from Australia's music charts",
+      "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "creativity_arts",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-25T04:54:01.000Z",
+      "summary": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts."
+    },
+    {
       "id": "ccbfc4be0f6e2f00",
       "title": "How Canada could hit back to hurt the US economy - and Trump",
       "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
@@ -712,16 +722,6 @@
       "summary": "California, Arizona and Nevada face about 20% cut to water supply over two years under Trump administration plan Nevada filed a federal lawsuit on Monday challenging the Trump administration’s new plan for the imperiled Colorado River, launching what could become the first of many court battles over the waterway that supplies 40 million people, dozens of tribes and 5.5m acres of farm land across the American west. Th"
     },
     {
-      "id": "c2d486339a15dcdd",
-      "title": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
-      "source": "The Guardian World",
-      "category": "creativity_arts",
-      "region": "americas",
-      "publishedAt": "2026-08-24T18:55:43.000Z",
-      "summary": "Move is latest deterioration in trade relations between neighbors with historically strong economic ties Donald Trump announced a new 50% tariff on automobiles and crucial raw materials from Canada, the latest deterioration in trade relations between the two neighbors with historically strong economic ties. The US president said that the increased tariffs would start on 1 January 2027 on all cars, trucks, automobile "
-    },
-    {
       "id": "7e97063594410712",
       "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
       "url": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
@@ -730,16 +730,6 @@
       "region": "africa",
       "publishedAt": "2026-08-24T17:34:50.000Z",
       "summary": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre of a human rights controversy. Prince Harry’s spokesperson confirmed he was no longer a trustee of African Parks, which admitted last year that human rights abuses were committed by its rangers in the"
-    },
-    {
-      "id": "b7254707487b6702",
-      "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
-      "url": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-08-24T16:50:47.000Z",
-      "summary": "Job site Adzuna said the number of graduate vacancies was the lowest since 2016"
     },
     {
       "id": "d507dc2434c6fe8a",
@@ -820,26 +810,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-08-22T12:47:28.000Z",
       "summary": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say."
-    },
-    {
-      "id": "36ce5ab6455f1ece",
-      "title": "Welsh county becomes global hotspot for carbon emissions after wildfires",
-      "url": "https://www.bbc.co.uk/news/articles/cp9e9rg255vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-08-22T11:31:09.000Z",
-      "summary": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff."
-    },
-    {
-      "id": "da2bb8c2d8bc375c",
-      "title": "How this 1960s ex-council house is managing to stay cool without air con",
-      "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "europe",
-      "publishedAt": "2026-08-21T23:56:48.000Z",
-      "summary": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures."
     },
     {
       "id": "b2562d9604cb189b",
