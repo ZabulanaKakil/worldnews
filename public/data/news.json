@@ -1,125 +1,335 @@
 {
-  "generatedAt": "2026-08-29T08:56:00.907Z",
+  "generatedAt": "2026-08-29T18:19:09.616Z",
   "articles": [
     {
-      "id": "8fdbb4a2796f01d9",
-      "title": "Dutch institute issues 'red alert' over Trump-shaped ecstasy pills",
+      "id": "3b7d3476cee743a6",
+      "title": "Today at the Test - England v Pakistan highlights",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcfour?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-29T19:00:00.000Z",
+      "summary": "Day 3 highlights from the second Test match between England and Pakistan at Lord's."
+    },
+    {
+      "id": "5151c640035dca7e",
+      "title": "DR Congo begins vaccinating against largest and deadliest Ebola outbreak",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/dr-congo-begins-vaccinating-against-largest-and-deadliest-ebola-outbreak?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-29T18:13:05.000Z",
+      "summary": "70,000 Ervebo vaccine doses have been sent to DR Congo in hope they prove effective against the Bundibugyo strain."
+    },
+    {
+      "id": "4a43f2f8de1cebb0",
+      "title": "South Africa hold off All Blacks fightback to level series",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c1mvred1l7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "africa",
+      "publishedAt": "2026-08-29T18:08:14.000Z",
+      "summary": "World champions South Africa deliver a powerful first-half performance as they edge past New Zealand and level 'Rugby's Greatest Rivalry' series at 1-1."
+    },
+    {
+      "id": "ac16fea13cee9c61",
+      "title": "Sudan’s date palm trees under threat from drought and wildfires",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/sudans-date-palm-trees-under-threat-from-drought-and-wildfires?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "weather_climate",
+      "region": "africa",
+      "publishedAt": "2026-08-29T18:07:24.000Z",
+      "summary": "In Sudan, date palm trees are an economic lifeline for residents of Northern State."
+    },
+    {
+      "id": "47e9e83abe68fdb1",
+      "title": "বৃষ্টিভেজা লর্ডসে থেমে থেমে খেলা, তবু এগিয়ে ইংল্যান্ড",
+      "url": "https://www.prothomalo.com/sports/cricket/5bmnuqplf8",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-29T18:06:46.000Z",
+      "summary": ""
+    },
+    {
+      "id": "00592793aa324cd3",
+      "title": "কেরানীগঞ্জে র‍্যাবের সাংস্কৃতিক অনুষ্ঠান স্থগিত",
+      "url": "https://www.prothomalo.com/bangladesh/dzpek2pp6n",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-29T17:57:28.000Z",
+      "summary": "বিকেলে অনুষ্ঠান শুরু হওয়ার আগে হঠাৎ জানানো হয়, প্রতিষ্ঠাবার্ষিকীর অনুষ্ঠান আর হচ্ছে না। কী কারণে অনুষ্ঠান স্থগিত করা হলো, তা নিশ্চিত করে জানানো হয়নি।"
+    },
+    {
+      "id": "0795773e40b1b59e",
+      "title": "প্রত্যাশিত নতুন বাংলাদেশ প্রতিষ্ঠিত হয়নি, ফ্যাসিবাদী ব্যবস্থা মোটাদাগে বহাল: মাহফুজ আলম",
+      "url": "https://www.prothomalo.com/politics/syvgzbgqgb",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-29T17:53:50.000Z",
+      "summary": ""
+    },
+    {
+      "id": "8e08f598916a9578",
+      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+      "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-08-29T17:52:42.000Z",
+      "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE)."
+    },
+    {
+      "id": "7a51a83296d91965",
+      "title": "Leader Pogacar abandons Vuelta after crash",
+      "url": "https://www.bbc.co.uk/sport/cycling/articles/c0qx0ndg373o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-29T17:51:37.000Z",
+      "summary": "Race leader Tadej Pogacar pulls out of the Vuelta a Espana after crashing during stage eight of the three-week race."
+    },
+    {
+      "id": "2d0e0410c786137c",
+      "title": "‘গুমের শিকার’ মিরাজ শেখের খোঁজ চাইলেন নাহিদ ইসলাম",
+      "url": "https://www.prothomalo.com/politics/u5ytb7urzt",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-29T17:50:37.000Z",
+      "summary": "দেশে আর কখনো যেন রাষ্ট্রীয় পৃষ্ঠপোষকতায় গুমের সংস্কৃতি ফিরে না আসে, তা নিশ্চিত করার আহ্বান জানান নাহিদ ইসলাম।"
+    },
+    {
+      "id": "a1e2f62323ca5056",
+      "title": "Turkiye summons Ukraine ambassador over Black Sea attacks",
+      "url": "https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-08-29T17:41:57.000Z",
+      "summary": "Two Turkish-operated vessels have been struck this week as a result of the war between Russia and Ukraine."
+    },
+    {
+      "id": "107c32d630043acb",
+      "title": "কাঠগড়ায় যখন ‘প্রেমের গল্প’",
+      "url": "https://www.prothomalo.com/onnoalo/treatise/cpkmlb28b2",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-29T17:34:24.000Z",
+      "summary": "বাংলাদেশে বছরে যত নাটক ও চলচ্চিত্র তৈরি হয়, তার কত শতাংশ প্রেমভিত্তিক? কোন সীমা পার করলে একটি গল্পকে ‘অতিরিক্ত রোমান্টিক’ বলা হবে?"
+    },
+    {
+      "id": "ed7ba32d5e2d2e6f",
+      "title": "মাগুরায় পুলিশ সদস্যকে মারধরের ভিডিও ভাইরাল",
+      "url": "https://www.prothomalo.com/video/bangladesh/y9feyn7bbu",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-29T17:21:05.000Z",
+      "summary": ""
+    },
+    {
+      "id": "7ff1faabc9dd958c",
+      "title": "বিদ্যুৎ ও গ্যাস–সংকটকে ইস্যু করে অস্থিতিশীলতা হতে পারে",
+      "url": "https://www.prothomalo.com/bangladesh/0agnt16got",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-29T17:20:47.000Z",
+      "summary": "এ ব্যাপারে পুলিশকে তৎপর থাকার নির্দেশ। উগ্রবাদের বিরুদ্ধে সতর্ক থাকতেও পুলিশকে নির্দেশনা দেওয়া হয়েছে।"
+    },
+    {
+      "id": "6465d2169021ed70",
+      "title": "সাফারি পার্কে বেড়াতে গিয়ে দুই সন্তানসহ ‘মারধরের শিকার’ নারী",
+      "url": "https://www.prothomalo.com/bangladesh/district/y6ez66wrcx",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-29T17:17:49.000Z",
+      "summary": "শনিবার বিকেল চারটার দিকের এ ঘটনায় পার্কের অস্থায়ী এক কর্মীকে বরখাস্ত করা হয়েছে।"
+    },
+    {
+      "id": "4b9fe54a10f9f959",
+      "title": "Israeli army arrests six Palestinians after settler violence in West Bank",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "weather_climate",
+      "region": "middle_east",
+      "publishedAt": "2026-08-29T17:09:10.000Z",
+      "summary": "Israeli settlers stormed Qusra in the occupied West Bank, attacking Palestinian residents and damaging homes."
+    },
+    {
+      "id": "24f7c0f0feb52f98",
+      "title": "Niger military says it is regaining control after attempted mutiny",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-niger-mutiny-sv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-08-29T17:03:10.000Z",
+      "summary": "Niger’s military says it is regaining control after a mutiny in Niamey after gun fire was heard in the capital."
+    },
+    {
+      "id": "2aa7ba2d97515144",
+      "title": "Russian strike on a munitions depot triggers deadly blasts near Kyiv",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-russia-strikes-arms-depot-kyiv-fm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-08-29T16:53:55.000Z",
+      "summary": "Russian strike on an arms depot near Kyiv sparked fires and explosions, killing at least 38 people and wounding dozens."
+    },
+    {
+      "id": "281e4862cadf67ab",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-08-29T16:15:56.000Z",
+      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy."
+    },
+    {
+      "id": "00023eb81fa1d83b",
+      "title": "RSS chief’s visit to US denounced as ‘goodwill tour’ for Hindu nationalism",
+      "url": "https://www.aljazeera.com/news/2026/8/29/rss-chiefs-visit-to-us-denounced-as-goodwill-tour-for-hindu-nationalism?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-08-29T16:03:32.000Z",
+      "summary": "Activists say Hindu nationalists have sought to mask far-right politics through broad appeals to the Indian diaspora."
+    },
+    {
+      "id": "0e53ab5f94cb095d",
+      "title": "Distraction-free writing gadget BYOK is adding custom extensions",
+      "url": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-08-29T16:01:13.000Z",
+      "summary": "BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there is an obvious allure. Personally, I think it's at its best when you just stick to the bare minimum, focusing on pure text drafting. Certain users, though, need more. They want BYOK to take notes, they want to use it for wr"
+    },
+    {
+      "id": "373f6b8ae58f372d",
+      "title": "'That trust isn't there' - how does Iraola get best out of Isak?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgjq65nvw38o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-29T15:49:49.000Z",
+      "summary": "Alexander Isak scored his first goal of the season in the 2-2 draw against Nottingham Forest - but how do Liverpool get the best out of him?"
+    },
+    {
+      "id": "f2208ebac1d5307f",
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-08-29T15:27:56.000Z",
+      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
+    },
+    {
+      "id": "97ffa366ef6a961a",
+      "title": "Iraola angry as official's board delays subs before goal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd795e9ejgzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-29T15:27:43.000Z",
+      "summary": "Liverpool boss Andoni Iraola says he was angry about being prevented from making a triple substitution sooner during his side's draw against Nottingham Forest."
+    },
+    {
+      "id": "1cbae5a1413a126c",
+      "title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
+      "url": "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-08-29T15:00:00.000Z",
+      "summary": "10 out of 10 beard. | Photo: Ben Mekler Joseph Fink is the cocreator and cowriter of Welcome to Night Vale, arguably the most important fiction podcast ever. He's also the creator of the noir podcast Unlicensed and Alice Isn't Dead, which takes some of the conspiratorial cosmic horror of Night Vale and turns it into fodder for a more serious series about relationships, trauma, and the open road. There's also a sequel"
+    },
+    {
+      "id": "15af8755c6b323d1",
+      "title": "The race to stop England running out of water",
+      "url": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-08-29T14:50:35.000Z",
+      "summary": "Who is to blame for the summer drought, and can England future-proof its water supplies?"
+    },
+    {
+      "id": "cb24923764846665",
+      "title": "Man United vs Ipswich Town: Premier League – preview, team news, prediction",
+      "url": "https://www.aljazeera.com/sports/2026/8/29/man-united-vs-ipswich-town-premier-league-preview-team-news-prediction?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-29T14:33:45.000Z",
+      "summary": "United put in a sorry display as they lost 2-0 to Hull last weekend, while newly promoted Ipswich beat Sunderland 2-1."
+    },
+    {
+      "id": "bcd2e7d3666cd5c3",
+      "title": "Liverpool net late in Forest draw to avoid Anfield debut defeat for Iraola",
+      "url": "https://www.aljazeera.com/sports/2026/8/29/liverpool-draw-with-nottingham-forest-after-twice-coming-from-behind-in-epl?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-08-29T14:19:23.000Z",
+      "summary": "Victor Munoz scores late goal to secure 2-2 draw for Liverpool after Nottingham Forest scare in Premier League."
+    },
+    {
+      "id": "9abd2e8d3d4ab1fb",
+      "title": "Brave browser adds email aliases to help users evade tracking",
+      "url": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-08-29T14:19:23.000Z",
+      "summary": "The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]"
+    },
+    {
+      "id": "2f91ec05de4a1a59",
+      "title": "‘The world needs to pay attention’: Nepalis and Tibetans in New York respond to the Himalayan disaster",
+      "url": "https://www.theguardian.com/world/2026/aug/29/new-york-nepal-tibet-disaster",
+      "source": "The Guardian Environment",
+      "category": "disasters",
+      "region": "global",
+      "publishedAt": "2026-08-29T13:43:05.000Z",
+      "summary": "Half the world away, a Himalayan diaspora reacts in sorrow and pitches in to help victims in their home countries Geeta Tamang was getting ready for bed when her aunts shared news that upended her world. “My aunts came into my room and told me what had happened,” said Tamang, a 24-year-old computer science student at Queens College. She lives in Jackson Heights, home to one of the largest Nepali and Tibetan communiti"
+    },
+    {
+      "id": "5fd27917c3988887",
+      "title": "Musicians-turned-detectives are hunting for AI grifters",
+      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-08-29T12:00:00.000Z",
+      "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology until increasing public scrutiny forced them to tell the"
+    },
+    {
+      "id": "5d4ab9a9569fe47e",
+      "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
+      "url": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-08-29T10:51:21.000Z",
+      "summary": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains."
+    },
+    {
+      "id": "25850032bf966dd0",
+      "title": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
       "url": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world_politics",
       "region": "global",
       "publishedAt": "2026-08-29T08:48:34.000Z",
-      "summary": "The drugs have a delayed effect which \"increases the risk of overdose\", the institute has advised."
-    },
-    {
-      "id": "84e798d608f16d74",
-      "title": "কোরআন থেকে জীবন বদলানোর ১০ শিক্ষা",
-      "url": "https://www.prothomalo.com/religion/islam/6i3f8sok06",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-29T08:40:30.000Z",
-      "summary": "জীবনের সংকট, হতাশা, সম্পর্কের টানাপোড়েন এবং নৈতিক অবক্ষয়ের এই যুগে কোরআনের বার্তাগুলো মানুষের ভেতর আমূল পরিবর্তন এনে দিতে পারে। এমন ১০ শিক্ষা তুলে ধরা হলো।"
-    },
-    {
-      "id": "505b47b1b944e293",
-      "title": "মার্কিন মধ্যবর্তী নির্বাচনে করপোরেট অনুদান রেকর্ড ৬৪ কোটি ৬০ লাখ ডলার",
-      "url": "https://www.prothomalo.com/business/world-business/3fpcael8tf",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-29T08:38:38.000Z",
-      "summary": "মার্কিন মধ্যবর্তী নির্বাচনে কোম্পানি ও বিলিয়নিয়ারদের রাজনৈতিক অনুদান রেকর্ড গড়েছে। ক্রিপ্টো, বেটিং, এআই, তামাক ও গাঁজা কোম্পানিগুলো নির্বাচনী প্রচারে বিপুল অর্থ দিচ্ছে।"
-    },
-    {
-      "id": "2ee1dd67edd2c678",
-      "title": "দুই দফা দাবিতে চুয়াডাঙ্গায় পাঁচ রুটে অনির্দিষ্টকালের বাস ধর্মঘট",
-      "url": "https://www.prothomalo.com/bangladesh/district/bw62q5qf2y",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-29T08:37:57.000Z",
-      "summary": "চুয়াডাঙ্গায় আজ শনিবার সকাল থেকে আন্তজেলার পাঁচটি পথে অনির্দিষ্টকালের জন্য যাত্রীবাহী বাস ধর্মঘট শুরু হয়েছে।"
-    },
-    {
-      "id": "6a7e7cee7f2aa87e",
-      "title": "সোনিয়ার আত্মজীবনীতে কী বিষয় আছে, যাতে বিজেপি বইটির প্রকাশ আটকে দিচ্ছে",
-      "url": "https://www.prothomalo.com/world/india/vtfb0bz4ze",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-29T08:30:49.000Z",
-      "summary": "সোনিয়ার আত্মজীবনীতে নরেন্দ্র মোদির নেতৃত্ব, রাষ্ট্রীয় স্বয়ং সেবক সংঘের ক্রমবর্ধমান প্রভাব এবং চীনের সঙ্গে সংঘাত নিয়ে যেসব তথ্য আছে, পেঙ্গুইন তাতে আপত্তি জানিয়েছে।"
-    },
-    {
-      "id": "0c8b0b14df825c9f",
-      "title": "বাটন ফোনে মধ্যরাতের ফোনালাপে চঞ্চল-শান্তার প্রেম, না দেখে বিয়ে",
-      "url": "https://www.prothomalo.com/entertainment/tv/9hlckfs3pc",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-29T08:30:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "c2261848c2bfef7a",
-      "title": "লুট হওয়া অস্ত্র উদ্ধারে তথ্য দিলে ১০ হাজার থেকে ২ লাখ টাকা পুরস্কার: স্বরাষ্ট্রমন্ত্রী",
-      "url": "https://www.prothomalo.com/bangladesh/mr1ddkerc7",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-29T08:27:48.000Z",
-      "summary": "স্বরাষ্ট্রমন্ত্রী বলেন, যারা হেভি ওয়েপনস (ভারী অস্ত্র) উদ্ধার করার জন্য সহযোগিতা করবে, খবর দেবে, তাদেরকে সর্বোচ্চ দুই লাখ টাকা পর্যন্ত পুরস্কৃত করা হবে।"
-    },
-    {
-      "id": "f055aff42103318d",
-      "title": "বিয়ের জন্য পাত্রী দেখে ফিরছিলেন যুবক, সড়কে মিলল রক্তাক্ত দেহ",
-      "url": "https://www.prothomalo.com/bangladesh/district/b69bd5rvzi",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-29T08:24:53.000Z",
-      "summary": "মো. সাইফুল ইসলাম প্রথম আলোকে বলেন, নিহত অপুর লাশ চট্টগ্রাম মেডিকেল কলেজ হাসপাতালে রয়েছে। আইনানুগ প্রক্রিয়া শেষে লাশটি পরিবারের কাছে হস্তান্তর করা হবে।"
-    },
-    {
-      "id": "76624dc45d2c1122",
-      "title": "মাত্র ৩ বছর বয়সে হয়েছিলেন বিশ্বের কনিষ্ঠতম রাজা, ৩৪ বছরেই কীভাবে মারা গেলেন উগান্ডার ওয়ো",
-      "url": "https://www.haal.fashion/lifestyle/b1781k382z",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-29T08:04:12.000Z",
-      "summary": "২৭ আগস্ট উগান্ডার তরুণ রাজা ওয়ো মারা গেছেন ৩৪ বছরেই। মাত্র মাত্র ৩ বছর বয়সে বিশ্বের কনিষ্ঠতম রাজা হয়ে সাড়া ফেলেছিলেন তিনি একসময়।"
-    },
-    {
-      "id": "20318b994590d8aa",
-      "title": "‘সোনার কেল্লা’ উপন্যাস নিয়ে ঝালকাঠি বন্ধুসভার পাঠচক্র",
-      "url": "https://www.bondhushava.com/activities/g6kulyxhhu",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-29T08:00:00.000Z",
-      "summary": "‘সোনার কেল্লা’ হলো বিখ্যাত বাঙালি লেখক ও চলচ্চিত্র নির্মাতা সত্যজিৎ রায় রচিত উপন্যাস। এটি প্রথম প্রকাশিত হয় ১৯৭১ সালে (১৩৭৮ বঙ্গাব্দ) শারদীয়া ‘দেশ’ পত্রিকায়। পরবর্তী সময় ১৯৭১ সালের ডিসেম্বর মাসেই এটি আনন্দ পাবলিশার্স থেকে বই আকারে প্রকাশিত হয়।"
-    },
-    {
-      "id": "a33b13c56f6a4cbd",
-      "title": "একঝলক (২৯ আগস্ট ২০২৬)",
-      "url": "https://www.prothomalo.com/photo/glimpse/7z57binuyu",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-08-29T08:00:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "859c0511e78cdaa0",
-      "title": "Aston Villa sign Chelsea striker Nicolas Jackson for reported club record",
-      "url": "https://www.aljazeera.com/sports/2026/8/29/aston-villa-sign-chelsea-striker-nicolas-jackson-for-reported-club-record?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-29T07:33:34.000Z",
-      "summary": "Jackson arrives as a replacement for Ollie Watkins, whose move to Saudi Arabian side Al Hilal is being finalised."
+      "summary": "The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says."
     },
     {
       "id": "47e5ae4839bcc8c3",
@@ -132,16 +342,6 @@
       "summary": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets."
     },
     {
-      "id": "32dcb3c2585abf53",
-      "title": "India and Pakistan are united in spending citizen lives like pocket change",
-      "url": "https://www.aljazeera.com/opinions/2026/8/29/india-and-pakistan-are-united-in-spending-citizen-lives-like-pocket-change?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-29T07:08:23.000Z",
-      "summary": "Recent hospital fires expose how little decades of national achievement mean when basic public safety still fails."
-    },
-    {
       "id": "56170c7e66960f86",
       "title": "Itauma v Hrgovic - heavyweight world title fight predictions",
       "url": "https://www.bbc.co.uk/sport/boxing/articles/c5ye30735xpo?at_medium=RSS&at_campaign=rss",
@@ -150,26 +350,6 @@
       "region": "global",
       "publishedAt": "2026-08-29T06:21:04.000Z",
       "summary": "Figures from the boxing world give their predictions for Saturday's heavyweight world title fight between Moses Itauma and Filip Hrgovic."
-    },
-    {
-      "id": "390d238c2fea93d3",
-      "title": "Six months into the Iran war, a new Gulf security architecture is emerging",
-      "url": "https://www.aljazeera.com/opinions/2026/8/29/six-months-into-the-iran-war-a-new-gulf-security-architecture-is-emerging?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-08-29T06:11:58.000Z",
-      "summary": "Gulf states are building overlapping partnerships that complement, rather than replace, the US security role."
-    },
-    {
-      "id": "edfc6480297849f3",
-      "title": "Trippier praises Miley's 'big presence' as Newcastle face Tonali reunion",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c07ler0rxlro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-29T06:11:10.000Z",
-      "summary": "Newcastle midfielder Lewis Miley is backed to \"go as far as he wants\" as the 20-year-old prepares to face former team-mate Sandro Tonali at Tottenham Hotspur Stadium."
     },
     {
       "id": "12dc63efa3fda970",
@@ -182,54 +362,14 @@
       "summary": "The weather in space has the potential to impact our lives here on Earth in a fundamental way."
     },
     {
-      "id": "01da23f409b38f5e",
-      "title": "Bernie Sanders, AOC join marchers in Washington to ‘defend the vote’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/bernie-sanders-aoc-join-marchers-in-washington-to-defend-the?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "americas",
-      "publishedAt": "2026-08-29T05:27:25.000Z",
-      "summary": "Thousands of people marched on Washington DC, invoking Martin Luther King Jr.’s legacy on the 63rd anniversary."
-    },
-    {
-      "id": "4514bdd46819b434",
-      "title": "Iceland heads to the polls in knife-edge vote on restarting EU talks",
-      "url": "https://www.aljazeera.com/news/2026/8/29/why-is-iceland-considering-joining-the-eu?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "europe",
-      "publishedAt": "2026-08-29T05:18:46.000Z",
-      "summary": "Amid economic and security challenges, Iceland is holding a referendum more than a decade after pausing accession talks."
-    },
-    {
-      "id": "fb3b612c2b8ced33",
-      "title": "Lampard 'somewhere in the middle' of Mourinho and Ancelotti",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c87v04d59n3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-29T05:12:27.000Z",
-      "summary": "Eight years into his own managerial career, Coventry City boss Frank Lampard cites Jose Mourinho and Carli Ancelotti as the main influences on his style."
-    },
-    {
-      "id": "ed0d117a95eef9e5",
-      "title": "What’s in the US-Venezuela ‘biggest oil deal in world history?’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/whats-in-the-us-venezuela-biggest-oil-deal-in-world-history?traffic_source=rss",
-      "source": "Al Jazeera",
+      "id": "f3d1fa77e5962785",
+      "title": "কবরী, পূর্ণিমা, মেহজাবীনদের প্রথম পারিশ্রমিক কত",
+      "url": "https://www.prothomalo.com/entertainment/dhallywood/tqqo0r7eby",
+      "source": "Prothom Alo",
       "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-29T04:16:01.000Z",
-      "summary": "US President Donald Trump has claimed the US and Venezuela have reached the ‘biggest oil deal in world history’."
-    },
-    {
-      "id": "0991a3e6533e6eec",
-      "title": "‘The whole country’s grandfather:’ Norway’s King Harald V dies aged 89",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/the-whole-countrys-grandfather-norways-king-harald-v-dies-aged-89?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-08-29T04:14:51.000Z",
-      "summary": "Norwegians are saying goodbye to King Harald V, Europe’s oldest reigning monarch."
+      "region": "bangladesh",
+      "publishedAt": "2026-08-29T05:30:19.000Z",
+      "summary": "শুরুতে অনেক প্রথমসারির তারকা কেউ কেউ কোনো অর্থই পাননি। আবার কেউ পেয়েছেন। সেই পারিশ্রমিক ছিল খুবই সামান্য।"
     },
     {
       "id": "314a36a4807de753",
@@ -252,36 +392,6 @@
       "summary": "This live blog is now closed ‘The flood took everything I have’: survivors grieve for relatives and homes swept away in Nepal Visual guide: how the deadly flooding unfolded Tell us: have you been affected by the flash floods? More now on the Nepali army’s rescue operation to save about 100 people trapped in a tunnel at a hydropower project swamped by Wednesday’s flooding. “Two helicopters have been dispatched but it "
     },
     {
-      "id": "bf6cc1914b4e83f4",
-      "title": "Nepal and China resume flood rescue as death toll surpasses 600",
-      "url": "https://www.aljazeera.com/news/2026/8/29/nepal-and-china-resume-flood-rescue-as-death-toll-nears-600?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-29T03:35:58.000Z",
-      "summary": "Rescue operations have resumed after a brief pause, but experts caution of danger from a newly formed lake."
-    },
-    {
-      "id": "281e4862cadf67ab",
-      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-08-29T02:42:27.000Z",
-      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy."
-    },
-    {
-      "id": "72b1bf08fec34e35",
-      "title": "Tuareg rebels free more Malian soldiers in prisoner swap, sources say",
-      "url": "https://www.aljazeera.com/news/2026/8/29/tuareg-rebels-free-more-malian-soldiers-in-prisoner-swap-sources-say?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-08-29T01:50:03.000Z",
-      "summary": "Tuareg rebels have freed about 60 Malian soldiers in exchange for one of their own leaders, security sources said."
-    },
-    {
       "id": "25896a7446f1e6ea",
       "title": "Close race as Iceland votes on whether to restart talks on joining EU",
       "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
@@ -290,36 +400,6 @@
       "region": "europe",
       "publishedAt": "2026-08-29T00:56:19.000Z",
       "summary": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry."
-    },
-    {
-      "id": "5d4ab9a9569fe47e",
-      "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
-      "url": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-08-29T00:53:13.000Z",
-      "summary": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains."
-    },
-    {
-      "id": "502b89dd1bb71ec1",
-      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-      "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-08-29T00:46:02.000Z",
-      "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past."
-    },
-    {
-      "id": "15af8755c6b323d1",
-      "title": "The race to stop England running out of water",
-      "url": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-08-29T00:46:00.000Z",
-      "summary": "Who is to blame for the summer drought, and can England future-proof its water supplies?"
     },
     {
       "id": "0ab07f1e08cf9fac",
@@ -352,14 +432,14 @@
       "summary": "US president says US will have ‘majority’ control of 65bn barrels of proven oil reserves Donald Trump announced Friday a new US oil agreement with Venezuela’s interim president Delcy Rodríguez, saying the US will have “majority” control of 65bn barrels of proven oil reserves. The terms of the agreement remain to be seen, but the US president said on his social-media platform that it had been brokered “through a partn"
     },
     {
-      "id": "90916fe656fa83ca",
-      "title": "A magician and a maverick - this could be Cherki's moment for Man City",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c24j5jnnr9eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
+      "id": "afbcf865627cd70b",
+      "title": "Google further buries search results under AI mode",
+      "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+      "source": "The Verge",
+      "category": "creativity_arts",
       "region": "global",
-      "publishedAt": "2026-08-28T22:56:42.000Z",
-      "summary": "After two goals and a swaggering display against Crystal Palace, Phil McNulty asks if this is Rayan Cherki's time to shine for Manchester City."
+      "publishedAt": "2026-08-28T22:48:11.000Z",
+      "summary": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much farther down Google's results page; instead of seeing part of an AI Overview with a \"Show more\" button you can click, you'll Google will show a full AI Overview at the top of your searc"
     },
     {
       "id": "a908901d30dfd3fb",
@@ -372,36 +452,6 @@
       "summary": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it stole 284 million patient data records. [...]"
     },
     {
-      "id": "2c30f16acb86986e",
-      "title": "Berlin is being blackmailed by hackers, mayor says",
-      "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "cybersecurity",
-      "region": "europe",
-      "publishedAt": "2026-08-28T21:29:01.000Z",
-      "summary": "Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack."
-    },
-    {
-      "id": "94e5a15247938e06",
-      "title": "Arsenal & Barca monitor Rashford - Saturday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp8416ll9yvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-28T20:48:59.000Z",
-      "summary": "Arsenal monitor Marcus Rashford, Chelsea eye Monaco's Lamine Camara and Valencia push for Liverpool midfielder Harvey Elliott, plus more."
-    },
-    {
-      "id": "68c27839885a72ac",
-      "title": "'I learned from Murray' - Boulter won't make wedding ring mistake",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/c20v7y3vy2do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-28T19:55:25.000Z",
-      "summary": "Andy Murray has long been a guiding figure for British tennis, but newly-married Katie Boulter will not be following his lead when it comes to keeping her wedding ring safe as she prepares for the US Open."
-    },
-    {
       "id": "ed0ccae759f6651c",
       "title": "Norway mourns King Harald as Haakon VIII ascends throne",
       "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
@@ -412,16 +462,6 @@
       "summary": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\"."
     },
     {
-      "id": "69c7fafaab79d524",
-      "title": "Sarfaraz denies knowing about Pakistan threat to end tour",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c17j0y17epdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "asia_pacific",
-      "publishedAt": "2026-08-28T19:38:35.000Z",
-      "summary": "Head coach Sarfaraz Ahmed says he and his players did not know about a Pakistan Cricket Board threat to the England and Wales Cricket Board over a Sky interview with the sons of Imran Khan."
-    },
-    {
       "id": "1a58acca79ba441e",
       "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
       "url": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
@@ -430,6 +470,16 @@
       "region": "europe",
       "publishedAt": "2026-08-28T19:05:23.000Z",
       "summary": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action."
+    },
+    {
+      "id": "c620d712d1cbf25d",
+      "title": "সমুদ্র আর বন্ধুত্বের গল্পে মজেছে দর্শক",
+      "url": "https://www.prothomalo.com/entertainment/ott/jb4aio5tpc",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-08-28T19:00:00.000Z",
+      "summary": "২০ আগস্ট মুক্তি পেয়েছে এর পঞ্চম ও শেষ মৌসুম। আর মুক্তির পরই বাজিমাত। মুক্তির প্রথম চার দিনেই সিরিজটি দেখেছেন ৯৪ লাখ দর্শক।"
     },
     {
       "id": "a9b4babf43c36796",
@@ -450,16 +500,6 @@
       "region": "americas",
       "publishedAt": "2026-08-28T17:59:31.000Z",
       "summary": "Authorities say nearly 2,000 people are missing, including more than 100 Americans and Canadians, as families await word on loved ones after the Nepal flash floods."
-    },
-    {
-      "id": "ddb487fa4747a735",
-      "title": "More British athletes convicted in connection with Baptiste case",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/c5yenn85dqgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-08-28T17:54:59.000Z",
-      "summary": "BBC Sport reveals that Will Sharman, Richard Sharman and Lamin Deen were also convicted in the case which led to Leon Baptiste's imprisonment."
     },
     {
       "id": "bff05d4b08a86d70",
@@ -582,16 +622,6 @@
       "summary": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday."
     },
     {
-      "id": "4005d031fa1c78a1",
-      "title": "Apple TV now costs $14.99 a month after its fourth price hike in four years",
-      "url": "https://www.theverge.com/tech/986130/apple-tv-plus-price-hike",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-08-28T13:47:36.000Z",
-      "summary": "Apple raised the price of its streaming service for new and current subscribers on Friday, bumping it up from $12.99 per month to $14.99, Deadline and Variety are reporting. An annual subscription now costs $119, up from $99. Apple also increased the cost of its individual Apple One subscription, which includes Apple TV and Apple's other subscription services, from $19.95 per month to $21.95. According to Deadline an"
-    },
-    {
       "id": "7ac92b90bc5b6f86",
       "title": "Trump rollback of US forest protections could accelerate extinction of 400 endangered species",
       "url": "https://www.theguardian.com/us-news/2026/aug/28/endangered-species-extinction-trump-forest-protections",
@@ -602,26 +632,6 @@
       "summary": "Decision to rescind ‘roadless rule’ opens more than 45m acres of national forests to roads, drilling and logging More than 400 endangered animal and plant species could face accelerated extinction after the Donald Trump administration’s decision to rescind a rule that has protected old-growth forests for more than two decades. According to a new report from the Center for Biological Diversity, the rollback of the Bil"
     },
     {
-      "id": "ef5b6a22ebc33a5a",
-      "title": "Apple TV’s sci-fi thriller Dark Matter gets even trippier in season 2",
-      "url": "https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-08-28T12:00:00.000Z",
-      "summary": "Confusion is a generally accepted side effect of mystery box shows. They slather on secrets with the promise of a satisfying payoff in the end, and sometimes the cast and crew even have a hard time following what's going on. But even by the standards of the genre, Dark Matter is extreme. Its multiversal premise, which involves a man kidnapping a version of himself from another world, can be hard to wrap your head aro"
-    },
-    {
-      "id": "cf132e32ae18a4a4",
-      "title": "Bank holiday weekend to see more thunderstorms and rain",
-      "url": "https://www.bbc.co.uk/weather/articles/cpq0zqepnrlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-08-28T09:42:47.000Z",
-      "summary": "The weather will remain unsettled across the next few days with showers, longer spells of rain and thunderstorms all likely at times across the weekend."
-    },
-    {
       "id": "a09c91fa45cd36d1",
       "title": "Selena Gomez pushes back against 'frivolous' fraud claims",
       "url": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
@@ -630,26 +640,6 @@
       "region": "global",
       "publishedAt": "2026-08-28T05:53:05.000Z",
       "summary": "Selena Gomez's lawyer says the fraud case is \"absurd\" - but it is far from unusual for celebrity family business relationships to go wrong."
-    },
-    {
-      "id": "a082715e2f77ea99",
-      "title": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
-      "url": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-08-28T03:23:21.000Z",
-      "summary": "One woman says her father, mother, sister and sister's children were carried away before her eyes."
-    },
-    {
-      "id": "940555bb6431a9db",
-      "title": "The GTA VI ‘extended look’ is now streaming on YouTube",
-      "url": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-08-28T01:05:18.000Z",
-      "summary": "Rockstar has officially published its \"extended look\" at Grand Theft Auto VI on YouTube and on its website, as promised. The in-depth preview, which \"entirely\" features footage captured from the PS5 version of the game, initially premiered on Netflix at 3PM ET. But because Rockstar allowed creators to post reaction videos, you've technically been able to watch the video on YouTube before the studio's official upload."
     },
     {
       "id": "e376039ba7dbff0a",
@@ -730,6 +720,16 @@
       "region": "global",
       "publishedAt": "2026-08-27T08:11:20.000Z",
       "summary": "A resident of Carnamoyle says quad bike riders in Lisnagra Woods have been impacting local wildlife."
+    },
+    {
+      "id": "5c76d5b08df6b42d",
+      "title": "UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’",
+      "url": "https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism",
+      "source": "The Guardian World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-08-27T08:00:09.000Z",
+      "summary": "Lawyers claim Eman el-Shazly, from Birmingham, was detained in effort to silence her sister, a critic of Sisi regime The UK Foreign Office has been asked to intervene to secure the release of a British-Egyptian woman who it is claimed has been arrested in Cairo because of her sister’s political activism. Eman el-Shazly, a 45-year-old based in Birmingham, was arrested on 16 August while visiting Egypt. Her lawyers say"
     },
     {
       "id": "019f677a6d06c171",
@@ -830,6 +830,16 @@
       "region": "global",
       "publishedAt": "2026-08-24T13:09:44.000Z",
       "summary": "The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation."
+    },
+    {
+      "id": "fcd54ebec4ef47c2",
+      "title": "Who’s Tracking You? Use This New Service to Find Out",
+      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "source": "Krebs on Security",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-08-14T11:24:35.000Z",
+      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtec"
     },
     {
       "id": "12d57fa016b467ee",
