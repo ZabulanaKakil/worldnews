@@ -1,125 +1,285 @@
 {
-  "generatedAt": "2026-09-05T04:10:03.833Z",
+  "generatedAt": "2026-09-05T12:35:10.816Z",
   "articles": [
     {
-      "id": "b8422a00f9c41d90",
-      "title": "Blasts at Bolivian military base kill at least 10, injure dozens",
-      "url": "https://www.aljazeera.com/news/2026/9/5/blasts-at-bolivian-military-base-kill-at-least-10-injure-dozens?traffic_source=rss",
+      "id": "34950b3a481f2932",
+      "title": "US envoys arrive in Moscow ahead of Ukraine talks",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-09-05T12:23:00.000Z",
+      "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday."
+    },
+    {
+      "id": "a04ed5f18f0b6788",
+      "title": "এমবাপ্পের পেনাল্টি মিসে রিয়ালের হার, ডুবল পিএসজিও: জয় পেল লিভারপুল",
+      "url": "https://www.prothomalo.com/video/sports/imlswn4x39",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-05T12:20:00.000Z",
+      "summary": "লা লিগায় বেতিসের কাছে রিয়াল মাদ্রিদের হার, লিগ আঁতে মোনাকোর কাছে হারল পিএসজি। তবে ইসাকের জোড়া গোলে লিগে প্রথম জয় পেয়েছে লিভারপুল"
+    },
+    {
+      "id": "66d08ee14be640ff",
+      "title": "সংসদ যখন সন্তোষজনকভাবে কার্যকর, তখন লংমার্চ গণ–আকাঙ্ক্ষার পরিপন্থী: প্রধানমন্ত্রীর উপদেষ্টা",
+      "url": "https://www.prothomalo.com/politics/ra85d4pank",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-05T12:19:17.000Z",
+      "summary": "বিদ্যুৎ ও জ্বালানি খাতের সংকটের প্রসঙ্গে জহির উদ্দিন বলেন, দীর্ঘমেয়াদি আমদানিনির্ভর ও ভুল নীতির কারণে অপরিহার্য এসব খাতে দেশকে আজ হিমশিম খেতে হচ্ছে।"
+    },
+    {
+      "id": "f433fbf684b8d02e",
+      "title": "রোহিঙ্গা সংকট আরও ঘনীভূত হয়েছে: শামা ওবায়েদ",
+      "url": "https://www.prothomalo.com/video/bangladesh/py7min57et",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-05T12:15:00.000Z",
+      "summary": "বছরের পর বছর ধরে চলা রোহিঙ্গা সংকট আরও ঘনীভূত হয়েছে বলে মনে করেন পররাষ্ট্র প্রতিমন্ত্রী শামা ওবায়েদ ইসলাম"
+    },
+    {
+      "id": "4372b5b666238ab1",
+      "title": "আশুলিয়ায় তালাবদ্ধ ঘর থেকে স্বামী ও অন্তঃসত্ত্বা স্ত্রীর লাশ উদ্ধার",
+      "url": "https://www.prothomalo.com/video/bangladesh/8f0s0v1ydz",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-05T12:13:07.000Z",
+      "summary": "দেশ-বিদেশের গুরুত্বপূর্ণ সব খবর নিয়ে প্রথম আলোর নিয়মিত আয়োজন ‘বার্তাসংক্ষেপ’"
+    },
+    {
+      "id": "b5b514403746cddf",
+      "title": "Pogacar will miss rest of season after Vuelta crash",
+      "url": "https://www.bbc.co.uk/sport/cycling/articles/c1dle4xep96o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-09-05T12:11:51.000Z",
+      "summary": "Five-time Tour de France champion Tadej Pogacar will not race again this season after suffering injuries including a fracture in his neck at the Vuelta a Espana."
+    },
+    {
+      "id": "5871908e45cb089d",
+      "title": "Israel must protect West Bank’s Palestinians amid settler pogroms: US envoy",
+      "url": "https://www.aljazeera.com/news/2026/9/5/israel-must-guarantee-safety-of-west-bank-population-ambassador?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "middle_east",
+      "publishedAt": "2026-09-05T12:04:52.000Z",
+      "summary": "Huckabee labels some of the settlers committing violence as 'terrorists' though analysts say his visit is 'symbolic'."
+    },
+    {
+      "id": "b7a5e5e7185ddb3a",
+      "title": "৫ কেজি চুল দিয়ে তৈরি গাউন",
+      "url": "https://www.prothomalo.com/fun/8v08kptftk",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-05T12:03:31.000Z",
+      "summary": ""
+    },
+    {
+      "id": "137a6f24bed0bdf7",
+      "title": "চুরির অভিযোগে দুই তরুণের মাথার চুল কেটে ঘোরানো হলো সড়কে",
+      "url": "https://www.prothomalo.com/bangladesh/district/4nap4v7mmn",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-05T12:03:16.000Z",
+      "summary": "ভিডিওতে দেখা যায়, এক তরুণের মাথার মাঝখানের চুল কেটে দেওয়া। আরেক তরুণের পুরো মাথা ন্যাড়া করা। দুজনের হাতেই হাতকড়া ছিল।"
+    },
+    {
+      "id": "4867ab93a6c7ce4c",
+      "title": "ডিপ্রেশন নিয়ে লিখলেন তৌসিফ, বুবলী দিলেন খলনায়কের সঙ্গে ছবি",
+      "url": "https://www.prothomalo.com/entertainment/lo9hg8zds5",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-05T12:00:00.000Z",
+      "summary": "‘ডিপ্রেশন বলে যে একটা ব্যাপার আছে, সেটা বেশির ভাগ মানুষ মানতেই চায় না! ভাবে সে ঢং করতেসে।’"
+    },
+    {
+      "id": "48e33634d5cdb8dd",
+      "title": "ডাক",
+      "url": "https://www.prothomalo.com/onnoalo/poem/qro6hygfrx",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-05T12:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "291395090038dfd7",
+      "title": "সেই পুকোভস্কিকে ক্ষতিপূরণ দিচ্ছে ক্রিকেট অস্ট্রেলিয়া",
+      "url": "https://www.prothomalo.com/sports/cricket/ozpgoaql77",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-05T11:53:44.000Z",
+      "summary": "মাথায় বারবার আঘাত পাওয়ার প্রভাবে পুকোভস্কির এখনো দৃষ্টিসংক্রান্ত সমস্যা, মাথাব্যথা ও বমি বমি ভাব রয়েছে।"
+    },
+    {
+      "id": "c8b43c8c50e9d027",
+      "title": "পরমাণুর ভেতরের যৌথ পরিবারের গল্প!",
+      "url": "https://www.bigganchinta.com/physics/8tqi82u6yx",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-05T11:52:57.000Z",
+      "summary": ""
+    },
+    {
+      "id": "f26a3ff952c70b4f",
+      "title": "Pickleball and dining: Why courts are the new food destinations",
+      "url": "https://www.aljazeera.com/features/longform/2026/9/5/pickleball-and-dining-why-courts-are-the-new-food-destinations?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "war_conflict",
       "region": "global",
-      "publishedAt": "2026-09-05T03:56:16.000Z",
-      "summary": "Authorities say seven people are still missing after deadly explosions at a facility storing pyrotechnic material."
+      "publishedAt": "2026-09-05T11:48:16.000Z",
+      "summary": "The fastest-growing sport in the US is the 'eatertainment' trend’s new darling. How long will it last?"
     },
     {
-      "id": "4c16aeb9031ad2aa",
-      "title": "প্রত্যাবর্তনে টাইব্রেকারে হেরে বিদায় উইলিয়ামস বোনদের",
-      "url": "https://www.prothomalo.com/sports/tennis/v5v610ngr8",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-05T03:51:44.000Z",
-      "summary": "ইউএস ওপেনে মেয়েদের দ্বৈত ইভেন্টের প্রথম রাউন্ডে হেরে বিদায় নিয়েছেন সেরেনা উইলিয়ামস ও ভেনাস উইলিয়ামস।"
-    },
-    {
-      "id": "0c30fac6cbf308ae",
-      "title": "Malaysia declares emergency in Sarawak as haze from Indonesia worsens",
-      "url": "https://www.aljazeera.com/news/2026/9/5/malaysia-declares-emergency-in-sarawak-as-haze-from-indonesia-worsens?traffic_source=rss",
+      "id": "42db8868c27da039",
+      "title": "LIVE: India vs Pakistan – Women’s T20 Asia Cup",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/9/5/live-india-vs-pakistan-womens-t20-asia-cup?traffic_source=rss",
       "source": "Al Jazeera",
-      "category": "environment",
+      "category": "sports",
       "region": "asia_pacific",
-      "publishedAt": "2026-09-05T03:48:17.000Z",
-      "summary": "Country implements state of emergency in Sarawak's Serian district after air pollution reaches 'hazardous' levels."
+      "publishedAt": "2026-09-05T11:32:07.000Z",
+      "summary": "Follow the updates from our live build-up to our text commentary stream coverage of the Group A match in Dubai."
     },
     {
-      "id": "a0d209c650eb8f6e",
-      "title": "রাশিয়ার কাছে গ্রেট ব্রিটেন কেন আর ‘গ্রেট’ নয়",
-      "url": "https://www.prothomalo.com/world/europe/emrgpmmzzh",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-05T03:46:44.000Z",
-      "summary": "রুশ পররাষ্ট্র মন্ত্রণালয় জোর দিয়ে বলেছে, লন্ডনের আচরণের কারণে দুই দেশের সম্পর্কের মান এরই মধ্যে সর্বকালের নিম্ন পর্যায়ে রয়েছে।"
+      "id": "191e029049be111b",
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-09-05T11:15:55.000Z",
+      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote in a post on X on Saturday morning, \"it's past time for us to define "
     },
     {
-      "id": "aaa35da367e4903e",
-      "title": "Did Israel’s destruction of Gaza worsen its water crisis?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/did-israels-destruction-of-gaza-worsen-its-water-crisis?traffic_source=rss",
+      "id": "6ac530adaa3c1ffa",
+      "title": "Robotaxis enter their villain era",
+      "url": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "americas",
+      "publishedAt": "2026-09-05T11:00:00.000Z",
+      "summary": "It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explanation says something about the present moment. Autonomous cars have gone from sci-fi curiosities to fixtures in some American cities, where they've become stand-ins for anxieties abo"
+    },
+    {
+      "id": "569692f49fb96f08",
+      "title": "Mudslide in eastern China kills one, leaves 11 missing",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/mudslide-in-eastern-china-kills-one-leaves-11-missing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-09-05T10:49:23.000Z",
+      "summary": "A mudslide triggered by days of heavy rain in Jiangxi province, China, has killed one person and left 11 missing."
+    },
+    {
+      "id": "84046d701e6f0783",
+      "title": "Antonelli 'disrupting rules of fandom' in Ferrari's Italy",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cj03m124lp3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-09-05T10:37:00.000Z",
+      "summary": "BBC Sport heads to Monza to find out if Italians want Kimi Antonelli to win the F1 title or if it is all about Ferrari."
+    },
+    {
+      "id": "4eb6543d1dca6c59",
+      "title": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
+      "url": "https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-09-05T10:27:23.000Z",
+      "summary": "Ukrainian armed forces were ordered to follow a three-day ceasefire as US envoys visit Moscow, before trip to Kyiv."
+    },
+    {
+      "id": "8508f027c83e4c8a",
+      "title": "‘It cost me many friendships’: former Brazil military chief reveals inside struggle to stop Bolsonaro’s coup",
+      "url": "https://www.theguardian.com/world/2026/sep/05/jair-bolsonaro-coup-plan-2022-election-brazil-air-force-baptista-junior",
+      "source": "The Guardian World",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-09-05T10:00:34.000Z",
+      "summary": "Carlos de Almeida Baptista Júnior describes 2022 meeting in new book as ex-leader’s son vies with Lula for presidency The far-right populist Jair Bolsonaro was in his final days as Brazil’s president when, six weeks after losing the election and still refusing to recognise the result, he summoned the heads of the armed forces to a meeting. The defence minister, Gen Paulo Sérgio Nogueira de Oliveira, took out a docum"
+    },
+    {
+      "id": "303ed8cd3208cfd7",
+      "title": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
+      "url": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "middle_east",
+      "publishedAt": "2026-09-05T09:56:53.000Z",
+      "summary": "As oil tanker struck off Kharg island, Trump threatens one of the remaining parts of Iran’s nuclear complex."
+    },
+    {
+      "id": "e0cce7daf20b0da9",
+      "title": "US ambassador to Israel meets Palestinian-Americans in occupied West Bank",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "americas",
+      "publishedAt": "2026-09-05T09:52:44.000Z",
+      "summary": "US Ambassador to Israel Mike Huckabee has visited Turmus Ayya in the occupied West Bank."
+    },
+    {
+      "id": "1fe4d3e8ca14eec4",
+      "title": "Qatar removed from Fitch’s negative watch list as risks to LNG sites ease",
+      "url": "https://www.aljazeera.com/economy/2026/9/5/fitch-removes-qatar-from-rating-watch-as-lng-risks-ease?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "war_conflict",
       "region": "middle_east",
-      "publishedAt": "2026-09-05T03:46:20.000Z",
-      "summary": "Scientists say Israel’s destruction of Gaza’s sewage system may have worsened the Mediterranean's algae bloom crisis."
+      "publishedAt": "2026-09-05T09:48:48.000Z",
+      "summary": "The global ratings agency has also maintained the country’s sovereign rating at AA."
     },
     {
-      "id": "e5e269afe5be6824",
-      "title": "প্রতি মণ ধানের দাম ৮০০-৯৫০ টাকা, খরচই উঠছে না কৃষকের",
-      "url": "https://www.prothomalo.com/business/s7l4c24kw0",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-05T03:30:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "9f3da2d207612c4a",
-      "title": "বিপ্লবের উত্তাল সময়ে লেখা সাতটি ঐতিহাসিক উপন্যাস",
-      "url": "https://www.prothomalo.com/onnoalo/books/urpbzshgy2",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-05T03:15:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "2a87e4f4d4d4d880",
-      "title": "সরকারি সংস্থার দায় এড়ানোর সুযোগ নেই",
-      "url": "https://www.prothomalo.com/opinion/editorial/1und1gk3gt",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-05T03:15:00.000Z",
-      "summary": "জাহাজাভাঙা শিল্পের সাফল্য নিয়ে যতটা প্রচার হয়, এর প্রতিটি ধাপে অবহেলা, অনিয়ম ও কাগজের জালিয়াতির বিষয়টি ততটা প্রকাশ পায় না।"
-    },
-    {
-      "id": "34d3e354c7e6cad7",
-      "title": "After Pretoria peace deal, old enemies in Ethiopia’s Tigray find new ground",
-      "url": "https://www.aljazeera.com/news/2026/9/5/after-pretoria-peace-deal-old-enemies-in-ethiopias-tigray-find-new-ground?traffic_source=rss",
+      "id": "ed2ff3c7f804cb32",
+      "title": "Fenerbahce’s Greenwood, Guendouzi handed fines and bans after brawl at Lyon",
+      "url": "https://www.aljazeera.com/sports/2026/9/5/fenerbahces-greenwood-guendouzi-handed-fines-and-bans-after-brawl-at-lyon?traffic_source=rss",
       "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "africa",
-      "publishedAt": "2026-09-05T03:05:28.000Z",
-      "summary": "The 2022 peace deal ended the war but left key disputes unresolved, giving the TPLF room to regroup as tensions return."
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-09-05T09:44:45.000Z",
+      "summary": "Fights between players and coaching staff broke out after the Turkish side won the Champions League playoff second leg."
     },
     {
-      "id": "3fa48859d4b808ff",
-      "title": "রিং ছাড়াই যেখানে তৈরি হয় রিংয়ের যোদ্ধা",
-      "url": "https://www.prothomalo.com/sports/other-sports/dxc0qxsrn2",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-05T03:00:00.000Z",
-      "summary": "একটি সাধারণ আবাসিক কলোনি কীভাবে আস্ত এক বক্সিংপাড়ায় রূপ নিল? এর পেছনের ইতিহাস প্রায় চার দশক আগের।"
+      "id": "0e0a77ba7a7811a2",
+      "title": "No Brits left in US Open singles - but are there reasons to be positive?",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cy4zvjk74ppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-09-05T09:26:14.000Z",
+      "summary": "There will be no British interest in the second week of another Grand Slam at the US Open - but is it all doom and gloom?"
     },
     {
-      "id": "8c4657ba9f523c52",
-      "title": "নামাজের সেজদায় কি ভিন্ন ভাষায় দোয়া করা যায়",
-      "url": "https://www.prothomalo.com/religion/islam/emuwto1gsw",
-      "source": "Prothom Alo",
+      "id": "d497b1a17c6a7ec8",
+      "title": "Trump signs order to remove endangered species protection for grey wolves",
+      "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-05T03:00:00.000Z",
-      "summary": "স্বাভাবিকভাবেই এই প্রশ্ন আসে, আরবি ভাষায় দক্ষতা না থাকা সাহাবি বা তাবেয়িদের মধ্যেও কি নামাজের সেজদায় অনারবি ভাষায় দোয়া করার দৃষ্টান্ত পাওয়া যায়?"
+      "region": "global",
+      "publishedAt": "2026-09-05T09:12:48.000Z",
+      "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations."
     },
     {
-      "id": "fc451fb60164d746",
-      "title": "৬৫ বছর বয়সে স্কেটবোর্ডে দাপট, ছেলে-নাতিকে নিয়ে ভাইরাল দাদি",
-      "url": "https://www.prothomalo.com/video/international/hzsd09wgqs",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-05T03:00:00.000Z",
-      "summary": "চীনের শানডং প্রদেশে ৬৫ বছর বয়সেও থামেননি দোং ঝিইং নামের এক নারী। ছেলে ও নাতির সাথে স্কেটবোর্ডিং করেন তিনি"
+      "id": "3e968aa33fbd2502",
+      "title": "Orangutan mother and infant rescued from wildfire-hit forest in Indonesia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/orangutan-mother-and-infant-rescued-from-wildfire-hit-forest-in-indonesia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "disasters",
+      "region": "asia_pacific",
+      "publishedAt": "2026-09-05T08:44:40.000Z",
+      "summary": "A mother orangutan and her infant have been rescued from a shrinking patch of forest threatened by wildfires."
     },
     {
       "id": "73880582199ec2cf",
@@ -128,58 +288,38 @@
       "source": "BBC World",
       "category": "war_conflict",
       "region": "global",
-      "publishedAt": "2026-09-05T02:59:40.000Z",
+      "publishedAt": "2026-09-05T08:41:38.000Z",
       "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions."
     },
     {
-      "id": "4f56f5bda6f338fb",
-      "title": "দ্রুততম সময়ে নতুন ভবনের কাজ শেষ হোক",
-      "url": "https://www.prothomalo.com/opinion/editorial/yowvmwuauy",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-05T02:59:20.000Z",
-      "summary": "সবচেয়ে দুঃখজনক ও বৈপরীত্যপূর্ণ বিষয় হলো, হাসপাতালটিতে আইসিইউ ও এইচডিইউর জন্য ৩০টি শয্যা থাকা সত্ত্বেও প্রয়োজনীয় যন্ত্রপাতি ও জনবলের অভাবে তা সম্পূর্ণ অকেজো হয়ে পড়ে রয়েছে।"
+      "id": "613f50654cc7a202",
+      "title": "I've never spoken to Everton owner Friedkin - Moyes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gl3wx8g64o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-09-05T08:40:13.000Z",
+      "summary": "Everton manager David Moyes says he has never met or spoken to the club's owner Dan Friedkin."
     },
     {
-      "id": "e372f6c0c4055a28",
-      "title": "‘To challenge deadly blockade’: New flotilla mission sets sail for Gaza",
-      "url": "https://www.aljazeera.com/news/2026/9/5/to-challenge-deadly-blockade-new-flotilla-mission-sets-sail-for-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "diplomacy",
-      "region": "middle_east",
-      "publishedAt": "2026-09-05T02:43:23.000Z",
-      "summary": "Human rights advocates call for diplomatic measures to guarantee flotilla safety and end Israel's deadly Gaza blockade."
-    },
-    {
-      "id": "0286c81103c00f31",
-      "title": "Tate brothers charged with further trafficking and sex crimes in Romania",
+      "id": "789da3b250f70286",
+      "title": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
       "url": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world_politics",
       "region": "europe",
-      "publishedAt": "2026-09-05T02:29:21.000Z",
+      "publishedAt": "2026-09-05T07:20:17.000Z",
       "summary": "Andrew and Tristan Tate are currently in a Miami jail fighting extradition to the UK over separate charges and deny all the allegations."
     },
     {
-      "id": "d03ffca926628dd6",
-      "title": "Ecuador defends US sinking of vessels as joint anti-drug operation",
-      "url": "https://www.aljazeera.com/news/2026/9/5/ecuador-defends-us-sinking-of-vessels-as-joint-anti-drug-operation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
+      "id": "70554655dae65f76",
+      "title": "Ancient cave art discovery suggests first known humans in Ireland walked over from Wales",
+      "url": "https://www.bbc.co.uk/news/articles/c5y75dl0jpko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "creativity_arts",
       "region": "global",
-      "publishedAt": "2026-09-05T01:46:50.000Z",
-      "summary": "Relatives of detained crew say US forces acted without evidence, claiming the men were fishermen, not smugglers."
-    },
-    {
-      "id": "e0b58b1239440f32",
-      "title": "Asylum seekers caught in US immigration crackdown",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/asylum-seekers-caught-in-us-immigration-crackdown?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-09-05T01:27:31.000Z",
-      "summary": "Dree Collopy argues it could make people who lawfully enter the US more vulnerable to arrest and deportation."
+      "publishedAt": "2026-09-05T05:52:05.000Z",
+      "summary": "During the most recent Ice Age, researchers believe there was a \"lost land bridge\" between Wales and Ireland."
     },
     {
       "id": "8d637105f97947c6",
@@ -190,16 +330,6 @@
       "region": "africa",
       "publishedAt": "2026-09-05T00:53:11.000Z",
       "summary": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it."
-    },
-    {
-      "id": "9a82deb36e345fd4",
-      "title": "EU official Marta Kos cancels Serbia trip over planned Mladic tribute",
-      "url": "https://www.aljazeera.com/news/2026/9/5/senior-eu-official-cancels-serbia-trip-over-planned-tribute-to-mladic?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "europe",
-      "publishedAt": "2026-09-05T00:19:17.000Z",
-      "summary": "EU enlargement chief condemns Ratko Mladic ‘glorification’ as incompatible with European values."
     },
     {
       "id": "57ba6046b9fa8577",
@@ -222,16 +352,6 @@
       "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids."
     },
     {
-      "id": "0b76e093d97298d6",
-      "title": "Improving Alcaraz underlines title credentials in wide-open draw",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/ce8eglv5j83o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-09-04T22:37:42.000Z",
-      "summary": "Defending champion Carlos Alcaraz underlines his US Open title credentials by sweeping aside Wu Yibing to reach the fourth round as the draw opens up further."
-    },
-    {
       "id": "bf51d5d33c44c842",
       "title": "Isak finally arrives as Gakpo proves value to Liverpool",
       "url": "https://www.bbc.co.uk/sport/football/articles/c209xvxe558o?at_medium=RSS&at_campaign=rss",
@@ -242,54 +362,14 @@
       "summary": "Has the real Alexander Isak finally arrived at Liverpool after his two-goal display in their Premier League win at Ipswich Town, asks chief football writer Phil McNulty?"
     },
     {
-      "id": "18f5a318d0794d82",
-      "title": "'It's so strong' - Sabalenka halts play over cannabis smell",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/c4gm2607p0zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-09-04T22:08:20.000Z",
-      "summary": "Aryna Sabalenka briefly halts her US Open match against Kamilla Rakhimova because of the smell of cannabis before going on to reach the fourth round."
-    },
-    {
-      "id": "b86d7313a130cc06",
-      "title": "How London City proved they can live up to the hype",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czxz1vnwgz6o?at_medium=RSS&at_campaign=rss",
+      "id": "9057aa2a5a46b4eb",
+      "title": "'Best bend I've ever run' - Hunt's strong season continues in Brussels",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cwyzn491wldo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
       "region": "europe",
-      "publishedAt": "2026-09-04T22:02:34.000Z",
-      "summary": "There was an expectation on London City Lionesses to live up to the hype and deliver in the Women's Super League's season opener - and they did."
-    },
-    {
-      "id": "70554655dae65f76",
-      "title": "Ancient cave art discovery suggests first known humans in Ireland walked over from Wales",
-      "url": "https://www.bbc.co.uk/news/articles/c5y75dl0jpko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-09-04T22:01:41.000Z",
-      "summary": "During the most recent Ice Age, researchers believe there was a \"lost land bridge\" between Wales and Ireland."
-    },
-    {
-      "id": "a7e71fe6fced1957",
-      "title": "Isak's early double gives Liverpool victory over Ipswich",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cgmr1z492k9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-09-04T21:31:56.000Z",
-      "summary": "Alexander Isak scores twice in the opening ten minutes as Liverpool pick up their first win of the season with a 2-0 victory at Ipswich."
-    },
-    {
-      "id": "341b6897c5a3c387",
-      "title": "FA to canvass England players in World Cup review",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyr1ly8z4xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-09-04T21:28:23.000Z",
-      "summary": "The Football Association's review into England's World Cup campaign will canvass the opinions of players involved in the tournament."
+      "publishedAt": "2026-09-04T21:32:46.000Z",
+      "summary": "Amy Hunt's strong late-season form showed no signs of letting up as she clocked a season's best to finish third in the 200m at the Diamond League final in Brussels."
     },
     {
       "id": "8b74fff42c0f1ade",
@@ -300,36 +380,6 @@
       "region": "global",
       "publishedAt": "2026-09-04T21:23:50.000Z",
       "summary": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was circulating last October. But more importantly, all the promised improvements to the self-proclaimed \"world's most popular audio editing and recording app\" are here, turning Audaci"
-    },
-    {
-      "id": "1065b5dc838cd280",
-      "title": "Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y5g5vq00lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-09-04T20:54:30.000Z",
-      "summary": "How Liverpool and Ipswich Town's players rated following their Premier League match."
-    },
-    {
-      "id": "d460483ad58f5fd2",
-      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-      "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-09-04T20:03:52.000Z",
-      "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled."
-    },
-    {
-      "id": "bd67e8c8e68c68c4",
-      "title": "Emotional Taylor steps on the scales one final time",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/cvgy95v3pjdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-09-04T19:11:53.000Z",
-      "summary": "Katie Taylor and Flora Pili weigh in under the light-welterweight limit at a sun-kissed Trinity College in Dublin before they fight for the undisputed title at Croke Park on Saturday."
     },
     {
       "id": "39f7d1db87381f23",
@@ -360,16 +410,6 @@
       "region": "europe",
       "publishedAt": "2026-09-04T17:16:49.000Z",
       "summary": "OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that \"the AGI era\" is here now. Today on The Vergecast, we've got an all-star panel to break down the news of the week. First, senior AI reporter Hayden Field joins us to talk about our supposed AGI era and Nvidia's acquisition of Hugging Face. Then, our friend Joanna Stern pops in to talk about new Apple CEO John Ternus, old Apple CEO Tim Cook, "
-    },
-    {
-      "id": "10a646120ed7ab10",
-      "title": "Argentine couple to return Nazi-looted painting to rightful owner",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-09-04T17:14:21.000Z",
-      "summary": "The late-baroque Portrait of a Lady was lost for 80 years until it was spotted in photographs of a house for sale near Buenos Aires."
     },
     {
       "id": "5a8ade8ddc1f7430",
@@ -462,16 +502,6 @@
       "summary": "OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publication."
     },
     {
-      "id": "3e49245b279eb6fa",
-      "title": "What to expect at Apple’s September 9th launch event",
-      "url": "https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-09-04T14:52:00.000Z",
-      "summary": "Apple's September 9th launch event could be one of its biggest in years. It will be Apple's first event since John Ternus took over as CEO on September 1st, stepping in for Tim Cook, and will likely feature the first models in Apple's iPhone 18 lineup. That could include the long-rumored foldable \"iPhone Ultra,\" coming just a couple months after Samsung debuted its own passport-style foldable, the Galaxy Z Fold 8. He"
-    },
-    {
       "id": "c1d432ecf607b3cc",
       "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
       "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
@@ -482,44 +512,14 @@
       "summary": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river."
     },
     {
-      "id": "0b70d87b8f25d128",
-      "title": "Nintendo&#8217;s next two Direct events are both happening next week",
-      "url": "https://www.theverge.com/games/990207/nintendo-direct-zelda-40th",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-09-04T14:29:44.000Z",
-      "summary": "Nintendo just announced two Direct events for next week, scheduled back to back. First up is the Legend of Zelda 40th Anniversary Direct on September 8th at 10AM ET / 7AM PT. It's set to last around 30 minutes, streaming live on Nintendo's YouTube channel or the Nintendo Today app. Images recently leaked showing a special-edition 40th anniversary Zelda Switch 2 console and controller, plus there's the Ocarina of Time"
-    },
-    {
-      "id": "50923c96009bfcb4",
-      "title": "‘Like a tired boxer, battered by applause’: as Andrew Scott’s biopic premieres, Richard Eyre remembers Ian Charleson’s superb, near-death Hamlet",
-      "url": "https://www.theguardian.com/film/2026/sep/04/like-a-tired-boxer-battered-by-applause-as-andrew-scotts-biopic-premieres-richard-eyre-remembers-ian-charlesons-superb-near-death-hamlet",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "europe",
-      "publishedAt": "2026-09-04T14:03:50.000Z",
-      "summary": "In 1989, the Chariots of Fire actor took on the incredible task of playing Shakespeare’s prince while terminally ill from Aids. This weekend sees the world premiere of Elsinore, a new film about the episode, itself heavily-tipped for awards Ian Charleson was one of the finest actors of his generation and an important figure in the fight for gay rights. Yet the extraordinary circumstances of his final performance as H"
-    },
-    {
-      "id": "a237247fe2956871",
-      "title": "39 New Methods That Compromise Passkey Authentication",
-      "url": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
-      "source": "BleepingComputer",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-09-04T14:01:11.000Z",
-      "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credentials, enrollment, recovery, and other trust boundaries without breaking FIDO2 cryptography. [...]"
-    },
-    {
-      "id": "ed87930cef6f83fe",
-      "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
-      "url": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
+      "id": "0c1a12a351e88dbe",
+      "title": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
+      "url": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-09-04T13:00:44.000Z",
-      "summary": "King Oyo died in the US last week aged 34 after receiving treatment for an aggressive form of cancer."
+      "region": "americas",
+      "publishedAt": "2026-09-04T12:30:56.000Z",
+      "summary": "More than 1,300 people have died and thousands are missing, but rescuers' hopes have risen after finding survivors in a tunnel."
     },
     {
       "id": "3c32699e9f78092f",
@@ -530,16 +530,6 @@
       "region": "middle_east",
       "publishedAt": "2026-09-04T11:55:19.000Z",
       "summary": "The writer-director once called Israel’s ‘one-man New Wave’ is in Venice with The Road to Jericho, a new and poetic attempt to highlight the plight of those in the occupied West Bank The Palestinian village of Khan al-Ahmar sits off dust-blown Highway-1, between Jerusalem and Jericho in the Israeli-occupied West Bank. At the village centre is the “school of tires”, a fragile construction of rubber, wood and adobe whi"
-    },
-    {
-      "id": "f76bb3ad2f0fbd93",
-      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
-      "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-09-04T11:54:51.000Z",
-      "summary": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory."
     },
     {
       "id": "a037aafb89f04286",
@@ -562,6 +552,16 @@
       "summary": "Nacho Pezzati’s new album Swerved taps into the moody ambience of the UK north-west underground, ratcheting a tangible and thrilling sense of unease From Barcelona, Spain Recommend if you like Space Afrika, Shackleton, Purelink Up next Swerved out now Swerved, by Barcelona-based producer Nueen (Nacho Pezzati) is a bassy, moody, darkly ambient album that travels through R&B, drill, cloud rap and dub without any obviou"
     },
     {
+      "id": "73226caa31a18fe7",
+      "title": "Stock up on food to prepare for extreme weather, minister says",
+      "url": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-09-04T10:40:23.000Z",
+      "summary": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter."
+    },
+    {
       "id": "fb41e2c8755afa05",
       "title": "Javier Milei: ‘winds of change’ support Argentina’s claim to Falkland Islands",
       "url": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
@@ -570,16 +570,6 @@
       "region": "americas",
       "publishedAt": "2026-09-04T09:31:52.000Z",
       "summary": "President cites Trump’s suggestion that he might reconsider US stance on British sovereignty and threatens swifter sanctions on UK oil interests President Javier Milei has said “winds of change” favourable to Argentina’s claim to the Falkland Islands are blowing around the world in a televised address, citing signs that Donald Trump may reconsider the US position on the islands’ sovereignty. “Recently, President Trum"
-    },
-    {
-      "id": "1be5b54035fbe5f2",
-      "title": "Jackdaw gasfield set to be approved by ministers this month, sources say",
-      "url": "https://www.theguardian.com/environment/2026/sep/04/jackdaw-gasfield-set-to-be-approved-by-ministers-this-month-sources-say",
-      "source": "The Guardian Environment",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-09-04T07:55:07.000Z",
-      "summary": "Energy secretary could recommend new North Sea drilling next week, as ministers also consider approval for Rosebank oilfield Ministers are poised to approve a controversial new gasfield in the North Sea this month, according to government sources, and are considering approving a major oilfield later this year. Miatta Fahnbulleh, the energy secretary, will give her recommendation to approve the Jackdaw field off the c"
     },
     {
       "id": "a18a1c494f0c64a7",
@@ -610,16 +600,6 @@
       "region": "global",
       "publishedAt": "2026-09-04T06:52:29.000Z",
       "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it."
-    },
-    {
-      "id": "a8a129afd0de25fa",
-      "title": "Moveable feast: myna birds on Sydney train looking for food not ‘joyride’ in viral video",
-      "url": "https://www.theguardian.com/environment/2026/sep/04/expert-explains-myna-birds-on-sydney-train-viral-video",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "asia_pacific",
-      "publishedAt": "2026-09-04T06:35:41.000Z",
-      "summary": "Mynas are ‘incredibly good learners’ and likely hopped on the inner-city train to scrounge, expert says Get our breaking news email, free app or daily news podcast A viral video of common myna birds appearing to calmly ride a Sydney train in place of winged flight has shocked social media users. But not experts, who say it makes perfect sense that avian life has adapted to routinely navigate public transport. Bird li"
     },
     {
       "id": "2b656905241bad94",
@@ -682,6 +662,16 @@
       "summary": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps."
     },
     {
+      "id": "61e250fd38c6a3f8",
+      "title": "Is India's internet boom running into an undersea problem?",
+      "url": "https://www.bbc.co.uk/news/articles/cx2r2mzelxko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "technology",
+      "region": "asia_pacific",
+      "publishedAt": "2026-09-03T23:40:08.000Z",
+      "summary": "At least 13 of India's 18 intercontinental cables come ashore within six kilometres of Mumbai's Versova beach."
+    },
+    {
       "id": "2ae46af1c4d4b166",
       "title": "AI data centres are booming in Australia - but at what cost?",
       "url": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
@@ -710,16 +700,6 @@
       "region": "global",
       "publishedAt": "2026-09-03T16:32:05.000Z",
       "summary": "The deal gives Nvidia control of a leading open-source AI platform and developer community."
-    },
-    {
-      "id": "572ad709d2f2aa02",
-      "title": "Nobel laureate Machado: ‘Illegitimate’ Venezuela regime has no right to strike US oil deal",
-      "url": "https://www.theguardian.com/world/2026/sep/03/venezuelan-opposition-leader-questions-us-oil-deal-with-illegitimate-regime",
-      "source": "The Guardian World",
-      "category": "diplomacy",
-      "region": "global",
-      "publishedAt": "2026-09-03T16:17:29.000Z",
-      "summary": "Opposition leader says interim government lacking democratic mandate to negotiate on natural resources • The US and Venezuela: a century-old relationship drenched in oil The Venezuelan opposition leader María Corina Machado has questioned Donald Trump’s oil deal with Venezuela’s interim government, saying the country’s natural resources do not belong to “an illegitimate regime”. In her first public comments since Tru"
     },
     {
       "id": "ff87a87d49cd632e",
@@ -772,6 +752,16 @@
       "summary": "From New York to Quebec, photographer Bryan Anselm spent months capturing spaces overrun with plastic and the actions individuals and groups are taking to reduce waste In New York City, the plastic we discard has a way of remaining in plain sight. There are few alleys to hide residents’ refuse, and the clear recycling bags leave their contents on full display. In a city built on a dense grid, lightweight wrappers, ba"
     },
     {
+      "id": "a23066e6adad4f70",
+      "title": "Tall tales: the 20 best giants in film – ranked!",
+      "url": "https://www.theguardian.com/film/2026/sep/03/best-giants-in-film-ranked",
+      "source": "The Guardian Culture",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-09-03T12:00:28.000Z",
+      "summary": "On the 300th anniversary of Gulliver’s Travels, we celebrate the biggest film stars of them all – from a stone colossus to a metal-munching alien and a 50ft woman on the rampage Not a first-person-shooter BFG, alas, but one of Steven Spielberg’s worst films, reducing Roald Dahl’s story to digital pap. Mo-cap Mark Rylance, whose cutesy ungrammatical babbling should have been left on the printed page, is the 24ft Big F"
+    },
+    {
       "id": "b0a02b81c7d483f9",
       "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
       "url": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
@@ -790,16 +780,6 @@
       "region": "africa",
       "publishedAt": "2026-09-03T10:11:37.000Z",
       "summary": "Claim relating to 1960 attack on hundreds of protesters part of wave of litigation over apartheid crimes in South Africa The day dawned brightly on 21 March 1960, as residents of the South African township of Sharpeville gathered to protest against pass laws, which forced “Black, Indian and Coloured” South Africans to carry documents at all times specifying where they were allowed to be. Abraham Mofokeng joined the m"
-    },
-    {
-      "id": "f9daf7135d3676e8",
-      "title": "Stormy autumn, cold winter - how might El Niño affect the UK weather?",
-      "url": "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "europe",
-      "publishedAt": "2026-09-03T09:13:54.000Z",
-      "summary": "This year's El Niño is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn."
     },
     {
       "id": "f926e697c2c07208",
@@ -920,16 +900,6 @@
       "region": "americas",
       "publishedAt": "2026-07-12T12:00:18.000Z",
       "summary": "Dozens of projects are in development across US despite concerns over environmental and health risks The plan to bury carbon under remote Indiana farmland is supposed to be a slam dunk for the climate, according to its supporters – all generously funded by US tax dollars. But as far as Melissa Harrison and some other residents of Clymers, Indiana, are concerned, it just might be the end of their town. “This is our pl"
-    },
-    {
-      "id": "7e5f6944a1fd7591",
-      "title": "দেশি-বিদেশি লুকে সুনেরাহর 'নেচার রিট্রিট'",
-      "url": "https://www.haal.fashion/celeb/look/8q67e11tsi",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2024-04-17T05:34:45.000Z",
-      "summary": "অভিনেত্রী সুনেরাহ বিনতে কামাল সম্প্রতি সূর্যমুখী ফুল আর গাছগাছালির মাঝে ফ্রেমবন্দী হয়েছেন মোহনীয় রূপে"
     }
   ]
 }
