@@ -1,205 +1,395 @@
 {
-  "generatedAt": "2026-09-08T05:48:16.597Z",
+  "generatedAt": "2026-09-08T11:04:53.253Z",
   "articles": [
     {
-      "id": "18676ed9ae12185b",
-      "title": "Palestine weekly: Israeli ministers push for depopulation of Gaza",
-      "url": "https://www.aljazeera.com/news/2026/9/8/palestine-weekly-israeli-ministers-push-for-depopulation-of-gaza?traffic_source=rss",
+      "id": "793cc51f4cfd5c18",
+      "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
+      "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-09-08T11:00:10.000Z",
+      "summary": "The move saw outraged staff walk off the job on Monday, closing the French landmark for a day."
+    },
+    {
+      "id": "f0ab512b81d63dc4",
+      "title": "মৌসুমী হামিদ বললেন, ‘এই দেশে শিল্পী হওয়াটাই পাপ’",
+      "url": "https://www.prothomalo.com/entertainment/tv/qeeknetq9t",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-08T10:45:00.000Z",
+      "summary": "বিদেশের মাটিতে বাঁধনের ওপর হামলা ঘটনা মনে করিয়ে দেয়, ‘এই দেশে শিল্পী হওয়াটাই যেন পাপের।’"
+    },
+    {
+      "id": "9044aeb9615a753f",
+      "title": "নামেই ইসলামি ব্যাংকিং? সমস্যা ধারণায় নাকি প্রয়োগে?",
+      "url": "https://www.prothomalo.com/opinion/column/nbpl7ny1fj",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-08T10:42:20.000Z",
+      "summary": "ইসলামি ব্যাংকিং নিয়ে আইন, বিচার ও সংসদবিষয়ক মন্ত্রী মো. আসাদুজ্জামানের সাম্প্রতিক এক মন্তব্য খাতসংশ্লিষ্ট ব্যক্তিদের মধ্যে উল্লেখযোগ্য আলোচনা সৃষ্টি করেছে। এ নিয়ে জাতীয় সংসদেও আলোচনা হয়েছে। আইনমন্ত্রীর বক্তব্যের সারকথা ছিল তিনটি।"
+    },
+    {
+      "id": "c0098fe681cb1182",
+      "title": "What to watch in the US’s New Hampshire and Rhode Island primary elections",
+      "url": "https://www.aljazeera.com/news/2026/9/8/what-to-watch-in-the-uss-new-hampshire-and-rhode-island-primary-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-09-08T10:41:21.000Z",
+      "summary": "Some of the US midterm election's biggest themes will play out in these New England states' most notable races."
+    },
+    {
+      "id": "6de614fbc9702d6a",
+      "title": "ভারতের সিইসির জেলা শাসক মেয়ের শাস্তি, বেতন থেকে কাটা যাবে ৫ লাখ রুপি",
+      "url": "https://www.prothomalo.com/world/india/qffen7xape",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-08T10:41:14.000Z",
+      "summary": "আদালতের রায়ে বলা হয়েছে, জেলা শাসিকা মেধা রুপম মতপ্রকাশের অধিকারে বাধা সৃষ্টি করে তাঁর সাংবিধানিক দায়বদ্ধতা লঙ্ঘন করেছেন। একই অপরাধ করেছেন পুলিশ কর্মকর্তারা।"
+    },
+    {
+      "id": "8ebea8c276879746",
+      "title": "সাপার ক্লাব কী, শুরু হয়েছে কীভাবে",
+      "url": "https://www.prothomalo.com/lifestyle/recipe/u44gtnjupn",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-08T10:40:04.000Z",
+      "summary": ""
+    },
+    {
+      "id": "f48ffcf920a0abe4",
+      "title": "‘১০০ পুলিশ থাকলেও গুলি করে মেরে ফেলব’",
+      "url": "https://www.prothomalo.com/bangladesh/district/100-pulish-thaakleo-guli-kre-mere-phelb",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-08T10:38:15.000Z",
+      "summary": "‘১০০ পুলিশ থাকলেও গুলি করে মেরে ফেলব’"
+    },
+    {
+      "id": "9191e283f552cdae",
+      "title": "ব্যালন ডি’অর ২০২৬ মনোনয়ন: কোন পাঁচ কোচ পেলেন মনোনয়ন",
+      "url": "https://www.prothomalo.com/sports/football/flh23llmce",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-08T10:37:52.000Z",
+      "summary": "বর্ষসেরা ফুটবলারের পুরস্কার ব্যালন ডি’অরের বিভিন্ন ক্যাটাগরিতে মনোনয়ন পাওয়াদের নাম ঘোষণা হচ্ছে। কারা থাকছেন ব্যালন ডি’অর জয়ের দৌড়ে,, নাম জানতে চোখ রাখুন এই লাইভ বিবরণীতে।"
+    },
+    {
+      "id": "45f1d945d328696f",
+      "title": "শাহজালাল বিমানবন্দরের তৃতীয় টার্মিনালের ‘সফট ওপেনিং’–এর সম্ভাব্য তারিখ জানালেন বিমানমন্ত্রী",
+      "url": "https://www.prothomalo.com/bangladesh/51hlryp9ky",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-08T10:37:15.000Z",
+      "summary": "বেসামরিক বিমান পরিবহন ও পর্যটনমন্ত্রী এম রশিদুজ্জামান মিল্লাত বলেন, বিগত সরকারের আমলে এই টার্মিনালের ভবন উদ্বোধন করা হলেও তা চালুর প্রয়োজনীয় উদ্যোগ নেওয়া হয়নি।"
+    },
+    {
+      "id": "a38fb315bf469823",
+      "title": "Three paintings worth $10m stolen from Renoir Museum in southern France",
+      "url": "https://www.aljazeera.com/news/2026/9/8/three-paintings-worth-10m-stolen-from-renoir-museum-in-southern-france?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "europe",
+      "publishedAt": "2026-09-08T10:35:40.000Z",
+      "summary": "The two thieves had attempted to steal a fourth painting, but abandoned it as they ran from the museum."
+    },
+    {
+      "id": "49f9155306c0fabb",
+      "title": "শুধু মেয়েদের জন্য কেন সাপার ক্লাব করলেন মার্সী ত্রিপুরা, তাঁর ডাইনিংয়ে খেতে হলে কী করতে হবে",
+      "url": "https://www.prothomalo.com/lifestyle/recipe/it8y0thgky",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-08T10:34:03.000Z",
+      "summary": ""
+    },
+    {
+      "id": "cfc0f5be82c02141",
+      "title": "মাটিচাপা অন্ধকার সুড়ঙ্গ থেকে কীভাবে ৯ দিন পর উদ্ধার হন দুই নেপালি",
+      "url": "https://www.prothomalo.com/world/asia/kfnmewyr3b",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-08T10:32:30.000Z",
+      "summary": "উদ্ধারকারীরা সুড়ঙ্গ খোঁড়ার সময় নিজেরাই চাপা পড়ে কয়েক ঘণ্টা আটকে ছিলেন। বৃষ্টিতে সুড়ঙ্গ বন্ধ হয়ে যাচ্ছিল। একসময় তাঁরা ক্লান্ত হয়ে হাল ছেড়ে দিতে চান।"
+    },
+    {
+      "id": "5417165cd953777d",
+      "title": "কেন এবার প্যারিসে হচ্ছে না ব্যালন ডি’অর, কোথায় হবে এবং কবে",
+      "url": "https://www.prothomalo.com/sports/football/divky0i42f",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-08T10:27:34.000Z",
+      "summary": "আগামী ২৬ অক্টোবর (সোমবার) লন্ডনে বসবে ব্যালন ডি’অরের এবারের আসর। স্থানীয় সময় রাত ৮টায় শুরু হবে মূল অনুষ্ঠান।"
+    },
+    {
+      "id": "518616b7f7c5ec66",
+      "title": "At least two people dead after Russian strikes on Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-09-08T10:23:01.000Z",
+      "summary": "Air raid alerts and sounds of explosions rang out in Ukraine's capital as Russian forces launched drone strikes early on Tuesday."
+    },
+    {
+      "id": "62a4d837437c5063",
+      "title": "Kenya moves to register frightened Burundians as tension over foreign traders rises",
+      "url": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "economy_business",
+      "region": "africa",
+      "publishedAt": "2026-09-08T10:19:52.000Z",
+      "summary": "All foreigners without proper documents in Kenya are urged to register through their embassies."
+    },
+    {
+      "id": "dbfc9f42b8e91621",
+      "title": "How South Korea finds itself trapped in the US-Iran war",
+      "url": "https://www.aljazeera.com/news/2026/9/8/how-south-korea-finds-itself-trapped-in-the-us-iran-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-09-08T10:00:52.000Z",
+      "summary": "Washington is pressuring a reluctant Seoul to support its naval blockade of Iran; Tehran is threatening consequences."
+    },
+    {
+      "id": "30a0ccb034e4e366",
+      "title": "How Alcaraz can single-handedly end American dreams",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c86xgxenyz9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "americas",
+      "publishedAt": "2026-09-08T09:56:43.000Z",
+      "summary": "Three Americans have the chance to become the first home US Open men's champion since 2003. But Carlos Alcaraz stands in the way."
+    },
+    {
+      "id": "8318808bc0599116",
+      "title": "England should pick English-based players - Baxter",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c986wxkxe68o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-09-08T09:33:36.000Z",
+      "summary": "Exeter director of rugby Rob Baxter says England's rules on selecting only home-based players are the right thing for the domestic game."
+    },
+    {
+      "id": "fd445ef3fa12a91d",
+      "title": "UK's third-biggest taxpayer to leave for Greece",
+      "url": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-09-08T09:33:35.000Z",
+      "summary": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers."
+    },
+    {
+      "id": "d2645b66abe6c3b6",
+      "title": "UK to announce trade ban on goods from illegal Israeli settlements",
+      "url": "https://www.aljazeera.com/news/2026/9/8/uk-to-announce-trade-ban-on-goods-from-illegal-israeli-settlements?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-09-08T05:34:30.000Z",
-      "summary": "Ethnic cleansing plans move from slogans to policy proposals, amid West Bank demolitions and mounting deaths in Gaza."
+      "region": "europe",
+      "publishedAt": "2026-09-08T09:31:28.000Z",
+      "summary": "UK to announce trade ban on goods from illegal Israeli settlements in the occupied West Bank."
     },
     {
-      "id": "cc16595bfd5bd105",
-      "title": "বাঁধনের ওপর হামলার ঘটনায় আসিফ মাহমুদ ও সারজিস আলমের ফেসবুক পোস্ট",
-      "url": "https://www.prothomalo.com/bangladesh/wl0hr2zms1",
-      "source": "Prothom Alo",
+      "id": "ece9b56e191425bd",
+      "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
+      "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-08T05:24:57.000Z",
-      "summary": "গতকাল রাতে ইতালির একটি পার্কে গেলে বাঁধন হামলা-হেনস্তার শিকার হন। পরে তিনি বলেন, ২০২৪ সালের জুলাই গণ-আন্দোলনে সক্রিয় ভূমিকার কারণেই তাঁর ওপর হামলা চালানো হয়েছে।"
-    },
-    {
-      "id": "e9409498a71c1e35",
-      "title": "চলন্ত গাড়ির নিচে পড়ার আগেই শিশুকে বাঁচালেন সুপারমার্কেটের কর্মী",
-      "url": "https://www.prothomalo.com/video/international/zoqbyb3iur",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-08T05:19:59.000Z",
-      "summary": ""
-    },
-    {
-      "id": "8a2aa350e0ac38eb",
-      "title": "পূর্ব প্রশান্ত মহাসাগরে ভাসমান জ্বালানি স্টেশন ধ্বংস করল মার্কিন বাহিনী",
-      "url": "https://www.prothomalo.com/video/international/341ns4g26d",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-08T05:19:40.000Z",
-      "summary": ""
-    },
-    {
-      "id": "a11274859e7406ab",
-      "title": "ইমরান খান কি ভুট্টোর ভাগ্য বরণ করতে যাচ্ছেন",
-      "url": "https://www.prothomalo.com/opinion/8899owfhou",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-08T05:15:53.000Z",
-      "summary": "ভুট্টোকে রাজনীতির মাঠ থেকে সরিয়েছিল ‘এস্টাবলিশমেন্ট’। ইমরানও অনুরূপ পরিণতির পথে কি না, সে প্রশ্নের উত্তর খুঁজেছেন আলতাফ পারভেজ"
-    },
-    {
-      "id": "e53a77ce5ef3ff65",
-      "title": "ফ্রাঙ্কফুর্টে ‘এআইইউবিয়ান ইন ইউরোপ: সিজন ২’ অনুষ্ঠিত",
-      "url": "https://www.prothomalo.com/education/campus/3rvgbiq4sy",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-08T05:15:29.000Z",
-      "summary": "জার্মানির ফ্রাঙ্কফুর্টে এআইইউবির প্রাক্তন শিক্ষার্থীদের পুনর্মিলনী ‘এআইইউবিয়ান ইন ইউরোপ: সিজন ২’ অনুষ্ঠিত হয়েছে।"
-    },
-    {
-      "id": "c1679475512fb597",
-      "title": "চ্যাম্পিয়নস লিগের এ মৌসুমে যে নতুন নিয়মগুলো চালু হচ্ছে",
-      "url": "https://www.prothomalo.com/sports/football/rurspykqe2",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-08T05:14:28.000Z",
-      "summary": "শুরু হচ্ছে চ্যাম্পিয়নস লিগের নতুন মৌসুম। ইউরোপের এই সেরা ক্লাব প্রতিযোগিতায় এবার বেশ কয়েকটি নতুন নিয়ম চালু হচ্ছে।"
-    },
-    {
-      "id": "bbdc2ba96518f22f",
-      "title": "মানুষ ছাড়াও কি প্রকৃতিতে শিল্পী আছে",
-      "url": "https://www.bigganchinta.com/biology/ykpplfto32",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-08T05:00:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "34676eaef0148064",
-      "title": "কলের গান থেকে ইতিহাস—আমজাদের দুর্লভ সংগ্রহ",
-      "url": "https://www.prothomalo.com/video/bangladesh/hame01e298",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-08T05:00:00.000Z",
-      "summary": "কুড়িগ্রামের আমজাদ হোসেনের সংগ্রহে রয়েছে ২২টি গ্রামোফোন, প্রায় ৫ হাজার গানের রেকর্ড ও হাজারখানেক অডিও ক্যাসেট"
-    },
-    {
-      "id": "5d14e873f824f949",
-      "title": "রাতারাতি তারকা, এখন জীবন চালাতে বিয়ের অনুষ্ঠানে নাচেন রাহুল",
-      "url": "https://www.prothomalo.com/entertainment/bollywood/wu81j8o2ww",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-08T05:00:00.000Z",
-      "summary": "ব্রেন স্ট্রোকের পর পাঁচ বছরের কঠিন সময়, আর্থিক সংকট, সামাজিক যোগাযোগমাধ্যমের ট্রল—সবকিছুর মধ্যেও থেমে থাকতে চান না নব্বই দশকের এই জনপ্রিয় অভিনেতা।"
-    },
-    {
-      "id": "4dbdee9be3a8a64f",
-      "title": "‘গ্রিন জেনেসিস’ উৎসব শুরু হচ্ছে আজ",
-      "url": "https://www.prothomalo.com/bangladesh/h2843p5eaf",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-08T05:00:00.000Z",
-      "summary": "বিজ্ঞান, সৃজনশীলতা, উদ্ভাবন, গণমাধ্যম ও পরিবেশগত প্রভাব—এই পাঁচ বিষয়কে কেন্দ্র করে উৎসবটি সাজানো হয়েছে। বিভিন্ন প্রতিষ্ঠানের শিক্ষার্থীরা এতে অংশ নিয়েছে।"
-    },
-    {
-      "id": "7ac8a4c0ff09b095",
-      "title": "Forest fires force evacuations near resorts in Antalya",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/forest-fires-force-evacuations-near-resorts-in-antalya?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "disasters",
       "region": "global",
-      "publishedAt": "2026-09-08T04:55:59.000Z",
-      "summary": "Massive forest fires have broken out in Turkiye’s popular tourist province of Antalya."
+      "publishedAt": "2026-09-08T09:31:26.000Z",
+      "summary": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport."
     },
     {
-      "id": "61c7496b6a1ba636",
-      "title": "Mladic’s funeral: Were no lessons learned?",
-      "url": "https://www.aljazeera.com/opinions/2026/9/8/burying-mladic-were-no-lessons-learned?traffic_source=rss",
+      "id": "b0a93b0a62e3928b",
+      "title": "Highest paid world leader to get salary increase of $1 million",
+      "url": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-09-08T09:20:05.000Z",
+      "summary": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m)."
+    },
+    {
+      "id": "1c7017a35141509d",
+      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
+      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "ai_innovation",
+      "region": "europe",
+      "publishedAt": "2026-09-08T09:17:48.000Z",
+      "summary": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease."
+    },
+    {
+      "id": "9bbf21d22325cbd3",
+      "title": "Houthi attacks on southern Saudi Arabia reportedly injure dozens",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-09-08T04:47:56.000Z",
-      "summary": "Thirty years of international justice has taught political leaders little."
+      "region": "middle_east",
+      "publishedAt": "2026-09-08T08:42:42.000Z",
+      "summary": "Saudi Arabia says a wave of Houthi attacks on the country’s south have injured 73 people, including women and children."
     },
     {
-      "id": "0a2ae072b8647c90",
-      "title": "Polls suggest tight presidential race as Brazil marks Independence Day",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/polls-suggest-tight-presidential-race-as-brazil-marks-independence-day?traffic_source=rss",
-      "source": "Al Jazeera",
+      "id": "27638c597a3b384f",
+      "title": "Nepal cracks down on online abuse of flood survivors",
+      "url": "https://www.bbc.co.uk/news/articles/cq5x3n38308o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-09-08T08:31:01.000Z",
+      "summary": "Authorities will \"show no leniency\" to people who \"belittle\" those who are suffering, the prime minister says."
+    },
+    {
+      "id": "e4857e90d9964e1e",
+      "title": "Who will reach Super Bowl? - NFL predictions for 2026 season",
+      "url": "https://www.bbc.co.uk/sport/american-football/articles/cz9zwl81g7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-09-08T08:29:33.000Z",
+      "summary": "Who are favourites to reach the Super Bowl and who will be the surprise standouts? BBC's NFL experts make their predictions for the 2026 season - and so can you."
+    },
+    {
+      "id": "e6a9a7f7805cdec6",
+      "title": "Indonesia airports reopen after volcanic ash disrupts thousands of flights",
+      "url": "https://www.aljazeera.com/news/2026/9/8/indonesia-airports-reopen-after-volcanic-ash-disrupts-thousands-of-flights?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
       "region": "americas",
-      "publishedAt": "2026-09-08T04:29:33.000Z",
-      "summary": "Brazil has marked Independence Day with the two main candidates for October’s presidential election holding events."
+      "publishedAt": "2026-09-08T08:04:24.000Z",
+      "summary": "Five airports reopen after authorities cleared volcanic ash from critical infrastructure."
     },
     {
-      "id": "e9e0ed48fb8f44d4",
-      "title": "Houthi attacks on Saudi Arabia have wounded 73 civilians, official says",
-      "url": "https://www.aljazeera.com/news/2026/9/8/houthi-attacks-on-saudi-arabia-have-wounded-73-civilians-official-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-09-08T04:26:16.000Z",
-      "summary": "Spokesperson for Saudi-led coalition says Houthis have targeted civilian sites in Abha, Khamis Mushait, Jazan and Najran."
-    },
-    {
-      "id": "007248d7d8274415",
-      "title": "‘House moved like jelly’ says resident near Bolivia barracks blast",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/aje-onl-nf_nine-killed-in-bolivia-military-base-explosion-080926?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-09-08T04:24:37.000Z",
-      "summary": "Reports are emerging from the powerful explosion at a military barracks in Bolivia that killed at least nine people."
-    },
-    {
-      "id": "1f1f51ee56cafd76",
-      "title": "Real Madrid vs Inter: Champions League – preview, team news, prediction",
-      "url": "https://www.aljazeera.com/sports/2026/9/8/real-madrid-vs-inter-champions-league-preview-team-news?traffic_source=rss",
-      "source": "Al Jazeera",
+      "id": "8f9ed65739a45f2d",
+      "title": "'At Real Madrid you have to win' - can Mourinho deliver in Europe?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gqd5l72j8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "category": "sports",
       "region": "europe",
-      "publishedAt": "2026-09-08T04:16:55.000Z",
-      "summary": "Mourinho kicks off the record 15-time Champions League winners' European campaign against Serie A champions Inter."
+      "publishedAt": "2026-09-08T07:47:50.000Z",
+      "summary": "Jose Mourinho begins his second Real Madrid spell in the Champions League against former club Inter Milan, 16 years after winning the trophy with Inter at the Bernabeu. Will he finally deliver European glory in Madrid?"
     },
     {
-      "id": "f7700574c388fd6b",
-      "title": "Flash floods fill the streets of a neighbourhood in central Morocco",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/flash-floods-fill-the-streets-of-a-neighbourhood-in-central-morocco?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "weather_climate",
-      "region": "africa",
-      "publishedAt": "2026-09-08T04:01:18.000Z",
-      "summary": "Videos show floodwaters swamping homes, shops and streets in Azilal in central Morocco, after heavy thunderstorms."
+      "id": "165c4d7e9db0a7ba",
+      "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
+      "url": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "asia_pacific",
+      "publishedAt": "2026-09-08T07:35:50.000Z",
+      "summary": "Exclusive: An exposed Advance Passenger Information System (APIS) database held 220 million passenger and crew records containing names, passport numbers, dates of birth, nationalities, and flight details spanning 2017 to 2026. Researchers accessed the Vietnam-linked system through a cloud-based path using default credentials. [...]"
     },
     {
-      "id": "43fabb1bf94c9ac0",
-      "title": "Canada’s retaliatory tariffs on $20bn of US goods take effect",
-      "url": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect?traffic_source=rss",
+      "id": "0fb8c85d3d19069a",
+      "title": "Real’s Mbappe embraces Ballon d’Or talk after historic World Cup goals",
+      "url": "https://www.aljazeera.com/sports/2026/9/8/reals-mbappe-embraces-ballon-dor-talk-after-historic-world-cup-goals?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "economy_business",
-      "region": "americas",
-      "publishedAt": "2026-09-08T04:01:12.000Z",
-      "summary": "Trade tensions soar as Canada matches US tariffs 'dollar-for-dollar', impacting 700 products and multiple industries."
+      "region": "global",
+      "publishedAt": "2026-09-08T07:35:29.000Z",
+      "summary": "Real Madrid's Kylian Mbappe enters Champions League season hoping for Ballon d'Or after record World Cup goal haul."
     },
     {
-      "id": "4a9a5447e409c170",
-      "title": "Canada’s retaliatory US tariffs take effect as trade dispute grows",
-      "url": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
-      "source": "The Guardian World",
-      "category": "world_politics",
+      "id": "7f8534d822eaa61f",
+      "title": "Europe's next great coach? How Fabregas led Como into Champions League",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c86xjn97ve2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-09-08T07:35:25.000Z",
+      "summary": "BBC Sport visits Como to discover the vision and philosophy of the club's coach, Cesc Fabregas, who has overseen the team's remarkable rise to the Champions League."
+    },
+    {
+      "id": "287bbca68c440377",
+      "title": "Eiffel Tower reopens after protest over removing women staff",
+      "url": "https://www.aljazeera.com/news/2026/9/8/eiffel-tower-to-reopen-after-protest-over-removing-women-staff?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-09-08T07:12:37.000Z",
+      "summary": "A Hindu religious delegation had requested that 'interactions with women' be limited during its visit."
+    },
+    {
+      "id": "d31875b6a1d42016",
+      "title": "Xiaomi’s wide foldable promises more power than Samsung’s",
+      "url": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-09-08T07:00:00.000Z",
+      "summary": "Xiaomi is the latest manufacturer to release a short, wide foldable phone, in the week Apple is expected to do the same. I got to try the 18 Fold behind closed doors at IFA last week, and while it looks and feels similar enough to Samsung's Galaxy Z Fold 8, superior specs make it feel like the phone I wish Samsung had made. The 18 Fold is Xiaomi's first book-style foldable since 2024's Mix Fold 4, but the company has"
+    },
+    {
+      "id": "d5a968d400294cc6",
+      "title": "US Open: Zheng in 5-0 comeback; Gauff, Rybakina, Zverev also in quarters",
+      "url": "https://www.aljazeera.com/sports/2026/9/8/us-open-zheng-in-5-0-comeback-gauff-rybakina-zverev-also-reach-quarters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-09-08T06:58:00.000Z",
+      "summary": "Zheng Qinwen beats Iga Swiatek; Coco Gauff, Elena Rybakina also reach quarterfinals. Alexander Zverev through in men's."
+    },
+    {
+      "id": "a48d38d429f876b5",
+      "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
+      "url": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-09-08T06:49:56.000Z",
+      "summary": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers."
+    },
+    {
+      "id": "0ae78a92df311a93",
+      "title": "Russell hindered or just Antonelli brilliance? - F1 Q&A",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c8r6e663g1lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-09-08T06:42:09.000Z",
+      "summary": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Italian Grand Prix."
+    },
+    {
+      "id": "4c50722af70e31e0",
+      "title": "Non-league to Champions League: The Porto boss out to stun Man City",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c072j1r4e2do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-09-08T06:32:51.000Z",
+      "summary": "Porto boss Francesco Farioli is one of the most highly regarded young managers and on Tuesday he takes charge in the Champions League for the first time."
+    },
+    {
+      "id": "20a3dd6ce81f5b30",
+      "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+      "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
       "region": "americas",
-      "publishedAt": "2026-09-08T04:00:59.000Z",
-      "summary": "Counter-measures covering several sectors come after Trump announced 50% tariffs on Canadian goods Canada’s retaliatory tariffs on billions of dollars’ worth of American imports have come into effect, escalating a trade fight that has been marked by intensifying tensions between US president Donald Trump and Canadian prime minister Mark Carney. The tariffs took effect at 12.01am on Tuesday, and range from 15% to 50% "
+      "publishedAt": "2026-09-08T04:39:14.000Z",
+      "summary": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship."
+    },
+    {
+      "id": "a774f3667e6a53de",
+      "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
+      "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
+      "source": "The Guardian World",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-09-08T04:00:27.000Z",
+      "summary": "US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of Africa The scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned to levels not seen in a decade, driven by a convergence of factors including disruptions to the shipping industry caused by the US-Israeli war against Iran and a resurgence of political instability i"
     },
     {
       "id": "b43e17c8b1d341cd",
@@ -209,17 +399,7 @@
       "category": "war_conflict",
       "region": "europe",
       "publishedAt": "2026-09-08T03:53:27.000Z",
-      "summary": "It comes as relations between both countries have strengthened since the start of the Ukraine war."
-    },
-    {
-      "id": "3e46cb5ee011b9b5",
-      "title": "Russia launches deadly strikes on Kyiv as pause during US envoy visits ends",
-      "url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-09-08T03:08:28.000Z",
-      "summary": "US envoy says 'encouraged' by talks as White House official told Reuters next steps to be announced in coming weeks."
+      "summary": "Relations between the neighbours have strengthened since the start of the Ukraine war."
     },
     {
       "id": "2999e4e1d7fda712",
@@ -229,7 +409,7 @@
       "category": "creativity_arts",
       "region": "americas",
       "publishedAt": "2026-09-08T02:00:24.000Z",
-      "summary": "Bereaved mother Debra Robinson in court stares at three men accused of murdering Jake and Callum Robinson and Jack Rhoad in Baja California in 2024 The suspected murderers of two Australian surfers and an American at a Mexican surfing hotspot have gone on trial, two years after the killings in a suspected robbery. Australian brothers Jake and Callum Robinson, aged 30 and 33, respectively, and 30-year-old American fri"
+      "summary": "Bereaved mother Debra Robinson in court stares at three men accused of murdering Jake and Callum Robinson and Jack Carter Rhoad in 2024 The suspected murderers of two Australian surfers and an American at a Mexican surfing hotspot have gone on trial, two years after the killings in a suspected robbery. Australian brothers Jake and Callum Robinson, aged 30 and 33 respectively, and their 30-year-old American friend Jac"
     },
     {
       "id": "f5f5614f180a96f3",
@@ -240,16 +420,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-09-08T02:00:00.000Z",
       "summary": "The Xiaomi 18 Fold and its Xring O3 chip. China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its custom Xring O3 chip. What's so special about that? After five years of development, Arm now has an AI gaming graphics accelerator inside its GPU. By followi"
-    },
-    {
-      "id": "ac38bbb7feef3b12",
-      "title": "UK government expected to announce restrictions on trade with West Bank settlements",
-      "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "economy_business",
-      "region": "europe",
-      "publishedAt": "2026-09-08T01:50:55.000Z",
-      "summary": "Foreign Secretary Ed Miliband is set to outline the proposals today, in a move which could prompt Israel to retaliate."
     },
     {
       "id": "3f7b96ed82acdfd1",
@@ -292,74 +462,14 @@
       "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours."
     },
     {
-      "id": "6394c1093b12f0eb",
-      "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
-      "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-09-07T23:46:44.000Z",
-      "summary": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative."
-    },
-    {
-      "id": "f3eb565ef76a98bb",
-      "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-09-07T23:05:12.000Z",
-      "summary": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\"."
-    },
-    {
-      "id": "1537b72d81fa8bd7",
-      "title": "Lines stuns Zhao in English Open first round",
-      "url": "https://www.bbc.co.uk/sport/snooker/articles/c4gkdlgdw5yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-09-07T22:45:18.000Z",
-      "summary": "Oliver Lines seals a shock 4-2 win over world number one Zhao Xintong in the first round of the English Open."
-    },
-    {
-      "id": "7714392d0ef7cb59",
-      "title": "Flight recorders recovered from Amazon cargo plane crash",
-      "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-09-07T22:23:03.000Z",
-      "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport."
-    },
-    {
-      "id": "d2ecb4cbd6a9493f",
-      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
-      "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-09-07T21:12:37.000Z",
-      "summary": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year."
-    },
-    {
-      "id": "1062030a5ef784a3",
-      "title": "Champions League returns - who are favourites and players to watch?",
+      "id": "3fe8cf3ea6de1320",
+      "title": "Who are Champions League favourites and players to watch?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c17j5lr8kkqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
       "region": "global",
       "publishedAt": "2026-09-07T20:30:53.000Z",
-      "summary": "The Champions League is back and BBC Sport take a look at who the favourites are to win the title plus predictions from the experts."
-    },
-    {
-      "id": "aca076bfeeb9330d",
-      "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
-      "url": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-09-07T20:03:41.000Z",
-      "summary": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? Great, here's a range loser. Want something that goes the distance? Be ready to pay the price. Surprisingly, here comes Audi to split the difference. The German automaker's new A2 E-tron compact crosso"
+      "summary": "The Champions League is back and BBC Sport takes a look at who the favourites are to win the title plus predictions from the experts."
     },
     {
       "id": "a250c7bf597fac1c",
@@ -382,16 +492,6 @@
       "summary": "The proposed plans aim to reduce the cost of energy in the long-term, but won't be able to set bills."
     },
     {
-      "id": "6f897582a795b56a",
-      "title": "Ecclestone stopped by police for taking shotgun into Portugal",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cy9zx52xen2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-09-07T17:40:04.000Z",
-      "summary": "Former Formula 1 boss Bernie Ecclestone says he was stopped by officials at an airport in Portugal after arriving with a shotgun he intended to use in a clay pigeon shooting competition."
-    },
-    {
       "id": "28b63a5bb80df5bf",
       "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
       "url": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
@@ -400,16 +500,6 @@
       "region": "global",
       "publishedAt": "2026-09-07T16:50:29.000Z",
       "summary": "A zero-day vulnerability dubbed \"StyleSmuggler\" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]"
-    },
-    {
-      "id": "bdcb4d3e4182e8f8",
-      "title": "Edu leaves Nottingham Forest after turbulent spell",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj06m1e3e75o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-09-07T16:45:43.000Z",
-      "summary": "Global head of football Edu leaves Nottingham Forest after just over a year at the City Ground."
     },
     {
       "id": "db1e5d766040f9cb",
@@ -422,16 +512,6 @@
       "summary": "Chief of nuclear watchdog says secret Assad-era facility would have been able to produce fissile material A nearly complete nuclear reactor built secretly during the rule of the toppled Syrian leader Bashar al-Assad would have been able to produce fissile material for possible use in nuclear weapons, the chief of the UN nuclear watchdog has revealed. Inspectors from the International Atomic Energy Agency (IAEA) last "
     },
     {
-      "id": "7e89effd9b700501",
-      "title": "Can Kane buck history and win Ballon d'Or?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2gee75vz7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-09-07T16:03:24.000Z",
-      "summary": "History suggests Ballon d’Or winners come from those who have recently lifted one of football's biggest trophies. Can Harry Kane become a rare exception?"
-    },
-    {
       "id": "8e725a4eb3a9c958",
       "title": "Six years later, Sony revisits its legendary XM4 headphones",
       "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
@@ -440,16 +520,6 @@
       "region": "global",
       "publishedAt": "2026-09-07T16:00:00.000Z",
       "summary": "The XM4C (in white) have the exact same visual design as the XM4 (in black) from 2020. | Photo: John Higgins / The Verge Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, thanks to their great sound, competitive A"
-    },
-    {
-      "id": "854d29fb06af021c",
-      "title": "Who will be new Liverpool sporting director - and what issues do they face?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yw73ppwd1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-09-07T15:52:04.000Z",
-      "summary": "The possible candidates to succeed Richard Hughes - plus the numerous tasks facing Liverpool's next sporting director."
     },
     {
       "id": "aac44c19214d475e",
@@ -465,11 +535,21 @@
       "id": "02b14410ea448161",
       "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
       "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "source": "BBC Technology",
       "category": "creativity_arts",
       "region": "europe",
       "publishedAt": "2026-09-07T15:27:50.000Z",
       "summary": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties."
+    },
+    {
+      "id": "300d5239f39e1b7e",
+      "title": "French winemakers forecast 30-year low harvest after severe drought and heat",
+      "url": "https://www.theguardian.com/world/2026/sep/07/french-winemakers-forecast-30-year-low-harvest-after-severe-drought-and-heat",
+      "source": "The Guardian Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-09-07T15:10:51.000Z",
+      "summary": "Estimates suggest drop in production with vineyards also concerned ‘smoke taint’ from wildfires may affect quality French vineyards hit by severe drought and heatwaves are expected to report a 30-year low in wine production after the country’s hottest ever recorded summer, according to the agriculture ministry. Initial estimates suggest winemakers will produce just under 34m hectolitres from this year’s harvest: a dr"
     },
     {
       "id": "dd4c91fbd4f41785",
@@ -482,16 +562,6 @@
       "summary": "The River 260 Gen4 (on the table) powering a portable fridge, Starlink Mini, and charging a phone. | Image: EcoFlow If you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. The River 260 Gen4 features a 256Wh capacity battery while the 520 Gen4 packs in 512Wh - storing about 2.5x and 5x the energy of the largest airl"
     },
     {
-      "id": "c51cd26e1a0002d5",
-      "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
-      "url": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-09-07T14:50:50.000Z",
-      "summary": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal."
-    },
-    {
       "id": "df12c52c800329e0",
       "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
       "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
@@ -500,36 +570,6 @@
       "region": "europe",
       "publishedAt": "2026-09-07T14:04:01.000Z",
       "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority."
-    },
-    {
-      "id": "2bdf76e726638451",
-      "title": "Israeli strikes in southern Lebanese village kill 12",
-      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-09-07T13:39:23.000Z",
-      "summary": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah."
-    },
-    {
-      "id": "021f509a4fd60916",
-      "title": "Vaughan intrigued by dynamic as Pietersen gets England white-ball role",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cz6zggqp190o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-09-07T13:29:48.000Z",
-      "summary": "England appoint former Ashes-winning batter Kevin Pietersen to their white-ball coaching team in the build-up to the 2027 ICC Cricket World Cup."
-    },
-    {
-      "id": "40cf2b6f8b46562b",
-      "title": "Mathspace discloses data breach affecting over 1 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-09-07T13:05:11.000Z",
-      "summary": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]"
     },
     {
       "id": "f227712ac8ad0a90",
@@ -550,16 +590,6 @@
       "region": "global",
       "publishedAt": "2026-09-07T12:00:00.000Z",
       "summary": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoidable - with no end to the memory crunch in sight. Call it \"chipflation\" or \"RAMageddon.\" The shortage is reversing a decades-long decline in memory costs that helped make"
-    },
-    {
-      "id": "f888ab88874c338e",
-      "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
-      "url": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-09-07T11:30:27.000Z",
-      "summary": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online."
     },
     {
       "id": "38d493dc70a748ea",
@@ -602,16 +632,6 @@
       "summary": "N-able has released an emergency hotfix for a maximum-severity remote code execution (RCE) flaw affecting its N-central remote monitoring and management (RMM) platform. [...]"
     },
     {
-      "id": "a181d15cdb56a5e9",
-      "title": "ChatGPT Astra is now rolling out to $20 Plus subscription",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
-      "source": "BleepingComputer",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-09-07T01:15:43.000Z",
-      "summary": "OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there's no word on when free users will get access.. [...]"
-    },
-    {
       "id": "4ce0834e9e15fa3c",
       "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
       "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
@@ -640,16 +660,6 @@
       "region": "europe",
       "publishedAt": "2026-09-06T17:05:11.000Z",
       "summary": "Slavery’s legacy continues ‘to deprive our country and our people’, says minister, as group prepares to appeal to Jamaica’s head of state A landmark petition is to be handed to King Charles by Jamaica over slavery reparations, aiming to confront historical crimes that still disadvantage former British colonies, the Caribbean nation’s culture minister has said. The petition will be lodged with Charles, Jamaica’s head "
-    },
-    {
-      "id": "f28cec33ca514069",
-      "title": "Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair",
-      "url": "https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-09-06T06:00:58.000Z",
-      "summary": "Exclusive: Tan Dhesi says Argentinian threats make it more crucial than ever that PM increase defence spending Javier Milei’s threats to the Falkland Islands make it even more important that Andy Burnham increase defence spending immediately, according to the Labour chair of the defence committee. Tan Dhesi said the comments by the Argentinian president this week show why the government should raise military spending"
     },
     {
       "id": "03ae42008923c8dd",
@@ -812,16 +822,6 @@
       "summary": "The deal gives Nvidia control of a leading open-source AI platform and developer community."
     },
     {
-      "id": "51121b7f2b67c981",
-      "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
-      "url": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-09-03T12:52:08.000Z",
-      "summary": "Pedro Sánchez continues to defend Rabat after police report claiming border forces helped 70,000 cross border Europe live – latest updates Spain has seen no evidence “whatsoever” that Morocco planned or facilitated a mass border breach into its north African territory of Ceuta, the Spanish prime minister, Pedro Sánchez, has told parliament. The address on Thursday followed the emergence of a police report, commission"
-    },
-    {
       "id": "e8a50c704cf7ddf4",
       "title": "The plastic waste overtaking New York – and the people trying to curb it",
       "url": "https://www.theguardian.com/environment/ng-interactive/2026/sep/03/plastic-waste-new-york-environment",
@@ -870,16 +870,6 @@
       "region": "global",
       "publishedAt": "2026-09-02T15:00:28.000Z",
       "summary": "Climate experts warn that US Kalshi and Polymarket users are ‘gamifying disasters’ as they bet on events like heatwaves and daily temperatures Online prediction markets, saturated by money staked on sport, crypto and politics, have now set their sights on a promising new area of growth: betting on the future livability of the planet itself. The rise of gamified predictions on the unfolding climate crisis, and shorter"
-    },
-    {
-      "id": "c6de5eaf6828ac36",
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-      "source": "Krebs on Security",
-      "category": "technology",
-      "region": "americas",
-      "publishedAt": "2026-09-01T22:40:28.000Z",
-      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that"
     },
     {
       "id": "d2cb44f80f97c2d8",
