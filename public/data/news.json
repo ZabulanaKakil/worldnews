@@ -1,25 +1,215 @@
 {
-  "generatedAt": "2026-09-08T22:31:47.378Z",
+  "generatedAt": "2026-09-09T01:09:42.832Z",
   "articles": [
     {
-      "id": "1a45d4d4f4796713",
-      "title": "Protesters, police clash in Albania over Trump-linked project",
-      "url": "https://www.aljazeera.com/news/2026/9/8/protesters-police-clash-in-albania-over-trump-linked-project?traffic_source=rss",
+      "id": "e8d2692708921bdf",
+      "title": "US slaps import ban on Canadian alcohol and other goods",
+      "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-09-09T01:01:17.000Z",
+      "summary": "It is the latest escalation in a trade war between the two countries, and comes as Canadian retaliatory tariffs on US goods come into force."
+    },
+    {
+      "id": "1587558ea4bf0119",
+      "title": "Sharpeville massacre, 66 years on: Families still wait for justice",
+      "url": "https://www.aljazeera.com/news/2026/9/9/sharpeville-massacre-66-years-on-families-still-wait-for-justice?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "war_conflict",
       "region": "global",
-      "publishedAt": "2026-09-08T22:05:17.000Z",
-      "summary": "Albanians have protested for over 100 days against a planned luxury hotel linked to Jared Kushner and Ivanka Trump."
+      "publishedAt": "2026-09-09T00:24:57.000Z",
+      "summary": "More than six decades after police opened fire on protesters, survivors and relatives are taking their fight to court."
     },
     {
-      "id": "089a7f9b1c90f0aa",
-      "title": "Haaland to the double as Manchester City beat Porto in Champions League",
-      "url": "https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss",
+      "id": "6d738b753e938a74",
+      "title": "Anti-AfD protesters rally in Cologne after far-right election win",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_anti-afd-protesters-rally-in-after-election-win-080926?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-09-09T00:16:06.000Z",
+      "summary": "Thousands of protesters rallied in Cologne against the AfD after the far-right group's election victory."
+    },
+    {
+      "id": "f9ecc9e5bb5f10bf",
+      "title": "Marco Rubio says US seeks more economic and security ties in Latin America",
+      "url": "https://www.aljazeera.com/news/2026/9/9/marco-rubio-says-us-seeks-more-economic-and-security-ties-in-latin-america?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-09-09T00:14:22.000Z",
+      "summary": "The US secretary of state visits Colombia, Ecuador and Peru in a bid to enhance cooperation with right-wing allies."
+    },
+    {
+      "id": "c2021c03921ed1b6",
+      "title": "Tiafoe consoles tearful Michelsen after remarkable US Open comeback",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c33k6zl5m87o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-09-09T00:13:06.000Z",
+      "summary": "Frances Tiafoe comes from two sets and a break down to beat Alex Michelsen in a thrilling comeback to reach the US Open semi-finals."
+    },
+    {
+      "id": "71c655474f23003d",
+      "title": "US attacks 5 Iranian oil tankers, Iran retaliates with strikes on Jordan",
+      "url": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-09-09T00:08:37.000Z",
+      "summary": "US military says it struck the five Iranian tankers after IRGC targeted a US warship twice in two days."
+    },
+    {
+      "id": "fa4a0d4938290293",
+      "title": "Suspected smugglers on trial over deadliest migrant tragedy in France",
+      "url": "https://www.aljazeera.com/news/2026/9/9/suspected-smugglers-on-trial-over-deadliest-migrant-tragedy-in-france?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-09-09T00:04:10.000Z",
+      "summary": "Paris trial begins over deadly Channel tragedy, with 14 facing charges for manslaughter."
+    },
+    {
+      "id": "90f7e276f54dce07",
+      "title": "Iran war live: US hits Iranian tankers, IRGC attacks US forces in Jordan",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/9/iran-war-live-us-hits-iranian-tankers-irgc-attacks-us-base-in-jordan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-09-09T00:00:00.000Z",
+      "summary": "Iran's IRGC urges crews to leave tankers in Kuwait and Bahrain, warning it will target ships following US attack."
+    },
+    {
+      "id": "b6e6da92a353acb1",
+      "title": "US increases pressure on Iran with sanctions targeting aviation sector",
+      "url": "https://www.aljazeera.com/news/2026/9/8/us-increases-pressure-on-iran-with-sanctions-targeting-aviation-sector?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "diplomacy",
+      "region": "middle_east",
+      "publishedAt": "2026-09-08T23:51:29.000Z",
+      "summary": "Trump administration has sought to isolate Tehran through a raft of measures meant to squeeze the country's economy."
+    },
+    {
+      "id": "002835b55c6bb622",
+      "title": "US bombs five Iranian oil tankers after its navy is attacked",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-bombs-five-iranian-oil-tankers-after-its-navy-is-attacked?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-09-08T23:49:25.000Z",
+      "summary": "The US military has released video of its forces destroying what it says are five Iranian crude oil tankers."
+    },
+    {
+      "id": "d823653b7b6c6f64",
+      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+      "url": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-09-08T23:27:23.000Z",
+      "summary": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India."
+    },
+    {
+      "id": "7ace88dd53ef0e06",
+      "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
+      "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-09-08T23:18:39.000Z",
+      "summary": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats."
+    },
+    {
+      "id": "b851f9c97b9a8184",
+      "title": "Mamdani releases records on toxic air in New York after 9/11 attacks",
+      "url": "https://www.aljazeera.com/news/2026/9/8/mamdani-releases-records-on-toxic-air-in-new-york-after-9-11?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-09-08T23:14:31.000Z",
+      "summary": "The New York City mayor said the document release shows victims were 'lied to' about health impacts from the attacks."
+    },
+    {
+      "id": "baded2a5947dabdb",
+      "title": "The trail of clues that our planet might be heating faster than we realised",
+      "url": "https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-09-08T23:11:52.000Z",
+      "summary": "A curious online row over this summer's heatwaves points to a wider - and worrying - shift in climate science."
+    },
+    {
+      "id": "891ce6c458ed4fd9",
+      "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
+      "url": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-09-08T23:11:32.000Z",
+      "summary": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on."
+    },
+    {
+      "id": "fe627307de9f2e22",
+      "title": "Should promotion depend on how workers use AI?",
+      "url": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-09-08T23:05:23.000Z",
+      "summary": "More companies are tying career progression to AI use: is that fair?"
+    },
+    {
+      "id": "270b3f2aaa7db70a",
+      "title": "I'm 27 and I've already written my will - here's why",
+      "url": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-09-08T23:04:17.000Z",
+      "summary": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off."
+    },
+    {
+      "id": "8e749ab5e8d06e4f",
+      "title": "Napoli vs Arsenal: Champions League – prediction, teams, lineups",
+      "url": "https://www.aljazeera.com/sports/2026/9/8/napoli-vs-arsenal-champions-league-prediction-teams-lineups?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "sports",
       "region": "global",
-      "publishedAt": "2026-09-08T21:46:58.000Z",
-      "summary": "Ayyoub Bouaddi debuts for Manchester City, but Erling Haaland stars in a 2-0 win in Porto."
+      "publishedAt": "2026-09-08T22:39:54.000Z",
+      "summary": "Napoli has issues in midfield for its Champions League opener against Arsenal, but hope to recover Serie A winning form."
+    },
+    {
+      "id": "e9c3de43e237729a",
+      "title": "West Ham go top of Championship - are they ready to leave past behind?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp80znxj2dmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-09-08T22:38:58.000Z",
+      "summary": "Three wins in a row, top of the table, unity at the club - are West Ham ready to leave the past behind on and off the pitch?"
+    },
+    {
+      "id": "93d4e41e057e0c8b",
+      "title": "Liverpool vs Atletico Madrid: Champions League – preview, teams, prediction",
+      "url": "https://www.aljazeera.com/sports/2026/9/8/liverpool-vs-atletico-madrid-champions-league-preview-teams?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-09-08T22:34:40.000Z",
+      "summary": "Andoni Iraola looks to build on his first win as Liverpool manager in tough game against Diego Simeone's Atletico."
+    },
+    {
+      "id": "a24fb492d2fb615c",
+      "title": "প্রার্থনার সময় মানব মস্তিষ্কে কী পরিবর্তন ঘটে",
+      "url": "https://www.prothomalo.com/religion/islam/dgwf0zn99z",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-08T22:30:00.000Z",
+      "summary": "নামাজ বা প্রার্থনায় নিমগ্ন থাকাকালে মানব মস্তিষ্ক কীভাবে স্রষ্টার সঙ্গে এক জীবন্ত সংলাপে যুক্ত হয়, তা আধুনিক গবেষণায় বিশদভাবে প্রমাণিত হয়েছে।"
     },
     {
       "id": "572292e55cbfd65a",
@@ -32,16 +222,6 @@
       "summary": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is."
     },
     {
-      "id": "7ace88dd53ef0e06",
-      "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
-      "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-09-08T21:46:21.000Z",
-      "summary": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats."
-    },
-    {
       "id": "b70f6724caebb87e",
       "title": "নতুন মৌসুম, নতুন ম্যান সিটি এবং সেই পুরনো হলান্ড",
       "url": "https://www.prothomalo.com/sports/football/p5z3faj9hw",
@@ -52,66 +232,6 @@
       "summary": ""
     },
     {
-      "id": "9da2db1696082791",
-      "title": "What the UK ban on goods from illegal Israeli settlements really means",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/what-the-uk-ban-on-goods-from-illegal-israeli-settlements-really-means?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-09-08T21:35:36.000Z",
-      "summary": "Israel has announced that it’s shutting down the UK Consulate in occupied East Jerusalem after a new ban on its goods."
-    },
-    {
-      "id": "70f649012623ba51",
-      "title": "US warns Ford over ties with Chinese firms amid tensions",
-      "url": "https://www.aljazeera.com/economy/2026/9/8/us-warns-ford-over-ties-with-chinese-firms-amid-tensions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-09-08T21:24:03.000Z",
-      "summary": "US officials criticise Ford’s partnerships with Chinese firms CATL, Geely, and BYD over security risks."
-    },
-    {
-      "id": "56da475a61c98032",
-      "title": "LIV files for bankruptcy protection with $45m owed to players",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "americas",
-      "publishedAt": "2026-09-08T21:20:22.000Z",
-      "summary": "LIV Golf still intends to start its new league early next year after filing for bankruptcy protection in the United States."
-    },
-    {
-      "id": "ea8ec091419d6960",
-      "title": "Real Madrid beat Inter Milan as Mbappe goal sets Mourinho’s men on way",
-      "url": "https://www.aljazeera.com/sports/2026/9/8/real-madrid-beat-inter-milan-as-mbappe-goal-sets-mourinhos-men-on-way?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-09-08T21:10:56.000Z",
-      "summary": "Kylian Mbappe opens the scoring but Real Madrid fail to convince in 2-1 Champions League win against Inter Milan."
-    },
-    {
-      "id": "094c99628fdde759",
-      "title": "Hundreds of flights delayed, cancelled after UK air traffic control glitch",
-      "url": "https://www.aljazeera.com/news/2026/9/8/hundreds-of-flights-delayed-cancelled-after-uk-air-traffic-control-glitch?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "technology",
-      "region": "europe",
-      "publishedAt": "2026-09-08T21:07:33.000Z",
-      "summary": "Air traffic control provider NATS under scrutiny after technical fault disrupts UK air traffic."
-    },
-    {
-      "id": "27b2ab4c59038ce6",
-      "title": "US forces sink vessel ‘linked to Ecuador criminal gang’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-forces-sink-vessel-linked-to-ecuador-criminal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-09-08T21:06:48.000Z",
-      "summary": "The US military says it intercepted and sank a floating refueling station in the eastern Pacific."
-    },
-    {
       "id": "6cf9004a5a84c65b",
       "title": "এমবাপ্পে-ভালভার্দের গোলে ইন্টারকে হারিয়ে শুরু রিয়ালের",
       "url": "https://www.prothomalo.com/sports/football/olg4l1fjyz",
@@ -120,16 +240,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-09-08T21:04:48.000Z",
       "summary": ""
-    },
-    {
-      "id": "ad24f12e7ed99162",
-      "title": "Dembele, Mbappe, Kane and Yamal top Ballon d’Or shortlist",
-      "url": "https://www.aljazeera.com/sports/2026/9/8/dembele-mbappe-kane-and-yamal-top-ballon-dor-shortlist?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-09-08T21:00:29.000Z",
-      "summary": "Ballon d'Or Ousmane Dembele among favourites, with Kylian Mbappe, Lamine Yamal and Harry Kane, as 2026 shortlist named."
     },
     {
       "id": "c23facf71952a430",
@@ -157,69 +267,19 @@
       "url": "https://www.theguardian.com/us-news/2026/sep/08/hawaii-hurricane-lowell",
       "source": "The Guardian Environment",
       "category": "weather_climate",
-      "region": "global",
+      "region": "americas",
       "publishedAt": "2026-09-08T20:47:38.000Z",
-      "summary": "Center of storm passed west of the islands and was moving away but flooding and mudslides will continue to be a risk Damaging winds and heavy rains from Hurricane Lowell pelted Hawaii’s western islands on Tuesday, knocking out power and bringing the threat of flash floods and mudslides. Fierce winds downed trees and caused widespread power outages on the island of Kauai, home to 73,000 residents. The Kauai island uti"
+      "summary": "Center of storm passed west of the islands and was moving away but flooding and mudslides will continue to be a risk Damaging winds and heavy rains from Hurricane Lowell pelted Hawaii’s western islands on Tuesday, knocking out power to thousands and ripping up stretches of beachside roads. Fierce winds downed trees and caused widespread power outages on the island of Kauai, home to 73,000 residents. The Kauai island "
     },
     {
-      "id": "62e6ba6842765818",
-      "title": "Rivian’s Also apologizes for delays in shipping futuristic e-bikes",
+      "id": "2cd86789fac14b16",
+      "title": "Rivian spinout Also apologizes for delays in shipping futuristic e-bikes",
       "url": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology",
       "source": "The Verge",
       "category": "technology",
       "region": "global",
       "publishedAt": "2026-09-08T20:46:56.000Z",
       "summary": "Rivian's futuristic e-bike is delayed, and customers are not happy. Last year, Rivian's micromobility spinoff Also unveiled a new, software-controlled electric bike called the TM-B that immediately set the e-bike world ablaze. With USB-C chargeable battery, removable seat post, and software-controlled pedal-by-wire system, the TM-B set itself apart with a totally unique approach to electric bicycle design. It's not a"
-    },
-    {
-      "id": "fa139ad2fad94238",
-      "title": "Liverpool monitoring Thiaw - Wednesday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0jrdvxnvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-09-08T20:45:07.000Z",
-      "summary": "Germany defender Malick Thiaw is being looked at by Liverpool, Manchester United, Fulham want to lock down Calvin Bassey and James Rodriguez is in Serie B talks."
-    },
-    {
-      "id": "6e6612459ac0268f",
-      "title": "Police bodycam captures Russian missile strike on Kyiv",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/police-bodycam-captures-russian-missile-strike-on-kyiv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-09-08T20:43:52.000Z",
-      "summary": "Bodycam video has captured the moment a Russian missile struck near police in Ukraine’s capital Kiev"
-    },
-    {
-      "id": "b5811b5f6eecf70a",
-      "title": "Brazil Supreme Court rift deepens as justice suspends federal police chief",
-      "url": "https://www.aljazeera.com/news/2026/9/8/brazil-supreme-court-rift-deepens-as-justice-suspends-federal-police-chief?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-09-08T20:43:16.000Z",
-      "summary": "Allegations of misconduct between two justices threaten to pull court into political battles ahead of upcoming election."
-    },
-    {
-      "id": "82b1122369dc36e1",
-      "title": "Head of Smithsonian museums announces he will be stepping down",
-      "url": "https://www.aljazeera.com/news/2026/9/8/head-of-smithsonian-museums-announces-he-will-be-stepping-down?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-09-08T20:32:52.000Z",
-      "summary": "The US institution is under pressure from the Trump administration to change how it portrays the country's history."
-    },
-    {
-      "id": "8676542a25072af2",
-      "title": "Hundreds of UK flights disrupted by air traffic control glitch",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/hundreds-of-uk-flights-disrupted-by-air-traffic-control-glitch?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "technology",
-      "region": "europe",
-      "publishedAt": "2026-09-08T20:24:26.000Z",
-      "summary": "A technical issue in the UK’s air traffic control system disrupted flights at major airports."
     },
     {
       "id": "9feb2d43e115c18b",
@@ -242,16 +302,6 @@
       "summary": "I used ChatGPT and its Sketch tool to make this AI-generated image of a cat. OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image based on that sketch. You can activate the Sketch feature b"
     },
     {
-      "id": "6a3dc459c2df379a",
-      "title": "যুক্তরাষ্ট্র-ইরান যুদ্ধে যেভাবে ফাঁদে পড়েছে দক্ষিণ কোরিয়া",
-      "url": "https://www.prothomalo.com/world/middle-east/nzu5qhd1sz",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-08T20:10:27.000Z",
-      "summary": "ইরানের পররাষ্ট্র মন্ত্রণালয়ের ইসমাইল বাঘাই বলেন, পারস্য উপসাগর ও হরমুজ প্রণালিতে অন্য কোনো দেশের সামরিক উপস্থিতি বা অভিযানে অংশ নেওয়াকে আগ্রাসী পক্ষের সরাসরি সমর্থন হিসেবেই দেখবে ইরান।"
-    },
-    {
       "id": "20ae9cb948928a71",
       "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
@@ -260,36 +310,6 @@
       "region": "global",
       "publishedAt": "2026-09-08T20:08:55.000Z",
       "summary": "A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and inject a fileless web shell directly into memory, avoiding the need to write malicious code to disk. [...]"
-    },
-    {
-      "id": "d4b9609dc1cf4315",
-      "title": "বৈশ্বিক সব সমস্যার সমাধান হয়তো হবে না, তবে চেষ্টা অব্যাহত থাকবে: খলিলুর রহমান",
-      "url": "https://www.prothomalo.com/bangladesh/euzm061a8n",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-08T19:55:43.000Z",
-      "summary": "মঙ্গলবার জাতিসংঘের সাধারণ পরিষদের ৮১তম অধিবেশনে সভাপতির দায়িত্ব গ্রহণের পর একথা বলেন বাংলাদেশের পররাষ্ট্রমন্ত্রী।"
-    },
-    {
-      "id": "a7f2acd44ef8852a",
-      "title": "মুগ্ধতা ছড়ানো ফুলে মেলবোর্নে বসন্তের আগমনী",
-      "url": "https://www.prothomalo.com/photo/bangladesh/zbvdz5adcf",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-08T19:34:53.000Z",
-      "summary": ""
-    },
-    {
-      "id": "eb5666af9ffc28f8",
-      "title": "বাংলাদেশে ঠেলে পাঠানো নারীর স্বামীকে ২ লাখ রুপি ক্ষতিপূরণ দেওয়ার নির্দেশ আসাম আদালতের",
-      "url": "https://www.prothomalo.com/bangladesh/tcotst1rb6",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-08T19:14:37.000Z",
-      "summary": "আসামের মধ্যাঞ্চলীয় নগাঁওয়ের ফরেনার্স ট্রাইব্যুনাল গত ৩০ মে মমতাজ বেগমকে বিদেশি ঘোষণা করে। ট্রাইব্যুনালের এই পদক্ষেপে স্পষ্ট ‘আইনি বিদ্বেষ’ প্রকাশ পেয়েছে বলে পর্যবেক্ষণ দিয়েছেন আদালত।"
     },
     {
       "id": "aa0cd579a0bb3931",
@@ -320,46 +340,6 @@
       "region": "global",
       "publishedAt": "2026-09-08T19:00:00.000Z",
       "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to revitalize the company's ailing position in the AI race and help it catch up to rivals like OpenAI, Anthropic, and Google. Muse is a \"personal AI agent\" designed to help out"
-    },
-    {
-      "id": "0137631ca81f3432",
-      "title": "ক্রসফায়ারের ভয়ে বাড়ি ছাড়েন টিপু, তাঁকে ধরে নিয়ে হত্যা করা হয়: ট্রাইব্যুনালে স্ত্রীর জবানবন্দি",
-      "url": "https://www.prothomalo.com/bangladesh/crime/dtegfctauq",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-08T18:48:48.000Z",
-      "summary": "২০১৫ সালে বরিশালের আগৈলঝাড়া উপজেলা ছাত্রদল নেতা টিপু হাওলাদার ও জাসাস নেতা কবির মোল্লাকে বিচারবহির্ভূতভাবে হত্যার অভিযোগে ট্রাইব্যুনালে ২০তম সাক্ষী হিসেবে জবানবন্দি দিয়েছেন নিহতের স্ত্রী।"
-    },
-    {
-      "id": "501a15d6d15a6c36",
-      "title": "ট্রাইব্যুনালের বিচারকের বিচারিক সংবেদনশীলতার ঘাটতি রয়েছে: হাইকোর্টের পূর্ণাঙ্গ রায় প্রকাশ",
-      "url": "https://www.prothomalo.com/bangladesh/crime/h72fqb5hgq",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-08T18:44:28.000Z",
-      "summary": "পূর্ণাঙ্গ রায়ে আদালত বলেছেন, মৃত্যুদণ্ডপ্রাপ্ত আসামি মোহাম্মদ শামীম, রুহুল আমিন, মাকসুদ আলম কাউন্সিলর ও আবছার উদ্দিনের বিরুদ্ধে আমরা ন্যূনতম প্রমাণও পাইনি।"
-    },
-    {
-      "id": "59aafc38f182a13c",
-      "title": "চট্টগ্রাম বিশ্ববিদ্যালয়ে ব্যানার লাগাতে গিয়ে বিদ্যুৎস্পৃষ্টে শিক্ষার্থীর মৃত্যু",
-      "url": "https://www.prothomalo.com/bangladesh/district/9yvvp2yvol",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-08T18:41:57.000Z",
-      "summary": "নিহত আরিফুল খাগড়াছড়ির বাসিন্দা। তিনি বিশ্ববিদ্যালয়ের প্রাণিবিদ্যা বিভাগের দ্বিতীয় বর্ষের শিক্ষার্থী এবং শহীদ আবদুর রব হলের আবাসিক শিক্ষার্থী ছিলেন।"
-    },
-    {
-      "id": "96ee0203440ec103",
-      "title": "বেনজীরের মতো একজন কুখ্যাত লোককে নিয়ে সংসদে আলোচনা করতে হচ্ছে: স্বরাষ্ট্রমন্ত্রী",
-      "url": "https://www.prothomalo.com/video/bangladesh/ncfm6hkaro",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-08T18:41:33.000Z",
-      "summary": ""
     },
     {
       "id": "d50b364519df9728",
@@ -462,6 +442,16 @@
       "summary": "The government said it will legislate \"as soon as they can\" but may \"reassess\" its plans if firms make the desired changes sooner."
     },
     {
+      "id": "71120c14f7ce9b45",
+      "title": "OpenAI says ChatGPT outage causes image generation errors",
+      "url": "https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/",
+      "source": "BleepingComputer",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-09-08T16:28:42.000Z",
+      "summary": "OpenAI is investigating an ongoing incident causing ChatGPT image generation failures and delays when uploading files. [...]"
+    },
+    {
       "id": "a23fe64a53d4d1ad",
       "title": "Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick",
       "url": "https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control",
@@ -492,24 +482,14 @@
       "summary": "Major lenders have raised rates on new deals in recent days, leaving many borrowers needing to make a decision."
     },
     {
-      "id": "9f21f6335effd1b4",
-      "title": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
-      "url": "https://www.bbc.co.uk/news/articles/c62m8247yleo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "africa",
-      "publishedAt": "2026-09-08T15:06:56.000Z",
-      "summary": "Médecins Sans Frontières is urging world leaders to increase funding to help the millions who need aid."
-    },
-    {
-      "id": "a6074c3d524d5f0d",
-      "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+      "id": "bb712bf751d56e78",
+      "title": "Trump hits Canada with import ban on alcohol and other goods",
       "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
+      "source": "BBC Business",
+      "category": "economy_business",
       "region": "americas",
       "publishedAt": "2026-09-08T14:46:16.000Z",
-      "summary": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts."
+      "summary": "Trump targets booze, motor vehicles, and cheese, while Canada aims tariffs at nearly $20bn of US products, from steel to T-shirts."
     },
     {
       "id": "c0cba91b033c22b8",
@@ -540,16 +520,6 @@
       "region": "europe",
       "publishedAt": "2026-09-08T13:35:28.000Z",
       "summary": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight."
-    },
-    {
-      "id": "1a59fccc3090025e",
-      "title": "Mac Allister 'sad' at no Liverpool contract offer",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0542qjvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-09-08T13:01:12.000Z",
-      "summary": "Liverpool midfielder Alexis Mac Allister says he is \"very sad\" not to have been offered a new deal by the club and had \"options\" to leave in the summer."
     },
     {
       "id": "0bfd58a30c2530dd",
@@ -602,16 +572,6 @@
       "summary": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease."
     },
     {
-      "id": "c1af8d1bd3d969ce",
-      "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
-      "url": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-09-08T09:00:28.000Z",
-      "summary": "The Balkan nation is aiming to become a new centre for medical tourism."
-    },
-    {
       "id": "a48d38d429f876b5",
       "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
       "url": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
@@ -620,16 +580,6 @@
       "region": "global",
       "publishedAt": "2026-09-08T06:49:56.000Z",
       "summary": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers."
-    },
-    {
-      "id": "4a9a5447e409c170",
-      "title": "Canada’s retaliatory US tariffs take effect as trade dispute grows",
-      "url": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-09-08T04:00:59.000Z",
-      "summary": "Counter-measures covering several sectors come after Trump announced 50% tariffs on Canadian goods Canada’s retaliatory tariffs on billions of dollars’ worth of American imports have come into effect, escalating a trade fight that has been marked by intensifying tensions between the US president, Donald Trump, and the Canadian prime minister, Mark Carney. The tariffs took effect at 12.01am on Tuesday, and range from "
     },
     {
       "id": "2999e4e1d7fda712",
@@ -672,6 +622,16 @@
       "summary": "The proposed plans aim to reduce the cost of energy in the long-term, but won't be able to set bills."
     },
     {
+      "id": "02b14410ea448161",
+      "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
+      "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "creativity_arts",
+      "region": "europe",
+      "publishedAt": "2026-09-07T15:27:50.000Z",
+      "summary": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties."
+    },
+    {
       "id": "f227712ac8ad0a90",
       "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
       "url": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
@@ -680,6 +640,16 @@
       "region": "global",
       "publishedAt": "2026-09-07T12:22:07.000Z",
       "summary": "The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet."
+    },
+    {
+      "id": "f888ab88874c338e",
+      "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
+      "url": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-09-07T11:30:27.000Z",
+      "summary": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online."
     },
     {
       "id": "481745402bd86d63",
@@ -720,16 +690,6 @@
       "region": "europe",
       "publishedAt": "2026-09-06T17:05:11.000Z",
       "summary": "Slavery’s legacy continues ‘to deprive our country and our people’, says minister, as group prepares to appeal to Jamaica’s head of state A landmark petition is to be handed to King Charles by Jamaica over slavery reparations, aiming to confront historical crimes that still disadvantage former British colonies, the Caribbean nation’s culture minister has said. The petition will be lodged with Charles, Jamaica’s head "
-    },
-    {
-      "id": "f28cec33ca514069",
-      "title": "Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair",
-      "url": "https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-09-06T06:00:58.000Z",
-      "summary": "Exclusive: Tan Dhesi says Argentinian threats make it more crucial than ever that PM increase defence spending Javier Milei’s threats to the Falkland Islands make it even more important that Andy Burnham increase defence spending immediately, according to the Labour chair of the defence committee. Tan Dhesi said the comments by the Argentinian president this week show why the government should raise military spending"
     },
     {
       "id": "03ae42008923c8dd",
@@ -822,16 +782,6 @@
       "summary": "And for the first time renewable generation has consistently exceeded non-renewable generation since January."
     },
     {
-      "id": "b9d31520f5597251",
-      "title": "From 'dog fruit' to darling: India's avocado boom",
-      "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "economy_business",
-      "region": "asia_pacific",
-      "publishedAt": "2026-09-04T05:09:02.000Z",
-      "summary": "Demand for avocados is booming in India and local growers hope to grab more of the market."
-    },
-    {
       "id": "1a3910eba6af9b44",
       "title": "Could robots be the future of theme parks?",
       "url": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
@@ -850,26 +800,6 @@
       "region": "global",
       "publishedAt": "2026-09-03T23:41:49.000Z",
       "summary": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps."
-    },
-    {
-      "id": "2ae46af1c4d4b166",
-      "title": "AI data centres are booming in Australia - but at what cost?",
-      "url": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "ai_innovation",
-      "region": "asia_pacific",
-      "publishedAt": "2026-09-03T18:32:03.000Z",
-      "summary": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage."
-    },
-    {
-      "id": "d9d1b6795803ca2a",
-      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-      "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-09-03T16:32:05.000Z",
-      "summary": "The deal gives Nvidia control of a leading open-source AI platform and developer community."
     },
     {
       "id": "51121b7f2b67c981",
@@ -892,6 +822,16 @@
       "summary": "From New York to Quebec, photographer Bryan Anselm spent months capturing spaces overrun with plastic and the actions individuals and groups are taking to reduce waste In New York City, the plastic we discard has a way of remaining in plain sight. There are few alleys to hide residents’ refuse, and the clear recycling bags leave their contents on full display. In a city built on a dense grid, lightweight wrappers, ba"
     },
     {
+      "id": "c6de5eaf6828ac36",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "source": "Krebs on Security",
+      "category": "technology",
+      "region": "americas",
+      "publishedAt": "2026-09-01T22:40:28.000Z",
+      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that"
+    },
+    {
       "id": "d2cb44f80f97c2d8",
       "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
       "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
@@ -900,6 +840,16 @@
       "region": "americas",
       "publishedAt": "2026-08-27T11:04:15.000Z",
       "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicat"
+    },
+    {
+      "id": "fcd54ebec4ef47c2",
+      "title": "Who’s Tracking You? Use This New Service to Find Out",
+      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "source": "Krebs on Security",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-08-14T11:24:35.000Z",
+      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtec"
     },
     {
       "id": "12d57fa016b467ee",
