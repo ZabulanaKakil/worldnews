@@ -1,25 +1,315 @@
 {
-  "generatedAt": "2026-09-11T18:21:09.170Z",
+  "generatedAt": "2026-09-11T21:39:31.312Z",
   "articles": [
     {
-      "id": "7b40f921d2aae72b",
-      "title": "Cricket: Today at the Test",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcfour?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "asia_pacific",
-      "publishedAt": "2026-09-11T19:00:00.000Z",
-      "summary": "Day 3 highlights from the third Test match between England and Pakistan at Edgbaston."
+      "id": "755e1cc407a0ecee",
+      "title": "Battle to save the tiny, gooey snail only found in one lake in the UK",
+      "url": "https://www.bbc.co.uk/news/articles/c1j4ngr05l8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "europe",
+      "publishedAt": "2026-09-11T21:38:15.000Z",
+      "summary": "Once prevalent across the UK, this mollusc is now only found in one lake in Wales."
     },
     {
-      "id": "4bfaa94a1fafc847",
-      "title": "England need 130 after thrilling Razaullah hitting",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cq5xjpqd5lno?at_medium=RSS&at_campaign=rss",
+      "id": "97368fe582d81f6e",
+      "title": "Like Benzema & as good as Haaland - Alonso on Joao Pedro",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1j4z1ry29jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-09-11T21:30:23.000Z",
+      "summary": "Chelsea manager Xabi Alonso says striker Joao Pedro is similar stylistically to his former Real Madrid team-mate Karim Benzema and is at a comparable level to Manchester City's Erling Haaland."
+    },
+    {
+      "id": "69f003d566458a09",
+      "title": "Six Nigerians accused of romance scams to be extradited to the US",
+      "url": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "africa",
+      "publishedAt": "2026-09-11T21:07:19.000Z",
+      "summary": "The six will face wire fraud and money-laundry charges in the US, South African police say."
+    },
+    {
+      "id": "d573708b8e531103",
+      "title": "Zohran Mamdani commemorates 9/11 amid widespread criticism",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/zohran-mamdani-commemorates-9-11-amid-widespread?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-09-11T21:01:23.000Z",
+      "summary": "NYC Mayor Zohran Mamdani commemorated the 25th anniversary of 9/11, calling it the “darkest day” in the city's history."
+    },
+    {
+      "id": "52d4d312e4cddfd6",
+      "title": "সিডনিতে জেমস, দেখা হতেই রূপম বললেন ‘জয় গুরু’",
+      "url": "https://www.prothomalo.com/entertainment/song/tzxmmch5rb",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-11T21:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "1c3ca05c4a4aa557",
+      "title": "US legislators push AI safety laws amid human extinction warnings",
+      "url": "https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-09-11T20:59:51.000Z",
+      "summary": "Concerns over AI's dangers grow as US legislators introduce bills to ensure human oversight and prevent rogue systems."
+    },
+    {
+      "id": "4d041a8ff2bd9e07",
+      "title": "US lawyer cites fake witnesses in murder case, blames ChatGPT",
+      "url": "https://www.aljazeera.com/economy/2026/9/11/us-lawyer-cites-fake-witnesses-in-murder-case-blames-chatgpt?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-09-11T20:42:05.000Z",
+      "summary": "State supreme court fined the attorney and held him in contempt for not verifying facts in a court filing."
+    },
+    {
+      "id": "93e3b7ec9a0e4f21",
+      "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "europe",
+      "publishedAt": "2026-09-11T20:19:09.000Z",
+      "summary": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]"
+    },
+    {
+      "id": "a4408ae7c665cae0",
+      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+      "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-09-11T20:11:47.000Z",
+      "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route."
+    },
+    {
+      "id": "ed332760af9d65d6",
+      "title": "Razaullah’s six-hitting debut caps Pakistan’s fightback against England",
+      "url": "https://www.aljazeera.com/sports/2026/9/11/razaullahs-six-hitting-debut-caps-pakistans-fightback-against-england?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-09-11T20:07:15.000Z",
+      "summary": "Pakistan all out with a second innings lead of 130 at the close on day three of the third Test at Edgbaston."
+    },
+    {
+      "id": "8bc31ee76c3cbf61",
+      "title": "Can BRICS help reshape global order by strengthening emerging economies?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/11/can-brics-help-reshape-global-order-by-strengthening-emerging-economies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "diplomacy",
+      "region": "asia_pacific",
+      "publishedAt": "2026-09-11T20:04:02.000Z",
+      "summary": "Leaders of BRICS member states are meeting at a summit in New Delhi, India."
+    },
+    {
+      "id": "7bf10d6a659dd6bd",
+      "title": "Hot pursuit: Man who robbed Indian bank using chilli powder arrested",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/hot-pursuit-man-who-robbed-indian-bank-using-chilli-powder-arrested?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "asia_pacific",
+      "publishedAt": "2026-09-11T20:00:55.000Z",
+      "summary": "A man posing as a customer threw chilli powder into the eyes of employees at a bank in Nagpur city, western India."
+    },
+    {
+      "id": "97b28d6130e36a6c",
+      "title": "Declassified documents show UK aware of Israeli war crimes for 24 years",
+      "url": "https://www.aljazeera.com/news/2026/9/11/declassified-documents-show-uk-aware-of-israeli-war-crimes-for-24-years?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-09-11T19:59:41.000Z",
+      "summary": "UK Foreign Office files, public since 2024, record warnings about Israeli violence and rights abuses since 2002."
+    },
+    {
+      "id": "636f36226bc01085",
+      "title": "ডায়ানার সেই ‘প্রতিশোধের পোশাক’ নিলামে তোলা হচ্ছে",
+      "url": "https://www.prothomalo.com/world/europe/te9g8cmsev",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-11T19:55:15.000Z",
+      "summary": "ডায়ানার স্বামী ছিলেন প্রিন্স চার্লস, বর্তমানে তিনি যুক্তরাজ্যের রাজা। তাঁর কারণেই ওই পোশাকের নাম হয়েছিল ‘রিভেঞ্জ ড্রেস’।"
+    },
+    {
+      "id": "e9536e90ba5ed7e6",
+      "title": "হুতিদের অগ্রগতিতে সংকট বাড়বে সৌদির",
+      "url": "https://www.prothomalo.com/world/middle-east/6wn7mzu7xm",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-11T19:52:21.000Z",
+      "summary": "মোখা ও পেরিম দখলের পর বাব আল-মানদেব প্রণালিতে হুতিদের নিয়ন্ত্রণ জোরদার হয়েছে, যা ইরান যুদ্ধের মধ্যে সৌদি আরবের জন্য নতুন উদ্বেগ তৈরি করেছে।"
+    },
+    {
+      "id": "5db910ba4f5a8d53",
+      "title": "'Out of control' - Cook questions England tactics",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c1kxw9dn29ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
       "region": "asia_pacific",
-      "publishedAt": "2026-09-11T18:18:57.000Z",
-      "summary": "England face a chase of 130 to win the third Test after Pakistan debutant Razaullah produces some thrilling resistance on day three at Edgbaston."
+      "publishedAt": "2026-09-11T19:48:43.000Z",
+      "summary": "England had “no plan” and were “out of control” in the face of Razaullah’s stunning hitting on the third day of the final Test against Pakistan, according to former captain Alastair Cook."
+    },
+    {
+      "id": "2f49bb523abeb335",
+      "title": "লালবাগে ব্যবসায়ী বন্ধুকে হত্যার পর মাটিচাপা, আদালতে মাসুমের স্বীকারোক্তি",
+      "url": "https://www.prothomalo.com/bangladesh/crime/bne1kud7cw",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-11T19:46:04.000Z",
+      "summary": "লালবাগে পাওনা টাকার জন্য ব্যবসায়ী ওয়াসিমকে হত্যা করে মাটিচাপা দেওয়ার ঘটনায় করা মামলায় তাঁর বন্ধু মাসুম আদালতে স্বীকারোক্তিমূলক জবানবন্দি দিয়েছেন।"
+    },
+    {
+      "id": "00ee7caa6cd799f9",
+      "title": "City boss Enzo Maresca says spotlight not on him ahead of Manchester derby",
+      "url": "https://www.aljazeera.com/sports/2026/9/11/enzo-maresca-manchester-city-man-united-derby-football?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-09-11T19:37:17.000Z",
+      "summary": "Maresca's Man City lead the Premier League standings, with three wins out of three, ahead of Sunday's derby."
+    },
+    {
+      "id": "5fe1555f2de060b5",
+      "title": "Razaullah introduces himself as Pakistan thrive in chaos",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c158k8vn7vwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "asia_pacific",
+      "publishedAt": "2026-09-11T19:35:07.000Z",
+      "summary": "Cancel the tee time at the Belfry, rearrange the trip to Cadbury World and abort the shopping jolly to the Bullring - Pakistan's debutant Razaullah lights up Edgbaston to send third Test into fourth day."
+    },
+    {
+      "id": "bb26ffd041dffb39",
+      "title": "খাগড়াছড়িতে নিখোঁজের তিন দিন পর \nইউপি সদস্যের ঝুলন্ত মরদেহ উদ্ধার",
+      "url": "https://www.prothomalo.com/bangladesh/district/gwfnyembg6",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-11T19:25:45.000Z",
+      "summary": "খাগড়াছড়ির লক্ষ্মীছড়ি উপজেলার দুর্গম পাহাড়ি এলাকা থেকে সাধন রঞ্জন চাকমা (৪৮) নামের এক ইউপি সদস্যের ঝুলন্ত মরদেহ উদ্ধার করেছে পুলিশ।"
+    },
+    {
+      "id": "f0a83a9139777598",
+      "title": "Deadly DRC school fire prompts calls for safety reforms",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/deadly-drc-school-fire-prompts-calls-for-safety-reforms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-09-11T19:23:41.000Z",
+      "summary": "A fire at a school in the Democratic Republic of the Congo killed 28 students and destroyed homes across a neighbourhood"
+    },
+    {
+      "id": "5267a65fd79a73e9",
+      "title": "How US leaders remembered the 25th anniversary of the 9/11 attacks",
+      "url": "https://www.aljazeera.com/news/2026/9/11/how-us-leaders-remembered-the-25th-anniversary-of-the-9-11?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-09-11T19:21:48.000Z",
+      "summary": "Trump drew parallels to the US's present-day war against Iran, while figures like Abdul El-Sayed called for inclusivity."
+    },
+    {
+      "id": "4a1b838b55c62164",
+      "title": "ওষুধ ধার করে মশা মারছে ঢাকা দক্ষিণ সিটি",
+      "url": "https://www.prothomalo.com/bangladesh/capital/1j38vrro4v",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-11T19:18:16.000Z",
+      "summary": "নিজেদের মশার ওষুধের সরবরাহে ঘাটতি থাকায় ঢাকা উত্তর সিটির কাছ থেকে ১৬ হাজার লিটার মেলাথিয়ন কীটনাশক ধার নিয়েছে দক্ষিণ সিটি।"
+    },
+    {
+      "id": "8b46bc5189bec9cd",
+      "title": "কবীর-লালনের দর্শনে সম্প্রীতির বাংলাদেশ গড়ার আহ্বান",
+      "url": "https://www.prothomalo.com/bangladesh/capital/171gxhs7w5",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-11T19:11:17.000Z",
+      "summary": "ফজলুর রহমান বলেন, মুক্তিযুদ্ধের মূল লক্ষ্য ছিল ধর্মনিরপেক্ষ, অসাম্প্রদায়িক ও গণতান্ত্রিক বাংলাদেশ। যেখানে হিন্দু-মুসলমান-বৌদ্ধ-খ্রিষ্টান সবাই ভেদাভেদ ভুলে একসঙ্গে বসবাস করবে।"
+    },
+    {
+      "id": "68b9a9bbdda0f0ac",
+      "title": "Houthi advance in Yemen is about more than just the Red Sea",
+      "url": "https://www.aljazeera.com/news/2026/9/11/houthi-advance-in-yemen-is-about-more-than-just-the-red-sea?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-09-11T19:01:07.000Z",
+      "summary": "Houthis were already able to disrupt shipping - their advance consolidates that power, and exposes government weakness."
+    },
+    {
+      "id": "59ca0f8d82c8ac15",
+      "title": "Razaullah steals the show as Pakistan fight back to frustrate England",
+      "url": "https://www.bbc.co.uk/sport/cricket/videos/c8xkv541lxvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "asia_pacific",
+      "publishedAt": "2026-09-11T19:00:05.000Z",
+      "summary": "Shan Masood, Babar Azam and debutant Razaullah all reach half-centuries as Pakistan produce a spirited fight back to score 449 in their second innings on day three, setting England 130 to win the third and final Test, and complete a 3-0 series win at Edgbaston."
+    },
+    {
+      "id": "df9d7036dbcf2de5",
+      "title": "ডেঙ্গু প্রতিরোধে দেড় হাজার কর্মী নিয়ে মাঠে নামছে ডিএনসিসি",
+      "url": "https://www.prothomalo.com/bangladesh/capital/q65k7lp0le",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-11T18:56:16.000Z",
+      "summary": "জাতীয় ডেঙ্গু প্রতিরোধ দিবসে ঢাকার বিভিন্ন এলাকায় বিশেষ মশক নিয়ন্ত্রণ কার্যক্রম চালাবে ডিএনসিসি। ঝুঁকিপূর্ণ স্থান ও আগে শনাক্ত হটস্পটগুলোতে দেওয়া হবে বিশেষ অগ্রাধিকার।"
+    },
+    {
+      "id": "1760a69482010c63",
+      "title": "পল্লবীতে ‘গোল দিলেই ফ্রি শপিং’ অফার ঘিরে তুলকালাম, বিক্রয়কেন্দ্রে পুলিশের তালা",
+      "url": "https://www.prothomalo.com/bangladesh/capital/778ap5jk63",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-11T18:50:45.000Z",
+      "summary": "খবর পেয়ে ঘটনাস্থলে পুলিশ গিয়ে পরিস্থিতি নিয়ন্ত্রণে আনে এবং উত্তেজিত দুই হাজারের মতো জনতাকে বের করে দিয়ে প্রতিষ্ঠানটিতে তালা লাগিয়ে দেয়।"
+    },
+    {
+      "id": "bca112d5e2f79c26",
+      "title": "Ciganda's late sparkle lifts Europe on dramatic opening day of Solheim Cup",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cm2q83edzzlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "americas",
+      "publishedAt": "2026-09-11T18:26:09.000Z",
+      "summary": "Carlota Ciganda steals the show after Europe's top pairing of Charley Hull and Lottie Woad fail to ignite on day one of the Solheim Cup against the United States."
+    },
+    {
+      "id": "6b6629257ac99246",
+      "title": "Benn defies concerns to make weight for Garcia bout",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/c4gqj1g5d27o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-09-11T18:22:35.000Z",
+      "summary": "Conor Benn and Ryan Garcia both comfortably make the welterweight limit for their WBC title fight despite concerns at how they would fare on the scales."
+    },
+    {
+      "id": "baa4c35646d0feb8",
+      "title": "খিলগাঁওয়ে খাল থেকে লাশ উদ্ধার: আদালতে আসামির স্বীকারোক্তিমূলক জবানবন্দি",
+      "url": "https://www.prothomalo.com/bangladesh/crime/lstyvzmgup",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-11T18:19:20.000Z",
+      "summary": "এ ঘটনায় সিরাজগঞ্জের চৌহালী থানার বাসিন্দা ও মেরুল বাড্ডা এলাকার ভাড়াটে মো. আবদুল্লাহকে গত বুধবার রাতে বাড্ডার বাজার গলি এলাকা থেকে গ্রেপ্তার করা হয়।"
     },
     {
       "id": "902780cb359dd63d",
@@ -32,86 +322,6 @@
       "summary": "George Russell says the new Madrid circuit is \"very high risk\" after Arvid Lindblad crashes in Friday practice at the Spanish Grand Prix."
     },
     {
-      "id": "eb3164ddea621b26",
-      "title": "At least 46,000 displaced by escalating Yemen fighting: UN",
-      "url": "https://www.aljazeera.com/news/2026/9/11/at-least-46000-displaced-by-escalating-yemen-fighting-un?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-09-11T18:14:29.000Z",
-      "summary": "The International Organisation for Migration (IOM) warns that the figure is rising 'by the hour'."
-    },
-    {
-      "id": "a412b7591182574d",
-      "title": "রাজাউল্লাহর ছক্কার রেকর্ড, অবশেষে পাকিস্তানের দিন",
-      "url": "https://www.prothomalo.com/sports/cricket/q3dt7u38d4",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-11T18:06:40.000Z",
-      "summary": "অভিষেকের ছক্কার রেকর্ড গড়া ২১ বছর বয়সী রাজাউল্লাহ ছক্কা মেরেছেন ৯টি, আব্বাসের সঙ্গে নবম উইকেটে গড়েছেন ১২১ রানের জুটি।"
-    },
-    {
-      "id": "4eaca8f20b77a39d",
-      "title": "ভেনিস উৎসবে পুরস্কার জিতল বাংলাদেশের সিনেমা",
-      "url": "https://www.prothomalo.com/entertainment/dhallywood/i29j9d1hd2",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-11T18:03:47.000Z",
-      "summary": "প্রথমবারের মতো ভেনিস উৎসবে বাংলাদেশের সিনেমা হিসেবে অংশ নিয়েই বাজিমাত করেছে রুবাইয়াত হোসনের সিনেমা ‘দ্য ডিফিকাল্ট ব্রাইড’।"
-    },
-    {
-      "id": "98b3a1b80d4ffeec",
-      "title": "US holds memorials for the 9/11 attacks, 25 years later",
-      "url": "https://www.aljazeera.com/gallery/2026/9/11/us-holds-memorials-for-the-9-11-attacks-25-years?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-09-11T18:00:41.000Z",
-      "summary": "In New York, Virginia and Pennsylvania, mourners gathered to remember nearly 3,000 people killed during the hijackings."
-    },
-    {
-      "id": "28601a4b77c1fb2a",
-      "title": "মহাসড়কের পাশে লাগেজ ও বস্তায় ভরা ছিল নারীর খণ্ডিত দেহ",
-      "url": "https://www.prothomalo.com/bangladesh/district/i6fexns04g",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-11T17:44:44.000Z",
-      "summary": "মহাসড়কের পাশের কালভার্টের নিচে নীল রঙের একটি লাগেজ পড়ে থাকতে দেখেন স্থানীয় লোকজন। সন্দেহ হওয়ায় তাঁরা পুলিশে খবর দেন।"
-    },
-    {
-      "id": "65e391834992e7c9",
-      "title": "শরীয়তপুরে মহাসড়কে নিষিদ্ধ ছাত্রলীগ-যুবলীগের মিছিল",
-      "url": "https://www.prothomalo.com/bangladesh/district/1d68zzi2yl",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-11T17:41:33.000Z",
-      "summary": "নড়িয়া উপজেলার গাগ্রিজোড়া এলাকায় এবং জাজিরা উপজেলার তালতলা এলাকায় ঢাকা-শরীয়তপুর আঞ্চলিক মহাসড়কে ছাত্রলীগ ও যুবলীগের নেতা-কর্মীরা মিছিল করেন।"
-    },
-    {
-      "id": "d7f8e9d2a9f93e89",
-      "title": "স্যুটকেস থেকে বেরিয়ে এল নারীর অর্ধগলিত লাশ",
-      "url": "https://www.prothomalo.com/video/bangladesh/wqqa0tazb4",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-11T17:35:58.000Z",
-      "summary": ""
-    },
-    {
-      "id": "4dc835bb559f6dda",
-      "title": "US declares end of largest recorded cyclosporiasis outbreak",
-      "url": "https://www.aljazeera.com/news/2026/9/11/us-declares-end-of-largest-recorded-cyclosporiasis-outbreak?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-09-11T17:35:36.000Z",
-      "summary": "The FDA says contaminated lettuce has been removed from the market after nearly 13,000 linked cases."
-    },
-    {
       "id": "f34f5d86342ff2a1",
       "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
       "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
@@ -120,26 +330,6 @@
       "region": "global",
       "publishedAt": "2026-09-11T17:32:44.000Z",
       "summary": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown."
-    },
-    {
-      "id": "787007a149264671",
-      "title": "UK lawmakers vote against bill to legalise assisted dying",
-      "url": "https://www.aljazeera.com/news/2026/9/11/uk-lawmakers-vote-against-bill-to-legalise-assisted-dying?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-09-11T17:31:22.000Z",
-      "summary": "Parliament's lower ⁠chamber, the House of Commons, rejected the legislation by 286 votes to 270."
-    },
-    {
-      "id": "76d71492ef9393fd",
-      "title": "Rising petrol costs drive sharp inflation increase in US in August",
-      "url": "https://www.aljazeera.com/economy/2026/9/11/rising-petrol-costs-drive-sharp-inflation-increase-in-us-in-august?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-09-11T17:28:11.000Z",
-      "summary": "Petrol prices jumped 3.9 percent month-to-month, accounting for one-third of the overall inflation increase in August."
     },
     {
       "id": "817032deaeea9721",
@@ -152,124 +342,14 @@
       "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. [...]"
     },
     {
-      "id": "a596037b8b2e1228",
-      "title": "‘Handcuffed and blindfolded’: Is the US targeting Ecuadorian fishermen?",
-      "url": "https://www.aljazeera.com/news/2026/9/11/handcuffed-and-blindfolded-is-the-us-targeting-ecuadorian-fishermen?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-09-11T17:18:17.000Z",
-      "summary": "A growing number of fishermen say their boats have been struck by US forces as Trump expands his anti-drug campaign."
-    },
-    {
-      "id": "618ac2df834e6bab",
-      "title": "Matt Mullenweg reportedly returns as Automattic CEO two days after getting booted",
+      "id": "3de85aaff900c615",
+      "title": "Matt Mullenweg returns as Automattic CEO two days after getting booted",
       "url": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
       "source": "The Verge",
       "category": "technology",
       "region": "global",
       "publishedAt": "2026-09-11T17:16:59.000Z",
-      "summary": "Two days after being placed on a paid leave of absence, Matt Mullenweg says he has been reinstated as CEO of Automattic, according to a Slack message seen by TechCrunch. As 404 Media reported on Wednesday, Mullenweg had told staff in Slack that CFO Mark Davies \"conspired\" with the board of directors, who voted to \"put me on a paid leave of absence.\" (Mullenweg said he voted against that.) He also told staff that the "
-    },
-    {
-      "id": "a0d1a12deb8227ac",
-      "title": "ঝুম বৃষ্টি উপেক্ষা করে ভূমিজদের ‘করমা’ উদ্‌যাপন",
-      "url": "https://www.prothomalo.com/video/bangladesh/qbobfg6hn5",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-11T17:15:25.000Z",
-      "summary": ""
-    },
-    {
-      "id": "1365e60e9286ce59",
-      "title": "এখনো অন্ধকারে পুলিশ, ঘুরপাক খাচ্ছে মোটরসাইকেলের সাদা আর নীল রঙে",
-      "url": "https://www.prothomalo.com/bangladesh/crime/2ljlwo3dn5",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-11T17:12:47.000Z",
-      "summary": "গ্রেপ্তার তিন আসামির সম্পৃক্ততার তথ্যপ্রমাণ পাওয়া যায়নি, ছিনতাইয়ে ব্যবহৃত মোটরসাইকেল নিয়ে ওঠা প্রশ্নেরও সুরাহা হয়নি। প্রকৃত অপরাধীদেরও গ্রেপ্তার করতে পারেনি।"
-    },
-    {
-      "id": "c01710fd149e116a",
-      "title": "বিশ্বকাপ নিয়ে স্পেন-মরক্কোর টানাটানি, মরিনিও বললেন ‘পর্তুগালে হোক’",
-      "url": "https://www.prothomalo.com/sports/football/8ng1q3atuk",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-11T17:09:29.000Z",
-      "summary": "বিশ্বকাপের শতবর্ষ উপলক্ষে আর্জেন্টিনা, উরুগুয়ে ও প্যারাগুয়েতে হবে একটি করে ম্যাচ। বাকি সব ম্যাচ হবে স্পেন, মরক্কো ও পর্তুগালে।"
-    },
-    {
-      "id": "4d19ac6a2448c04e",
-      "title": "দিল্লিতে মোদির আপ্যায়নে পুতিন-সি, তবে ব্রিকসে বড় হয়ে উঠবে ট্রাম্পের ছায়া",
-      "url": "https://www.prothomalo.com/world/india/oybc8cosnq",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-11T17:00:24.000Z",
-      "summary": "দিল্লির ব্রিকস সম্মেলনে যুক্তরাষ্ট্রের প্রভাব, সদস্যদেশগুলোর বিভাজন এবং ভারতের নেতৃত্বের আকাঙ্ক্ষা জোটটির ভবিষ্যৎ ভূমিকা নিয়ে প্রশ্ন তুলছে। সম্মেলন সফল করা ভারতের জন্য একটি বড় পরীক্ষা।"
-    },
-    {
-      "id": "c82c73a951ab2157",
-      "title": "কুষ্টিয়ায় পদ্মার পানিতে নিম্নাঞ্চল প্লাবিত, অর্ধলক্ষাধিক মানুষ পানিবন্দী",
-      "url": "https://www.prothomalo.com/bangladesh/district/y366mlswgo",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-11T16:58:51.000Z",
-      "summary": "পদ্মার পানি বাড়ার কারণে সবচেয়ে বেশি বিপাকে পড়েছেন দৌলতপুর উপজেলার চিলমারী ও রামকৃষ্ণপুর ইউনিয়নের মানুষ।"
-    },
-    {
-      "id": "a4408ae7c665cae0",
-      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-      "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "middle_east",
-      "publishedAt": "2026-09-11T16:58:34.000Z",
-      "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route."
-    },
-    {
-      "id": "928de96d195be59c",
-      "title": "Dunbar wins stage as Mas maintains lead in Vuelta",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/ce8x4xe9ze8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-09-11T16:44:54.000Z",
-      "summary": "Ireland's Eddie Dunbar wins the 19th stage of the Vuelta a Espana as Spain's Enric Mas maintains his overall lead with two stages remaining."
-    },
-    {
-      "id": "6013ae7f9ec46905",
-      "title": "Houthis declare Red Sea shipping safe except for Saudi vessels",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/houthis-declare-red-sea-shipping-safe-except-for-saudi-vessels?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-09-11T16:32:14.000Z",
-      "summary": "Houthi spokesman Yahya Saree said maritime navigation in the Red Sea is safe, except for Saudi ships."
-    },
-    {
-      "id": "9fbfdfe466f442d3",
-      "title": "US diplomacy under fire as Russia escalates attacks on Ukrainian officials",
-      "url": "https://www.aljazeera.com/news/2026/9/11/us-diplomacy-under-fire-as-moscow-escalates-attacks-on-ukrainian-officials?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-09-11T16:30:48.000Z",
-      "summary": "The Witkoff-Kushner visit to Moscow was immediately followed by Russian attacks on Kyiv."
-    },
-    {
-      "id": "49287172c7ee845d",
-      "title": "Passenger plane aborts landing after wing clips Dublin runway",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/passenger-plane-aborts-landing-after-wing-clips-dublin-runway?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-09-11T16:27:24.000Z",
-      "summary": "A passenger aboard a Ryanair Boeing 737 recorded the moment the aircraft’s wingtip struck the runway at Dublin airport."
+      "summary": "Two days after being placed on a paid leave of absence, Matt Mullenweg says he has been reinstated as CEO of Automattic, according to a Slack message seen by TechCrunch. WordPress Executive Director Mary Hubbard confirmed Mullenweg's return to the CEO role in a Friday post on X, which the official WordPress account shared and Mullenweg reposted. I'm relieved and pleased to see Matt Mullenweg return as CEO of Automatt"
     },
     {
       "id": "83e0e6838372546a",
@@ -352,16 +432,6 @@
       "summary": "Phra Wachirayan Wi arrested alongside woman he was filmed having sex with in latest scandal to hit country’s clergy Police in Thailand have arrested a senior Buddhist monk on suspicion of embezzling $2.8m intended for his monastery, alongside a suspected female accomplice he was filmed having sex with. The case is the latest scandal to hit the clergy in the Buddhist-majority country, after a sex and extortion case in"
     },
     {
-      "id": "4f2822e2faab7b0b",
-      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "source": "The Verge",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-09-11T14:25:21.000Z",
-      "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the company \"missed the mark,\" adding that \"the feature never should have prompted the individual with questions like that.\" Last week, Instagram user"
-    },
-    {
       "id": "9fc1171aaece1785",
       "title": "US prices remain high as fuel costs squeeze household budgets",
       "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
@@ -370,26 +440,6 @@
       "region": "global",
       "publishedAt": "2026-09-11T14:22:42.000Z",
       "summary": "Prices in the US rose 3.4% in the 12 months to August, according to the latest official report on inflation."
-    },
-    {
-      "id": "0df53ae7966e5154",
-      "title": "Diving duo - Lawrence and Cox produce brilliant catches for England",
-      "url": "https://www.bbc.co.uk/sport/cricket/videos/cwyzr2dr977o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-09-11T13:57:05.000Z",
-      "summary": "Dan Lawrence and Jordan Cox both produce brilliant, diving catches to dismiss Shan Masood and Babar Azam respectively, with both batters having caused problems for England on day three of the third Test at Edgbaston."
-    },
-    {
-      "id": "cfa619e27d4e69c3",
-      "title": "Hull fined £30k & bans issued over Chelsea chant",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c624l1v9853o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-09-11T13:43:54.000Z",
-      "summary": "Hull City have been fined £30,000 over discriminatory chanting with the club issuing three supporter bans following their FA Cup defeat by Chelsea in February."
     },
     {
       "id": "0a485ef55dbbf219",
@@ -420,16 +470,6 @@
       "region": "global",
       "publishedAt": "2026-09-11T12:04:46.000Z",
       "summary": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December."
-    },
-    {
-      "id": "00d6ae0580e9664f",
-      "title": "Hull's Thomas unhurt after car crash",
-      "url": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-09-11T11:33:22.000Z",
-      "summary": "Premier League winger Sorba Thomas's Land Rover overturns in Cottingham."
     },
     {
       "id": "69cd117720eca90b",
@@ -480,26 +520,6 @@
       "region": "africa",
       "publishedAt": "2026-09-11T10:00:03.000Z",
       "summary": "Findings on decline of species such as Arctic tern and turtle dove published alongside flyways pledge at Kenya summit One in nine migratory birds are threatened with extinction and 45% of migratory species such as cuckoos, turtle doves and Arctic terns are in decline, according to a global report. The migratory slender-billed curlew was officially declared extinct last year, the first global bird extinction in mainla"
-    },
-    {
-      "id": "69f003d566458a09",
-      "title": "Six Nigerians accused of romance scams to be extradited to the US",
-      "url": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "africa",
-      "publishedAt": "2026-09-11T09:54:51.000Z",
-      "summary": "The six will face wire fraud and money-laundry charges in the US, South African police say."
-    },
-    {
-      "id": "a48344aeffbfeb08",
-      "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-09-11T09:39:37.000Z",
-      "summary": "Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday. [...]"
     },
     {
       "id": "82a711c79049c8b3",
@@ -582,26 +602,6 @@
       "summary": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?"
     },
     {
-      "id": "4254f9bccbe1c095",
-      "title": "Sutton's predictions v Dorking Wanderers manager Marc White",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1dlnq215zeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-09-10T18:47:34.000Z",
-      "summary": "BBC Sport football expert Chris Sutton takes on Dorking Wanderers manager Marc White, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures."
-    },
-    {
-      "id": "5b87b719a8e5da80",
-      "title": "People in the US: how have you coped during this summer of record heat?",
-      "url": "https://www.theguardian.com/environment/2026/sep/11/summer-record-heat-callout",
-      "source": "The Guardian Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-09-10T14:00:38.000Z",
-      "summary": "We’d like to hear from people about the impact of extreme heat this summer – and if you’ve had your power cut It’s been a record summer of heat in the US with rolling heat domes and July being the hottest month ever recorded in the country, surpassing temperatures stretching back over 132 years of reliable measurements, to 1895. July’s temperatures surpassed previous high marks set in July 1936, in the teeth of dust "
-    },
-    {
       "id": "b1f58a81541277c1",
       "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
       "url": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
@@ -610,6 +610,16 @@
       "region": "global",
       "publishedAt": "2026-09-10T13:34:17.000Z",
       "summary": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?"
+    },
+    {
+      "id": "e1a9b1f0dd664396",
+      "title": "Chemical companies reach $455m settlement with North Carolina over ‘forever chemicals’ claims",
+      "url": "https://www.theguardian.com/us-news/2026/sep/10/pfas-chemical-companies-north-carolina",
+      "source": "The Guardian Environment",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-09-10T12:50:32.000Z",
+      "summary": "Chemours, DuPont and Corteva reach settlement after lawsuits accuse companies of polluting drinking water Chemours, DuPont and Corteva on Thursday reached a $455m settlement with ⁠North Carolina and 11 local entities over Pfas contamination claims tied to ⁠Chemours’ Fayetteville Works ⁠plant and ​other historical discharges. Lawsuits accusing major chemical companies of polluting US drinking water ⁠with toxic Pfas ch"
     },
     {
       "id": "952b6f938a8d753b",
