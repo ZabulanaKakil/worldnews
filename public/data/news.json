@@ -1,15 +1,65 @@
 {
-  "generatedAt": "2026-09-13T22:19:01.330Z",
+  "generatedAt": "2026-09-14T00:53:56.897Z",
   "articles": [
     {
-      "id": "fadc47c764677e55",
-      "title": "Watch: Match of the Day",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
+      "id": "6dd0a146947ef9cc",
+      "title": "Yemen’s Houthis advance on government strongholds of Marib, Taiz",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/yemens-houthis-advance-on-government-strongholds-of-marib-taiz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-09-14T00:14:09.000Z",
+      "summary": "Fighting is intensifying in Yemen as Houthi fighters advance toward Saudi-backed government-held areas."
+    },
+    {
+      "id": "b5a4291e581541c3",
+      "title": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-09-14T00:00:00.000Z",
+      "summary": "Oman says Hormuz talks with Iran and Gulf states are postponed 'in the interests of consensus'."
+    },
+    {
+      "id": "a6fd73d80502046a",
+      "title": "How to protect your laptop, phone and bike from thieves at uni",
+      "url": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
       "region": "global",
-      "publishedAt": "2026-09-13T22:21:25.000Z",
-      "summary": "Highlights of two Premier League matches, including the Manchester derby at Old Trafford."
+      "publishedAt": "2026-09-13T23:39:32.000Z",
+      "summary": "What should new students consider to keep your belongings safe and covered by insurance?"
+    },
+    {
+      "id": "de4a3823f33bffc2",
+      "title": "Israeli quadcopter terrorises homes in Gaza City",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/aje-onl-nf_israeli-quadcopter-terrorises-homes-in-gaza-city-130926?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-09-13T23:33:23.000Z",
+      "summary": "Video shows a low-flying Israeli quadcopter maneuvering between residential buildings in eastern Gaza City."
+    },
+    {
+      "id": "1a24f552c69fa011",
+      "title": "Trump dismisses calls for AI slowdown from leading tech CEOs",
+      "url": "https://www.aljazeera.com/news/2026/9/13/trump-dismisses-calls-for-ai-slowdown-from-leading-tech-ceos?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "technology",
+      "region": "asia_pacific",
+      "publishedAt": "2026-09-13T23:31:56.000Z",
+      "summary": "Trump downplays AI risks, saying he wants to maintain the US's lead over China in the emerging technology."
+    },
+    {
+      "id": "a0dc2d0ef84f7086",
+      "title": "Gloomy forecast for tenants as rent rises set to speed up",
+      "url": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-09-13T23:05:45.000Z",
+      "summary": "The cost of renting is expected to rise by 4% or 5% a year by December, according to property website Zoopla."
     },
     {
       "id": "cc79804ee063c527",
@@ -18,128 +68,78 @@
       "source": "BBC Sport",
       "category": "sports",
       "region": "global",
-      "publishedAt": "2026-09-13T22:02:29.000Z",
+      "publishedAt": "2026-09-13T22:55:31.000Z",
       "summary": "Alexander Zverev lands his second Grand Slam title after ending Ben Shelton's hopes of becoming a rare home US Open men's champion."
     },
     {
-      "id": "5df0d130443d3bbb",
-      "title": "A third person has died of measles in the US, health officials say",
-      "url": "https://www.aljazeera.com/news/2026/9/13/a-third-person-has-died-of-measles-in-the-us-health-officials-say?traffic_source=rss",
+      "id": "6993c1e354f76414",
+      "title": "Zverev defeats Shelton in four sets to win his first US Open title",
+      "url": "https://www.aljazeera.com/sports/2026/9/13/zverev-beats-shelton-in-four-sets-to-win-us-open-title?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-09-13T21:21:32.000Z",
-      "summary": "Pennsylvania reports that a 40-year-old woman died from the disease, which was declared eliminated in the US in 2000."
+      "region": "americas",
+      "publishedAt": "2026-09-13T22:33:34.000Z",
+      "summary": "Germany's Alexander Zverev beats American Ben Shelton 6-3, 7-6 (2), 5-7, 6-2 to win the men's singles title in New York."
     },
     {
       "id": "609c575abf2a8f40",
       "title": "Swedish party blocs tied after Sunday vote, projections say",
       "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-09-13T22:27:54.000Z",
+      "summary": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority."
+    },
+    {
+      "id": "6d07f14d9fbc0e6a",
+      "title": "Babies review – Anna Kendrick and Seth Rogen embrace childlessness in breezy comedy",
+      "url": "https://www.theguardian.com/film/2026/sep/13/babies-anna-kendrick-seth-rogen-movie-review-toronto",
+      "source": "The Guardian Culture",
       "category": "creativity_arts",
       "region": "global",
-      "publishedAt": "2026-09-13T21:17:15.000Z",
-      "summary": "With 50% of the votes counted, the two main blocs were separated by only 20,000 votes, Sweden public broadvasteer SVT said."
+      "publishedAt": "2026-09-13T22:27:30.000Z",
+      "summary": "Toronto film festival: To be a parent or not to be a parent is the question propelling this often insightful yet largely run-of-the-mill riff on a Judd Apatow movie It’s a question still casually and routinely asked to couples everywhere regardless of familiarity, one that many fear and some feel actively offended by: are you guys gonna have kids? Despite living in an age where we’re supposedly more accepting of peop"
     },
     {
-      "id": "f09b9800f3716e1c",
-      "title": "USA defeat France to win 12th FIBA Women’s Basketball World Cup",
-      "url": "https://www.aljazeera.com/sports/2026/9/13/usa-defeat-france-to-win-12th-fiba-womens-basketball-world-cup?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-09-13T21:12:11.000Z",
-      "summary": "Breanna Stewart leads comeback win for the record champions despite France's early lead in the Berlin final."
-    },
-    {
-      "id": "406b9a76581a9bc4",
-      "title": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
-      "url": "https://www.aljazeera.com/news/2026/9/13/poland-ukraine-accuse-russia-of-escalation-after-strikes-near-border?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-09-13T21:10:07.000Z",
-      "summary": "Western officials including ex-UK PM Boris Johnson were nearby when Russia hit a train at the Poland-Ukraine border."
-    },
-    {
-      "id": "bc76b4321d1921d3",
-      "title": "Pro-Palestine protest demands Australia increases pressure on Israel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/pro-palestine-protest-demands-australia-increases-pressure-on-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "middle_east",
-      "publishedAt": "2026-09-13T21:02:14.000Z",
-      "summary": "A pro-Palestine protest in Sydney demanded that the Australian government take further action and implement on Israel."
-    },
-    {
-      "id": "e8988e94cd1fb384",
-      "title": "Jerusalem Daily: Pregnant woman killed in Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/jerusalem-daily-pregnant-woman-killed-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-09-13T20:46:34.000Z",
-      "summary": "Israeli forces kill a pregnant Palestinian woman in Gaza and settler pogroms intensify across the occupied West Bank."
-    },
-    {
-      "id": "76c1179cf35893ee",
-      "title": "Can a warming Arctic become an important commercial highway?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/13/can-a-warming-arctic-become-an-important-commercial-highway?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-09-13T20:44:51.000Z",
-      "summary": "The conflict in the Middle East raises security concerns about traditional shipping routes."
-    },
-    {
-      "id": "0079ba8d2d03eed0",
-      "title": "India win Women’s Asia Cup but do not accept trophy",
-      "url": "https://www.aljazeera.com/sports/2026/9/13/india-win-womens-asia-cup-but-do-not-accept-trophy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "asia_pacific",
-      "publishedAt": "2026-09-13T20:41:12.000Z",
-      "summary": "India were not present at the trophy ceremony, which was led by Pakistani Interior Minister and ACC President Naqvi."
-    },
-    {
-      "id": "ab8d08f2b208dd9d",
-      "title": "US Envoy Jared Kushner says Doha attack left Israel ‘globally isolated’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-kushner-doha-attack-comments-clip?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-09-13T20:33:28.000Z",
-      "summary": "Jared Kushner, says Israel’s failed attack on Hamas leadership in Doha was ‘terrible’ and left the country ‘isolated'"
-    },
-    {
-      "id": "26828753859a6b3a",
-      "title": "Swedes vote in election that could see far-right in government",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/swedes-vote-in-election-that-could-see-far-right-in-government?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
+      "id": "96758ccfe9af5c8f",
+      "title": "Intelligence & resilience key in statement win for Maresca's Man City - Murphy",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq6384g0pqyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
       "region": "global",
-      "publishedAt": "2026-09-13T19:58:11.000Z",
-      "summary": "Voting is under way in Sweden in a closely fought election that could see the far-right enter government."
+      "publishedAt": "2026-09-13T22:20:42.000Z",
+      "summary": "Match of the Day pundit Danny Murphy explains how Manchester City beat Manchester United at Old Trafford despite being down to 10 men for most of the game."
     },
     {
-      "id": "5dc2c09b9c9a1aa2",
-      "title": "Ronaldo calls for life bans of Saudi Pro League fans after Jota chants",
-      "url": "https://www.aljazeera.com/sports/2026/9/13/ronaldo-calls-of-life-bans-of-saudi-pro-league-fans-after-jota-chants?traffic_source=rss",
+      "id": "b0b7c2a09e2b27f5",
+      "title": "Could AI really kill us within a decade?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/ai-apocalypse-warnings-benefit-ai-companies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-09-13T22:17:15.000Z",
+      "summary": "AI companies are warning that their technology could wipe out humanity."
+    },
+    {
+      "id": "ad373635f93b71c3",
+      "title": "Barcelona beat Levante as Yamal scores twice to maintain perfect start",
+      "url": "https://www.aljazeera.com/sports/2026/9/13/barcelona-beat-levante-as-yamal-scores-twice-to-maintain-perfect-start?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-09-13T22:10:04.000Z",
+      "summary": "Barcelona have won all six games this season and sit top of La Liga with five wins from five after victory at Levante."
+    },
+    {
+      "id": "fbcb396b6501b58c",
+      "title": "Jefferson-Wooden, Bednarek complete Ultimate Championship sprint doubles",
+      "url": "https://www.aljazeera.com/sports/2026/9/13/jefferson-wooden-bednarek-complete-ultimate-championship-sprint-doubles?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "sports",
-      "region": "middle_east",
-      "publishedAt": "2026-09-13T19:55:49.000Z",
-      "summary": "Fans at Al-Taawoun and Al-Hilal game seem to taunt Ruben Neves by chanting name of deceased teammate, Diogo Jota."
-    },
-    {
-      "id": "503f783079ec26c4",
-      "title": "সম্পত্তি হস্তান্তর আইন সংশোধনের দাবি হেফাজতের",
-      "url": "https://www.prothomalo.com/politics/5p3fsfyj16",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-13T19:46:14.000Z",
-      "summary": "হেফাজতের নেতারা বলেন, মুসলিমপ্রধান দেশে ইসলামি শরিয়াহবিরোধী কোনো আইন গ্রহণযোগ্য নয়। বিলটি সংশোধন করতে হবে।"
+      "region": "americas",
+      "publishedAt": "2026-09-13T22:02:10.000Z",
+      "summary": "The Americans won the 100m and 200m at the Ultimate Championship that saw elite athletes win $150,000 each."
     },
     {
       "id": "b2027a22d7758f37",
@@ -182,16 +182,6 @@
       "summary": "Lando Norris says he was \"insanely unlucky\" to lose what seemed like a certain win in the Spanish Grand Prix because of the timing of a virtual safety car."
     },
     {
-      "id": "0d516e3864763f6c",
-      "title": "মুখোমুখি লড়াইয়ে\nহুতি ও সরকারি বাহিনী,\nসৌদিতেও হামলা",
-      "url": "https://www.prothomalo.com/world/middle-east/f5d0ot2yuj",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-13T19:25:28.000Z",
-      "summary": "সশস্ত্র গোষ্ঠীটি বলছে, গত শনিবার সন্ধ্যা পর্যন্ত ৪৮ ঘণ্টায় তাদের নিয়ন্ত্রিত এলাকায় সৌদি বাহিনী ১২৯টি বিমান হামলা চালিয়েছে।"
-    },
-    {
       "id": "05b8b8b3e9f0fd7b",
       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
       "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
@@ -200,16 +190,6 @@
       "region": "europe",
       "publishedAt": "2026-09-13T19:14:21.000Z",
       "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\"."
-    },
-    {
-      "id": "8ef9e45c9cd2ed54",
-      "title": "বিদ্যুৎ খরচ ২৫ টাকা, বাইক চলবে ৮০ কিলোমিটার",
-      "url": "https://www.prothomalo.com/video/bangladesh/081qxi9zgd",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-13T19:07:07.000Z",
-      "summary": ""
     },
     {
       "id": "4668dd2aeef30269",
@@ -222,16 +202,6 @@
       "summary": "Erling Haaland's goal helps Manchester City win a highly controversial Manchester derby at rivals Manchester United despite playing with 10 men for more than 70 minutes."
     },
     {
-      "id": "5a418bc958d9b1be",
-      "title": "সমন্বিত বৈশ্বিক প্রবৃদ্ধি চায় ব্রিকস",
-      "url": "https://www.prothomalo.com/world/india/mlkwpuabso",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-13T18:57:47.000Z",
-      "summary": "মধ্যপ্রাচ্য ও পশ্চিম এশিয়ায় শান্তি বজায় রাখার আহ্বানও জানিয়েছেন ব্রিকস জোটের নেতারা।"
-    },
-    {
       "id": "1e5514dca07da1ee",
       "title": "Trump downplays warnings of AI risks, citing rivalry with China",
       "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
@@ -239,27 +209,7 @@
       "category": "war_conflict",
       "region": "asia_pacific",
       "publishedAt": "2026-09-13T18:49:37.000Z",
-      "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\"."
-    },
-    {
-      "id": "ce1faf00e188c86b",
-      "title": "ফিল ফোডেনের লাল কার্ড: আসলে দোষী কে, কী বললেন বিশ্লেষকেরা",
-      "url": "https://www.prothomalo.com/sports/football/i280h118n4",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-13T18:45:43.000Z",
-      "summary": ""
-    },
-    {
-      "id": "a627814c435e1975",
-      "title": "ফ্রান্সের ২৫ শহরে বাংলাদেশের সিনেমার শুটিং",
-      "url": "https://www.prothomalo.com/entertainment/dhallywood/ewzlsa9jkh",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-13T18:32:41.000Z",
-      "summary": "ফ্রান্সে হবে ‘দ্য অরেঞ্জ’ চলচ্চিত্রের শুটিং। বাংলাদেশ–ফ্রান্সের যৌথ প্রযোজনার ছবিটির বাংলা নাম ‘পথের বন্ধু’। ফ্রান্সে পাড়ি দেওয়া এক তরুণীর জীবনের গল্পের ছবিটি বানাচ্ছেন স্বপন আহমেদ"
+      "summary": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\"."
     },
     {
       "id": "b5e690a4b78507af",
@@ -272,26 +222,6 @@
       "summary": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported finding two references in macOS 26.7's code to two game controllers identified as first-party devices. Despite the code being found in macOS, not iOS, Gurman says"
     },
     {
-      "id": "86e4da48412bd59d",
-      "title": "রেকর্ড অষ্টমবারের মতো এশিয়ার চ্যাম্পিয়ন ভারতের মেয়েরা",
-      "url": "https://www.prothomalo.com/sports/cricket/k418gy3wth",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-13T18:27:17.000Z",
-      "summary": ""
-    },
-    {
-      "id": "c98e4c086afe6410",
-      "title": "ডেঙ্গুতে মৃত্যু দেড় শ ছুঁই ছুঁই",
-      "url": "https://www.prothomalo.com/bangladesh/fyvusshopa",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-13T18:23:04.000Z",
-      "summary": ""
-    },
-    {
       "id": "187c542e1e93fee1",
       "title": "Questions mount over what an AI 'slowdown' would look like",
       "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
@@ -300,26 +230,6 @@
       "region": "global",
       "publishedAt": "2026-09-13T18:20:22.000Z",
       "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution."
-    },
-    {
-      "id": "07540f6c79104329",
-      "title": "এআইয়ের অগ্রগতির লাগাম না টানলে সবাই মারা যেতে পারি: অ্যানথ্রোপিকের সাবেক গবেষক",
-      "url": "https://www.prothomalo.com/world/usa/u91t7154pb",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-13T18:16:07.000Z",
-      "summary": ""
-    },
-    {
-      "id": "09fa46914fcff888",
-      "title": "ধর্ম নিয়ে টানাটানির জেরে হিমঘরে লাশ, আট দিন পর আদালতের নির্দেশে দাফন",
-      "url": "https://www.prothomalo.com/bangladesh/district/pnk3ewymhe",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-13T18:11:11.000Z",
-      "summary": ""
     },
     {
       "id": "6ed2720110b7d3a2",
@@ -432,16 +342,6 @@
       "summary": "The heavyweight champion took on the likes of Muhammad Ali and Joe Frazier, and was known for never once getting knocked out or knocked down."
     },
     {
-      "id": "8784510619338995",
-      "title": "NAZA director says 'it's important Israelis watch this film' after win at Venice festival – video",
-      "url": "https://www.theguardian.com/world/video/2026/sep/13/naza-directors-yuval-abraham-speech-venice-film-festival-video",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "middle_east",
-      "publishedAt": "2026-09-13T13:48:25.000Z",
-      "summary": "NAZA, a new film directed by Yuval Abraham and Rachel Szor and produced by the Guardian, has been awarded the special jury prize at the 83rd Venice film festival. Shot at night on the rooftops of Tel Aviv, NAZA reveals in detail the systems behind Israel’s calculated mass killing of Palestinian civilians in Gaza. Abraham, in his prize acceptance speech, said: 'It's really important Isrealis watch this film. It's our "
-    },
-    {
       "id": "2165cb6d31a4c842",
       "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
       "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
@@ -500,6 +400,16 @@
       "region": "asia_pacific",
       "publishedAt": "2026-09-13T05:04:52.000Z",
       "summary": "South Australian authorities say case discovered on Kangaroo Island is first for species of which less than 12,000 animals remain Get our breaking news email, free app or daily news podcast South Australia has recorded the first death of an endangered Australian sea lion from H5 bird flu. Experts say about 12,000 Australian sea lions remain – though a more recent estimate put the figure at less than 10,000. Most of t"
+    },
+    {
+      "id": "572be1227d8f17e2",
+      "title": "One dead and more than 30 missing after ferry sinks off Vanuatu coast in rough seas",
+      "url": "https://www.theguardian.com/world/2026/sep/13/one-dead-and-more-than-30-missing-after-ferry-sinks-off-vanuatu-coast-in-rough-seas",
+      "source": "The Guardian World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-09-13T02:39:50.000Z",
+      "summary": "Prime minister’s office tells families of those missing ‘the nation stands with you’ as search and rescue efforts continue One person has died and more than 30 are missing after a ferry sank off the coast of Vanuatu, the country’s government says. The vessel, MV Matui, had set sail with more than 40 passengers and crew on Friday from the island of Santo to Ambae island in very rough seas, but did not arrive. Continue"
     },
     {
       "id": "b2978ae245c3a284",
@@ -652,6 +562,16 @@
       "summary": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\"."
     },
     {
+      "id": "4455b4eb71df034c",
+      "title": "UK government rejects 'kill switch' idea for dangerous AI",
+      "url": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-09-11T15:07:07.000Z",
+      "summary": "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\"."
+    },
+    {
       "id": "9fc1171aaece1785",
       "title": "US prices remain high as fuel costs squeeze household budgets",
       "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
@@ -660,16 +580,6 @@
       "region": "global",
       "publishedAt": "2026-09-11T14:22:42.000Z",
       "summary": "Prices in the US rose 3.4% in the 12 months to August, according to the latest official report on inflation."
-    },
-    {
-      "id": "0a485ef55dbbf219",
-      "title": "Interest rates could rise again across the world – here's why",
-      "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-09-11T13:35:29.000Z",
-      "summary": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond."
     },
     {
       "id": "4c0563d6b0520c6a",
@@ -700,16 +610,6 @@
       "region": "global",
       "publishedAt": "2026-09-11T10:29:19.000Z",
       "summary": "The actor urged MPs to back a national testing programme to make sure historic toxic dump sites were safe."
-    },
-    {
-      "id": "ff21409343f8c52a",
-      "title": "AI boom helps drive surprise UK growth in July",
-      "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "europe",
-      "publishedAt": "2026-09-11T10:17:28.000Z",
-      "summary": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth."
     },
     {
       "id": "8f65e0431d9cc212",
@@ -760,6 +660,16 @@
       "region": "global",
       "publishedAt": "2026-09-10T17:29:20.000Z",
       "summary": "Family of late King Oyo Nyimba Kabamba Iguru Rukidi IV reject committee’s choice of cousin and TV presenter as new monarch A traditional Ugandan kingdom has become engulfed in a bitter succession dispute after the family of a king who recently died rejected the selection of a television news anchor as his successor. King Oyo Nyimba Kabamba Iguru Rukidi IV, who became the world’s youngest reigning monarch when he took"
+    },
+    {
+      "id": "e1a9b1f0dd664396",
+      "title": "Chemical companies reach $455m settlement with North Carolina over ‘forever chemicals’ claims",
+      "url": "https://www.theguardian.com/us-news/2026/sep/10/pfas-chemical-companies-north-carolina",
+      "source": "The Guardian Environment",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-09-10T12:50:32.000Z",
+      "summary": "Chemours, DuPont and Corteva reach settlement after lawsuits accuse companies of polluting drinking water Chemours, DuPont and Corteva on Thursday reached a $455m settlement with ⁠North Carolina and 11 local entities over Pfas contamination claims tied to ⁠Chemours’ Fayetteville Works ⁠plant and ​other historical discharges. Lawsuits accusing major chemical companies of polluting US drinking water ⁠with toxic Pfas ch"
     },
     {
       "id": "952b6f938a8d753b",
@@ -850,16 +760,6 @@
       "region": "americas",
       "publishedAt": "2026-09-09T04:46:23.000Z",
       "summary": "Three men are on trial over the death of brothers Jake and Callum Robinson and their friend, US citizen Jack Carter Rhoad, in Ensenada The father of two Australian surfers killed in Mexico two years ago testified in court on Tuesday that his life had been turned into hell, as the high-profile trial continued into its second day. Three men are charged in the killing of Australian brothers Jake and Callum Robinson, age"
-    },
-    {
-      "id": "c6de5eaf6828ac36",
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-      "source": "Krebs on Security",
-      "category": "technology",
-      "region": "americas",
-      "publishedAt": "2026-09-01T22:40:28.000Z",
-      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that"
     },
     {
       "id": "d2cb44f80f97c2d8",
