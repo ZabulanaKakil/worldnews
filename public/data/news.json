@@ -1,65 +1,315 @@
 {
-  "generatedAt": "2026-09-19T09:21:19.577Z",
+  "generatedAt": "2026-09-19T13:50:35.246Z",
   "articles": [
     {
-      "id": "4c529e2dc22f5050",
-      "title": "কোন এলাকায় কত শতাংশ বাড়ি ভাড়া পাবেন সরকারি চাকরিজীবীরা",
-      "url": "https://www.prothomalo.com/bangladesh/nswa7hz9zw",
+      "id": "36b7d680d03b2949",
+      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-09-19T13:48:32.000Z",
+      "summary": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]"
+    },
+    {
+      "id": "f750b3203df87e62",
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-09-19T13:39:32.000Z",
+      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC."
+    },
+    {
+      "id": "0807529cf93e39f9",
+      "title": "Ingebrigtsen pipped to 5km road gold in Copenhagen",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cw783r41l940o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-09-19T13:36:08.000Z",
+      "summary": "Jakob Ingebrigtsen is pipped to victory in the men's 5km in a thrilling finish at the World Road Running Championships in Copenhagen."
+    },
+    {
+      "id": "7fd8725c87c10cb9",
+      "title": "An unaffordable car market highlights Iran’s cost-of-living crisis",
+      "url": "https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "middle_east",
+      "publishedAt": "2026-09-19T13:21:52.000Z",
+      "summary": "Some officials and state media have long openly described the industry as a ‘mafia’ system."
+    },
+    {
+      "id": "fe09a7a874c9a8fa",
+      "title": "Taiwan flexes military capabilities ahead of Trump-Xi talks",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-taiwan-drills-minisv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-09-19T13:13:19.000Z",
+      "summary": "Taiwan has staged live-fire drills with missiles and attack drones as Donald Trump prepares to host China’s Xi Jinping."
+    },
+    {
+      "id": "131111cad105c734",
+      "title": "It’s not just LG. Every TV company is spying on you",
+      "url": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-09-19T13:00:00.000Z",
+      "summary": "The TV in your living room knows more about you than you realize. | Photo by John Higgins / The Verge The TV world has been a pot of controversy thanks to a two-hour-and-15-minute video from Gamers Nexus claiming LG TVs are nefariously spying on everything you do. They can record and store audio even when they seem to be off, track everything you watch, and could even be hacked remotely and turned into covert surveil"
+    },
+    {
+      "id": "fb8ae749c945c62e",
+      "title": "The AI regulation smackdown isn’t over",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-09-19T13:00:00.000Z",
+      "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google De"
+    },
+    {
+      "id": "561ce4bab537f02b",
+      "title": "Child among three Palestinians killed in Israeli attacks across Gaza",
+      "url": "https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-09-19T12:59:31.000Z",
+      "summary": "Gaza’s Health Ministry says the son of its director general, Munir al-Bursh, is among those killed."
+    },
+    {
+      "id": "508cc2ad62402437",
+      "title": "খাটের ওপর পড়ে ছিল স্ত্রী-সন্তানের নিথর দেহ, ফ্যানে ঝুলছিল স্বামীর লাশ",
+      "url": "https://www.prothomalo.com/bangladesh/district/5edex06py3",
       "source": "Prothom Alo",
       "category": "world_politics",
       "region": "bangladesh",
-      "publishedAt": "2026-09-19T09:07:42.000Z",
-      "summary": "‘চাকরি (বেতন ও ভাতাদি) আদেশ, ২০২৬’ নামে জারি করা প্রজ্ঞাপনে অন্যান্য বিষয়ের পাশাপাশি এলাকা ও গ্রেড ভেদে বাড়ি ভাড়ার হারও নির্ধারণ করা হয়েছে।"
+      "publishedAt": "2026-09-19T12:52:07.000Z",
+      "summary": "শনিবার দুপুরে উপজেলার কৃষ্ণপুর ইউনিয়নের বারাহী জান্নাকান্দি গ্রাম থেকে ওই তিনজনের লাশ উদ্ধার করা হয়।"
     },
     {
-      "id": "bce14d33b60ca401",
-      "title": "খাবার খেয়ে পরিবারের সবাই হাসপাতালে, সেই সুযোগে ফাঁকা বাড়িতে চুরি",
-      "url": "https://www.prothomalo.com/bangladesh/district/e75mumdhw1",
+      "id": "dc73e8dffba77b2d",
+      "title": "What’s behind reports that the Israeli army is low on troops, equipment?",
+      "url": "https://www.aljazeera.com/news/2026/9/19/whats-behind-reports-that-the-israeli-army-is-low-on-troops-equipment?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-09-19T12:51:43.000Z",
+      "summary": "Israel's Channel 12 and Maariv newspaper claim the military is facing 'severe shortages'."
+    },
+    {
+      "id": "84571bae78835499",
+      "title": "উল্টো পথে লেনে উঠছিল প্রাইভেট কার, বাসের ধাক্কায় নিহত ৪",
+      "url": "https://www.prothomalo.com/bangladesh/district/e3hs94qhm0",
       "source": "Prothom Alo",
       "category": "world_politics",
       "region": "bangladesh",
-      "publishedAt": "2026-09-19T09:00:45.000Z",
-      "summary": "ভুক্তভোগী পরিবারের ধারণা, তাঁদের অগোচরে খাবারে চেতনানাশক দ্রব্য মেশায় দুর্বৃত্তরা। সবাই অসুস্থ হয়ে হাসপাতালে গেলে ফাঁকা বাড়িতে ঢুকে চুরি করা হয়।"
+      "publishedAt": "2026-09-19T12:51:24.000Z",
+      "summary": ""
     },
     {
-      "id": "8d852a2d3e9d8b22",
-      "title": "মা ছিলেন নানার বাড়িতে, একা পেয়ে ষষ্ঠ শ্রেণির ছাত্রীকে ধর্ষণ",
-      "url": "https://www.prothomalo.com/bangladesh/district/5imuhyqgds",
+      "id": "ad09ddb37ca35872",
+      "title": "নতুন স্কেলে আপনার বেতন কত বাড়ল, হিসাব করবেন যেভাবে",
+      "url": "https://www.prothomalo.com/bangladesh/r9xx0c1a56",
       "source": "Prothom Alo",
       "category": "world_politics",
       "region": "bangladesh",
-      "publishedAt": "2026-09-19T08:59:47.000Z",
-      "summary": "এ ঘটনায় গতকাল শুক্রবার দিবাগত রাতে ভুক্তভোগী ছাত্রীর বাবা বাদী হয়ে থানায় মামলা করলে রাতেই অভিযান চালিয়ে আসামিকে গ্রেপ্তার করে পুলিশ।"
+      "publishedAt": "2026-09-19T12:49:47.000Z",
+      "summary": "অর্থ মন্ত্রণালয়ের জারি করা জাতীয় বেতন স্কেল ২০২৬-এর প্রজ্ঞাপনে পুরোনো বেতন থেকে নতুন বেতন নির্ধারণ বা ‘পে ফিক্সেশন’-এর বিধানও দেওয়া হয়েছে।"
     },
     {
-      "id": "90a3a00209aa74be",
-      "title": "বাংলাদেশের আগামী প্রজন্মের নেতৃত্বের পররাষ্ট্রনীতি কেমন হতে যাচ্ছে",
-      "url": "https://www.prothomalo.com/opinion/column/lqd43eg5nn",
+      "id": "4b3fe4d76954a68b",
+      "title": "মায়ের আইফোন নিয়ে ছবি তুলতে যাওয়া স্কুলছাত্রের লাশ মিলল পাহাড়ের জঙ্গলে",
+      "url": "https://www.prothomalo.com/video/bangladesh/0am6gu9cc4",
       "source": "Prothom Alo",
       "category": "world_politics",
       "region": "bangladesh",
-      "publishedAt": "2026-09-19T08:49:39.000Z",
-      "summary": "বাংলাদেশের রাজনীতিতে বর্তমানে প্রভাবশালী তিন দলের পররাষ্ট্রনীতি গুরুত্বপূর্ণ কয়েকটি বিষয়ে একই রকম। বাংলাদেশের আগামী প্রজন্মের নেতাদের দৃষ্টিভঙ্গি কোন কোন অভ্যন্তরীণ ও আন্তর্জাতিক কারণে গড়ে উঠছে, তা তুলে ধরেছেন জিওফ্রে ম্যাকডোনাল্ড। যুক্তরাষ্ট্র ও চীনের প্রতিযোগিতায় বাংলাদেশের এই রাজনৈতিক পরিবর্তনের কী প্রভাব পড়তে পারে, সেটিও তিনি বিশ্লেষণ করেছেন।"
+      "publishedAt": "2026-09-19T12:44:06.000Z",
+      "summary": "মায়ের আইফোন নিয়ে বের হয়ে নিখোঁজ হয় ইশায়াত। এক দিন পরই মিলল কুমিল্লা বিশ্ববিদ্যালয় শিক্ষকের ছেলের লাশ"
     },
     {
-      "id": "57d979f9d80f4693",
-      "title": "৫২-তেও এতটা গ্ল্যামার! পালকের গাউন আর কোটি টাকার গয়নায় টিআইএফএফে পেনেলোপে ক্রুজ",
-      "url": "https://www.haal.fashion/celeb/look/9vcvz26b2l",
+      "id": "1fe961042f906841",
+      "title": "সন্ধ্যায় সারা দিনের খবর",
+      "url": "https://www.prothomalo.com/bangladesh/nhm0tefbgn",
       "source": "Prothom Alo",
       "category": "world_politics",
       "region": "bangladesh",
-      "publishedAt": "2026-09-19T08:47:22.000Z",
-      "summary": "রেড কার্পেটে পেনেলোপে ক্রুজ মানেই আলাদা এক গ্ল্যামার। ৫২ বছর বয়সেও তাঁর স্টাইল যেন বয়সের হিসাব মানে না। এবার টরন্টো ইন্টারন্যাশনাল ফিল্ম ফেস্টিভ্যালে সেই চেনা আভিজাত্যের সঙ্গে যোগ হলো পালকের আভিজাত্য আর মশলার অনুপ্রেরণায় তৈরি ঝলমলে হাই জুয়েলারি।"
+      "publishedAt": "2026-09-19T12:42:15.000Z",
+      "summary": "আলোচিত বিভিন্ন বিষয় নিয়ে দিনভর প্রথম আলো অনলাইনে প্রকাশিত হয়েছে নানা খবর। চোখ বুলিয়ে নিন সারা দিন প্রথম আলো অনলাইনে প্রকাশিত আলোচিত পাঁচ খবরে।"
     },
     {
-      "id": "e3eced6ff4578a95",
-      "title": "Can Trump ban CNN, news outlets he doesn’t like from the White House?",
-      "url": "https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss",
+      "id": "2a3c00eb378ffb2a",
+      "title": "Asian Games 2026: Top athletes and storylines to look out for",
+      "url": "https://www.aljazeera.com/sports/2026/9/19/asian-games-2026-top-athletes-and-storylines-to-look-out-for?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "asia_pacific",
+      "publishedAt": "2026-09-19T12:38:45.000Z",
+      "summary": "From Olympic champions to teen sensations, several athletes are looking to make their mark at the continental event."
+    },
+    {
+      "id": "f49860474f32a767",
+      "title": "নবম পে স্কেল: শিক্ষাসহায়ক ভাতা কারা পাবেন, কত টাকা",
+      "url": "https://www.prothomalo.com/education/d3rbgutlzp",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-19T12:36:06.000Z",
+      "summary": ""
+    },
+    {
+      "id": "af3054b200fac6de",
+      "title": "বাড়ি থেকে এক কিলোমিটার দূরে অচেতন অবস্থায় পড়ে ছিলেন তরুণী, হাসপাতালে মৃত্যু",
+      "url": "https://www.prothomalo.com/bangladesh/district/z8588qyztk",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-19T12:35:10.000Z",
+      "summary": "রাজশাহী মেডিকেল কলেজ হাসপাতালে গতকাল শুক্রবার দিবাগত রাত সাড়ে তিনটার দিকে মারা যান ওই তরুণী।"
+    },
+    {
+      "id": "d971c3c05b6c4d6d",
+      "title": "US lifts sanctions on Eritrea ‘to advance US regional interests’ in Red Sea",
+      "url": "https://www.aljazeera.com/news/2026/9/19/us-lifts-sanctions-on-eritrea-imposed-during-conflict-in-ethiopias-tigray?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "war_conflict",
       "region": "global",
-      "publishedAt": "2026-09-19T08:47:17.000Z",
-      "summary": "The ban is the latest attack by Trump on media outlets that he perceives as unfavourable to his administration."
+      "publishedAt": "2026-09-19T12:34:37.000Z",
+      "summary": "The sanctions, introduced during the Biden administration, targeted Eritrea's governing party and the military."
+    },
+    {
+      "id": "0378ca8bc1362562",
+      "title": "যেকোনো মুহূর্তে ভয়ংকর হয়ে উঠতে পারে জাহাজের ব্যালাস্ট ট্যাংক",
+      "url": "https://www.prothomalo.com/bangladesh/district/77azg2a0qn",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-19T12:34:12.000Z",
+      "summary": "বিশেষজ্ঞরা বলেন, ব্যালাস্ট ট্যাংকের পানি বের করা, তলানি নাড়াচাড়া করা কিংবা লোহার পাত কাটার পর পরিস্থিতি বদলে যেতে পারে।"
+    },
+    {
+      "id": "eda0a0076462f33c",
+      "title": "১১–দলীয় ঐক্যের লংমার্চের কত গাড়ি যমুনা সেতু পার হলো",
+      "url": "https://www.prothomalo.com/bangladesh/district/gosuto3l1v",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-19T12:32:40.000Z",
+      "summary": ""
+    },
+    {
+      "id": "6ceb85ce41ca0945",
+      "title": "সালমানকে আজও যেভাবে মনে পড়ে শাবনূরের",
+      "url": "https://www.prothomalo.com/entertainment/dhallywood/6dhlc8rvcb",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-09-19T12:30:00.000Z",
+      "summary": "সালমান শাহর জন্মদিনে তাঁকে মনে করে ফেসবুকে আবেগঘন পোস্ট দিয়েছেন শাবনূর। এই পোস্টে তিনি তাঁদের সম্পর্ককে শ্রদ্ধার সঙ্গে মনে করেছেন।"
+    },
+    {
+      "id": "d1fa4adc4d74d4b3",
+      "title": "Funerals held after deadly mosque attack in Pakistan’s Kohat",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-kohat-funerals-pakistan-pk?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-09-19T12:29:51.000Z",
+      "summary": "Funerals are underway in Kohat, Pakistan, after a suicide attacker rammed an explosives-laden car into a mosque killing"
+    },
+    {
+      "id": "bcfbe64302d34e41",
+      "title": "Saudi-led naval coalition prepares to secure Red Sea waterways",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/saudi-led-naval-coalition-prepares-to-secure-red-sea-waterways?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-09-19T12:21:01.000Z",
+      "summary": "Saudi Arabia has hosted a multinational naval coalition meeting aimed at protecting shipping in the Red Sea."
+    },
+    {
+      "id": "4b1d6925f53cf556",
+      "title": "In Gaza, actors perform a war they are still living",
+      "url": "https://www.aljazeera.com/features/2026/9/19/in-gaza-actors-perform-a-war-they-are-still-living?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-09-19T12:18:52.000Z",
+      "summary": "In Gaza, Palestinian actors turn stories of siege and loss into theatre, while confronting the same fears and hardships."
+    },
+    {
+      "id": "d770a76229d429da",
+      "title": "Doomsday AI: panic, regulation and the China fear",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/9/19/doomsday-ai-panic-regulation-and-the-china-fear?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-09-19T12:10:21.000Z",
+      "summary": "When tech CEOs warn AI could end humanity, does the media get the story right?"
+    },
+    {
+      "id": "b702c181795522ff",
+      "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-09-19T11:50:22.000Z",
+      "summary": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him."
+    },
+    {
+      "id": "d010ee3fb53b2ec9",
+      "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
+      "url": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
+      "source": "BleepingComputer",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-09-19T11:38:20.000Z",
+      "summary": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during calls, and shuts down permanently on September 27. We tried it and read the fine print. [...]"
+    },
+    {
+      "id": "c5048178a3febb36",
+      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-09-19T11:36:55.000Z",
+      "summary": "Denmark and Greenland have welcomed the deal, which Trump claims will give the US \"permanent control over security and all other needs\" in the Danish territory."
+    },
+    {
+      "id": "bfb75d5e081e597e",
+      "title": "East Asia: How AI is changing the way we bid farewell to loved ones",
+      "url": "https://www.aljazeera.com/video/101-east/2026/9/19/east-asia-how-ai-is-changing-the-way-we-bid-farewell-to-loved-ones?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "technology",
+      "region": "asia_pacific",
+      "publishedAt": "2026-09-19T11:30:00.000Z",
+      "summary": "101 East meets innovators across East Asia using digital technology to transform how we grieve those we love."
+    },
+    {
+      "id": "84d2c9bad4e6220e",
+      "title": "LIVE: Brighton vs Arsenal – Premier League",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/9/19/live-brighton-vs-arsenal-premier-league?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-09-19T11:00:47.000Z",
+      "summary": "Follow live updates, with build-up, predictions, team news and lineups, ahead of our text commentary stream coverage."
+    },
+    {
+      "id": "689f32fea3243730",
+      "title": "Millions without power as Cuba hit by latest major blackout",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-09-19T10:27:37.000Z",
+      "summary": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade."
     },
     {
       "id": "8792fbcc41519a2b",
@@ -72,106 +322,6 @@
       "summary": "Wales have set themselves a new standard after clocking up a half-century of points in their WXV opener against South Africa."
     },
     {
-      "id": "5efaffe944f49d18",
-      "title": "১ জুলাই থেকে বেতন বৃদ্ধি কার্যকর",
-      "url": "https://www.prothomalo.com/business/economics/1-julaai-theke-betn-brddhi-kaarykr",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-19T08:40:22.000Z",
-      "summary": "জুলাই-ডিসেম্বর পর্যন্ত নবম ও তদূর্ধ্ব গ্রেড বাড়তি মূল বেতনের ৪০%, ১০-২০তম গ্রেড ৫০% পাবেন।"
-    },
-    {
-      "id": "ebf3518e61c487fb",
-      "title": "বিশেষ চাহিদাসম্পন্ন সন্তান থাকলে সরকারি চাকরিজীবীরা মাসে ৩ হাজার টাকা পাবেন",
-      "url": "https://www.prothomalo.com/bangladesh/g4wwqz1ype",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-19T08:39:55.000Z",
-      "summary": "কোনো সরকারি চাকরিজীবীর দুই সন্তান বিশেষ চাহিদাসম্পন্ন হলে তিনি মাসে ছয় হাজার টাকা ভাতা পাবেন। এই সুবিধা এবারই প্রথম দেওয়া হচ্ছে।"
-    },
-    {
-      "id": "4ba991d9a3d7e86f",
-      "title": "সৌদি আরবকে রক্ষায় সবকিছু করতে প্রস্তুত ইসলামাবাদ: পাকিস্তান",
-      "url": "https://www.prothomalo.com/world/pakistan/1k35sphjqf",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-19T08:37:27.000Z",
-      "summary": "আহমেদ শরীফ চৌধুরী বলেন, ‘কূটনৈতিকভাবে ও সরাসরি—উভয় দিক থেকেই পাকিস্তান পুরোপুরি সৌদি আরবের পাশে আছে। এ ক্ষেত্রে আমি সরাসরি কথাটার ওপর জোর দিতে চাই।’"
-    },
-    {
-      "id": "cf19be87e78e0bc3",
-      "title": "কুমিল্লা বিশ্ববিদ্যালয় শিক্ষকের নিখোঁজ ছেলের লাশ জঙ্গল থেকে উদ্ধার",
-      "url": "https://www.prothomalo.com/bangladesh/district/6ev0pzlibn",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-19T08:25:50.000Z",
-      "summary": "গতকাল শুক্রবার বিকেল তিনটার দিকে বন্ধুদের সঙ্গে ছবি তুলতে মায়ের আইফোন নিয়ে বাসা থেকে বের হয়েছিল ইশায়াত।"
-    },
-    {
-      "id": "c81505293789b28e",
-      "title": "ঘরের কোণে মশার লার্ভা, বৃদ্ধ বললেন, ‘এটা মিউনিসিপ্যালিটি করবে’",
-      "url": "https://www.prothomalo.com/video/bangladesh/98q5q5obkx",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-19T08:20:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "def13d0cc5cc1f4f",
-      "title": "Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul",
-      "url": "https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "diplomacy",
-      "region": "middle_east",
-      "publishedAt": "2026-09-19T08:18:08.000Z",
-      "summary": "The Iranian lender has faced years of Western sanctions over alleged ties to Tehran's nuclear programme."
-    },
-    {
-      "id": "8f500237657c5aba",
-      "title": "NAZA: Why are old Gaza allegations causing new fury in Israel?",
-      "url": "https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-09-19T07:50:44.000Z",
-      "summary": "Israeli soldiers' Gaza testimony causes backlash across much of the country's political establishment."
-    },
-    {
-      "id": "796aef3fd93680bd",
-      "title": "Trump ‘settled for less’ with new US-Denmark Greenland security deal",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-settled-for-less-with-new-us-denmark-greenland-security-deal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-09-19T07:35:05.000Z",
-      "summary": "The US-Denmark Greenland security deal gives Trump an agreement without delivering his ambition to annex the territory."
-    },
-    {
-      "id": "1d1253e00417d9c2",
-      "title": "Ugo Ugochukwu: Road to F1",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/ugo-ugochukwu-road-to-f1?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "americas",
-      "publishedAt": "2026-09-19T07:18:55.000Z",
-      "summary": "Ugo Ugochukwu has become the first American driver to win the FIA Formula 3 Championship."
-    },
-    {
-      "id": "1cc6b8c3b2f54210",
-      "title": "Russia’s elections are more than political theatre",
-      "url": "https://www.aljazeera.com/opinions/2026/9/19/russias-elections-are-more-than-political-theatre?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "europe",
-      "publishedAt": "2026-09-19T06:46:17.000Z",
-      "summary": "For the Kremlin, parliamentary elections remain a mechanism for political participation, feedback and legitimacy."
-    },
-    {
       "id": "d44a99b217404333",
       "title": "The man who would be king - the rise and fall of 'the next Prince Naseem'",
       "url": "https://www.bbc.co.uk/news/articles/c5ye0l17dnjo?at_medium=RSS&at_campaign=rss",
@@ -182,36 +332,6 @@
       "summary": "Touted as the king to Naseem Hamed's prince, Daniel Teasdale's story is instead a cautionary tale."
     },
     {
-      "id": "209488c061e7f4ba",
-      "title": "Could US pull one-third of troops from Europe? What that would mean",
-      "url": "https://www.aljazeera.com/news/2026/9/19/could-us-pull-one-third-of-troops-from-europe-what-that-would-mean?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-09-19T06:30:24.000Z",
-      "summary": "US Pentagon is reportedly considering proposals for reducing military footprint across the Atlantic."
-    },
-    {
-      "id": "46fad1c1df781837",
-      "title": "Brentford beat Chelsea 3-0 to shatter Alonso’s London honeymoon",
-      "url": "https://www.aljazeera.com/sports/2026/9/19/brentford-beat-chelsea-3-0-to-shatter-alonsos-london-honeymoon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-09-19T06:05:48.000Z",
-      "summary": "Chelsea left with one point from their last three Premier League games after a 3-0 defeat at neighbours Brentford."
-    },
-    {
-      "id": "e22542e730715d46",
-      "title": "Trump’s threats to demolish Kennedy Center sparks protest",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trumps-threats-to-demolish-kennedy-center-sparks-protest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "americas",
-      "publishedAt": "2026-09-19T05:41:36.000Z",
-      "summary": "Protestors gathered outside Washington’s Kennedy Center after President Trump’s plans to close the arts venue."
-    },
-    {
       "id": "8f1ce09e4d7edf7e",
       "title": "Trump says he is banning CNN and Politico from White House",
       "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
@@ -220,46 +340,6 @@
       "region": "global",
       "publishedAt": "2026-09-19T05:36:36.000Z",
       "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career."
-    },
-    {
-      "id": "9edf82780070c42a",
-      "title": "Winless Villa and Spurs face telling early showdown",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6ly7vg8n7geo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-09-19T05:32:46.000Z",
-      "summary": "Aston Villa and Tottenham are winless in the Premier League - and both in need of inspiration as they prepare to face each other on Saturday."
-    },
-    {
-      "id": "ccb61a61b93d78ed",
-      "title": "Brazilian police capture suspected serial killer disguised as a woman",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/brazilian-police-capture-suspected-serial-killer-disguised-as-a-woman?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-09-19T05:28:56.000Z",
-      "summary": "Brazilian police say they will reopen dozens of cases after they arrested a self-confessed serial killer."
-    },
-    {
-      "id": "a6bbaf639841da5b",
-      "title": "Indonesia ferry search: Divers retrieve three bodies, 126 people missing",
-      "url": "https://www.aljazeera.com/news/2026/9/19/operations-to-right-capsized-ferry-begin-as-126-people-remain-missing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "weather_climate",
-      "region": "asia_pacific",
-      "publishedAt": "2026-09-19T05:24:06.000Z",
-      "summary": "Bad weather has pushed authorities to begin operations to right the capsized ferry."
-    },
-    {
-      "id": "f750b3203df87e62",
-      "title": "Google's Gemini AI hacked three companies in security test",
-      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-09-19T04:27:11.000Z",
-      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC."
     },
     {
       "id": "aba3c7f668919865",
@@ -312,34 +392,14 @@
       "summary": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women."
     },
     {
-      "id": "29daf6a03b84a7e2",
-      "title": "Hodgkinson powers to Athlos win in speed suit",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/cwx2z4ervr6jo?at_medium=RSS&at_campaign=rss",
+      "id": "e9e154c90f42fd18",
+      "title": "Kane makes history and Olise nets hat-trick as Bayern thrash Union Berlin",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck4gle1ep647o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
       "region": "europe",
-      "publishedAt": "2026-09-18T23:00:14.000Z",
-      "summary": "Keely Hodgkinson powers to victory in a full-body speed suit before being presented with a Tiffany & Co crown as Athlos makes its London debut."
-    },
-    {
-      "id": "c5048178a3febb36",
-      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-09-18T22:58:55.000Z",
-      "summary": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials."
-    },
-    {
-      "id": "90a7c851c4d2580a",
-      "title": "Chelsea miss Joao Pedro... and can't stop conceding goals",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm0qx3yv8z42o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-09-18T22:39:24.000Z",
-      "summary": "Chelsea's problem was defending, but with Joao Pedro ruled out through injury, scoring goals has also become an issue."
+      "publishedAt": "2026-09-18T22:34:20.000Z",
+      "summary": "HHarry Kane makes history by becoming the fastest player to reach 100 Bundesliga goals in his 98th game, while Michael Olise nets a hat-trick as Bayern Munich thrash Union Berlin 7-0."
     },
     {
       "id": "e17779f6d7dd9dcb",
@@ -362,24 +422,14 @@
       "summary": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe."
     },
     {
-      "id": "e9b899f30fce46af",
-      "title": "Brentford stay unbeaten as they put three past Chelsea",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-09-18T22:00:19.000Z",
-      "summary": "Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium."
-    },
-    {
-      "id": "476f22a2570b096f",
-      "title": "Arsenal open to Dowman loan in right circumstances",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crp3k23nkl8go?at_medium=RSS&at_campaign=rss",
+      "id": "87f30e5c3a46e1f5",
+      "title": "Hodgkinson dazzles to win Athlos 800m",
+      "url": "https://www.bbc.co.uk/sport/athletics/videos/cmx2zrlyrx1yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-09-18T21:30:38.000Z",
-      "summary": "Arsenal are open to allowing teenage prodigy Max Dowman to leave the club on loan this term if it aids his development."
+      "region": "europe",
+      "publishedAt": "2026-09-18T21:07:30.000Z",
+      "summary": "Great Britain's Keely Hodgkinson powers clear of the pack to win the Athlos 800m while sporting a unique, all black custom speed suit."
     },
     {
       "id": "698cdb08cb5d0fcf",
@@ -402,36 +452,6 @@
       "summary": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will report directly to recently appointed CEO Josh D'Amaro, and he will head up the company's infrastructure, product, engineeri"
     },
     {
-      "id": "691a735c6318c3ad",
-      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-09-18T18:04:38.000Z",
-      "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites."
-    },
-    {
-      "id": "124b9d5c7dc06e53",
-      "title": "Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died",
-      "url": "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
-      "source": "The Guardian World",
-      "category": "war_conflict",
-      "region": "africa",
-      "publishedAt": "2026-09-18T17:27:39.000Z",
-      "summary": "Police fire teargas as protests break out in city of Minna after deaths of suspected illegal goldminers, many of whom were children Survivors from a prison cell in Nigeria where 37 suspected illegal goldminers died while in the custody of a paramilitary group this week have recounted their panic and struggle for breath, as police on Friday fired teargas at people protesting against the deaths and imposed an overnight"
-    },
-    {
-      "id": "bec6ce2060e4e618",
-      "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
-      "url": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-09-18T17:10:58.000Z",
-      "summary": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\"."
-    },
-    {
       "id": "b9877d954cde7799",
       "title": "Gavin Newsom is pushing for an AI kill switch",
       "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
@@ -442,6 +462,16 @@
       "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene a group of experts that will deliver recommendations within two months on how to strengthen AI safety measures in state law. Newsom wants the group to consider how the st"
     },
     {
+      "id": "a084c365db757516",
+      "title": "Karol G review – Colombian chart-topper brings pan-Latin camp and fireworks to New Jersey",
+      "url": "https://www.theguardian.com/music/2026/sep/18/karol-g-concert-review-new-jersey",
+      "source": "The Guardian Culture",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-09-18T16:55:48.000Z",
+      "summary": "MetLife Stadium, New Jersey The superstar’s groundbreaking Viajando por el Mundo Tropitour lands in East Rutherford with glamor, dazzle and plenty of fun MetLife Stadium is not the Tropicana. But on Thursday, Karol G made a convincing argument for suspending our disbelief. The Colombian superstar descended on East Rutherford, New Jersey, for the first of two nights at the venue – her first time back since becoming th"
+    },
+    {
       "id": "b449cee9e6f4d4d3",
       "title": "What Hollywood thinks about existential AI warnings",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
@@ -450,6 +480,16 @@
       "region": "americas",
       "publishedAt": "2026-09-18T16:35:19.000Z",
       "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI, as well film startups focused on bringing generative AI into the mainstream to ask for their reaction to the recent warnings surrounding the tech"
+    },
+    {
+      "id": "b5166b6d2e43b6ec",
+      "title": "Duncan Sheik, singer and composer of Spring Awakening, dies at 56",
+      "url": "https://www.theguardian.com/music/2026/sep/18/duncan-sheik-dies",
+      "source": "The Guardian Culture",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-09-18T16:18:04.000Z",
+      "summary": "The musician, who went from 90s alt-pop hits to Tony-winning Broadway success, died from cardiac arrest Duncan Sheik, the singer-songwriter behind the 90s alt-pop touchstone Barely Breathing and the composer of the Tony-winning musical Spring Awakening, died on Thursday at a Manhattan hospital. He was 56. His death, from heart failure that led to cardiac arrest, was confirmed to the New York Times by his mother Suzan"
     },
     {
       "id": "a1490628870473e3",
@@ -512,26 +552,6 @@
       "summary": "Michael Sheen said his meeting with the first minister was \"early days but that's really encouraging\"."
     },
     {
-      "id": "3af91a80dec9a964",
-      "title": "Shots heard as police start moving migrants from Ceuta beaches",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-09-18T11:59:42.000Z",
-      "summary": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site."
-    },
-    {
-      "id": "3d96b94478dfcab1",
-      "title": "British woman who was kidnapped in Malawi rescued by police after shootout",
-      "url": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout",
-      "source": "The Guardian World",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-09-18T11:21:36.000Z",
-      "summary": "Four of Nurat Osman’s alleged abductors were killed during rescue after she was taken from outside her home last week A British woman kidnapped in Malawi last week has been rescued by police after a shootout in which four of her alleged abductors were killed. Nusrat Osman was abducted outside her home in the southern city of Blantyre on 11 September at about 12.30pm. Police had offered a reward of 30m Malawi kwacha ("
-    },
-    {
       "id": "f5f998ca8888496d",
       "title": "We bought our £242,000 home without a deposit - here's how",
       "url": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
@@ -562,14 +582,14 @@
       "summary": "The African serval, illegally enclosed in the back yard, was subdued and transferred to an animal welfare facility Louisiana firefighters responding to a small house blaze found a wildcat native to sub-Saharan Africa illegally enclosed in the back yard, prompting an animal welfare agency to seek placing the creature in an appropriate environment, according to officials. Firefighters investigating a report of a minor "
     },
     {
-      "id": "24e9f0e0def062af",
-      "title": "New Check Point flaw lets hackers execute code with root privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
+      "id": "37c8292a0a73d0f1",
+      "title": "‘He was making history, not copying it’: the greatest Gordon Parks photographs",
+      "url": "https://www.theguardian.com/artanddesign/ng-interactive/2026/sep/18/gordon-parks-photography-exhibit",
+      "source": "The Guardian Culture",
+      "category": "creativity_arts",
       "region": "global",
-      "publishedAt": "2026-09-18T09:34:33.000Z",
-      "summary": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]"
+      "publishedAt": "2026-09-18T09:00:13.000Z",
+      "summary": "As a new exhibition celebrates the 20th anniversary of the Gordon Parks Foundation, those who knew him discuss his most powerful images Gordon Parks was not only a renowned photographer but also a poet, composer, director and mentor to so many, past and present, a Renaissance man whose talent spanned disciplines. Born in Fort Scott, Kansas, Parks used his craft to illuminate the lives, worlds and humanity of people. "
     },
     {
       "id": "563a5858051d03ae",
@@ -652,16 +672,6 @@
       "summary": "New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat A diminutive wild cat that inhabits Bolivia’s ⁠cloud forest has been identified as a previously unknown species, marking the first time a new living feline species has been formally named and described in more than a century. The cat, called tilcayo by local communities, is part of a group called tiger "
     },
     {
-      "id": "a3330ec23f978274",
-      "title": "OpenAI details more cases of AI agents taking unauthorized actions",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
-      "source": "BleepingComputer",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-09-17T18:55:12.000Z",
-      "summary": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]"
-    },
-    {
       "id": "c73b4a5d7f4c19bf",
       "title": "Repeat offender fined for searching for gold in protected river",
       "url": "https://www.bbc.co.uk/news/articles/c620lz12d1l7o?at_medium=RSS&at_campaign=rss",
@@ -700,16 +710,6 @@
       "region": "global",
       "publishedAt": "2026-09-17T14:33:12.000Z",
       "summary": "The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic."
-    },
-    {
-      "id": "71a2bfd0a9ef5881",
-      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
-      "url": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
-      "source": "BleepingComputer",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-09-17T14:01:11.000Z",
-      "summary": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that both the user and the device requesting access can be trusted. [...]"
     },
     {
       "id": "b1b95254fbaaa075",
@@ -812,6 +812,16 @@
       "summary": "Defenders of forests and rivers killed at rate of one every three days in 2025, with 85% of deaths in Latin America Nature and land defenders were murdered at the rate of one every three days last year, prompting many communities to set up self-defence units, according to the latest annual death toll by the independent watchdog Global Witness. Organised crime groups or professional killers were implicated in more tha"
     },
     {
+      "id": "fca499e8bc111296",
+      "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
+      "url": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-09-16T00:05:51.000Z",
+      "summary": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies."
+    },
+    {
       "id": "ee0776e9153dde08",
       "title": "AI app ads promoting 'objectification of women' banned by watchdog",
       "url": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
@@ -820,16 +830,6 @@
       "region": "global",
       "publishedAt": "2026-09-15T23:27:17.000Z",
       "summary": "The ad regulator said it had \"zero-tolerance\" for ads promoting AI tools that could sexualise or objectify women."
-    },
-    {
-      "id": "d8dc43a6e1987f37",
-      "title": "What weapon could the US have put into space?",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-09-15T14:23:14.000Z",
-      "summary": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit."
     },
     {
       "id": "30fe20b274acc973",
@@ -850,16 +850,6 @@
       "region": "global",
       "publishedAt": "2026-09-14T17:05:31.000Z",
       "summary": "The BBC's Tom Gerken is hands-on with the latest virtual reality headset."
-    },
-    {
-      "id": "c6de5eaf6828ac36",
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-      "source": "Krebs on Security",
-      "category": "technology",
-      "region": "americas",
-      "publishedAt": "2026-09-01T22:40:28.000Z",
-      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that"
     },
     {
       "id": "d2cb44f80f97c2d8",
@@ -900,6 +890,16 @@
       "region": "americas",
       "publishedAt": "2026-07-12T12:00:18.000Z",
       "summary": "Dozens of projects are in development across US despite concerns over environmental and health risks The plan to bury carbon under remote Indiana farmland is supposed to be a slam dunk for the climate, according to its supporters – all generously funded by US tax dollars. But as far as Melissa Harrison and some other residents of Clymers, Indiana, are concerned, it just might be the end of their town. “This is our pl"
+    },
+    {
+      "id": "e479cb24d8dc1a11",
+      "title": "100 years on, is time up for Milan's iconic San Siro?",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c0q4k74kvy5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-02-04T08:43:06.000Z",
+      "summary": "As the iconic home of AC Milan and Inter Milan turns 100, BBC Sport visits the San Siro - the venue for the recent Winter Olympics opening ceremony, to find out why that could have been the last global event held at the stadium, and what comes next."
     }
   ]
 }
