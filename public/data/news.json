@@ -1,55 +1,455 @@
 {
-  "generatedAt": "2026-09-22T14:37:56.380Z",
+  "generatedAt": "2026-09-23T00:20:03.656Z",
   "articles": [
     {
-      "id": "995575cbae08e394",
-      "title": "Father admits causing death of his son in Cyprus hotel fall",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
+      "id": "35218e219ee57feb",
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-09-23T00:17:17.000Z",
+      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider mathematics community, including how new results are"
+    },
+    {
+      "id": "3c9a69a3dda501e4",
+      "title": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions",
+      "url": "https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-09-22T23:46:06.000Z",
+      "summary": "Iran's aviation officials negotiate with Oman and Iraq as US's Bessent targets carriers seven months into the conflict."
+    },
+    {
+      "id": "b4c25fc6cb5728b3",
+      "title": "US judge blocks deportation of DoorDash driver shot by ICE",
+      "url": "https://www.bbc.co.uk/news/articles/cr6241825757o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world_politics",
       "region": "global",
-      "publishedAt": "2026-09-22T14:31:34.000Z",
-      "summary": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears."
+      "publishedAt": "2026-09-22T23:36:12.000Z",
+      "summary": "The delivery driver was transferred from a hospital to a detention centre after the shooting on Sunday."
     },
     {
-      "id": "6cf316a284e413b5",
-      "title": "এয়ারবাস কেনার সিদ্ধান্ত রাজনৈতিক নয়, ছিল কারিগরি: ডিকাব টকে ফরাসি রাষ্ট্রদূত",
-      "url": "https://www.prothomalo.com/video/bangladesh/krcx3fuoal",
-      "source": "Prothom Alo",
+      "id": "7b6f7ecd110480d1",
+      "title": "'I don't have a buoyancy aid': Living without the Bank of Mum and Dad",
+      "url": "https://www.bbc.co.uk/news/articles/c8dx5p7gd4e9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-09-22T23:20:31.000Z",
+      "summary": "Three 20-somethings tell BBC News how they are navigating life without parental support."
+    },
+    {
+      "id": "0932eccd9c877ea5",
+      "title": "Will a switch to light speed cut power use at data centres?",
+      "url": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-09-22T23:03:48.000Z",
+      "summary": "To save power and add capacity, data centres are switching from copper wires to tech using light."
+    },
+    {
+      "id": "023a1a3e98914bec",
+      "title": "India is producing more green energy - but wasting a lot of it",
+      "url": "https://www.bbc.co.uk/news/articles/c8xkvzlz0x4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "environment",
+      "region": "asia_pacific",
+      "publishedAt": "2026-09-22T23:02:29.000Z",
+      "summary": "India has rapidly decarbonised electricity generation, but its gains are tempered by transmission shortages."
+    },
+    {
+      "id": "244ef2b25f45104f",
+      "title": "IMF tells advanced economies to 'bring debt down' as borrowing costs rise",
+      "url": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-09-22T23:01:28.000Z",
+      "summary": "In an interview with the BBC, Kristalina Georgieva says economic shocks had pushed \"debt levels up like a staircase not to heaven\"."
+    },
+    {
+      "id": "491be65c6b277c99",
+      "title": "UNGA Day 1: US and Iran hold talks despite Trump’s threat",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-day-1-us-and-iran-hold-talks-despite-trumps-threat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-09-22T22:48:56.000Z",
+      "summary": "The US and Iran hold talks on UNGA’s first day, despite Trump threatening to ‘annihilate’ Iran in his opening address."
+    },
+    {
+      "id": "52caa867419c45b4",
+      "title": "Celebrities at the Pentagon: How unusual was the Paul brothers’ visit?",
+      "url": "https://www.aljazeera.com/economy/2026/9/22/celebrities-at-the-pentagon-how-unusual-was-the-paul-brothers-visit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-09-22T22:10:25.000Z",
+      "summary": "Logan and Jake Paul face social media backlash after Pentagon visit with Pete Hegseth."
+    },
+    {
+      "id": "29b71af0f72936e6",
+      "title": "US Republican calls for probe into Donald Trump Jr’s business dealings",
+      "url": "https://www.aljazeera.com/news/2026/9/22/us-republican-calls-for-probe-into-donald-trump-jrs-business-dealings?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-09-22T22:07:50.000Z",
+      "summary": "US Senator John Curtis's letter marks a rare effort by a member of the president's own party to hold him accountable."
+    },
+    {
+      "id": "a777c3d326f51aae",
+      "title": "A new skyline of data centres is rising from the rolling plains of rural China",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "ai_innovation",
+      "region": "asia_pacific",
+      "publishedAt": "2026-09-22T22:04:31.000Z",
+      "summary": "Potato farmers rub shoulders with rows of gleaming new data centres as Trump and Xi meet to discuss AI safety."
+    },
+    {
+      "id": "97e7816745100753",
+      "title": "Rare look at the remote engine rooms powering China's AI ambitions",
+      "url": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "ai_innovation",
+      "region": "asia_pacific",
+      "publishedAt": "2026-09-22T22:03:48.000Z",
+      "summary": "The BBC is in Inner Mongolia where dozen of Chinese data centres are being constructed, as the country aims to lead the world in artificial intelligence."
+    },
+    {
+      "id": "c76f16a2f826a58f",
+      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
+      "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-22T14:27:22.000Z",
-      "summary": ""
+      "region": "middle_east",
+      "publishedAt": "2026-09-22T21:50:31.000Z",
+      "summary": "In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran."
     },
     {
-      "id": "aa61aeb62db4a30d",
-      "title": "মেসি নিজেই উন্মোচন করলেন বিদায়ী ম্যাচের স্পেশাল জার্সি",
-      "url": "https://www.prothomalo.com/video/sports/e0vjidxxti",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-22T14:25:26.000Z",
-      "summary": "৬ অক্টোবর বেনিনের বিপক্ষে বিদায়ী ম্যাচে মাঠে নামবেন লিওনেল মেসি। শেষ ম্যাচের জন্য তৈরি হয়েছে বিশেষ নকশার সোনালি রঙের ছোঁয়া থাকা এক জার্সি"
+      "id": "e308b1cff38d2ed0",
+      "title": "Rogue external MFA providers can steal passwords during logins",
+      "url": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-09-22T21:45:45.000Z",
+      "summary": "Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]"
     },
     {
-      "id": "5416758ccfe12acf",
-      "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
+      "id": "3e64e7016a1f8744",
+      "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
+      "url": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-09-22T21:40:37.000Z",
+      "summary": "Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Miljödata for inadequate security measures leading to a breach in August 2025 affecting 2.2 million people. [...]"
+    },
+    {
+      "id": "c382027a2bcc61b2",
+      "title": "US to build two military bases in Greenland under new deal with Denmark",
+      "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-09-22T21:36:55.000Z",
+      "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory."
+    },
+    {
+      "id": "39ebf11f5896fd48",
+      "title": "Man Utd and Liverpool eye Mitchell - Wednesday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6g7k421gvj4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
-      "region": "middle_east",
-      "publishedAt": "2026-09-22T14:23:39.000Z",
-      "summary": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations."
+      "region": "global",
+      "publishedAt": "2026-09-22T21:19:41.000Z",
+      "summary": "Manchester United and Liverpool are keen on Crystal Palace defender Tyrick Mitchell, Aston Villa loan attacker Alejandro Garnacho is on the radar of La Liga clubs, while Chelsea want Gambian teenager Adama Jeng, plus more."
     },
     {
-      "id": "50fb7dac0bb06695",
-      "title": "বসিয়েছিলেন ২০টি সিসিটিভি ক্যামেরা, ঘুমাতেন কবুতরের ঘরে, তবু শেষরক্ষা হয়নি",
-      "url": "https://www.prothomalo.com/bangladesh/district/9rldzm903s",
+      "id": "0a7f15b86429eb57",
+      "title": "US signs ‘tremendous’ security deal with Denmark and Greenland",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/us-signs-tremendous-security-deal-with-denmark-and-greenland?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-09-22T21:11:47.000Z",
+      "summary": "Trump and leaders of Greenland and Denmark have signed a deal allowing an expanded US military presence in Greenland."
+    },
+    {
+      "id": "fb7298ec91dc45ba",
+      "title": "Qatari Emir says country won’t ‘limit’ itself as Gulf ‘mediator’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatari-emir-says-country-wont-limit-itself-as-gulf?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-09-22T21:09:23.000Z",
+      "summary": "Qatari Emir Sheikh Tamim bin Hamad Al Thani told the UN General Assembly that Qatar is more than a mediator."
+    },
+    {
+      "id": "f906db9817eeb9f9",
+      "title": "How Ceuta, football and Israel are shaping Morocco's election",
+      "url": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "africa",
+      "publishedAt": "2026-09-22T20:59:00.000Z",
+      "summary": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls."
+    },
+    {
+      "id": "33da86207a60c8f5",
+      "title": "Hats, pencils and baby pacifiers: Yellowstone staffers retrieve record amount of trash from hot springs",
+      "url": "https://www.theguardian.com/us-news/2026/sep/22/yellowstone-trash-record",
+      "source": "The Guardian Environment",
+      "category": "environment",
+      "region": "global",
+      "publishedAt": "2026-09-22T20:46:15.000Z",
+      "summary": "The park is the most highly visited and strong winds make trash problem worse, with gusts blowing away items Hold on to your hats – Yellowstone national park staffers have removed a record-setting 20,100 pieces of trash from hydrothermal areas around the geyser-filled park so far this year The most commonly found items include 280 hats, 54 camera lens caps, 47 hair ties, 42 pencils, 36 pairs of sunglasses, 20 hotel k"
+    },
+    {
+      "id": "3292af1415034a0a",
+      "title": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
+      "url": "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-09-22T20:27:45.000Z",
+      "summary": "Saudi monarch's rare condemnation hints at sense of urgency in the kingdom amid ramped-up attacks from Yemen."
+    },
+    {
+      "id": "b8f57d141d456721",
+      "title": "Saudi Arabia’s new Exobot EVs make the Cybertruck look normal",
+      "url": "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "middle_east",
+      "publishedAt": "2026-09-22T20:14:54.000Z",
+      "summary": "The Kingdom of Saudi Arabia is mostly known for its global dominance over petroleum production and oil reserves - not necessarily cars and auto manufacturing, and certainly not electric vehicle production. So it was a little surprising on Monday when a Saudi startup called Ceer unveiled a pair of hyper-angular, spaceship-like EVs, with plans to launch an additional five models by 2030. The Exobot (yes, that's the rea"
+    },
+    {
+      "id": "9249d0d65468c780",
+      "title": "প্রধানমন্ত্রীর সঙ্গে জাতিসংঘ মহাসচিবের বিশেষ দূত জুলি বিশপের সৌজন্য সাক্ষাৎ",
+      "url": "https://www.prothomalo.com/bangladesh/vt51qsrey7",
       "source": "Prothom Alo",
       "category": "world_politics",
       "region": "bangladesh",
-      "publishedAt": "2026-09-22T14:19:15.000Z",
-      "summary": "কবুতরের ঘরের ভেতরে বিছানা বানিয়ে সিসিটিভি মনিটরসহ নানা সুবিধা রেখেছিলেন ওহিদুল। সেখানেই চলত হ্যাকিংয়ের কাজ।"
+      "publishedAt": "2026-09-22T20:12:28.000Z",
+      "summary": "নিউইয়র্কে অবস্থানরত বাংলাদেশের প্রধানমন্ত্রী তারেক রহমানের সঙ্গে জাতিসংঘ মহাসচিবের মিয়ানমারবিষয়ক বিশেষ দূত জুলি বিশপের সৌজন্য সাক্ষাৎ অনুষ্ঠিত হয়েছে।"
+    },
+    {
+      "id": "742a9cf3cc9c2153",
+      "title": "NYC Mayor Mamdani reaches record DoorDash settlement for underpaid workers",
+      "url": "https://www.aljazeera.com/economy/2026/9/22/nyc-mayor-mamdani-reaches-record-doordash-settlement-for-underpaid-workers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-09-22T20:03:50.000Z",
+      "summary": "Settlement is largest of its kind in any US city and is set to affect 260,000 delivery drivers."
+    },
+    {
+      "id": "4cde81ead9060041",
+      "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
+      "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-09-22T20:00:00.000Z",
+      "summary": "The 8 Elite Extreme Gen 6 and 8 Elite Gen 6 share most of their specs in common. | Image: Qualcomm Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video capture, and gaming performance on the Extreme model. Both Gen 6 "
+    },
+    {
+      "id": "5fe969af93b6306b",
+      "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras",
+      "url": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-09-22T19:48:08.000Z",
+      "summary": "Apple's new texture and grain controls for stylizing photos will be more limited on older phones than initially expected. A confusingly worded press release from Apple indicated that the new features, announced alongside the iPhone 18 and 18 Pro earlier this month, would be \"available\" on older devices like the iPhone 16 and iPhone Air that \"support the latest generation of Photographic Styles.\" But it turns out that"
+    },
+    {
+      "id": "85d0d0d9b1a71974",
+      "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-09-22T19:47:44.000Z",
+      "summary": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270."
+    },
+    {
+      "id": "e06ee4cb504e489b",
+      "title": "Score free Pixel Buds 2A when you preorder a Googlebook at Best Buy",
+      "url": "https://www.theverge.com/gadgets/998932/googlebook-preorder-pixel-buds-2a-deal-sale",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-09-22T19:28:55.000Z",
+      "summary": "An early look at the first set of Googlebooks The Android-powered Googlebooks are coming soon, with familiar brands and specs that rival Windows Copilot machines. For anyone eager to get their hands on any the new laptops, there’s a preorder perk you may want to know about lasting until October 25th, 2026. When you add a Googlebook to your cart at Best Buy, a pair of Pixel Buds 2A in hazel will be added for free. You"
+    },
+    {
+      "id": "d700f7226623fadf",
+      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-09-22T19:13:29.000Z",
+      "summary": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]"
+    },
+    {
+      "id": "014625e221a7d433",
+      "title": "Hurricane Polo, rapidly intensifying from strong El Niño patterns, rages off coast of Mexico",
+      "url": "https://www.theguardian.com/world/2026/sep/22/hurricane-polo-mexico",
+      "source": "The Guardian World",
+      "category": "weather_climate",
+      "region": "americas",
+      "publishedAt": "2026-09-22T19:09:29.000Z",
+      "summary": "Polo, with sustained winds of 165mph, is churning 215 miles south of Zihuatanejo but is unlikely to directly hit Mexico A tropical storm off the south-west coast of Mexico has intensified into a category 5 monster in fewer than 24 hours, fueled by stronger than usual El Niño weather patterns in the Pacific Ocean. Hurricane Polo was sending out maximum sustained winds of 165mph (266km/h) on Tuesday as its center churn"
+    },
+    {
+      "id": "c6b7c59433a03930",
+      "title": "Jacks stars as England grind out win over Sri Lanka",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-09-22T19:08:52.000Z",
+      "summary": "Will Jacks' all-round efforts help England grind out an 89-run victory over Sri Lanka in the first one-day international at Chester-le-Street."
+    },
+    {
+      "id": "88de7a3a73793983",
+      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "diplomacy",
+      "region": "europe",
+      "publishedAt": "2026-09-22T19:06:06.000Z",
+      "summary": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals."
+    },
+    {
+      "id": "f5b04a00aee8e2bd",
+      "title": "Menzies upsets Van Veen to win second title of year",
+      "url": "https://www.bbc.co.uk/sport/darts/articles/cmy0z4wg7vlwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-09-22T18:53:34.000Z",
+      "summary": "Scotland's Cameron Menzies celebrates his second tournament win of the year after beating Gian van Veen to the Players Championship 29 title in Den Bosch."
+    },
+    {
+      "id": "d9494efd9a2c6271",
+      "title": "Banned British player's £15m lawsuit against WTA dismissed",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c9x2z652v86no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-09-22T18:34:15.000Z",
+      "summary": "British player Tara Moore's legal bid for £15m in damages over a doping case which led to her being banned for four years is dismissed."
+    },
+    {
+      "id": "56c72c955e1601e2",
+      "title": "Save $30 on Apple’s Magic Keyboard with Touch ID and a numpad",
+      "url": "https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-09-22T18:10:57.000Z",
+      "summary": "A rare discount on Apple’s dark color keyboard. | Image: The Verge Until the end of the day on September 22nd, 2026, Best Buy and Amazon have the black Apple Magic Keyboard on sale for $169.99, a $30 discount from the usual price. This is the souped-up version of Apple’s full-size, wireless keyboard, with a Touch ID button, numerical pad, arrow keys, plus additional function keys. The Touch ID functionality is compat"
+    },
+    {
+      "id": "7e07cd3133212363",
+      "title": "Six-year-old Chinese girl ‘sets new women’s Rubik’s Cube world record’",
+      "url": "https://www.theguardian.com/games/2026/sep/22/six-year-old-chinese-girl-rubiks-cube-world-record-lian-yunzhi",
+      "source": "The Guardian World",
+      "category": "diplomacy",
+      "region": "global",
+      "publishedAt": "2026-09-22T18:10:53.000Z",
+      "summary": "Lian Yunzhi solves 3x3 puzzle on several occasions in average time of under 4.5 seconds, according to state media A six-year-old Chinese girl has set a new women’s world record for solving a Rubik’s Cube in just over four seconds, state media reported. “Speedcuber” Lian Yunzhi broke the women’s 3x3 average world record twice this month at two World Cube Association certified competitions in Wuhan and Guangzhou, accor"
+    },
+    {
+      "id": "7005352935ea5a44",
+      "title": "San Francisco sues Trump Media for selling early access to Trump posts",
+      "url": "https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-09-22T17:43:50.000Z",
+      "summary": "San Francisco is suing the Trump Media & Technology Group, the parent company behind Truth Social, for selling early access to President Donald Trump's posts on the social media site. The lawsuit, filed today in California state court, alleges that the Truth API feed is a \"corrupt business scheme\" that violates both California's Unfair Competition Law and federal ethics and anti-corruption laws that prohibit insider "
+    },
+    {
+      "id": "4026f1ab593c6e15",
+      "title": "‘Worse than the scramble for Oasis tickets’: England’s sustainable farming funds run out in just six hours",
+      "url": "https://www.theguardian.com/environment/2026/sep/22/england-farmers-miss-out-on-sfi-payments",
+      "source": "The Guardian Environment",
+      "category": "economy_business",
+      "region": "americas",
+      "publishedAt": "2026-09-22T17:22:55.000Z",
+      "summary": "Entire £233m budget for 2026 allocated in less than a day, leaving thousands of farmers disappointed Thousands of farmers have been left empty-handed with the government’s 2026 nature funding spent in just six hours. The £233m sustainable farming incentive (SFI) scheme opened for applications from farmers at 10am on Tuesday. Continue reading..."
+    },
+    {
+      "id": "18a427b9a18e2054",
+      "title": "Cyclist who dressed as man to avoid Taliban wins silver medal",
+      "url": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "asia_pacific",
+      "publishedAt": "2026-09-22T16:57:55.000Z",
+      "summary": "Afghan cyclist Fariba Hashimi wins silver in the women's road race at the Asian Games, having fled oppression in her home country to pursue a sporting dream."
+    },
+    {
+      "id": "9806d2f3fb60cb04",
+      "title": "Top South African policeman charged with sexual offences",
+      "url": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "africa",
+      "publishedAt": "2026-09-22T16:54:41.000Z",
+      "summary": "Shadrack Sibiya, who has made no comment, is alleged to have groomed a 16-year-old and raped an 18-year-old."
+    },
+    {
+      "id": "336c73abfca7ae77",
+      "title": "'We screwed up': Doordash admits underpaying New York workers",
+      "url": "https://www.bbc.co.uk/news/articles/cjr4v72y6p4eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-09-22T16:50:24.000Z",
+      "summary": "The food delivery giant will pay a $131.5m settlement following a city probe into wage violations."
+    },
+    {
+      "id": "b974b131c3ba65fc",
+      "title": "I was close to joining Liverpool in 2016 - Mbappe",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c68042y9l4kno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-09-22T15:58:22.000Z",
+      "summary": "Kylian Mbappe says his mum was a \"big fan\" of Jurgen Klopp and wanted her son to move to Merseyside."
+    },
+    {
+      "id": "76698df19e846050",
+      "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+      "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "europe",
+      "publishedAt": "2026-09-22T15:43:14.000Z",
+      "summary": "Ineos said natural gas in the UK is twelve times more expensive than in the US."
+    },
+    {
+      "id": "949aa458bad7cfcc",
+      "title": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
+      "url": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-09-22T14:51:39.000Z",
+      "summary": "The news comes as part of a \"reset\" announced by Xbox in July, with 3,600 planned job losses overall."
     },
     {
       "id": "b28ba05e0549455d",
@@ -62,134 +462,14 @@
       "summary": "Forestry England invites people to help it create a record of when and how the season arrives across the country The reds and golds of autumn leaves may be beginning to appear, but exactly when the season arrives is not always as predictable as the calendar might suggest. Now, Forestry England is asking people to help track the changing colours of forests to create a record of when and how autumn arrives across the c"
     },
     {
-      "id": "a4547877bfcc5b90",
-      "title": "Veteran BBC Africa correspondent Mark Doyle dies",
-      "url": "https://www.bbc.co.uk/news/articles/cq986214den3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "africa",
-      "publishedAt": "2026-09-22T14:16:42.000Z",
-      "summary": "Doyle was best known for reporting on African conflicts in the 1990s and 2000s, notably in Rwanda and Sierra Leone."
-    },
-    {
-      "id": "ef9b97359c592c91",
-      "title": "সবচেয়ে কম বয়সী এক্সোপ্ল্যানেট খুঁজে পেলেন বিজ্ঞানীরা, নাম ইলিয়াস",
-      "url": "https://www.bigganchinta.com/space/b72ykgx3wc",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-22T14:15:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "fdc31d47ac1150b0",
-      "title": "৪৮তম বিসিএসে বিএমডিসি সনদ না থাকায় ২৩ প্রার্থীর পরীক্ষা স্থগিত",
-      "url": "https://www.prothomalo.com/chakri/employment/bm4cgdez3g",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-22T14:12:52.000Z",
-      "summary": "৪৮তম বিএসসি (বিশেষ) পরীক্ষা-২০২৫-এ বিএমডিসি সনদ না থাকায় ২৩ প্রার্থীর পরীক্ষা স্থগিত করেছে পিএসসি।"
-    },
-    {
-      "id": "deb9cb0094a4f6b2",
-      "title": "ছুরি হাতে কেন তিনি? এরপর কী হবে জিজ্ঞেস করা বারণ",
-      "url": "https://www.haal.fashion/celeb/look/9cmjlbvadw",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-22T14:10:20.000Z",
-      "summary": "ছুরি হাতে অদ্ভুত লুকে দেখা গেল তাঁকে। এদিকে এরপর কী হবে জিজ্ঞেস করা নাকি বারণ।"
-    },
-    {
-      "id": "86928a606c14680c",
-      "title": "মেয়েকে হত্যা–লাশ গুমের সাড়ে তিন মাস পর জানালেন মা, প্রেমিকসহ গ্রেপ্তার ৩",
-      "url": "https://www.prothomalo.com/bangladesh/district/b0fn749lkm",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-22T14:09:55.000Z",
-      "summary": "বিষয়টি জানাজানি হলে গত রোববার স্থানীয় লোকজন রিপনের বাড়িতে ভাঙচুর করেন। পরে পুলিশ অভিযান চালিয়ে তিনজনকে গ্রেপ্তার করে।"
-    },
-    {
-      "id": "85d0d0d9b1a71974",
-      "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-      "url": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+      "id": "580a6e5370bdc22a",
+      "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world_politics",
       "region": "global",
-      "publishedAt": "2026-09-22T14:03:20.000Z",
-      "summary": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270."
-    },
-    {
-      "id": "eab63c463fc86cf4",
-      "title": "Xbox is merging its Forza developers into a single studio",
-      "url": "https://www.theverge.com/news/998592/xbox-is-merging-its-forza-developers-into-a-single-studio",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-09-22T14:01:17.000Z",
-      "summary": "Microsoft is uniting its two Forza developers into a single studio today, as part of a massive restructuring of Xbox. Playground Games, which develops Forza Horizon, and Turn 10 Studios, creators of Forza Motorsport, are merging together to focus on Forza Horizon and Fable. \"Playground and Turn 10 will come together as one studio focused on the Forza and Fable franchises,\" explains Xbox chief content officer Matt Boo"
-    },
-    {
-      "id": "c6193f59e9e70452",
-      "title": "Microsoft is laying off 268 Xbox staffers and Ninja Theory may close",
-      "url": "https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-09-22T14:01:16.000Z",
-      "summary": "Microsoft is laying off around 260 Xbox employees today, as part of an ongoing \"reset\" of its gaming business. 1,600 Xbox employees were impacted by layoffs in July, with Xbox CEO Asha Sharma describing the cuts as \"the most significant restructure in Xbox history.\" Today's layoffs are part of the 3,200 roles that were previously confirmed to be impacted over the course of Microsoft's 2027 financial year (which ends "
-    },
-    {
-      "id": "54070d3e48a905ae",
-      "title": "Activision is taking over Halo as part of a massive Xbox shake-up",
-      "url": "https://www.theverge.com/news/998586/activision-halo-xbox-reorganization-layoffs",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-09-22T14:00:33.000Z",
-      "summary": "Microsoft is announcing a massive restructuring of its Xbox studios today, months after laying off 1,600 Xbox employees and selling off studios. The latest changes will see Activision take on the Halo and Sea of Thieves franchises, as well as Age of Empires. Microsoft is also laying off around 268 Xbox employees as part of this restructuring, and likely closing Ninja Theory. Halo Studios will be significantly impacte"
-    },
-    {
-      "id": "ca7efe941a477c5e",
-      "title": "‘প্রথম প্রেমের গল্প’  নিয়ে আসছেন নিলয়–হিমি",
-      "url": "https://www.prothomalo.com/entertainment/tv/exeztnipwb",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-22T14:00:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "66a9636ea5e5773c",
-      "title": "The Beats 360 are what I’d bring to the gym if I hated earbuds",
-      "url": "https://www.theverge.com/tech/998566/beats-360-headphones-review",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-09-22T14:00:00.000Z",
-      "summary": "The Beats 360 are designed to last through your sweaty workouts. Everyone has seen someone at the gym or running around their neighborhood wearing headphones that were never designed for workouts. Quite often those headphones are Beats. Good news for the earbud haters: The new Beats 360 over-ear headphones are durable and built to withstand sweat, with water resistance and swappable knit ear cups. And there aren't ma"
-    },
-    {
-      "id": "df0307f711398352",
-      "title": "এক্সে প্রতারণার মাধ্যমে আয় করায় দুই কনটেন্ট নির্মাতার বিরুদ্ধে মামলা",
-      "url": "https://www.prothomalo.com/technology/msa3z5hxld",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-22T13:58:12.000Z",
-      "summary": "কৃত্রিমভাবে নিজেদের তৈরি কনটেন্টে (আধেয়) ভুয়া লাইক ও মন্তব্য যুক্ত করার পাশাপাশি এনগেজমেন্ট বাড়ানোর অভিযোগে দুই ব্যক্তির বিরুদ্ধে মামলা করেছে এক্স।"
-    },
-    {
-      "id": "d8dc0bce15699443",
-      "title": "শিক্ষা ক্যাডারে বদলির নীতিমালায় যে সংশোধনী আনা হলো",
-      "url": "https://www.prothomalo.com/bangladesh/qji329mkpu",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-22T13:56:54.000Z",
-      "summary": "বাংলাদেশ সরকারি কলেজের শিক্ষক বদলি ও পদায়নের নীতিমালা সংশোধিত হয়েছে। প্রভাষক ও সহকারী অধ্যাপকেরা অন্য অঞ্চলে যেতে চাইলে বদলির ক্ষমতা কার্যত মন্ত্রণালয়ের হাতেই।"
+      "publishedAt": "2026-09-22T13:58:42.000Z",
+      "summary": "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires."
     },
     {
       "id": "618d165c82ad0284",
@@ -202,146 +482,6 @@
       "summary": "Henry Pollock turned down rival offers worth much more than his Northampton extension, which will earn him over £400,000 a year, says adviser Eddie Hearn."
     },
     {
-      "id": "5aed9f225df0beaf",
-      "title": "&#8216;Trump TV&#8217; is just reruns of the president on YouTube",
-      "url": "https://www.theverge.com/policy/998726/trump-tv-youtube-livestream",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "americas",
-      "publishedAt": "2026-09-22T13:54:13.000Z",
-      "summary": "The White House is now airing reruns of President Donald Trump's speeches, bill signings, and other moments on a YouTube livestream that it's calling \"Trump TV,\" as reported earlier by Time. The 24/7 station launched just days after Trump banned CNN, MS Now, and Politico from the White House. Following several teasers propping up \"Trump TV,\" Kaelan Dorr, the White House's head of digital strategy, revealed that the a"
-    },
-    {
-      "id": "9edabe2e34cb8e84",
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "disasters",
-      "region": "europe",
-      "publishedAt": "2026-09-22T13:49:22.000Z",
-      "summary": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked."
-    },
-    {
-      "id": "a12adbad79adf50c",
-      "title": "Colombia eases gun restrictions despite fears of more violence",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/colombia-eases-gun-restrictions-despite-fears-of-more-violence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-09-22T13:45:31.000Z",
-      "summary": "Colombia has loosened gun laws after more than a decade of restrictions. Some fear it will lead to even more violence."
-    },
-    {
-      "id": "d5381207ee476a55",
-      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "environment",
-      "region": "middle_east",
-      "publishedAt": "2026-09-22T13:39:09.000Z",
-      "summary": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security."
-    },
-    {
-      "id": "db20533f0274b34d",
-      "title": "High-mileage electric cars are more reliable than petrol ones, study finds",
-      "url": "https://www.theguardian.com/environment/2026/sep/22/high-mileage-used-electric-cars-reliable-petrol-ev-mot",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-09-22T13:37:50.000Z",
-      "summary": "EVs with 90,000 to 120,000 miles on the clock are more likely to pass MOTs than petrol models of the same age Motorists buying a secondhand car with a lot of miles on the clock are likely to find an electric vehicle (EV) ultimately more reliable than a petrol vehicle, according to a study. An analysis of 47.4m MOT tests found that after cars were driven 90,000 to 120,000 miles, EVs were about 25% less likely to fail "
-    },
-    {
-      "id": "340c961747895303",
-      "title": "Iran delegation to present narrative of resilience, diplomacy at UNGA",
-      "url": "https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-09-22T13:29:53.000Z",
-      "summary": "Iran’s delegation has arrived to New York for the UNGA where the war with the United States will be raised."
-    },
-    {
-      "id": "957232086ed7015e",
-      "title": "Hundreds flee homes in Far North Cameroon after armed group raid kills 15",
-      "url": "https://www.aljazeera.com/news/2026/9/22/hundreds-flee-homes-in-far-north-cameroon-after-armed-group-raid-kills-15?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-09-22T13:28:07.000Z",
-      "summary": "No group claims responsibility for attack, but suspicion falls on ISIL affiliate."
-    },
-    {
-      "id": "b895e9b2da93e806",
-      "title": "FIFA President Infantino’s letter a ploy for re-election, says German FA",
-      "url": "https://www.aljazeera.com/sports/2026/9/22/fifa-president-infantinos-letter-a-ploy-for-re-election-says-german-fa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-09-22T13:11:01.000Z",
-      "summary": "Infantino proposed an independent review of FIFA's decision-making process amid criticism of his leadership."
-    },
-    {
-      "id": "9a458fd01fd849b8",
-      "title": "‘Disgraceful’: Did India bully umpires to win Japan T20 cricket match?",
-      "url": "https://www.aljazeera.com/sports/2026/9/22/disgraceful-did-india-bully-umpires-to-win-japan-t20-cricket-match?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "asia_pacific",
-      "publishedAt": "2026-09-22T13:05:30.000Z",
-      "summary": "India survive a big scare against the hosts, beating them by two runs in a rain-hit T20 match in Sano, Japan."
-    },
-    {
-      "id": "c567c4fd579c923e",
-      "title": "Waymo is offering transit discounts again, this time with Visa",
-      "url": "https://www.theverge.com/transportation/998184/waymo-public-transportation-discount-subway-bus-visa",
-      "source": "The Verge",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-09-22T13:00:00.000Z",
-      "summary": "Waymo has made several attempts over the years at offering transit discounts to its customers in the hopes of getting them to more frequently use the company's robotaxis to connect with a train or a bus. The Alphabet-owned company announced the latest effort today, teaming up with Visa to offer a discount on robotaxi rides when they use Waymo to connect with transit. The new incentive is being rolled out first to cus"
-    },
-    {
-      "id": "8e338100a7612a64",
-      "title": "These discreet hearing aid glasses now have better voice boosting and battery life",
-      "url": "https://www.theverge.com/tech/998243/essilorluxottica-nuance-audio-plus-otc-hearing-aid-glasses",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-09-22T13:00:00.000Z",
-      "summary": "EssilorLuxottica, the company that Meta partnered with for its Ray-Ban smart glasses, announced a new version of its Nuance Audio glasses that are designed to double as discreet over-the-counter hearing aids. The new Nuance Audio Plus still manages to squeeze their FDA cleared hearing aid tech into temple arms that don't look much thicker than what you'll find on a standard pair of glasses. But the new Plus option in"
-    },
-    {
-      "id": "d53a4c3d9f27ad3d",
-      "title": "UN warns of rising Yemen displacement as thousands flee to Djibouti",
-      "url": "https://www.aljazeera.com/news/2026/9/22/un-warns-of-rising-yemen-displacement-as-thousands-flee-to-djibouti?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-09-22T12:58:29.000Z",
-      "summary": "Renewed fighting could drive 10,000 across the Red Sea and displace more than 230,000 internally, UNHCR says."
-    },
-    {
-      "id": "4f0bf09d3c2b9601",
-      "title": "White House launches ‘Trump TV’ after press bans",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/white-house-launches-trump-tv-after-press-bans?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-09-22T12:57:24.000Z",
-      "summary": "Days after banning a group of news organisations from the White House, the Trump administration launches 'Trump TV'."
-    },
-    {
-      "id": "6ddc5ed114a27289",
-      "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-09-22T12:57:07.000Z",
-      "summary": "Tomorrow's webinar examines real Google Workspace breaches involving social engineering and malicious OAuth applications, from initial access through the critical first hours of incident response. Learn which security controls and response decisions can make the greatest difference. [...]"
-    },
-    {
       "id": "cfaf8c5108240b06",
       "title": "Developing El Niño becomes strongest on record weeks before expected peak",
       "url": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
@@ -352,64 +492,14 @@
       "summary": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world."
     },
     {
-      "id": "1c61041d06f9b61e",
-      "title": "Sri Lanka court convicts 15 over deadly Easter Sunday bombings",
-      "url": "https://www.aljazeera.com/news/2026/9/22/sri-lanka-court-convicts-14-over-deadly-easter-bombings?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
+      "id": "143d55f390fdf1e5",
+      "title": "Don’t be fooled by this summer of AI hype",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "source": "MIT Tech Review",
+      "category": "ai_innovation",
       "region": "global",
-      "publishedAt": "2026-09-22T12:48:42.000Z",
-      "summary": "The coordinated bombings in April 2019 were carried out at three tourist hotels and three churches, killing 279 people."
-    },
-    {
-      "id": "4a212b2505fcec68",
-      "title": "UN General Assembly live: Trump, Qatar emir to speak as Iran war dominates",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/22/un-general-assembly-live-trump-qatar-emir-to-speak-as-iran-war-dominates?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-09-22T12:00:00.000Z",
-      "summary": "First day of high-level meeting to kick off with speeches from world leaders, including from Brazil, US, Turkiye, Qatar."
-    },
-    {
-      "id": "5619d915ef4c6402",
-      "title": "British man missing after diving into Lake Como to rescue teenager",
-      "url": "https://www.bbc.co.uk/news/articles/cx8d38djqm25o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-09-22T11:44:34.000Z",
-      "summary": "The man had jumped in to save a father and son in difficulty in the water, local officials say."
-    },
-    {
-      "id": "76698df19e846050",
-      "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
-      "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "europe",
-      "publishedAt": "2026-09-22T11:34:11.000Z",
-      "summary": "Ineos said natural gas in the UK is twelve times more expensive than in the US."
-    },
-    {
-      "id": "0d515e8fb65fc253",
-      "title": "Doctor in court to face Rwanda genocide charges in UK",
-      "url": "https://www.bbc.co.uk/news/articles/c6790y1gj247o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-09-22T11:25:19.000Z",
-      "summary": "Dr Vincent Brown was charged following a seven year British investigation into the 1994 killings."
-    },
-    {
-      "id": "4709a77784da11f0",
-      "title": "Swan Song by Charles Spencer review – a furious exercise in score-settling by Diana’s brother",
-      "url": "https://www.theguardian.com/books/2026/sep/22/swan-song-charles-spencer-review-diana-princess-of-wales-brother-earl",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-09-22T11:09:24.000Z",
-      "summary": "Amid genuinely touching passages about his sister, the earl can’t help but put himself and his grievances centre stage Charles Spencer’s Swan Song, a memoir of his relationship with his sister, the late Diana, Princess of Wales, is a fascinating document that tells us a little about Diana and a great deal about Charles Spencer – perhaps more than we needed to know. If that sounds snarky, after 400 pages of score sett"
+      "publishedAt": "2026-09-22T11:04:51.000Z",
+      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…"
     },
     {
       "id": "32d41fdb45f468be",
@@ -432,16 +522,6 @@
       "summary": "Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured."
     },
     {
-      "id": "6d9fe487f2f5a2de",
-      "title": "‘Our job was not to attack’: how do you make a documentary about America’s culture wars?",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/22/bucks-county-usa-documentary-culture-wars",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "americas",
-      "publishedAt": "2026-09-22T10:00:53.000Z",
-      "summary": "Oscar-winning film-maker Barry Levinson’s docuseries Bucks County, USA examines the political divide in one town in a revealing and infuriating manner Like many teenage best friends, Evi and Vanessa have a penchant for finishing each other’s sentences. Whether enmeshed on a couch or telling a story, one, a red-headed musical theater nerd with a personality nearly as boisterous as her signature puffy skirts, collides "
-    },
-    {
       "id": "89abedd01f2e5c5b",
       "title": "Australia investigating how F-35 fighter jet parts bound for US went missing in Hong Kong",
       "url": "https://www.theguardian.com/world/2026/sep/22/australia-investigating-how-f-35-fighter-jet-parts-bound-for-us-went-missing-in-hong-kong",
@@ -450,16 +530,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-09-22T10:00:15.000Z",
       "summary": "Disappearance of jet components sparks concern some of the program’s technology secrets could have been exposed Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The Department of Defence is examining how F-35 fighter jet parts bound for the US from Australia were unexpectedly diverted to Hong Kong, the acting prime minister, Richard Marles, has said. M"
-    },
-    {
-      "id": "c3cd1cd6bcd77889",
-      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
-      "url": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-09-22T09:55:11.000Z",
-      "summary": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]"
     },
     {
       "id": "0a820e85633cc378",
@@ -472,16 +542,6 @@
       "summary": "A summer of wildfires and heatwaves underlines the threats to the country's economy."
     },
     {
-      "id": "b88d1defa36ccdda",
-      "title": "Nimesh Patel on stand-up, Palestine and politics: ‘The way that religion’s been weaponized is ugly’",
-      "url": "https://www.theguardian.com/culture/2026/sep/22/nimesh-patel-buy-the-dip-netflix-comedy-special",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-09-22T09:00:53.000Z",
-      "summary": "The comedian went from being discovered by Chris Rock to making Saturday Night Live history. Now his new Netflix special, Buy the Dip, tackles timely topics with optimism There is a single minute in Buy the Dip, Nimesh Patel’s new Netflix comedy special, in which the comedian nimbly and hilariously goes from describing his wife in labour with their first child to complaining about a Rolex sporting doctor wearing “ins"
-    },
-    {
       "id": "706f7f0044c7b7c1",
       "title": "England fast bowler Wood retires from internationals",
       "url": "https://www.bbc.co.uk/sport/cricket/articles/c931nq260pxo?at_medium=RSS&at_campaign=rss",
@@ -490,16 +550,6 @@
       "region": "global",
       "publishedAt": "2026-09-22T08:58:21.000Z",
       "summary": "England fast bowler Mark Wood announces his retirement from international cricket with immediate effect."
-    },
-    {
-      "id": "e4c0e422e9238f49",
-      "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "americas",
-      "publishedAt": "2026-09-22T08:53:09.000Z",
-      "summary": "​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]"
     },
     {
       "id": "f02fbf36b3ed49ab",
@@ -512,54 +562,14 @@
       "summary": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget."
     },
     {
-      "id": "1c768637c212bf95",
-      "title": "Major US outlets suspend shared Trump coverage in protest at media ban",
-      "url": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
+      "id": "b427304fe3e98b9e",
+      "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+      "url": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world_politics",
       "region": "global",
-      "publishedAt": "2026-09-22T08:17:15.000Z",
-      "summary": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House."
-    },
-    {
-      "id": "f851a850df394999",
-      "title": "Why is Monaco staging a sprint race? F1 Q&A",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c9vgyzm2xv3do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-09-22T06:38:06.000Z",
-      "summary": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Azerbaijan Grand Prix."
-    },
-    {
-      "id": "2f1071e43b23d26f",
-      "title": "Four dead after powerful Typhoon Dujuan lashes Japan",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "weather_climate",
-      "region": "asia_pacific",
-      "publishedAt": "2026-09-22T05:58:35.000Z",
-      "summary": "The storm pulled away from Japan after bringing heavy rains and strong winds to Tokyo and surrounding areas."
-    },
-    {
-      "id": "7a0dc3f641914c60",
-      "title": "Flex your football brain with our daily quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw20v5yelx3mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-09-22T05:40:36.000Z",
-      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
-    },
-    {
-      "id": "0b556c9f5fcc099f",
-      "title": "Outrage in India over viral video of teen molested and her friend beaten",
-      "url": "https://www.bbc.co.uk/news/articles/cmz6z2vx65jeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "asia_pacific",
-      "publishedAt": "2026-09-22T05:14:42.000Z",
-      "summary": "Three minors were arrested after videos capturing the assault went viral in India, sparking anger."
+      "publishedAt": "2026-09-22T06:03:22.000Z",
+      "summary": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI."
     },
     {
       "id": "f2c33b5522a10dcf",
@@ -579,37 +589,7 @@
       "category": "ai_innovation",
       "region": "global",
       "publishedAt": "2026-09-22T04:29:22.000Z",
-      "summary": "Canadian province alleges deadly attack could have been prevented if company had warned police of shooter’s ChatGPT use British Columbia has sued OpenAI in California, saying a mass shooting at a school in the province could have been prevented if the company had warned local ⁠law enforcement that the shooter ⁠had used ChatGPT to ​plan the massacre. The lawsuit filed in San Francisco federal court on Monday names Ope"
-    },
-    {
-      "id": "7001ab63292dc002",
-      "title": "Canadian province sues OpenAI over Tumbler Ridge school shooting",
-      "url": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-09-22T01:44:17.000Z",
-      "summary": "British Columbia has accused the company of failing to report the shooter's troubling interactions with ChatGPT to law enforcement."
-    },
-    {
-      "id": "c11a54a00b8b29c7",
-      "title": "Flights at major US airports delayed after cable cut by construction workers",
-      "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-09-22T01:36:54.000Z",
-      "summary": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says."
-    },
-    {
-      "id": "859aaac7a8088618",
-      "title": "'Constant bombardment' - fans shown 65,000 junk food ads at World Cup",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq4g528drx79o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-09-21T23:03:05.000Z",
-      "summary": "New data shows fans were shown more than 28 hours of adverts for unhealthy food and drinks during World Cup matches this summer."
+      "summary": "Canadian province alleges deadly attack could have been prevented if company had warned police of shooter’s ChatGPT use British Columbia has sued OpenAI, saying a mass shooting at a school in the Canadian province could have been prevented if the company had warned local ⁠law enforcement that the shooter ⁠had used ChatGPT to ​plan the attack. The lawsuit, filed in San Francisco federal court on Monday, names OpenAI a"
     },
     {
       "id": "25892119c0e2363a",
@@ -622,6 +602,16 @@
       "summary": "The phenomenon sees retirees spend all their money on enjoying life to the full."
     },
     {
+      "id": "76f1b73d405651f2",
+      "title": "California braces for record El Niño storms as governor declares emergency",
+      "url": "https://www.theguardian.com/us-news/2026/sep/21/california-el-nino-storm-state-of-emergency",
+      "source": "The Guardian Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-09-21T19:31:49.000Z",
+      "summary": "Super El-Niño has already broken temperature records and is predicted to bring an extremely wet winter to the state ‘Jaw-dropping’ El Niño bursts through temperature record months before peak California is bracing for a record breaking El Niño that is expected to bring severe winter storms and flooding across the state, with the state’s governor declaring a state of emergency in anticipation of extreme weather in the"
+    },
+    {
       "id": "c72e9f900b08aea3",
       "title": "Colombia declares public calamity as wildfire threatens popular tourist area",
       "url": "https://www.theguardian.com/world/2026/sep/21/colombia-wildfire-villa-de-leyva",
@@ -630,16 +620,6 @@
       "region": "americas",
       "publishedAt": "2026-09-21T17:13:23.000Z",
       "summary": "Wildfire forces evacuations and burns through mountains surrounding Villa de Leyva in the north-east Colombian authorities declared a public calamity as a wildfire burned through mountains surrounding one of the country’s best-known colonial towns in the north-east, scorching large swaths of vegetation and forcing evacuations. Nearly 20 active fires are burning across the South American country. Dry conditions have i"
-    },
-    {
-      "id": "2dc6c3f9a8d22fb5",
-      "title": "Repeated air traffic control failures leave us in worrying territory",
-      "url": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-09-21T16:39:01.000Z",
-      "summary": "The question is whether all of these incidents were isolated and unavoidable, or whether they point to something more systemic."
     },
     {
       "id": "009149cae50f2835",
@@ -652,26 +632,6 @@
       "summary": "Dozens of US attacks on boats in the Pacific and Caribbean have killed more than 230 people since September 2025 A special rapporteur for the UN human rights council has concluded that there are “reasonable grounds to believe” that the United States attacks on boats allegedly carrying drugs in the Pacific and Caribbean “constituted crimes against humanity”. The boat strikes, carried out since September 2025 on the st"
     },
     {
-      "id": "01c9d660c8370fd3",
-      "title": "Google fined €403 million over location data privacy violations",
-      "url": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
-      "source": "BleepingComputer",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-09-21T15:41:22.000Z",
-      "summary": "Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]"
-    },
-    {
-      "id": "051fd5b15c3615bf",
-      "title": "Man and police officer wounded in exchange of gunfire near Ontario synagogue",
-      "url": "https://www.theguardian.com/world/2026/sep/21/gunfire-belleville-ontario-synagogue-yom-kippur",
-      "source": "The Guardian World",
-      "category": "diplomacy",
-      "region": "global",
-      "publishedAt": "2026-09-21T14:56:58.000Z",
-      "summary": "Officials say man was critically injured and officer was wounded in Yom Kippur incident near Belleville synagogue A police officer and a man were wounded in an exchange of gunfire on Sunday near a synagogue in Ontario as members of the Jewish community marked Yom Kippur, authorities said. The man was hospitalized in life-threatening condition. The Canadian province’s special investigations unit said the exchange of g"
-    },
-    {
       "id": "dabbd9fe961bce2b",
       "title": "Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alert",
       "url": "https://www.bbc.co.uk/news/videos/ckjrxpqxx2v3o?at_medium=RSS&at_campaign=rss",
@@ -680,16 +640,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-09-21T14:05:29.000Z",
       "summary": "More than 1.9 million people are under evacuation orders as Typhoon Dujuan batters Japan."
-    },
-    {
-      "id": "e8de7ace4d3e3500",
-      "title": "What are my rights if my flight is cancelled or delayed?",
-      "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-09-21T10:28:17.000Z",
-      "summary": "Flights are affected again owing to air traffic control problems, so what are your rights if you're affected?"
     },
     {
       "id": "f2c0bcd87c37a9b5",
@@ -712,16 +662,6 @@
       "summary": "After a plane journey in shackles, an Iranian woman found herself in the middle of Africa in a country she did not know existed. She is one of thousands deported from the US on the back of shadowy deals made with dozens of countries. An in-depth investigation reveals the ‘show of force’ costing American taxpayers millions No one would tell the shackled detainees onboard the US immigration plane where they were going."
     },
     {
-      "id": "14de23bcdf95ed18",
-      "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "diplomacy",
-      "region": "europe",
-      "publishedAt": "2026-09-21T04:00:38.000Z",
-      "summary": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU."
-    },
-    {
       "id": "7c4081125d9b033e",
       "title": "Bear-y good neighbors: humans and animals are learning to live together in an expanding LA",
       "url": "https://www.theguardian.com/us-news/2026/sep/20/los-angeles-bear-coexistence",
@@ -740,16 +680,6 @@
       "region": "global",
       "publishedAt": "2026-09-20T12:00:14.000Z",
       "summary": "Environmental Protection Agency asked firm to choose rules it wanted for dicamba, then put the choices in a proposed federal rule The EPA allowed pesticide giant Bayer to pick from a menu of regulation options for the controversial and destructive weedkiller dicamba, newly released internal agency documents show. The documents provide an unusually clear look into the process of developing pesticide regulations, which"
-    },
-    {
-      "id": "1d24848c332b5a2e",
-      "title": "‘Do you have to be dead?’: US coalminers plead for benefits as black-lung disease cases surge",
-      "url": "https://www.theguardian.com/us-news/2026/sep/20/us-coalminers-black-lung-disease",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-09-20T11:00:16.000Z",
-      "summary": "Trump says he digs coal – but pneumoconiosis cases are at a 50-year high, and sick miners are mired in benefit delays For 38 years, Josh Armes worked as a coal miner in West Virginia and Virginia. After retirement, Armes, 74, of Grundy, Virginia, was diagnosed with black lung disease, medically known as coal workers’ pneumoconiosis (CWP), caused by breathing in coal dust over long periods, which irreversibly damages "
     },
     {
       "id": "f750b3203df87e62",
@@ -832,16 +762,6 @@
       "summary": "Training systems that allow robots to negotiate the real world are getting more sophisticated."
     },
     {
-      "id": "c73b4a5d7f4c19bf",
-      "title": "Repeat offender fined for searching for gold in protected river",
-      "url": "https://www.bbc.co.uk/news/articles/c620lz12d1l7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-09-17T16:14:40.000Z",
-      "summary": "Brian Wright, 68, from Henley-upon-Thames, was caught gold panning on a protected river in north Wales."
-    },
-    {
       "id": "8cf780efde4b2c8d",
       "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
       "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
@@ -862,16 +782,6 @@
       "summary": "Existential fears about AI have once again reared their head - here's what you need to know."
     },
     {
-      "id": "38cb87fcbd1c7c26",
-      "title": "Would you buy branded clothing from your favourite tech firm?",
-      "url": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-09-16T23:18:47.000Z",
-      "summary": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines."
-    },
-    {
       "id": "44177b60be140a15",
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
       "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
@@ -882,34 +792,14 @@
       "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face "
     },
     {
-      "id": "530ee2650e83841b",
-      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-09-16T10:02:05.000Z",
-      "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity."
-    },
-    {
-      "id": "ee0776e9153dde08",
-      "title": "AI app ads promoting 'objectification of women' banned by watchdog",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-09-15T23:27:17.000Z",
-      "summary": "The ad regulator said it had \"zero-tolerance\" for ads promoting AI tools that could sexualise or objectify women."
-    },
-    {
-      "id": "30fe20b274acc973",
-      "title": "Pubs in England and Wales to allow digital ID apps to prove age",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
+      "id": "c6de5eaf6828ac36",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "source": "Krebs on Security",
       "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-09-14T23:07:56.000Z",
-      "summary": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents."
+      "region": "americas",
+      "publishedAt": "2026-09-01T22:40:28.000Z",
+      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that"
     },
     {
       "id": "d2cb44f80f97c2d8",
@@ -920,6 +810,16 @@
       "region": "americas",
       "publishedAt": "2026-08-27T11:04:15.000Z",
       "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicat"
+    },
+    {
+      "id": "fcd54ebec4ef47c2",
+      "title": "Who’s Tracking You? Use This New Service to Find Out",
+      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "source": "Krebs on Security",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-08-14T11:24:35.000Z",
+      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtec"
     },
     {
       "id": "12d57fa016b467ee",
