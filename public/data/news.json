@@ -1,35 +1,285 @@
 {
-  "generatedAt": "2026-10-02T01:31:14.835Z",
+  "generatedAt": "2026-10-02T08:20:11.634Z",
   "articles": [
     {
-      "id": "9f7ea298a0e889d7",
-      "title": "OpenAI fires three workers over mishandling 'sensitive information'",
+      "id": "5465a3059694f83c",
+      "title": "Tragic Road Accident in Mymensingh Kills 7 Auto-Rickshaw Passengers",
+      "url": "https://www.bd24live.com/tragic-road-accident-in-mymensingh-kills-7-auto-rickshaw-passengers/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-02T08:20:07.000Z",
+      "summary": "Seven auto-rickshaw passengers have been killed in a tragic road accident in Mymensingh. The accident occurred when their auto-rickshaw was run over by a passenger bus. More details are to… The post Tragic Road Accident in Mymensingh Kills 7 Auto-Rickshaw Passengers appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "d620a8679def8d0a",
+      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-02T08:16:53.000Z",
+      "summary": "Capt Smit Machchhar, who was stabbed during the flight, speaks to Indian Prime Minister Narendra Modi."
+    },
+    {
+      "id": "5bb72c1bead886e4",
+      "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-10-02T08:16:32.000Z",
+      "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections."
+    },
+    {
+      "id": "be9e1a14ef76e162",
+      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+      "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "africa",
+      "publishedAt": "2026-10-02T08:01:10.000Z",
+      "summary": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region."
+    },
+    {
+      "id": "d7bd4f99d102764c",
+      "title": "'You could be legends' - inside unfancied Wakefield's rapid ascent",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/ckpq0r02lz81o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-02T07:38:47.000Z",
+      "summary": "Wakefield Trinity's stars of yesteryear are remembered in sepia; the class of 2026 have the chance to add some colour with the chance of Grand Final glory."
+    },
+    {
+      "id": "2900c68e8cda32e4",
+      "title": "How the fighting in Ethiopia spread beyond Tigray, in maps and charts",
+      "url": "https://www.aljazeera.com/news/2026/10/2/how-the-fighting-in-ethiopia-spread-beyond-tigray-in-maps-and-charts?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "africa",
+      "publishedAt": "2026-10-02T07:17:02.000Z",
+      "summary": "Old rivalries, territorial disputes and new alliances are reshaping the conflict in Ethiopia’s north."
+    },
+    {
+      "id": "703392b4bfb6cd6f",
+      "title": "How to see the Orionid meteor shower from Friday",
+      "url": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-10-02T07:16:45.000Z",
+      "summary": "Friday sees the start of the Orionid meteor shower as Earth passes through debris left behind by Halley’s Comet. It peaks later in October."
+    },
+    {
+      "id": "43505a592b2b923b",
+      "title": "Browns survive late comeback to defeat Steelers",
+      "url": "https://www.bbc.co.uk/sport/american-football/articles/cmzxzxj1w5dyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-02T06:56:44.000Z",
+      "summary": "Andre Szmyt kicks a match-winning 56-yard field goal with 10 seconds remaining as the Cleveland Browns survive a Pittsburgh Steelers comeback."
+    },
+    {
+      "id": "7afa758724fdd08e",
+      "title": "The Unpromotables: Germany's league champions who can't go up",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmj4jr2vgx0ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-10-02T06:37:49.000Z",
+      "summary": "German football is grappling with a sum that doesn't add up - four promotion spots for five league champions."
+    },
+    {
+      "id": "1c025bad39b43846",
+      "title": "Greece pushes EU to suspend asylum during mass migration surges",
+      "url": "https://www.aljazeera.com/news/2026/10/2/greece-pushes-eu-to-suspend-asylum-during-mass-migration-surges?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-10-02T06:16:14.000Z",
+      "summary": "EU migration pact improvements face criticism for insufficient tools to manage large-scale migration emergencies."
+    },
+    {
+      "id": "360bbeba5e5b0c86",
+      "title": "Asian Games 2026: Taiwan’s gender-row boxer Lin Yu-ting wins gold medal",
+      "url": "https://www.aljazeera.com/sports/2026/10/2/asian-games-aichi-nagoya-2026-boxing-taiwan-lin-yu-ting-gold?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-02T06:03:19.000Z",
+      "summary": "Lin bags her second Asian Games gold medal, three years on from her success in Hangzhou in the 57kg class."
+    },
+    {
+      "id": "1f36b413f2ee3fe4",
+      "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
+      "url": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-02T05:53:51.000Z",
+      "summary": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates."
+    },
+    {
+      "id": "933e08dc2be9d151",
+      "title": "Flex your football brain with our daily quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgwgd08yl1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-02T05:48:17.000Z",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+    },
+    {
+      "id": "347b1135518a4b87",
+      "title": "Ferguson on being 'terrified' by brain haemorrhage and 'fantastic' return to Man Utd",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvwyz0jx3znyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-02T05:25:13.000Z",
+      "summary": "Former Manchester United manager Sir Alex Ferguson speaks to BBC Breakfast as he approaches his 85th birthday."
+    },
+    {
+      "id": "dcb2e548d9d3d2b5",
+      "title": "Increased air pollution linked to more night-time coughing, UK-led study finds",
+      "url": "https://www.theguardian.com/environment/2026/oct/02/increased-air-pollution-link-night-time-coughing-uk-study-cambridge",
+      "source": "The Guardian Environment",
+      "category": "environment",
+      "region": "europe",
+      "publishedAt": "2026-10-02T05:00:11.000Z",
+      "summary": "‘Day-to-day’ symptom of harmful emissions, which in turn can disrupt sleep, can be overlooked, say researchers New research has found that increased air pollution is associated with more night-time coughing, leading to disturbed sleep. Most air pollution research looks at symptoms that are severe enough for people to seek medical help, but day-to-day symptoms can be overlooked. Prof Cecilia Mascolo, who led the study"
+    },
+    {
+      "id": "eed79ab8d2cc70cc",
+      "title": "How Switzerland lost 20 percent of its ice in five years",
+      "url": "https://www.aljazeera.com/news/2026/10/2/how-switzerland-lost-20-percent-of-its-ice-in-five-years?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-10-02T04:59:58.000Z",
+      "summary": "Swiss glaciers have lost more than 5 percent of their ice, threatening the country’s alpine economy."
+    },
+    {
+      "id": "45227478134b9373",
+      "title": "Nepal avalanche kills at least 15 expedition workers",
+      "url": "https://www.aljazeera.com/news/2026/10/2/nepal-avalanche-kills-at-least-15-expedition-workers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-10-02T04:53:49.000Z",
+      "summary": "Rescuers recovered eight more bodies on Thursday from the area of an avalanche that swept through a mountain camp."
+    },
+    {
+      "id": "0c60e491d295b3fc",
+      "title": "Student protests in Chile turn to violent clashes with police",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/student-protests-in-chile-turn-to-violent-clashes-with-police?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-10-02T04:49:52.000Z",
+      "summary": "Riot police in Chile’s capital deployed tear gas and water cannons to disperse hundreds of students."
+    },
+    {
+      "id": "b8cd2528e1989fcd",
+      "title": "Arab-Israeli party leader drops election bid",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-israeli-party-leader-drops-election-bid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "middle_east",
+      "publishedAt": "2026-10-02T04:41:21.000Z",
+      "summary": "Balad party leader Sami Abu Shehadeh has withdrawn from the October 27 Knesset election."
+    },
+    {
+      "id": "cdccd5853c593d71",
+      "title": "Eritrea severs diplomatic ties with Ethiopia in row over Tigray",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/eritrea-severs-diplomatic-ties-with-ethiopia-in-row-over-tigray?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "diplomacy",
+      "region": "africa",
+      "publishedAt": "2026-10-02T04:40:14.000Z",
+      "summary": "Eritrea has severed diplomatic ties with Ethiopia after Addis Ababa closed its embassy in Asmara"
+    },
+    {
+      "id": "73c046108fa60411",
+      "title": "Iran urges Iraq to lift flight ban amid US sanctions",
+      "url": "https://www.aljazeera.com/news/2026/10/2/iran-urges-iraq-to-lift-flight-ban-amid-us-sanctions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "diplomacy",
+      "region": "middle_east",
+      "publishedAt": "2026-10-02T04:34:33.000Z",
+      "summary": "Iran calls on Iraq to remove flight curbs after US sanctions, in a move that has strained bilateral ties."
+    },
+    {
+      "id": "dcd60a8fa938edc2",
+      "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
+      "url": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-02T04:21:31.000Z",
+      "summary": "Fortnite and Minecraft also told to 'lift their game' by online safety regulator."
+    },
+    {
+      "id": "df3e01de6621fdc3",
+      "title": "FAO official says he lost his job for criticising Israeli policies in Gaza",
+      "url": "https://www.aljazeera.com/news/2026/10/2/fao-official-says-he-lost-his-job-for-criticising-israeli-policies-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "middle_east",
+      "publishedAt": "2026-10-02T04:02:44.000Z",
+      "summary": "The FAO official said he was told his contract would not be renewed over an alleged breach of impartiality on Gaza."
+    },
+    {
+      "id": "326557b431f4a189",
+      "title": "Bangladesh Sets New Record in Bilateral Trade with China",
+      "url": "https://www.bd24live.com/bangladesh-sets-new-record-in-bilateral-trade-with-china/",
+      "source": "BD24Live",
+      "category": "economy_business",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-02T03:20:19.000Z",
+      "summary": "Bilateral trade between Bangladesh and China reached a record 12.8 billion US dollars in the first half of 2026, marking a 10.6 percent increase compared to the same period last… The post Bangladesh Sets New Record in Bilateral Trade with China appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "8704461bbfbff906",
+      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-10-02T03:09:13.000Z",
+      "summary": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\"."
+    },
+    {
+      "id": "2b0165467db0b778",
+      "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
+      "url": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-10-02T02:49:44.000Z",
+      "summary": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James."
+    },
+    {
+      "id": "4997a31ac34f0ae0",
+      "title": "May heatwaves, deaths, ruined harvests: study of Europe’s summer paints grim picture for the future",
+      "url": "https://www.theguardian.com/environment/2026/oct/02/may-heatwaves-deaths-ruined-harvests-study-of-europes-summer-paints-grim-picture-for-the-future",
+      "source": "The Guardian Environment",
+      "category": "weather_climate",
+      "region": "europe",
+      "publishedAt": "2026-10-02T02:00:07.000Z",
+      "summary": "EU Copernicus report shows surface air temperatures from June to August were 2.5C above decadal average The scorching heat that persistently baked western Europe this summer was the worst on record, a report has found, with more than half the continent seared by “very strong” heat stress that felt hotter than 38C. Surface air temperatures in western Europe from June to August were 2.5C above the recent decadal averag"
+    },
+    {
+      "id": "bc4f278afb677611",
+      "title": "OpenAI fires workers for mishandling 'sensitive information'",
       "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
+      "source": "BBC World",
       "category": "ai_innovation",
       "region": "global",
-      "publishedAt": "2026-10-02T01:05:13.000Z",
+      "publishedAt": "2026-10-02T01:34:56.000Z",
       "summary": "The former employees were investigated for sharing data with an outside AI evaluation group."
-    },
-    {
-      "id": "f3497e8946fac767",
-      "title": "UK-Mauritius Chagos sovereignty deal stalls amid fears of further delays",
-      "url": "https://www.aljazeera.com/news/2026/10/2/uk-mauritius-chagos-sovereignty-deal-stalls-amid-fears-of-further-delays?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-10-02T00:29:57.000Z",
-      "summary": "Renewed talks over the stalled agreement have revived hope of resettlement, but ageing Chagossians fear time is running."
-    },
-    {
-      "id": "e56a6082e8aa5624",
-      "title": "Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-10-02T00:00:00.000Z",
-      "summary": "US deploys Roosevelt strike group and 2,000 Marines to the Middle East as part of a wider buildup around Iran."
     },
     {
       "id": "83084359b577351f",
@@ -40,16 +290,6 @@
       "region": "americas",
       "publishedAt": "2026-10-01T23:45:06.000Z",
       "summary": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency."
-    },
-    {
-      "id": "dccfa9575450f935",
-      "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
-      "url": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-10-01T23:44:39.000Z",
-      "summary": "1,439 Palestinians have been killed in Gaza and 5,052 injured since the 'ceasefire' began in October 2025."
     },
     {
       "id": "d52a903674346e05",
@@ -72,16 +312,6 @@
       "summary": "A growing number of people are opting out of these schemes due to cost-of-living pressures."
     },
     {
-      "id": "c094705496fca62a",
-      "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
-      "url": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "americas",
-      "publishedAt": "2026-10-01T23:00:05.000Z",
-      "summary": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon."
-    },
-    {
       "id": "bb0d3a44f7df7d15",
       "title": "Bellamy says Wales 'stick' hurt as Norway win lifts mood",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6zxzx1d484zo?at_medium=RSS&at_campaign=rss",
@@ -89,17 +319,7 @@
       "category": "sports",
       "region": "global",
       "publishedAt": "2026-10-01T22:56:09.000Z",
-      "summary": "Head coach Craig Bellamy says he has been through a \"really difficult\" spell because of criticism aimed in his direction during Wales' winless run."
-    },
-    {
-      "id": "5a8668ca2f74c6ff",
-      "title": "What happened in the failed execution of Christa Pike - and what next?",
-      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-10-01T22:52:19.000Z",
-      "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions."
+      "summary": "Head coach Craig Bellamy says he has been through a \"really difficult\" spell because of criticism he has faced during Wales' winless run."
     },
     {
       "id": "c10ca6a456035457",
@@ -110,46 +330,6 @@
       "region": "global",
       "publishedAt": "2026-10-01T22:51:36.000Z",
       "summary": "Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of the Power On podcast that the camera will be part of \"a new Apple smart home ecosystem,\" alongside Apple's rumored smart home hub: They're also building home security products, both first-party and third-party home securit"
-    },
-    {
-      "id": "00b701d43e9f2f2c",
-      "title": "Brazilian government calls for probe into US funding of far-right causes",
-      "url": "https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-10-01T22:48:17.000Z",
-      "summary": "Report stating that Trump administration directed funds towards right-wing groups comes ahead of presidential election."
-    },
-    {
-      "id": "0cd4e5f864b5c2ff",
-      "title": "94-year-old Jewish barrister arrested for supporting Palestine Action",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-10-01T22:44:56.000Z",
-      "summary": "A 94-year-old Jewish activist was detained at a pro-Palestine rally in the UK for supporting Palestine Action."
-    },
-    {
-      "id": "eebea8245ace8942",
-      "title": "France vs Italy: UEFA Nations League – Zidane, Olise, Esposito, teams, form",
-      "url": "https://www.aljazeera.com/sports/2026/10/1/france-italy-uefa-nations-league-zidane-olise-esposito-teams-tv-channel-stream?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-10-01T22:31:30.000Z",
-      "summary": "France face neighbours Italy in new coach Zinedine Zidane's first home game, with Mbappe out injured."
-    },
-    {
-      "id": "a352c5e907a4a86c",
-      "title": "India vs Pakistan scheduled for October 10, 2027 at Cricket World Cup",
-      "url": "https://www.aljazeera.com/sports/2026/10/1/india-vs-pakistan-scheduled-for-october-10-2027-at-cricket-world-cup?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-01T22:30:32.000Z",
-      "summary": "The rivals have been grouped together again, along with holders Australia, as ICC announces schedule for the tournament."
     },
     {
       "id": "3f34f448c5668179",
@@ -172,36 +352,6 @@
       "summary": "Democratic-led coalition says gutting key protections will set US back decades and worsen climate crisis States and cities sued the Trump administration on Thursday for repealing rules that limit planet-warming greenhouse gas emissions from power plants fueled by coal and natural gas. Twenty-one states, led by New York, are challenging the Environmental Protection Agency’s power plant rule. The Democratic-led coaliti"
     },
     {
-      "id": "01e7c2337497f395",
-      "title": "Tyson Fury vs Anthony Joshua fight confirmed, but is the bout too late?",
-      "url": "https://www.aljazeera.com/sports/2026/10/1/tyson-fury-vs-anthony-joshua-fight-confirmed-but-is-the-bout-too-late?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-10-01T21:54:26.000Z",
-      "summary": "As Fury and Joshua confirm long-awaited boxing fight, Al Jazeera explains the delays and exchanges between the sides."
-    },
-    {
-      "id": "2d9cf963d66007fd",
-      "title": "Protesters halt game as calls grow on Ireland to boycott second Israel game",
-      "url": "https://www.aljazeera.com/sports/2026/10/1/protesters-halt-game-as-calls-grow-on-ireland-to-boycott-second-israel-game?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "middle_east",
-      "publishedAt": "2026-10-01T21:14:55.000Z",
-      "summary": "Republic of Ireland's game halted by tennis balls thrown and invader with Palestine flags amid Israel boycott demand."
-    },
-    {
-      "id": "2a58fa7517a0de57",
-      "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
-      "url": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-10-01T20:30:47.000Z",
-      "summary": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis."
-    },
-    {
       "id": "c66a427bfd323d6b",
       "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
       "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
@@ -220,16 +370,6 @@
       "region": "global",
       "publishedAt": "2026-10-01T19:47:51.000Z",
       "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around you, and describing details on specific objects. Like the VoiceOver Live Re"
-    },
-    {
-      "id": "cfece2e2942206da",
-      "title": "Real Madrid keen on Quansah - Friday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw8r6r0pdkyzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-01T19:45:16.000Z",
-      "summary": "Real Madrid are keen on Bayer Leverkusen's Jarell Quansah, Liverpool are monitoring Club Tijuana's teenage midfielder Giberto Mora, plus more."
     },
     {
       "id": "88e90a75cc054377",
@@ -352,26 +492,6 @@
       "summary": "The Falcon 9 rocket blasted off from Cape Canaveral with two Americans, a Russian and a Canadian who will spend up to six months aboard the International Space Station."
     },
     {
-      "id": "3088e2555fabf772",
-      "title": "England avoid Australia & India in World Cup draw",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-01T16:31:47.000Z",
-      "summary": "England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ICC Cricket World Cup."
-    },
-    {
-      "id": "e0b88f82d3b422ce",
-      "title": "Algeria introduces death penalty for arsonists after deadly wildfires",
-      "url": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "disasters",
-      "region": "global",
-      "publishedAt": "2026-10-01T16:31:35.000Z",
-      "summary": "It is estimated more than 200 people have died in blazes in the north-east of the country over the summer."
-    },
-    {
       "id": "2da3d65740fc0844",
       "title": "Microsoft’s Office and Teams chief is leaving",
       "url": "https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving",
@@ -422,26 +542,6 @@
       "summary": "Image: Angela Weiss / AFP via Getty Images | AFP via Getty Images New York City residents struggling to get out of recurring subscription fees can now submit complaints to the city government. As of Thursday, the city's click-to-cancel rule has taken effect, which requires businesses to make it as easy to cancel a subscription as it is to sign up. That means a gym that lets you join online, for example, can't make yo"
     },
     {
-      "id": "bf062d39d7528e5f",
-      "title": "Rick Ross arrested on domestic battery and strangulation charges",
-      "url": "https://www.theguardian.com/music/2026/oct/01/rick-ross-arrest-miami-battery-strangulation",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-10-01T14:34:42.000Z",
-      "summary": "The rapper was arrested in Miami Beach on Thursday, days after an ex-girlfriend accused him of physical abuse Rick Ross has been arrested on domestic violence charges in Miami Beach, according to local police. The rapper was booked at Turner Guilford Knight correctional center at 6.10am local time on Thursday and faces one felony count of battery by strangulation as well as a misdemeanor count of battery. Continue re"
-    },
-    {
-      "id": "4401f390e4c8c752",
-      "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
-      "url": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-10-01T14:05:55.000Z",
-      "summary": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion."
-    },
-    {
       "id": "2360f0d8000e5815",
       "title": "The Day-One Hole in Zero Trust Architecture",
       "url": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
@@ -472,16 +572,6 @@
       "summary": "As the midterms approach, Americans’ digestive health has become a bizarre talking point Donald Trump seems to spend an unusual amount of time thinking about toilets. Back in 2019, he bizarrely claimed: “People are flushing toilets 10 times, 15 times as opposed to once.” He repeated this claim at a Michigan rally the following year. “Ten times, right, 10 times,” Trump complained. “Not me, of course not me, but you,” "
     },
     {
-      "id": "d22c3a79f82681f3",
-      "title": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
-      "url": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-10-01T12:13:28.000Z",
-      "summary": "Chaos has surrounded the St Petersburg shows since the stadium said it had not agreed to host the rapper."
-    },
-    {
       "id": "bfbfa5211415a32d",
       "title": "US datacenter discharged large amounts of pollution for almost a year with no permits",
       "url": "https://www.theguardian.com/environment/2026/oct/01/us-datacenter-new-jersey-pollution",
@@ -502,26 +592,6 @@
       "summary": "Hinting at Jamaat-e-Islami, BNP Chairman and Prime Minister Tarique Rahman stated that leaders of a “secret political party” are lecturing others on various issues. He suggested they should first look… The post “Address Domestic Violence Within Your Own Ranks Before Preaching to Others,” Says Prime Minister appeared first on Bangla Online News Portal."
     },
     {
-      "id": "94b4fa378f5848c6",
-      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-10-01T11:37:46.000Z",
-      "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains."
-    },
-    {
-      "id": "7f9a7b1c38cf9847",
-      "title": "Nine scandals that rocked the sporting world",
-      "url": "https://www.bbc.co.uk/sport/articles/ck62m2n3yezno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-01T11:32:37.000Z",
-      "summary": "Manchester City are far from the first. The lure of glory and riches on the biggest stages have tempted plenty of other sports stars to break the rules."
-    },
-    {
       "id": "23e15ec0ce7aa5e3",
       "title": "Trump the environmentalist? How his Iran war exposed the fragility of dirty energy",
       "url": "https://www.theguardian.com/us-news/2026/oct/01/trump-iran-war-oil-gas-energy",
@@ -530,16 +600,6 @@
       "region": "middle_east",
       "publishedAt": "2026-10-01T11:30:49.000Z",
       "summary": "Gavin Newsom says Trump is a ‘gift’ to the climate cause for dispelling notions of fossil fuel energy security Send us your questions about how the Iran war will affect US voters in the midterms Of all the epithets hurled at Donald Trump since he became US president, perhaps the most unusual was delivered last week – that he is, in fact, some sort of environmentalist. Trump is the “greatest gift” to the environmental"
-    },
-    {
-      "id": "b4e89cbf35318f08",
-      "title": "Russell says his 'confidence is back and growing'",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cv1j4jn5nxxlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-01T11:07:36.000Z",
-      "summary": "George Russell says he \"doesn't feel lost any more\" as he seeks to end a difficult season on a high and chase down team-mate Kimi Antonelli's championship lead."
     },
     {
       "id": "1e852a0d3471e25e",
@@ -602,16 +662,6 @@
       "summary": "Estonian completed first of two attempts to navigate narrow ribbon, 160 metres long and 120 metres high, near the city’s famous Gyeongbokgung palace on Thursday The lunchtime crowds drifted slowly back to their offices along central Seoul’s main boulevard, heads up and phones raised to the sky. High above, a narrow ribbon ran between the Koreana hotel and the Dong-A Media Center, a few hundred metres from the capital"
     },
     {
-      "id": "4520fbcdcbf621bc",
-      "title": "K-pop star convicted of violating military service law",
-      "url": "https://www.bbc.co.uk/news/articles/cjn5d52d3lk5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-10-01T05:24:10.000Z",
-      "summary": "The member of K-pop band Winner was given a suspended prison sentence for repeated absences from his national service work."
-    },
-    {
       "id": "459ce581226d0836",
       "title": "The rare Bog Grass Moth found in nature reserve for first time",
       "url": "https://www.bbc.co.uk/news/articles/cw4gqnnm4ymdo?at_medium=RSS&at_campaign=rss",
@@ -620,36 +670,6 @@
       "region": "global",
       "publishedAt": "2026-10-01T05:03:12.000Z",
       "summary": "Experts called it a \"special surprise\" to find an \"incredibly sparse moth\" in this habitat."
-    },
-    {
-      "id": "55a4959f60d73e91",
-      "title": "Think more rain means more river water? Not necessarily",
-      "url": "https://www.theguardian.com/news/2026/oct/01/rivers-water-rain-study",
-      "source": "The Guardian Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-10-01T05:00:30.000Z",
-      "summary": "Some rivers are receiving more rain than before but have lower water flow, according to a study More rain and snow equals more water in rivers, right? Not necessarily. A new study shows that, despite receiving more rainfall than they used to, river water levels are falling because of changes in climate. Global heating is intensifying the hydrological cycle, making wet regions wetter and dry regions drier, but how is "
-    },
-    {
-      "id": "16f62af95626bf0b",
-      "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years",
-      "url": "https://www.theguardian.com/environment/2026/oct/01/switzerland-glacier-loss-fossil-fuel-pollution-europe",
-      "source": "The Guardian Environment",
-      "category": "weather_climate",
-      "region": "europe",
-      "publishedAt": "2026-10-01T04:00:27.000Z",
-      "summary": "Alpine regions in Europe experiencing extreme glacier collapse due to heat-trapping effects of fossil fuel pollution Switzerland has lost almost one-fifth of its ice in just five years, research has found, in a dramatic reshaping of the Alpine country whose big white glaciers have been reduced to moonlike rock deserts, scientists say. Swiss glaciers shrank by 5.5% in the first eight months of 2026, according to an an"
-    },
-    {
-      "id": "e650197bb5088a21",
-      "title": "Japan raises permanent residency fee by 20 times",
-      "url": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-01T02:57:43.000Z",
-      "summary": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population."
     },
     {
       "id": "ab04445416adc89b",
@@ -732,16 +752,6 @@
       "summary": "Prime Minister Tareque Rahman has stated that the government is working to ensure financial security, healthcare, and dignified lives for senior citizens. To this end, initiatives have been taken to… The post Government Working to Ensure Financial Security and Healthcare for the Elderly: Prime Minister appeared first on Bangla Online News Portal."
     },
     {
-      "id": "b2adad9d3fca2fc2",
-      "title": "South African leader urges men to speak up on gender-based violence after series of killings",
-      "url": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "africa",
-      "publishedAt": "2026-09-30T14:16:33.000Z",
-      "summary": "President announces measures amid anger at authorities over recent murders of women South Africa’s president has called on men to take more responsibility for violence against women as he announced measures to tackle the problem, amid anger at authorities over a recent wave of murders. Cyril Ramaphosa acknowledged that not enough had been done to protect women. He said police would be reviewing unsolved murders, atte"
-    },
-    {
       "id": "46593bab1d75595e",
       "title": "Regulating AI 'not the right place to start' says Bailey",
       "url": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
@@ -812,16 +822,6 @@
       "summary": "Home Minister Salahuddin Ahmed stated that the magistrate in charge during the eviction drive in Mirpur did not communicate properly with the police, leading to a coordination shortfall. He also… The post Coordination Shortfall in Mirpur Eviction Drive, Investigation Ordered: Home Minister appeared first on Bangla Online News Portal."
     },
     {
-      "id": "9acdfcccac8c1082",
-      "title": "Orionid meteor shower to streak across night sky this week",
-      "url": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-09-30T06:32:14.000Z",
-      "summary": "The Orionid meteor shower peaks in October as Earth passes through debris left behind by Halley’s Comet."
-    },
-    {
       "id": "5a6dbac4f1a1bbb6",
       "title": "Gold Price Rises After Three Consecutive Drops",
       "url": "https://www.bd24live.com/gold-price-rises-after-three-consecutive-drops/",
@@ -852,16 +852,6 @@
       "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI."
     },
     {
-      "id": "3b15041b622851ff",
-      "title": "Press Conference on Prime Minister’s New York Visit This Afternoon",
-      "url": "https://www.bd24live.com/press-conference-on-prime-ministers-new-york-visit-this-afternoon/",
-      "source": "BD24Live",
-      "category": "creativity_arts",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-30T03:20:13.000Z",
-      "summary": "The Prime Minister’s Office will hold a press conference today to brief on Prime Minister Tarique Rahman’s participation in the 81st session of the United Nations General Assembly, his meetings… The post Press Conference on Prime Minister’s New York Visit This Afternoon appeared first on Bangla Online News Portal."
-    },
-    {
       "id": "75a48ec5b61ae3d4",
       "title": "The start-ups hoping to return battery making to the US",
       "url": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
@@ -870,16 +860,6 @@
       "region": "global",
       "publishedAt": "2026-09-29T23:06:50.000Z",
       "summary": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials."
-    },
-    {
-      "id": "84c910d2ac4c35a5",
-      "title": "Ganges Water-Sharing Agreement: Technical Discussions Ongoing, Says Jaiswal",
-      "url": "https://www.bd24live.com/ganges-water-sharing-agreement-technical-discussions-ongoing-says-jaiswal/",
-      "source": "BD24Live",
-      "category": "technology",
-      "region": "bangladesh",
-      "publishedAt": "2026-09-29T17:30:12.000Z",
-      "summary": "India has announced that technical-level discussions regarding the Ganges water-sharing agreement between Bangladesh and India are continuing. Spokesperson Randhir Jaiswal provided this information during the bi-weekly briefing of the Indian… The post Ganges Water-Sharing Agreement: Technical Discussions Ongoing, Says Jaiswal appeared first on Bangla Online News Portal."
     },
     {
       "id": "ebcd234ec41922f8",
@@ -912,26 +892,6 @@
       "summary": "Slinger Francisco, who performed as the Mighty Sparrow, died on Sunday surrounded by family in New York Slinger Francisco, known on stage as the Mighty Sparrow and dubbed the “calypso king of the world”, has died aged 91. Francisco, who got his breakthrough in calypso music with his 1956 hit song Jean and Dinah, died peacefully surrounded by his family in New York on Sunday, his family said in a statement. Continue r"
     },
     {
-      "id": "da7d8a7e82e00be3",
-      "title": "Hurricane Nolo still threatens Hawaii as Mexico’s Baja braces for Hurricane Polo",
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/hurricane-nolo-hawaii-hurricane-polo-mexico",
-      "source": "The Guardian World",
-      "category": "weather_climate",
-      "region": "americas",
-      "publishedAt": "2026-09-27T22:59:25.000Z",
-      "summary": "Hurricane Nolo is moving away from Hawaiian islands but threat of heavy rain, flash floods and strong winds persists Hurricane Nolo was moving away from the Hawaiian islands on Sunday, but the threat of heavy rain, flash flooding and strong winds persisted in areas of the island chain still recovering from previous storms. Nolo was about 365 miles (585km) south-south-west of Honolulu and moving away from the Big Isla"
-    },
-    {
-      "id": "aa440749607939f6",
-      "title": "Melbourne man’s mysterious disappearance on popular Peru hiking trail prompts widespread search",
-      "url": "https://www.theguardian.com/world/2026/sep/27/melbourne-man-disappearance-south-american-hiking-trail-search-peru",
-      "source": "The Guardian World",
-      "category": "diplomacy",
-      "region": "americas",
-      "publishedAt": "2026-09-27T06:45:54.000Z",
-      "summary": "Loved ones describe Jordan Yap, 30, as an experienced hiker who set out for a 10-day solo trek Peru before falling silent Get our breaking news email, free app or daily news podcast Loved ones of a missing Australian trekker who was last seen nearly two weeks ago on a remote South American hiking trail are urging local authorities to help with the search. A wide-scale sweep by a private rescue crew has so far failed "
-    },
-    {
       "id": "190c07b82be36b0d",
       "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
       "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
@@ -960,6 +920,16 @@
       "region": "americas",
       "publishedAt": "2026-08-27T11:04:15.000Z",
       "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicat"
+    },
+    {
+      "id": "12d57fa016b467ee",
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-08-06T17:00:56.000Z",
+      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers."
     }
   ]
 }
