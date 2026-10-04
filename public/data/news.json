@@ -1,6 +1,336 @@
 {
-  "generatedAt": "2026-10-04T12:11:47.896Z",
+  "generatedAt": "2026-10-04T21:12:25.433Z",
   "articles": [
+    {
+      "id": "7aa4105c70662504",
+      "title": "The new Fitbit Edge leaks",
+      "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-10-04T21:02:09.000Z",
+      "summary": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference between the Pixel Watch and the Fitbit Air. It has a small screen that is able to display some widgets, but clearly isn't as expansive as a p"
+    },
+    {
+      "id": "2f4a541b15196f02",
+      "title": "Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’",
+      "url": "https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "middle_east",
+      "publishedAt": "2026-10-04T20:38:56.000Z",
+      "summary": "Israel's president declared that the 'antisemitic lie' deliberately endangers Jews and Israelis."
+    },
+    {
+      "id": "4828961759789c23",
+      "title": "'Money-grab' or celebration? NFL kicks off London series",
+      "url": "https://www.bbc.co.uk/sport/american-football/articles/cqwyrlk27e7ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-10-04T20:36:03.000Z",
+      "summary": "The NFL kicked off this season's series of London games on Sunday but the build-up was overshadowed by anger from long-term fans over ticket prices."
+    },
+    {
+      "id": "cc7ec5f84014117c",
+      "title": "Arsenal 10 points off WSL leaders - is Slegers' job at risk?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9p8gmvlvp57o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-04T20:34:17.000Z",
+      "summary": "It is only five matches into the WSL season but Arsenal are already 10 points behind leaders Manchester City and manager Renee Slegers is coming under increasing scrutiny."
+    },
+    {
+      "id": "e7b3a24ffb9aa929",
+      "title": "Real Madrid join race for Scott - Monday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cke8r1v3jndlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-04T20:24:19.000Z",
+      "summary": "Bournemouth's Alex Scott at the centre of a transfer tussle, Arsenal show interest in Juventus winger Kenan Yildiz, Real Betis rebuff speculation linking Troy Parrott with a move away, plus more."
+    },
+    {
+      "id": "6b3033a7871ba347",
+      "title": "Debris found near Nantucket believed to be from missing medical plane",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/debris-found-near-nantucket-believed-to-be-from-missing-medical-plane?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "disasters",
+      "region": "global",
+      "publishedAt": "2026-10-04T20:21:09.000Z",
+      "summary": "The US Coast Guard says a field of debris found near Nantucket is believed to be from an emergency medical plane."
+    },
+    {
+      "id": "0eb9a97f3c73469b",
+      "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-10-04T20:14:49.000Z",
+      "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival."
+    },
+    {
+      "id": "323757ead7e9ac3c",
+      "title": "Imran Khan’s party launches march to Islamabad demanding his release",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/imran-khans-party-launches-march-to-islamabad-demanding-his-release?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-04T19:53:55.000Z",
+      "summary": "Supporters of jailed former Pakistani prime minister Imran Khan have launched a long march towards Islamabad."
+    },
+    {
+      "id": "23b0501ee09a2de2",
+      "title": "France to shutter up to 500 schools as more student protests called",
+      "url": "https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-10-04T19:41:04.000Z",
+      "summary": "Education minister cites safety concerns for closures as organisers call for resumption of protests."
+    },
+    {
+      "id": "7a49a5f3efd03fce",
+      "title": "War on Iran: Is escalation more likely than a deal?",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-10-04T18:47:22.000Z",
+      "summary": "Former Iranian and US diplomats agree that the war on Iran is likely to get worse in the coming weeks."
+    },
+    {
+      "id": "4b196000c102e127",
+      "title": "Foreign Transactions in Stock Market Up by 37.6%",
+      "url": "https://www.bd24live.com/foreign-transactions-in-stock-market-up-by-37-6/",
+      "source": "BD24Live",
+      "category": "economy_business",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-04T18:20:35.000Z",
+      "summary": "Due to reform initiatives and simplified investment processes, foreign investors’ participation in the country’s stock market is increasing. In the first eight months of the current year, total foreign investor… The post Foreign Transactions in Stock Market Up by 37.6% appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "118f3410f52ec69c",
+      "title": "End of 10-Year Relationship: Pritam and Shahtaj Announce Divorce",
+      "url": "https://www.bd24live.com/end-of-10-year-relationship-pritam-and-shahtaj-announce-divorce/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-04T18:20:13.000Z",
+      "summary": "After a long 10-year relationship and married life, Pritam and Shahtaj have decided to separate. They have reached the decision to end their marital relationship through mutual understanding. The couple… The post End of 10-Year Relationship: Pritam and Shahtaj Announce Divorce appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "4f15415b5994d3bc",
+      "title": "Police investigating Flydubai co-pilot’s Australia ties",
+      "url": "https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-04T17:53:34.000Z",
+      "summary": "Australian police and intelligence join the list of those probing the incident."
+    },
+    {
+      "id": "440654289c349602",
+      "title": "The best early October Prime Day deals happening now",
+      "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-10-04T17:18:00.000Z",
+      "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Mond"
+    },
+    {
+      "id": "a44afa6074ee0257",
+      "title": "Indian police accused of sexually harassing journalists at protest",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-04T17:01:19.000Z",
+      "summary": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls."
+    },
+    {
+      "id": "7ca9afd25257861e",
+      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-10-04T16:51:30.000Z",
+      "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition."
+    },
+    {
+      "id": "e27cce6a87332200",
+      "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+      "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-10-04T16:24:48.000Z",
+      "summary": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body."
+    },
+    {
+      "id": "71c3c7828e69ad98",
+      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-10-04T16:16:04.000Z",
+      "summary": "Well, if AI said it, it must be true. | Bloomberg via Getty Images New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularly odd tactic during an interview on NJ PBS. Caldwell "
+    },
+    {
+      "id": "87e81ab54125594d",
+      "title": "Wu wins first title since Crucible as Chinese snooker hits new high",
+      "url": "https://www.bbc.co.uk/sport/snooker/articles/cq4g1l0gxl44o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-04T15:42:24.000Z",
+      "summary": "Wu Yize claims his first ranking title since he became world champion - a result that means China will have the top two players in the rankings for the first time."
+    },
+    {
+      "id": "e1c18221e61b38c0",
+      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-10-04T15:21:59.000Z",
+      "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, it couldn't quite get an edge. So it resorted to "
+    },
+    {
+      "id": "52c2f20c046a3768",
+      "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
+      "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
+      "source": "The Guardian World",
+      "category": "economy_business",
+      "region": "africa",
+      "publishedAt": "2026-10-04T15:16:03.000Z",
+      "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknown An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rights groups have said is a crackdown on press freedoms. Last week, authorities arrested six journalists from the independent fact-checking and investigative platform Matsadaash – liter"
+    },
+    {
+      "id": "20480f247e02b28b",
+      "title": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone",
+      "url": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-10-04T15:00:00.000Z",
+      "summary": "The OhSnap Wallet 2. | Photo by Sean Hollister / The Verge This toolless modular lever-action wallet is the coolest I've stuck to my phone. Remember when I tested the ultra-thin and convenient OhSnap Snap Grip Stand and liked it so much I bought my own? Now, OhSnap has a magnetic lever-action card wallet that can stack with that stand. It's the coolest wallet I've ever stuck to my phone. @verge The sleekest wallet ye"
+    },
+    {
+      "id": "e540d2c6a6f2971b",
+      "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+      "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-04T14:36:57.000Z",
+      "summary": "Japan's government lodged a formal protest with the US, demanding that military officials take action."
+    },
+    {
+      "id": "2b8da935001a05cd",
+      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+      "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-10-04T14:25:32.000Z",
+      "summary": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row."
+    },
+    {
+      "id": "db26076bbf4310ee",
+      "title": "Would slashing migration tank the economy or reset Australia’s living standards? Canada may offer clues",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/05/canada-migration-technical-recession-economy-lessons-for-australia",
+      "source": "The Guardian World",
+      "category": "economy_business",
+      "region": "americas",
+      "publishedAt": "2026-10-04T14:00:32.000Z",
+      "summary": "Annual population growth for the North American nation has slowed to just 0.5% – and the economy is ‘adjusting’ Get our breaking news email, free app or daily news podcast Would slashing net overseas migration “trash the economy” or deliver the necessary population “reset” to restore Australia’s stagnant living standards? Labor and an ascendant One Nation have presented starkly different visions of what a migration p"
+    },
+    {
+      "id": "0e30d4496c7dc917",
+      "title": "Australia and Turkey criticised for hosting UN climate conference while embracing coal",
+      "url": "https://www.theguardian.com/environment/2026/oct/05/australia-and-turkey-criticised-for-hosting-un-climate-conference-while-embracing-coal",
+      "source": "The Guardian Environment",
+      "category": "diplomacy",
+      "region": "middle_east",
+      "publishedAt": "2026-10-04T14:00:32.000Z",
+      "summary": "Global campaign group 350.org urges Cop31 hosts to announce a coal phase-out date and national roadmaps to get off fossil fuels Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here The hosts of the next major United Nations climate conference, Turkey and Australia, are facing criticism for being partners in a coal supply chain while remaining near silent on the need for a global dea"
+    },
+    {
+      "id": "b07b3b0ccf79939b",
+      "title": "Evans ends Britain's 25-year wait for WRC champion",
+      "url": "https://www.bbc.co.uk/sport/motorsport/articles/cmd6dq5gyw7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-10-04T13:46:49.000Z",
+      "summary": "Five-time runner-up Elfyn Evans is world champion for the first time after rival Oliver Solberg crashes in the final moments of Rally Italia Sardegna."
+    },
+    {
+      "id": "a34f808ffedb5ea8",
+      "title": "British High Commissioner Pays Courtesy Call on Prime Minister",
+      "url": "https://www.bd24live.com/british-high-commissioner-pays-courtesy-call-on-prime-minister/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-04T13:45:15.000Z",
+      "summary": "Sarah Cook, the UK High Commissioner to Bangladesh, paid a courtesy call on Prime Minister Tarique Rahman. The meeting took place on Sunday (October 4) at the Prime Minister’s Office… The post British High Commissioner Pays Courtesy Call on Prime Minister appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "df1f6954077e1322",
+      "title": "Dominant Verstappen & superb Hamilton recovery - driver ratings",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cqkgjnrjr3l5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-04T13:36:42.000Z",
+      "summary": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Bahrain Grand Prix in Malaysia."
+    },
+    {
+      "id": "de691c52222a7a21",
+      "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
+      "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "africa",
+      "publishedAt": "2026-10-04T13:33:05.000Z",
+      "summary": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city."
+    },
+    {
+      "id": "d0d5175d0ceacc86",
+      "title": "The AirPods Pro 3 are a fantastic deal at $179",
+      "url": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-10-04T13:00:00.000Z",
+      "summary": "AirPods Pro 3 | Photo by Amelia Holowaty Krales / The Verge It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds that include five ear tip sizes, live translation, and fantastic sound for $179 at Amazon (originally $249). I expect other"
+    },
+    {
+      "id": "1a28de8999195b9e",
+      "title": "The MacBook Air M5 is $200 off for the first time in months",
+      "url": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-10-04T12:34:01.000Z",
+      "summary": "Pictured: The 15-inch Apple MacBook Air. | Photo: Antonio G. Di Benedetto / The Verge Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That’s a more palatable price for a machine that’s significantly faster than Apple’s $699 MacBook Neo. The 15-inch version, also with 512G"
+    },
+    {
+      "id": "ab6e2e4979ce013d",
+      "title": "The iPad Mini is slightly cheaper again during Prime Day",
+      "url": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-10-04T12:31:50.000Z",
+      "summary": "Apple’s iPad Mini is temporarily on sale for its old price. | Photo: David Pierce / The Verge Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and cellular-connected models are $100 off. The Wi-Fi version with 128GB of storage is currently $499, the 256GB model is $599, an"
+    },
     {
       "id": "f92529b53deb7db3",
       "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
@@ -10,76 +340,6 @@
       "region": "europe",
       "publishedAt": "2026-10-04T12:09:04.000Z",
       "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball."
-    },
-    {
-      "id": "73f0092ae4920ea7",
-      "title": "Iran says Hormuz to remain closed until US meets conditions",
-      "url": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-10-04T11:11:30.000Z",
-      "summary": "Tehran says reopening Strait of Hormuz has been its main goal, while the US continues to focus on nuclear talks."
-    },
-    {
-      "id": "b228c2f0b3846e03",
-      "title": "Ethiopian government forces seize Tigray capital Mekelle as TPLF withdraws",
-      "url": "https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "africa",
-      "publishedAt": "2026-10-04T11:05:02.000Z",
-      "summary": "Federal troops and allied fighters seen in control of the city after capturing main regional airport."
-    },
-    {
-      "id": "e65bac35dd9d3cb3",
-      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-10-04T11:03:20.000Z",
-      "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival."
-    },
-    {
-      "id": "19c3cdfaad05bb46",
-      "title": "Red Bull’s Verstappen wins rain-delayed Bahrain GP F1 race in Sepang",
-      "url": "https://www.aljazeera.com/sports/2026/10/4/red-bulls-verstappen-wins-rain-delayed-bahrain-gp-f1-race-in-sepang?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-04T11:02:33.000Z",
-      "summary": "Championship leader Kimi Antonelli of Mercedes and Ferrari's Lewis Hamilton finish second and third."
-    },
-    {
-      "id": "fc839240a72cb870",
-      "title": "Is the Sudanese army gaining momentum against the RSF?",
-      "url": "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "africa",
-      "publishedAt": "2026-10-04T10:56:12.000Z",
-      "summary": "The SAF claims victory in a vital North Kordofan town, weakening RSF’s access to fighters and supply routes."
-    },
-    {
-      "id": "6c8dc737fa2d541a",
-      "title": "Will Brazil’s Lula halt the right-wing wave sweeping Latin America?",
-      "url": "https://www.aljazeera.com/news/2026/10/4/will-brazils-lula-halt-the-right-wing-wave-sweeping-latin-america?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-10-04T10:55:40.000Z",
-      "summary": "Lula has remained a symbol for much of the global left amid the rise of the far right in Latin America."
-    },
-    {
-      "id": "028f7a1528ea2e77",
-      "title": "Russia’s nuclear plants are ageing. Who will pay to dismantle them?",
-      "url": "https://www.aljazeera.com/opinions/2026/10/4/russias-nuclear-plants-are-ageing-who-will-pay-to-dismantle-them?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-10-04T10:44:23.000Z",
-      "summary": "Moscow faces a huge decommissioning bill at home even as it expands its nuclear industry abroad."
     },
     {
       "id": "128ac3cc188fa9ab",
@@ -92,26 +352,6 @@
       "summary": "Croatia captain Luka Modric says he was \"ashamed\" of his side's performance on a \"catastrophic night\" against England."
     },
     {
-      "id": "8fa5952addd4321c",
-      "title": "Tributes as Bosnian football star Edin Dzeko retires",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/tributes-as-bosnian-football-star-edin-dzeko-retires?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-04T10:04:54.000Z",
-      "summary": "Bosnia and Herzegovina's legendary striker Edin Dzeko has bid farewell to international football after a final match."
-    },
-    {
-      "id": "5918b108e85baac3",
-      "title": "Flydubai: What happens when a plane plunges 17,000 feet?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/flydubai-what-happens-when-a-plane-plunges-17000-feet?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-10-04T09:53:39.000Z",
-      "summary": "A flight instructor recreates the Flydubai jet’s near-vertical 17,000 foot dive in a simulator."
-    },
-    {
       "id": "a800253284cde83e",
       "title": "Prime Minister Directs Swift Completion of Capital’s Circular Road Construction",
       "url": "https://www.bd24live.com/prime-minister-directs-swift-completion-of-capitals-circular-road-construction/",
@@ -120,16 +360,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-10-04T08:35:12.000Z",
       "summary": "A meeting was held to review the progress of the proposed Inner Circular Ring Road construction project, aimed at alleviating traffic congestion in the capital, Dhaka. Prime Minister Tarique Rahman… The post Prime Minister Directs Swift Completion of Capital’s Circular Road Construction appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "78c6c284e155f2d3",
-      "title": "Bowie seizing Scotland shot after World Cup disappointment",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5djvw4n8vp8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-04T07:59:10.000Z",
-      "summary": "BBC Scotland speaks to Kieron Bowie after he scores his first goal for his country against North Macedonia."
     },
     {
       "id": "be6655e90d37eac9",
@@ -152,18 +382,8 @@
       "summary": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel."
     },
     {
-      "id": "c1819d1904e9754d",
-      "title": "I clawed my way to the top but need a break - Azpilicueta",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq0kl0yy3r0po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-04T06:15:35.000Z",
-      "summary": "Cesar Azpilicueta says it is time to move to \"a different stage of life\" following a glorious 20-year playing career, notably captaining Chelsea to several titles."
-    },
-    {
-      "id": "839dcb8fa88b3dfb",
-      "title": "Queen's University students blast off to US for Nasa robotics competition",
+      "id": "2609e64a69155c80",
+      "title": "Students blast off to US for Nasa robotics competition",
       "url": "https://www.bbc.co.uk/news/articles/cq20v0e7vjkgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Science & Environment",
       "category": "ai_innovation",
@@ -182,26 +402,6 @@
       "summary": "Britain under pressure to put tariffs on cheap Chinese vehicle imports ahead of protectionist trade measures Britain’s car industry is grappling with a “difficult trade-off” between China and Europe, as manufacturers struggle to balance the benefits of both markets ahead of looming trade measures that could restrict UK exports to the EU. The UK is an outlier in choosing not to put import taxes on Chinese vehicles, ev"
     },
     {
-      "id": "e3cc0cddbed8721f",
-      "title": "Debris found from plane that went missing off US coast",
-      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-10-04T03:49:06.000Z",
-      "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data."
-    },
-    {
-      "id": "5d09627abedf18c4",
-      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-10-04T03:42:15.000Z",
-      "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament."
-    },
-    {
       "id": "49c74ffd7ff143be",
       "title": "US Coast Guard searches for missing air ambulance off coast of Massachusetts",
       "url": "https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts",
@@ -210,16 +410,6 @@
       "region": "global",
       "publishedAt": "2026-10-04T03:38:48.000Z",
       "summary": "The plane was undertaking a medical evacuation from Bermuda with six people onboard when it lost contact The US Coast Guard said late on Saturday it had found debris from a medical transport aircraft off the shore of ⁠Massachusetts’ Nantucket Island and ⁠was searching for ​the six people who were on board. The jet lost contact with the Federal Aviation Administration (FAA) during a flight from Bermuda to Boston on Sa"
-    },
-    {
-      "id": "3094b88de1e52a6f",
-      "title": "Cornell president says university 'must do better' after frat house rape allegations",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-10-04T00:11:25.000Z",
-      "summary": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\"."
     },
     {
       "id": "75a38084832878cd",
@@ -232,36 +422,6 @@
       "summary": "Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]"
     },
     {
-      "id": "27b50e66cf3902aa",
-      "title": "US father and son arrested after 'gas station heroin' deaths",
-      "url": "https://www.bbc.co.uk/news/articles/c6qjnlk4r2jjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-10-03T22:39:06.000Z",
-      "summary": "They are accused of selling at least one student derivatives of kratom, often called \"gas station heroin\" in the US."
-    },
-    {
-      "id": "13cd95428d791d2f",
-      "title": "'An unbelievable story' - inside unfancied Wakefield's rapid ascent",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/ckpq0r02lz81o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-03T21:39:45.000Z",
-      "summary": "Wakefield's stars of yesteryear are remembered in sepia but now the class of 2026 has added glorious colour to their success after winning a previously unfathomable Super League title."
-    },
-    {
-      "id": "6c2df65f633951d7",
-      "title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-03T21:07:59.000Z",
-      "summary": "Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's \"greatest of all time\"."
-    },
-    {
       "id": "ee8cebaf9b643c07",
       "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
@@ -270,16 +430,6 @@
       "region": "global",
       "publishedAt": "2026-10-03T19:09:38.000Z",
       "summary": "A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]"
-    },
-    {
-      "id": "5c6d73d6bdec108c",
-      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-      "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-10-03T17:48:42.000Z",
-      "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections."
     },
     {
       "id": "ca4bfcda3bbccd8e",
@@ -292,26 +442,6 @@
       "summary": "Wildlife cameraman Dan Abbot is caught off guard by a humpback whale, a rare sight in Welsh waters."
     },
     {
-      "id": "345130e0700ad927",
-      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-10-03T16:49:10.000Z",
-      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation.\" During the talk he laid out the challenges facing studios producing games at the sc"
-    },
-    {
-      "id": "440654289c349602",
-      "title": "The best early October Prime Day deals happening now",
-      "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-      "source": "The Verge",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-10-03T16:22:40.000Z",
-      "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Mond"
-    },
-    {
       "id": "415c6065319c3d15",
       "title": "Previous Marriage Information to Be Available Online When Remarrying: Law Minister",
       "url": "https://www.bd24live.com/previous-marriage-information-to-be-available-online-when-remarrying-law-minister/",
@@ -320,16 +450,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-10-03T15:10:15.000Z",
       "summary": "Law and Justice Minister Md. Asaduzzaman has announced that online stored information will be progressively linked with the central servers of National Identity Cards (NID), birth registration, and passports to… The post Previous Marriage Information to Be Available Online When Remarrying: Law Minister appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "ce8b54880c345eb8",
-      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-      "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-      "source": "The Verge",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-10-03T15:00:00.000Z",
-      "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the curious.) Before that, Kakul held executive roles at Flickr, Yahoo, GitHub, and Adobe. Throughout her career, Kakul has fou"
     },
     {
       "id": "62b823e8c09edb2c",
@@ -372,16 +492,6 @@
       "summary": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK."
     },
     {
-      "id": "89bb25e12e9dba54",
-      "title": "Kim wins Asian Games gold to secure military exemption",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-03T08:51:14.000Z",
-      "summary": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military."
-    },
-    {
       "id": "7110f77f48a742b8",
       "title": "‘I thought, if I’m going to die, I’m going to write a book first’: Pachinko author Min Jin Lee",
       "url": "https://www.theguardian.com/books/2026/oct/03/i-thought-if-im-going-to-die-im-going-to-write-a-book-first-pachinko-author-min-jin-lee",
@@ -402,14 +512,14 @@
       "summary": "Prime Minister Tareq Rahman stated that the government is working to create a positive environment to develop the country into an attractive investment destination. He said that the government aims… The post Government Working to Build Investment-Friendly Bangladesh: Prime Minister appeared first on Bangla Online News Portal."
     },
     {
-      "id": "3794b8cf28dddc97",
-      "title": "Behemoth! review - Pedro Pascal classical music drama hits all the wrong notes",
-      "url": "https://www.theguardian.com/film/2026/oct/02/behemoth-pedro-pascal-movie-review",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
+      "id": "cc6398a158acf1ae",
+      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
       "region": "global",
-      "publishedAt": "2026-10-03T00:00:43.000Z",
-      "summary": "New York film festival: The actor stumbles through Tony Gilroy’s forgettable film marred by stylistic gimmicks Tony Gilroy has built a sturdy career as the director of the Bourne films and show runner of the popular Star Wars spin-off Andor. He directed Tilda Swinton all the way to an Oscar for her remarkable performance in the legal potboiler Michael Clayton. As the first feature film he has directed since 2012’s Th"
+      "publishedAt": "2026-10-03T04:38:31.000Z",
+      "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports."
     },
     {
       "id": "99093a0e9b7ee419",
@@ -422,16 +532,6 @@
       "summary": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month."
     },
     {
-      "id": "b72e8002174f18f5",
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-10-02T21:08:37.000Z",
-      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Muse on a small touchscreen device to make what looks kind of like a DIY Muse Charm. \"Muse gadgets are open source devices "
-    },
-    {
       "id": "8b383fa0631f7c48",
       "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
       "url": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
@@ -442,26 +542,6 @@
       "summary": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend."
     },
     {
-      "id": "6ce912b553e2e865",
-      "title": "Cameron Winter at Carnegie Hall review – Paul Thomas Anderson’s sumptuous recording is an immediate classic",
-      "url": "https://www.theguardian.com/film/2026/oct/02/cameron-winter-carnegie-hall-review-paul-thomas-anderson",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-10-02T20:13:24.000Z",
-      "summary": "New York Film Festival: The Geese frontman mesmerizes in a concert film that is both swoony and austere One night last December, weary from a busy week and the impending doom of winter, I hurried into Carnegie Hall to witness Cameron Winter. The Geese frontman was marking the end of a breakout year with a series of rapturously received solo acoustic shows, drawing the penitent for whom the 23-year-old’s primordial vo"
-    },
-    {
-      "id": "0e2f6f7632ca938b",
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-10-02T20:08:40.000Z",
-      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do so with very explicit user action.\" The change comes just weeks after Inc's Jason Aten found that Meta's Muse AI someho"
-    },
-    {
       "id": "0b4b136f37703cac",
       "title": "Uranium-Laden Aircraft for Rooppur’s First Unit Arrives in Dhaka",
       "url": "https://www.bd24live.com/uranium-laden-aircraft-for-rooppurs-first-unit-arrives-in-dhaka/",
@@ -470,16 +550,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-10-02T18:35:15.000Z",
       "summary": "An aircraft carrying fuel for the first unit of the Rooppur Nuclear Power Plant has arrived in Bangladesh. The uranium-laden plane, which departed from Russia and traveled via India, landed… The post Uranium-Laden Aircraft for Rooppur’s First Unit Arrives in Dhaka appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "4d4cf65757aa6e3e",
-      "title": "Olivia Dean accused of plagiarism on her I’ve Seen It track",
-      "url": "https://www.theguardian.com/music/2026/oct/02/olivia-dean-ive-seen-it-plagiarism",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-10-02T17:25:35.000Z",
-      "summary": "Mattie Music Group, owners of Bill Withers’ back catalogue, contend the Grammy winner infringed on Just the Two of Us Olivia Dean has been accused of plagiarizing the Bill Withers classic Just the Two of Us. The owners of Withers’ back catalogue aimed that allegation at his fellow Grammy winner in a copyright infringement lawsuit filed on Thursday in US federal court in Los Angeles. Continue reading..."
     },
     {
       "id": "7b154c462a7904b7",
@@ -502,36 +572,6 @@
       "summary": "The U.S. Treasury Department has sanctioned eight members of the Venezuelan gang Tren de Aragua (TdA) for their role in the theft of millions of dollars in ATM jackpotting attacks across the United States. [...]"
     },
     {
-      "id": "83b213f1bf388fb6",
-      "title": "US Coast Guard says it intercepted ship carrying fuel to Cuba",
-      "url": "https://www.theguardian.com/world/2026/oct/02/us-coast-guard-says-it-has-intercepted-ship-carrying-fuel-to-cuba",
-      "source": "The Guardian World",
-      "category": "diplomacy",
-      "region": "americas",
-      "publishedAt": "2026-10-02T15:13:23.000Z",
-      "summary": "US says ship thought to be using common ‘dark fleet’ tactics was boarded and taken to Mexico as embargo continues The US Coast ⁠Guard has announced that it intercepted a large cargo ship carrying fuel bound for Cuba, as the ⁠Trump administration’s crippling ⁠oil embargo against ​the island nation continued. The vessel named Grace was stopped on 5 September in the Caribbean Sea between Cuba ⁠and Mexico while using tac"
-    },
-    {
-      "id": "a44e62e87912152a",
-      "title": "Seth Meyers on Trump: ‘Is there anything this grub won’t make us pay for?’",
-      "url": "https://www.theguardian.com/culture/2026/oct/02/seth-meyers-trump-taxpayer-funded-ads",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-10-02T14:40:06.000Z",
-      "summary": "Late-night hosts talked Trump’s use of taxpayer money to fund campaign ads as GOP candidates distance themselves Late-night hosts dug into Donald Trump’s unpopularity with GOP midterm candidates and his insistence on having US taxpayers foot the bill for recycled campaign ads. Continue reading..."
-    },
-    {
-      "id": "a634e3e229a556ed",
-      "title": "US jobs market sees sharp slowdown ahead of midterm elections",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "americas",
-      "publishedAt": "2026-10-02T14:30:48.000Z",
-      "summary": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away."
-    },
-    {
       "id": "071522b9c3f85f42",
       "title": "Why UK diesel prices have breached the £2 per litre mark",
       "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
@@ -550,16 +590,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-10-02T11:55:15.000Z",
       "summary": "A uranium-carrying aircraft for the first unit of the Rooppur Nuclear Power Plant has departed from Russia for Dhaka. The plane is scheduled to arrive at Hazrat Shahjalal International Airport… The post Uranium-carrying Aircraft for Rooppur En Route to Dhaka, Expected Tonight appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "742a296381dd632c",
-      "title": "How Bassam Tariq pivoted from stalled Blade reboot to new Mahershala Ali thriller: ‘I’m happier I made this movie’",
-      "url": "https://www.theguardian.com/film/2026/oct/02/bassam-tariq-your-mother-your-mother-your-mother-interview-mahershala-ali-marvel-blade",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-10-02T11:00:18.000Z",
-      "summary": "In the film-maker’s Houston-set film, Ali stars as a devout Muslim who moonlights as a vicious hitman Mahershala Ali is swinging around a blade in Your Mother Your Mother Your Mother. That’s not a nod to Ali’s previous attachment to Marvel’s Blade. It’s of a piece with Ali’s character, Latif, a devout Muslim who also happens to be a contract killer, though he fashions himself a righteous killer. Latif justifies his v"
     },
     {
       "id": "b596d858ea674b7d",
@@ -602,16 +632,6 @@
       "summary": "The former employees were investigated for sharing data with an outside AI evaluation group."
     },
     {
-      "id": "5465a3059694f83c",
-      "title": "Tragic Road Accident in Mymensingh Kills 7 Auto-Rickshaw Passengers",
-      "url": "https://www.bd24live.com/tragic-road-accident-in-mymensingh-kills-7-auto-rickshaw-passengers/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-10-02T08:20:07.000Z",
-      "summary": "Seven auto-rickshaw passengers have been killed in a tragic road accident in Mymensingh. The accident occurred when their auto-rickshaw was run over by a passenger bus. More details are to… The post Tragic Road Accident in Mymensingh Kills 7 Auto-Rickshaw Passengers appeared first on Bangla Online News Portal."
-    },
-    {
       "id": "5ff469487735cdc2",
       "title": "How to see the Orionid meteor shower this weekend",
       "url": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
@@ -622,16 +642,6 @@
       "summary": "One of the best-known meteor showers is now active until 7 November."
     },
     {
-      "id": "326557b431f4a189",
-      "title": "Bangladesh Sets New Record in Bilateral Trade with China",
-      "url": "https://www.bd24live.com/bangladesh-sets-new-record-in-bilateral-trade-with-china/",
-      "source": "BD24Live",
-      "category": "economy_business",
-      "region": "bangladesh",
-      "publishedAt": "2026-10-02T03:20:19.000Z",
-      "summary": "Bilateral trade between Bangladesh and China reached a record 12.8 billion US dollars in the first half of 2026, marking a 10.6 percent increase compared to the same period last… The post Bangladesh Sets New Record in Bilateral Trade with China appeared first on Bangla Online News Portal."
-    },
-    {
       "id": "83084359b577351f",
       "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
       "url": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
@@ -640,26 +650,6 @@
       "region": "americas",
       "publishedAt": "2026-10-01T23:45:06.000Z",
       "summary": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency."
-    },
-    {
-      "id": "131982c16c326ad0",
-      "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
-      "url": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-10-01T23:00:06.000Z",
-      "summary": "A growing number of people are opting out of these schemes due to cost-of-living pressures."
-    },
-    {
-      "id": "c094705496fca62a",
-      "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
-      "url": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "americas",
-      "publishedAt": "2026-10-01T23:00:05.000Z",
-      "summary": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon."
     },
     {
       "id": "6d5c1c6dd5fb2c6c",
@@ -680,16 +670,6 @@
       "region": "global",
       "publishedAt": "2026-10-01T17:43:12.000Z",
       "summary": "Prince William visits residents of Skenfrith, Monmouthshire, who have faced four floods in six years."
-    },
-    {
-      "id": "7fb8b1dfeff9d558",
-      "title": "BDT 58,500 Crore Proposals Approved for Two Metro Rail Lines",
-      "url": "https://www.bd24live.com/bdt-58500-crore-proposals-approved-for-two-metro-rail-lines/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-10-01T17:35:17.000Z",
-      "summary": "The Cabinet Committee on Government Purchase has approved proposals for the procurement of goods and services worth BDT 58,500 crore for the construction of various infrastructures for two additional metro… The post BDT 58,500 Crore Proposals Approved for Two Metro Rail Lines appeared first on Bangla Online News Portal."
     },
     {
       "id": "71fb0ffdcc2351af",
@@ -792,6 +772,16 @@
       "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?"
     },
     {
+      "id": "a28664add44428ac",
+      "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+      "source": "The Guardian World",
+      "category": "war_conflict",
+      "region": "africa",
+      "publishedAt": "2026-09-30T19:51:24.000Z",
+      "summary": "Support such as for white Afrikaners and anti-communism reveals how US is redefining what qualifies as human rights With hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state department’s flagship human rights fund to a slate of awards that includes a huge $40m grant for an anti-communism fund, support for a group advancing white Afrikaner rights in South Af"
+    },
+    {
       "id": "46593bab1d75595e",
       "title": "Regulating AI 'not the right place to start' says Bailey",
       "url": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
@@ -822,14 +812,14 @@
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the computers of AI company Hugging Face,…"
     },
     {
-      "id": "62baabee825cf489",
-      "title": "Insects play critical role in ecosystems beyond just providing food, new research shows",
-      "url": "https://www.theguardian.com/environment/2026/sep/30/insects-ecosystems-conservation",
-      "source": "The Guardian Environment",
-      "category": "environment",
+      "id": "d39d9099043cc78d",
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "source": "MIT Tech Review",
+      "category": "ai_innovation",
       "region": "global",
-      "publishedAt": "2026-09-30T10:00:24.000Z",
-      "summary": "Insects provide protection, sanitation and even shelter to vertebrates, making them a priority for conservation efforts For many vertebrates, insects are more than a food source. As “little things that run the world”, insects provide critical functions such as protection, sanitation and shelter across ecosystems, according to a new study. The study, published in Nature Reviews Biodiversity on Wednesday, sheds light o"
+      "publishedAt": "2026-09-30T10:40:30.000Z",
+      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions…"
     },
     {
       "id": "88d8ddfd2daeae3f",
@@ -850,6 +840,16 @@
       "region": "global",
       "publishedAt": "2026-09-30T04:01:52.000Z",
       "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI."
+    },
+    {
+      "id": "25883444ff304913",
+      "title": "Chinese AI tool told researchers how to make bioweapons",
+      "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-09-29T23:15:29.000Z",
+      "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits."
     },
     {
       "id": "75a48ec5b61ae3d4",
