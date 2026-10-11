@@ -1,35 +1,135 @@
 {
-  "generatedAt": "2026-10-10T21:30:16.725Z",
+  "generatedAt": "2026-10-11T00:47:38.210Z",
   "articles": [
     {
-      "id": "fadc47c764677e55",
-      "title": "Watch: Match of the Day",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-11T08:00:00.000Z",
-      "summary": "Highlights of six Premier League matches, including champions Arsenal against Leeds."
+      "id": "9ab7f7f398989e91",
+      "title": "Saudi Media Claims 8 Bangladeshis Killed in Riyadh Attack",
+      "url": "https://www.bd24live.com/saudi-media-claims-8-bangladeshis-killed-in-riyadh-attack/",
+      "source": "BD24Live",
+      "category": "war_conflict",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-11T00:35:10.000Z",
+      "summary": "Saudi media outlet Ajel has claimed that eight Bangladeshis were killed in a missile attack on King Khalid International Airport in Riyadh, the capital of Saudi Arabia. However, reports from… The post Saudi Media Claims 8 Bangladeshis Killed in Riyadh Attack appeared first on Bangla Online News Portal."
     },
     {
-      "id": "dbb93e953b4106ef",
-      "title": "Several injured in attack on airport in Saudi capital Riyadh",
+      "id": "6687a472ceef0890",
+      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
       "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "war_conflict",
       "region": "middle_east",
-      "publishedAt": "2026-10-10T21:27:10.000Z",
-      "summary": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it."
+      "publishedAt": "2026-10-11T00:21:52.000Z",
+      "summary": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\"."
     },
     {
-      "id": "2a4a8be0a74996a7",
-      "title": "Malawi motorists queue for days as fuel shortage bites",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss",
+      "id": "8d62c6ba1df305e2",
+      "title": "Horrific Attack at Riyadh Airport, 12 Dead Including Two Bangladeshis",
+      "url": "https://www.bd24live.com/horrific-attack-at-riyadh-airport-12-dead-including-two-bangladeshis/",
+      "source": "BD24Live",
+      "category": "war_conflict",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-11T00:20:08.000Z",
+      "summary": "International media, citing eyewitnesses, reported that a missile struck near Gate 401 of the airport’s domestic terminal. Following the explosion, airport operations were temporarily suspended. Several flights were cancelled and… The post Horrific Attack at Riyadh Airport, 12 Dead Including Two Bangladeshis appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "4c118261ac98417a",
+      "title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-10-11T00:00:13.000Z",
+      "summary": "As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran."
+    },
+    {
+      "id": "6d0836dc94abfdbf",
+      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "weather_climate",
+      "region": "americas",
+      "publishedAt": "2026-10-10T23:19:55.000Z",
+      "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone."
+    },
+    {
+      "id": "6111edc3168adb56",
+      "title": "Highlights and analysis on Match of the Day",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032wxj?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-10T22:50:45.000Z",
+      "summary": "With Man Utd v Spurs, Arsenal v Leeds and Chelsea v Bournemouth as the top flight returns"
+    },
+    {
+      "id": "62712b0315b6e9ba",
+      "title": "Liverpool vs Man City: the top five clashes between Premier League giants",
+      "url": "https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-10T22:43:08.000Z",
+      "summary": "Liverpool face Manchester City on Sunday in what has become a battle between the EPL's dominant teams in recent times."
+    },
+    {
+      "id": "7ca78c7d04795f4b",
+      "title": "WHO says no plague case registered after Russian lab worker’s death",
+      "url": "https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-10-10T22:34:29.000Z",
+      "summary": "The WHO says the lack of a confirmed diagnosis remains a key uncertainty, with no sign of ongoing transmission."
+    },
+    {
+      "id": "06e354a95d4d3ded",
+      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-10-10T22:13:08.000Z",
+      "summary": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance."
+    },
+    {
+      "id": "f49b8503b584aa9e",
+      "title": "Yemeni government’s military says its forces advancing against Houthis",
+      "url": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-10-10T22:12:25.000Z",
+      "summary": "Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-aligned group over the past 24 hours."
+    },
+    {
+      "id": "c08692d8ff0acbe3",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-10-10T22:10:17.000Z",
+      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or reject. He calls for building a more transparent system where models can be contained, observed, and leaves behind \"tamper-proof human "
+    },
+    {
+      "id": "0fe3e8e1cf6761be",
+      "title": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
+      "url": "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "war_conflict",
       "region": "global",
-      "publishedAt": "2026-10-10T21:10:38.000Z",
-      "summary": "Malawi’s fuel shortage has brought daily life in the capital Lilongwe to a halt."
+      "publishedAt": "2026-10-10T21:40:20.000Z",
+      "summary": "Real Madrid forward Vinicius Junior sent off for pulling Villarreal player's hair in 1-0 La Liga victory."
+    },
+    {
+      "id": "ee8a9ba812f75b71",
+      "title": "Hundreds of doctors demand World Medical Association suspend Israel",
+      "url": "https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-10-10T21:12:04.000Z",
+      "summary": "Physicians accuse Israeli Medical Association of remaining silent as Palestinian healthcare is systematically destroyed."
     },
     {
       "id": "39a7bdc9bf3421c2",
@@ -52,6 +152,16 @@
       "summary": "Yemen’s Houthis have released drone video said to show attacks on Saudi-backed Yemeni government forces."
     },
     {
+      "id": "a22c49e88c192aa4",
+      "title": "Boos, anguish & fading belief -'worrying day' for under-pressure Carrick",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62e9g09e781o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-10T20:54:46.000Z",
+      "summary": "It couldn't happen again could it? Another failure to beat 10 men increases pressure on Man Utd boss Michael Carrick after a 1-1 draw against Tottenham Hotspur."
+    },
+    {
       "id": "6175f6b17ebaddf6",
       "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
       "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
@@ -60,76 +170,6 @@
       "region": "europe",
       "publishedAt": "2026-10-10T20:51:12.000Z",
       "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal."
-    },
-    {
-      "id": "bf2b0da5c6de54ab",
-      "title": "Damage seen inside Saudi airport after third attack this week",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-10-10T20:43:19.000Z",
-      "summary": "Video shows damage inside King Khalid International Airport in Riyadh after the third attack in a week."
-    },
-    {
-      "id": "92b64ad12a266117",
-      "title": "Philippines volcano erupts, creating 6km-high ash cloud",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/philippines-volcano-erupts-creating-6km-high-ash-cloud?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-10T20:37:17.000Z",
-      "summary": "Mount Kanlaon volcano in central Philippines erupted on Saturday sending thick plumes of smoke and ash."
-    },
-    {
-      "id": "e2c927d40a69adf4",
-      "title": "Rubio pledges US cooperation in Marine-linked murder case",
-      "url": "https://www.aljazeera.com/news/2026/10/10/rubio-pledges-us-cooperation-in-marine-linked-murder-case?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-10-10T20:30:36.000Z",
-      "summary": "A US Marine stationed on Okinawa has been arrested on suspicion of killing a 39-year-old woman."
-    },
-    {
-      "id": "9124eb45281a2317",
-      "title": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-10-10T20:14:01.000Z",
-      "summary": "An Israeli strike destroyed a residential building in the Al-Rimal neighbourhood in Gaza City."
-    },
-    {
-      "id": "141d0bc963db9906",
-      "title": "Why is the Trump administration trying to dismantle the ICC?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "diplomacy",
-      "region": "global",
-      "publishedAt": "2026-10-10T19:59:18.000Z",
-      "summary": "The US has imposed sweeping new sanctions on the International Criminal Court."
-    },
-    {
-      "id": "a6fb43ae71faaaa9",
-      "title": "Lionel Messi returns from Argentina farewell as Inter Miami face DC United",
-      "url": "https://www.aljazeera.com/sports/2026/10/10/messi-returns-from-argentina-farewell-as-inter-miami-face-dc-united?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "americas",
-      "publishedAt": "2026-10-10T19:59:08.000Z",
-      "summary": "Fresh off final game with Argentina, Messi leads Miami against DC United in Major League Soccer in the United States."
-    },
-    {
-      "id": "a618e78b51d624c5",
-      "title": "Manchester United held by ten-man Tottenham as woes for both continue",
-      "url": "https://www.aljazeera.com/sports/2026/10/10/manchester-united-held-by-ten-man-tottenham-as-woes-for-both-continue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-10T19:47:10.000Z",
-      "summary": "Ten-man Tottenham fight back from a goal behind to draw 1-1 at Manchester United in the Premier League."
     },
     {
       "id": "343d634063543e44",
@@ -150,16 +190,6 @@
       "region": "global",
       "publishedAt": "2026-10-10T19:24:23.000Z",
       "summary": "Dominic Solanke scores in stoppage time to salvage a point for 10-man Tottenham as they snatch a draw against Manchester United in a feisty encounter at Old Trafford."
-    },
-    {
-      "id": "6d0836dc94abfdbf",
-      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "weather_climate",
-      "region": "americas",
-      "publishedAt": "2026-10-10T19:08:17.000Z",
-      "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone."
     },
     {
       "id": "5de058c632cb2fbb",
@@ -270,16 +300,6 @@
       "region": "global",
       "publishedAt": "2026-10-10T14:58:55.000Z",
       "summary": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days."
-    },
-    {
-      "id": "5b47c000f392f0e5",
-      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "africa",
-      "publishedAt": "2026-10-10T14:49:32.000Z",
-      "summary": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people."
     },
     {
       "id": "6a79fc807fc6a6e3",
@@ -792,16 +812,6 @@
       "summary": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programme A survey of the world’s largest free-roaming giant tortoise population has discovered that the once endangered species is thriving. A population of Aldabra giant tortoises lives on an island in Seychelles called Aldabra Atoll. Continue reading..."
     },
     {
-      "id": "9ad216fe6e5f999d",
-      "title": "DP World Chairman Meets Prime Minister",
-      "url": "https://www.bd24live.com/dp-world-chairman-meets-prime-minister/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-10-08T18:20:12.000Z",
-      "summary": "A delegation led by Essa Kazim, Chairman of the Board of Directors of DP World, met with Prime Minister Tarique Rahman. During the meeting on Thursday (October 8), discussions covered… The post DP World Chairman Meets Prime Minister appeared first on Bangla Online News Portal."
-    },
-    {
       "id": "72045ace2f8f01d7",
       "title": "Asos hackers took more personal details than first revealed, BBC finds",
       "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
@@ -820,16 +830,6 @@
       "region": "global",
       "publishedAt": "2026-10-08T12:10:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the idea that the same AI…"
-    },
-    {
-      "id": "ac4de46fc57f2fb6",
-      "title": "15-Year Contract with DP World for Operating Chattogram’s NCT",
-      "url": "https://www.bd24live.com/15-year-contract-with-dp-world-for-operating-chattograms-nct/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-10-08T10:20:14.000Z",
-      "summary": "The government has signed a 15-year contract with UAE-based port operator DP World to hand over the operational responsibility of the Newmooring Container Terminal (NCT) at Chattogram Port. The agreement… The post 15-Year Contract with DP World for Operating Chattogram’s NCT appeared first on Bangla Online News Portal."
     },
     {
       "id": "3a6976408bdfd14c",
