@@ -1,15 +1,365 @@
 {
-  "generatedAt": "2026-10-11T13:56:41.362Z",
+  "generatedAt": "2026-10-11T22:45:53.876Z",
   "articles": [
     {
-      "id": "e9eff575d3917be6",
-      "title": "Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints",
-      "url": "https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss",
+      "id": "0b304cd6a44630df",
+      "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-10-11T22:24:07.000Z",
+      "summary": "CCTV footage released by Al Arabiya shows the moment of a Houthi strike on Riyadh’s international airport on Saturday."
+    },
+    {
+      "id": "9eb9a7977f57e4ac",
+      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-10-11T21:36:40.000Z",
+      "summary": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment."
+    },
+    {
+      "id": "a8d2af9b741f94d8",
+      "title": "Saudi capital airport hit by second Houthi strike in two days",
+      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-10-11T21:30:11.000Z",
+      "summary": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities."
+    },
+    {
+      "id": "19ef9a9406c4a2c7",
+      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "creativity_arts",
+      "region": "africa",
+      "publishedAt": "2026-10-11T21:12:44.000Z",
+      "summary": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday."
+    },
+    {
+      "id": "ee9c91905121f232",
+      "title": "Waves crash into homes as excavators try to protect California properties",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-10-11T21:03:41.000Z",
+      "summary": "Construction crews were seen trying to block waves entering homes along California's coast"
+    },
+    {
+      "id": "2ef6868b8d6c159f",
+      "title": "UK Greens leader seeks rule change after party declares Zionism is racism",
+      "url": "https://www.aljazeera.com/news/2026/10/11/uk-greens-leader-seeks-rule-change-after-party-declares-zionism-is-racism?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-10-11T20:57:48.000Z",
+      "summary": "Zack Polanski calls for internal rule reforms to give party leaders greater control over policy after Zionism vote."
+    },
+    {
+      "id": "64d4c768bada363a",
+      "title": "Two killed near Israeli-occupied area in south Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "war_conflict",
       "region": "middle_east",
-      "publishedAt": "2026-10-11T13:41:57.000Z",
-      "summary": "Israeli restrictions in Hebron have made life for Palestinians from the city a daily ordeal."
+      "publishedAt": "2026-10-11T20:46:45.000Z",
+      "summary": "Despite ceasefire reached between Israel and Lebanon in June, Israeli attacks continue."
+    },
+    {
+      "id": "fd3fec20b59dbc7c",
+      "title": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "africa",
+      "publishedAt": "2026-10-11T20:44:17.000Z",
+      "summary": "An air strike hit a gold mine near Sudan’s border with Egypt, killing at least 72 people and injuring more than 50."
+    },
+    {
+      "id": "8e3fb8dba943f144",
+      "title": "How Man City beat Liverpool after guilty verdict",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/how-man-city-beat-liverpool-after-guilty-verdict?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-11T20:41:09.000Z",
+      "summary": "Al Jazeera’s Rahul Pathak was at Anfield, where fans reminded City of their guilty verdict after the match."
+    },
+    {
+      "id": "a9c0c8d2e035b160",
+      "title": "Zelenskyy welcomes US-announced energy ceasefire",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-10-11T20:28:46.000Z",
+      "summary": "President Zelenskyy has responded to Donald Trump’s announcement that Russia and Ukraine agreed to an energy ceasefire"
+    },
+    {
+      "id": "38e50e775fa88fe3",
+      "title": "Syrian families demand release of detainees held by Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/syrian-families-demand-release-of-detainees-held-by-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-10-11T20:24:19.000Z",
+      "summary": "Syrian families demand release of detainees held by Israel"
+    },
+    {
+      "id": "6729fa4878e29877",
+      "title": "Pakistan suspends Imran Khan’s party-led provincial government",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-11T20:21:13.000Z",
+      "summary": "Pakistan has suspended Khyber Pakhtunkhwa's PTI-led government after declaring a state of emergency in the province."
+    },
+    {
+      "id": "a7ca720c38ee19dc",
+      "title": "A college in Illinois tried to cancel its Flock contact and it refused",
+      "url": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+      "source": "The Verge",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-10-11T20:06:43.000Z",
+      "summary": "BOULDER, CO - MARCH 5:A Flock Safety license plate recognition camera is seen near the intersection of Marine Street and Arapahoe Avenue in Boulder on Thursday, March 5, 2026. (Photo by Matthew Jonas/MediaNews Group/Boulder Daily Camera via Getty Images) | MediaNews Group via Getty Images In April of 2025, Elgin Community College had six Flock safety cameras installed to \"enhance the safety and security of students.\""
+    },
+    {
+      "id": "a6a007d85ef850af",
+      "title": "Man City's statement win has feeling of irrelevance with season in limbo",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rd4pex7no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-11T20:02:27.000Z",
+      "summary": "Manchester City record what they will view as a statement win at Liverpool - but is it a statement that carries any weight during a Premier League season in limbo, asks Phil McNulty?"
+    },
+    {
+      "id": "03efa6e896227f8a",
+      "title": "Saudi health minister visits survivors of deadly Riyadh airport attack",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-10-11T19:59:15.000Z",
+      "summary": "Saudi Arabia’s health minister Fahad Aljalajel has paid a visit to survivors of Saturday’s deadly attack."
+    },
+    {
+      "id": "946e6cb1e0111661",
+      "title": "Winless and an 'easy touch' - what's happened to the Anfield fear factor?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck5yn20wej62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-11T19:41:17.000Z",
+      "summary": "Liverpool's struggles at Anfield continue as Iraola still awaits his first Premier League win at Anfield."
+    },
+    {
+      "id": "6d43114907404b4a",
+      "title": "Mexican president urges residents to shelter as Hurricane Simon approaches",
+      "url": "https://www.aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-10-11T19:31:36.000Z",
+      "summary": "The Mexican community of Cabo Corrientes faces the risk of a direct hit as the Category 4 storm churns off Jalisco."
+    },
+    {
+      "id": "0ebdebab7b9b92e1",
+      "title": "Republican senator says Trump diesel agreement with Russia may be illegal",
+      "url": "https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "diplomacy",
+      "region": "europe",
+      "publishedAt": "2026-10-11T19:19:50.000Z",
+      "summary": "US President Trump's bid to bring down diesel prices by easing sanctions on Russia prompts rare Republican criticism."
+    },
+    {
+      "id": "75fdc4f83334a89d",
+      "title": "Orangutans released back into Borneo forest after devastating fires",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "disasters",
+      "region": "global",
+      "publishedAt": "2026-10-11T19:08:04.000Z",
+      "summary": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer."
+    },
+    {
+      "id": "323e5f8b8021cac5",
+      "title": "Doku delights as Manchester City cruise past 10-man Liverpool",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6vgy2ll1zypo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-11T18:59:19.000Z",
+      "summary": "In their first match since being found guilty of breaching Premier League financial rules, Manchester City enjoyed a comfortable 3-0 win against Liverpool at Anfield to extend their perfect start to six matches, as they moved three points clear at the top of the Premier League."
+    },
+    {
+      "id": "e56f9ff23965a3b5",
+      "title": "Glasner suffers loss on Selhurst return as Palace beat Forest",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwz0zkj27greo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-11T18:59:02.000Z",
+      "summary": "Oliver Glasner endures a frustrating return to Crystal Palace with his Nottingham Forest side lets slip an early lead to lose to the Eagles."
+    },
+    {
+      "id": "74952cb32dde6f88",
+      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-10-11T18:33:56.000Z",
+      "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he so desires. That Elon Musk was quick to jump on board, promising to rename SpaceXAI "
+    },
+    {
+      "id": "e5167278e0f9cd54",
+      "title": "Hamilton apologises to Ferrari as Antonelli moves to brink of title",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c65yn9kn47eko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-11T18:32:19.000Z",
+      "summary": "Lewis Hamilton's incorrect strategy call during the Singapore Grand Prix means Kimi Antonelli can win the world title at the next race in Austin."
+    },
+    {
+      "id": "b0863ec44d6eae11",
+      "title": "Burnham to release details of Man City meetings",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-11T18:01:13.000Z",
+      "summary": "Andy Burnham has faced criticism for comments he made in the wake of Manchester City being found guilty of all charges related to breaches of the Premier League's financial rules."
+    },
+    {
+      "id": "9f3170dc7fa2910a",
+      "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
+      "url": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-10-11T17:31:07.000Z",
+      "summary": "The latest rumors are that the new Apple TV will have a built-in microphone, while the upgraded remote will get a speaker. The mic would let users control the set-top box using Siri without having to speak into the remote or a connected HomePod device. That could also let the Apple TV serve as a simple smart home hub - controlling thermostats and locking doors - without the need to hunt for the remote. If you happen "
+    },
+    {
+      "id": "51e87811c780719f",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-10-11T17:27:24.000Z",
+      "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister."
+    },
+    {
+      "id": "e7cf7dd1cf7a914c",
+      "title": "Citroen revives the 2CV for an electric age",
+      "url": "https://www.bbc.co.uk/news/articles/c620r33plgppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-10-11T17:00:05.000Z",
+      "summary": "The French firm is reinventing the classic model as carmakers come under pressure from Chinese rivals."
+    },
+    {
+      "id": "d0295c3bcebdd952",
+      "title": "Pioneering Dhaka Film Actress Nasima Khan Passes Away",
+      "url": "https://www.bd24live.com/pioneering-dhaka-film-actress-nasima-khan-passes-away/",
+      "source": "BD24Live",
+      "category": "creativity_arts",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-11T15:35:15.000Z",
+      "summary": "Nasima Khan, one of the prominent actresses of the early era of Bangladeshi cinema, has passed away. This actress, who gained recognition in the 1960s through her performances in Bengali… The post Pioneering Dhaka Film Actress Nasima Khan Passes Away appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "8cc2ec1890604640",
+      "title": "NASA dumped over 800GB of Artemis II data online",
+      "url": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-10-11T15:34:40.000Z",
+      "summary": "A crew annotated image showing where the Artemis II team observed impact flashes on the dark side of the Moon. | Image: NASA If you thought you'd seen all there is to see from the Artemis II mission, you're wrong. This week NASA posted over 800GB worth of science data, images, and videos on the Artemis II: Sights & Sounds of Science site. The archive includes over 11,000 photos and videos, over 8.5 hours of audio, an"
+    },
+    {
+      "id": "23884cc7a04bb35d",
+      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-10-11T15:32:23.000Z",
+      "summary": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night."
+    },
+    {
+      "id": "c1e4bdb1db15f783",
+      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-10-11T15:18:52.000Z",
+      "summary": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured."
+    },
+    {
+      "id": "b890f065780a337e",
+      "title": "Owners fear 'healthy' dog died due to orange substance exposure on contaminated land",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2z2xx0k2lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-10-11T14:48:51.000Z",
+      "summary": "Donna and Pete O'Brien say Misty's health declined after a walk."
+    },
+    {
+      "id": "b64f3d6ba3d1488a",
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "technology",
+      "region": "europe",
+      "publishedAt": "2026-10-11T14:38:10.000Z",
+      "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations."
+    },
+    {
+      "id": "4f680fe64893542d",
+      "title": "Dengue Deaths Reach 303, Infections Nearing One Lakh",
+      "url": "https://www.bd24live.com/dengue-deaths-reach-303-infections-nearing-one-lakh/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-11T14:05:32.000Z",
+      "summary": "The incidence of dengue continues to rise in the country. In the last 24 hours, four more people have died from dengue. During the same period, 2,193 patients were admitted… The post Dengue Deaths Reach 303, Infections Nearing One Lakh appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "96325e504696e130",
+      "title": "BNP’s decision was to end my political career: Rumin Farhana",
+      "url": "https://www.bd24live.com/bnps-decision-was-to-end-my-political-career-rumin-farhana/",
+      "source": "BD24Live",
+      "category": "creativity_arts",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-11T14:05:18.000Z",
+      "summary": "Barrister Rumin Farhana, Member of Parliament for Brahmanbaria-2 constituency, has claimed that the Bangladesh Nationalist Party (BNP) planned to end her political career through her expulsion. According to her, the… The post BNP’s decision was to end my political career: Rumin Farhana appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "5ef7eaafa79b056b",
+      "title": "Thousands without power in Florida and Alabama as Isaias moves north",
+      "url": "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages",
+      "source": "The Guardian World",
+      "category": "weather_climate",
+      "region": "americas",
+      "publishedAt": "2026-10-11T13:45:27.000Z",
+      "summary": "At least four deaths linked to storm amid warnings of flash flooding that could stretch into Appalachians As what was left of Hurricane Isaias moved north on Sunday, bringing moderate to heavy rainfall across the central Appalachians and the mid-Atlantic region, nearly 396,000 customers across the Florida Panhandle and southern Alabama remained without power. Heavy rainfall associated with the storm could bring isola"
     },
     {
       "id": "757c565e9ce74955",
@@ -22,26 +372,6 @@
       "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\"."
     },
     {
-      "id": "f01aaf9e5a85b55d",
-      "title": "Cockroach Janta Party accuses Modi of ‘waging war’ on Indians",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/cockroach-janta-party-accuses-modi-of-waging-war-on-indians?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-11T13:34:07.000Z",
-      "summary": "India’s Cockroach Janta Party leaders say the Modi government is ‘waging war’ on its own citizens."
-    },
-    {
-      "id": "b365a51e52fed1f4",
-      "title": "India’s crackdown on youth protesters: What next?",
-      "url": "https://www.aljazeera.com/news/2026/10/11/indias-crackdown-on-youth-protesters-what-next?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-11T13:06:00.000Z",
-      "summary": "India's 'cockroach' movement and student groups have said protests will continue despite detentions."
-    },
-    {
       "id": "54b72938b4dc3227",
       "title": "Vurt wants you to look at vertical videos as a genre of their own",
       "url": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
@@ -50,106 +380,6 @@
       "region": "global",
       "publishedAt": "2026-10-11T13:00:00.000Z",
       "summary": "From Disney Plus to HBO Max, almost every major established streaming service is experimenting with ways to get into vertical content. It's clear that these companies see video-focused social media platforms like TikTok and Instagram as existential threats. In this arms race for viewers' attention, it has often felt like everyone is trying to find new ways to exist on people's phones. But a new startup thinks that th"
-    },
-    {
-      "id": "3682ab69ff57d258",
-      "title": "What to expect from Apple’s ‘Welcome Home’ event",
-      "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-10-11T13:00:00.000Z",
-      "summary": "We are quickly coming up on Apple's \"Welcome Home\" launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub. We could also see the debut of a new platform called homeOS, and some partner devices from LG. What we probably won't be seeing is the long-rumored touchscreen MacBook, which Cupertino whisperer Mark"
-    },
-    {
-      "id": "b64f3d6ba3d1488a",
-      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-      "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "technology",
-      "region": "europe",
-      "publishedAt": "2026-10-11T12:50:46.000Z",
-      "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations."
-    },
-    {
-      "id": "31b85346d9323742",
-      "title": "Ceuta migrants allege beatings as camps cleared ahead of royal visit",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ceuta-migrants-allege-beatings-as-camps-cleared-ahead-of-royal-visit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-10-11T12:40:35.000Z",
-      "summary": "People in Ceuta allege they were mistreated by Spanish soldiers after authorities cleared migrant camps."
-    },
-    {
-      "id": "d8e9df5497a2a201",
-      "title": "Meet the man helping India’s detained protesters get home",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/meet-the-man-helping-indias-detained-protesters-get-home?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-11T12:36:35.000Z",
-      "summary": "Al Jazeera spoke to the 25-year-old man who built an AI-powered app to help India’s detained protesters get home safely."
-    },
-    {
-      "id": "c81f8fa8a9daad5a",
-      "title": "Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-10-11T12:28:11.000Z",
-      "summary": "A Houthi attack on Riyadh airport killed at least 12 people and injured more than 300."
-    },
-    {
-      "id": "fa79c12e897d60c8",
-      "title": "Sweet protein brazzein shows promise in reducing blood sugar spikes: Study",
-      "url": "https://www.aljazeera.com/news/2026/10/11/sweet-protein-brazzein-shows-promise-in-reducing-blood-sugar-spikes-study?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-10-11T12:23:37.000Z",
-      "summary": "Russian research reveals that the protein brazzein could help reduce blood sugar spikes."
-    },
-    {
-      "id": "a2ea4e07eca960b6",
-      "title": "Liverpool vs Man City live: Premier League",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/10/11/live-liverpool-vs-manchester-city-premier-league-football?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-11T12:20:30.000Z",
-      "summary": "Follow updates from the clash at Anfield, including the build-up, analysis and live text commentary of the game."
-    },
-    {
-      "id": "8a1da1e1c96609aa",
-      "title": "Polish police probe alleged plot to assassinate PM Tusk, defence minister",
-      "url": "https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "disasters",
-      "region": "global",
-      "publishedAt": "2026-10-11T12:09:54.000Z",
-      "summary": "Security officials hold emergency meeting after police receive information about potential attack."
-    },
-    {
-      "id": "ab484a188d4725ad",
-      "title": "Children among 109 dead after boat capsizes off Djibouti, UN says",
-      "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "middle_east",
-      "publishedAt": "2026-10-11T12:08:20.000Z",
-      "summary": "The boat was travelling from Djibouti to Yemen with 350 people on board, when it capsized near the port town of Obock on Thursday night."
-    },
-    {
-      "id": "fd436598ff2c6979",
-      "title": "Kenya’s Eliud Kipchoge wins his first marathon in three years in Melbourne",
-      "url": "https://www.aljazeera.com/sports/2026/10/11/kenyas-eliud-kipchoge-wins-his-first-marathon-in-three-years-in-melbourne?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "africa",
-      "publishedAt": "2026-10-11T12:04:54.000Z",
-      "summary": "Kipchoge is attempting ⁠⁠to run a marathon on all seven ​continents over two years as part of his 'World Tour' campaign."
     },
     {
       "id": "36648bd72125936b",
@@ -172,26 +402,6 @@
       "summary": "For multiple years, the hottest toy in the United States was a book. But not just any book: a smart book that could play sounds and respond to taps and help kids learn to read. It was the kind of gadget seemingly any parent could get behind, but it came with a high price - and some unexpected parenting questions. On this episode of Version History, David Pierce is joined by The Verge's Andru Marino and Jennifer Patti"
     },
     {
-      "id": "6993ebb5d9a72c5d",
-      "title": "Horror is big business",
-      "url": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-10-11T12:00:00.000Z",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how pervasive horror has become, follow Andrew Webster. The Stepback, arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Resident Evil has been around for 30 years, but the survival horror series is more popular than ever. The most recent game, Resident Evil R"
-    },
-    {
-      "id": "e23c664e5c874975",
-      "title": "At least 109 dead, over 100 missing as migrant boat capsizes off Djibouti",
-      "url": "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-10-11T11:34:40.000Z",
-      "summary": "Search and rescue operations conducted after vessel carrying more than 300 people capsizes near Guhere."
-    },
-    {
       "id": "d3e6816d3689fd06",
       "title": "4 Arrested on Sedition Charges for Defacing Rabindranath Tagore’s Graffiti",
       "url": "https://www.bd24live.com/4-arrested-on-sedition-charges-for-defacing-rabindranath-tagores-graffiti/",
@@ -200,46 +410,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-10-11T11:30:19.000Z",
       "summary": "Police have arrested four individuals on sedition charges after they were detained for defacing a graffiti of World Poet Rabindranath Tagore on a wall in front of the Bangladesh Shilpakala… The post 4 Arrested on Sedition Charges for Defacing Rabindranath Tagore’s Graffiti appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "487b5be360352345",
-      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
-      "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-10-11T11:11:42.000Z",
-      "summary": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday."
-    },
-    {
-      "id": "255d09cbaab1dc97",
-      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-10-11T11:00:00.000Z",
-      "summary": "Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful that it's worth throwing gobs of money at a computer"
-    },
-    {
-      "id": "dfbd13bf429c401a",
-      "title": "Sheff Utd legend Sharp retires after 22-year career",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw7vpzzj0502o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-11T10:49:39.000Z",
-      "summary": "Sheffield United legend Billy Sharp announces his retirement from football at the age of 40."
-    },
-    {
-      "id": "a31e2877bad3f3bc",
-      "title": "Mahmud takes Test hat-trick - can you name the others in past 40 years?",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cw98z44glde4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "bangladesh",
-      "publishedAt": "2026-10-11T10:24:39.000Z",
-      "summary": "Bangladesh seamer Hasan Mahmud takes a hat-trick - but can you name all the others to do so in a men's Test in the past 40 years?"
     },
     {
       "id": "5e06c9c024cb3e3e",
@@ -252,16 +422,6 @@
       "summary": "Marubeni Corporation, a leading Japanese business conglomerate, has expressed interest in expanding its investments in Bangladesh. The company is also keen on establishing a second KAFCO (Karnaphuli Fertilizer Company Limited)… The post PM Discusses Multi-Sector Investments with Marubeni Corporation appeared first on Bangla Online News Portal."
     },
     {
-      "id": "e2200ca98fa0dff0",
-      "title": "Kipchoge, 41, breaks course record at Melbourne Marathon",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-11T08:19:52.000Z",
-      "summary": "Double Olympic champion Eliud Kipchoge says \"his body is still peaking\" after winning the Melbourne Marathon in a course record time at the age of 41."
-    },
-    {
       "id": "028a32b211bd2e6a",
       "title": "Missing Australian hiker Jordan Yap last seen on remote trail found dead in Peru",
       "url": "https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru",
@@ -269,7 +429,7 @@
       "category": "diplomacy",
       "region": "americas",
       "publishedAt": "2026-10-11T07:45:31.000Z",
-      "summary": "Family and friends say Melbourne man should be remembered for ‘immense joy he brought to so many people’s lives’ Get our breaking news email, free app or daily news podcast An Australian trekker who was last seen on a remote South American hiking trail has been found dead, his family have said. Jordan Yap, 30, last made contact with friends and family on 14 September ahead of a planned 10-day solo trek along Peru’s H"
+      "summary": "Family and friends say Melbourne man should be remembered for ‘immense joy he brought to so many people’s lives’ Follow our Australia politics live blog for latest updates Get our breaking news email, free app or daily news podcast An Australian trekker who was last seen on a remote South American hiking trail has been found dead, his family have said. Jordan Yap, 30, last made contact with friends and family on 14 S"
     },
     {
       "id": "befa438055752536",
@@ -300,26 +460,6 @@
       "region": "global",
       "publishedAt": "2026-10-11T06:56:08.000Z",
       "summary": "More than 100 aftershocks as high as magnitude-5.8 recorded after two quakes toppled buildings and prompted evacuations Panama’s government has declared a state of emergency on Saturday as the aftershocks of two powerful earthquakes that roiled the country shook communities for hours. Officials did not attribute any deaths to Friday’s 7.7- and 6.6-magnitude earthquakes, but reported damages in all 10 of Panama’s prov"
-    },
-    {
-      "id": "db2a27b67e553d14",
-      "title": "Allen submits Duncan to derail Briton's title hopes",
-      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cq5yn05n6k1do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-11T06:23:13.000Z",
-      "summary": "Brendan Allen submits Christian Leroy Duncan in the fifth round in Las Vegas to derail the Briton's middleweight title aspirations."
-    },
-    {
-      "id": "d727497371e600e6",
-      "title": "Toxicity and uncertainty await Man City - will their season even matter?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvy0rp14xz7lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-11T05:27:03.000Z",
-      "summary": "Manchester City visit Liverpool on Sunday with a lot of uncertainty hanging over them. Phil McNulty looks at what lies ahead."
     },
     {
       "id": "33df3cb475733326",
@@ -372,26 +512,6 @@
       "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone."
     },
     {
-      "id": "c08692d8ff0acbe3",
-      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "source": "The Verge",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-10-10T22:10:17.000Z",
-      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or reject. He calls for building a more transparent system where models can be contained, observed, and leaves behind \"tamper-proof human "
-    },
-    {
-      "id": "6175f6b17ebaddf6",
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-10-10T20:51:12.000Z",
-      "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal."
-    },
-    {
       "id": "9fa1da8682bcf128",
       "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
       "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
@@ -402,36 +522,6 @@
       "summary": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance."
     },
     {
-      "id": "14592d64f1d1d126",
-      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-10-10T17:44:26.000Z",
-      "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month."
-    },
-    {
-      "id": "c801a8a59f4d1539",
-      "title": "Heated Politics: Major Protest Announced in Delhi on Monday",
-      "url": "https://www.bd24live.com/heated-politics-major-protest-announced-in-delhi-on-monday/",
-      "source": "BD24Live",
-      "category": "diplomacy",
-      "region": "bangladesh",
-      "publishedAt": "2026-10-10T16:10:08.000Z",
-      "summary": "India’s opposition political alliance, INDIA (Indian National Developmental Inclusive Alliance), has announced a major protest program in Delhi next Monday. The demonstration aims to protect the people’s right to vote… The post Heated Politics: Major Protest Announced in Delhi on Monday appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "f8875b9d3dc9b285",
-      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "diplomacy",
-      "region": "global",
-      "publishedAt": "2026-10-10T15:23:47.000Z",
-      "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\"."
-    },
-    {
       "id": "befafe9ebe9dd189",
       "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
       "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
@@ -440,16 +530,6 @@
       "region": "global",
       "publishedAt": "2026-10-10T15:07:54.000Z",
       "summary": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]"
-    },
-    {
-      "id": "84d32f88c8ba35d9",
-      "title": "Woman injures three people in third Poland school knife attack in a week",
-      "url": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-10-10T14:58:55.000Z",
-      "summary": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days."
     },
     {
       "id": "954d51b501c3d4a4",
@@ -470,36 +550,6 @@
       "region": "global",
       "publishedAt": "2026-10-10T13:40:03.000Z",
       "summary": "Placard-waving opponents highlight concerns about a data centre development on the local landscape."
-    },
-    {
-      "id": "a2213e7b18d5eed9",
-      "title": "How a South African billionaire is turning a corner of Somerset into ‘one man’s estate’",
-      "url": "https://www.theguardian.com/news/2026/oct/10/how-a-south-african-billionaire-is-turning-a-corner-of-somerset-into-one-mans-estate",
-      "source": "The Guardian Environment",
-      "category": "economy_business",
-      "region": "africa",
-      "publishedAt": "2026-10-10T13:00:58.000Z",
-      "summary": "Koos Bekker’s Newt estate encompasses luxury hotels, pubs and high street business, with local concerns including flooding When South African billionaire Koos Bekker bought an old country estate in a sleepy corner of Somerset to turn it into a luxury hotel, residents thought it was a sign their area was on the up. Walking through his peaceful manicured gardens, which feature a maze of apple trees twisted into perfect"
-    },
-    {
-      "id": "cab97d94bce06c79",
-      "title": "Prime Minister to visit Japan on October 26",
-      "url": "https://www.bd24live.com/prime-minister-to-visit-japan-on-october-26/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-10-10T12:35:08.000Z",
-      "summary": "Prime Minister Tarique Rahman is scheduled to visit Tokyo on October 26 for a four-day official trip, at the invitation of Japanese Prime Minister Sanae Takaiji. During the visit, discussions… The post Prime Minister to visit Japan on October 26 appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "f9d17697dd94cd8c",
-      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-10-10T12:28:51.000Z",
-      "summary": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher."
     },
     {
       "id": "5bc1a2adf2dee306",
@@ -552,16 +602,6 @@
       "summary": "Dozens of CIA officers have been afflicted by debilitating symptoms over the past decade. Are they the result of ‘mass hysteria’? Or are they from attacks with an energy weapon and, if so, who is responsible? And has there been a cover-up? Shortly after 1am one night in April 2019, a CIA officer on a work trip to London was jolted awake in his hotel room by the most intense head pain he had ever experienced. His body"
     },
     {
-      "id": "cdf8f718d99d6675",
-      "title": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico",
-      "url": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb",
-      "source": "The Guardian World",
-      "category": "creativity_arts",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-10T00:50:52.000Z",
-      "summary": "Australian brothers Jake and Callum Robinson, 30 and 33, and friend Carter Rhoad, 30, were killed on a surfing trip in 2024 Get our breaking news email, free app or daily news podcast The parents of Australian surfing brothers murdered in Mexico have said “no outcome can ever undo this tragedy” after three men were convicted of the 2024 killings. Australian brothers Jake and Callum Robinson, aged 30 and 33 respective"
-    },
-    {
       "id": "52e74d04c0024c97",
       "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
       "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
@@ -572,14 +612,14 @@
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity."
     },
     {
-      "id": "e84ee7bd204058a8",
-      "title": "Australia bowlers take control of first Test v South Africa - scorecard",
-      "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "africa",
-      "publishedAt": "2026-10-10T00:00:00.000Z",
-      "summary": "Latest scorecard from the first Test between South Africa and Australia in Durban."
+      "id": "715b22a2110a5ebd",
+      "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
+      "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
+      "source": "The Guardian World",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-10-09T21:36:18.000Z",
+      "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward this week. It is a central part of the vaccine vision for Robert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS) and a longtime vaccine opponent."
     },
     {
       "id": "0f4568813b951386",
@@ -622,16 +662,6 @@
       "summary": "Genden Phuntsok brings charm and innocence to his portrayal of Tenzing Norgay, while Tom Hiddleston is suitably frank as Edmund Hillary Here is a well intentioned, watchable, if sometimes soft-edged film with some NatGeo production values on high mountain peaks. The subject is the triumphant Mount Everest expedition of 1953, in which the ultimate ascent was achieved by Nepalese-Indian mountaineer Tenzing Norgay and N"
     },
     {
-      "id": "e2dd7ceb6f823e01",
-      "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
-      "url": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-10-09T15:32:30.000Z",
-      "summary": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest."
-    },
-    {
       "id": "5e8610b077ae2e55",
       "title": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
       "url": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
@@ -642,16 +672,6 @@
       "summary": "The Court of Appeal quashes the conviction of Christian Bittar, a former Deutsche Bank trader jailed in 2018."
     },
     {
-      "id": "12c1197158948905",
-      "title": "Hurricane Isaias strengthens as it heads towards land",
-      "url": "https://www.bbc.co.uk/news/videos/cw073kg2dgr9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-10-09T14:23:57.000Z",
-      "summary": "Isaias will bring damaging winds, torrential rain and a storm surge with landfall expected late Friday."
-    },
-    {
       "id": "65986104525038e4",
       "title": "How to keep AI agents within their permissions",
       "url": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
@@ -660,16 +680,6 @@
       "region": "global",
       "publishedAt": "2026-10-09T14:01:11.000Z",
       "summary": "AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-specific policies without sacrificing autonomy. [...]"
-    },
-    {
-      "id": "fbeed600dd3a32b4",
-      "title": "'Tropical jungle' of wallabies, porcupines and parrots must move after neighbours complain",
-      "url": "https://www.bbc.co.uk/news/articles/cqn8d5gj8jd3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-10-09T13:01:57.000Z",
-      "summary": "James Wale moved to the site two years ago and keeps animals including wallabies and rare birds."
     },
     {
       "id": "7fcbe7a7c95724bb",
@@ -772,6 +782,16 @@
       "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter…"
     },
     {
+      "id": "f95e7a4669318706",
+      "title": "Why are more roofs not made of solar tiles?",
+      "url": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-10-08T23:09:56.000Z",
+      "summary": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?"
+    },
+    {
       "id": "e2766837bf436737",
       "title": "'Add me on WhatsApp' scam calls to be investigated",
       "url": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
@@ -840,16 +860,6 @@
       "region": "global",
       "publishedAt": "2026-10-08T01:59:54.000Z",
       "summary": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August."
-    },
-    {
-      "id": "2f00e10788a5b09d",
-      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-      "source": "Krebs on Security",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-10-07T13:48:45.000Z",
-      "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace compa"
     },
     {
       "id": "6c8a355b468bf37f",
