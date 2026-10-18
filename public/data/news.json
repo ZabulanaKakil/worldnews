@@ -1,15 +1,105 @@
 {
-  "generatedAt": "2026-10-18T20:32:57.533Z",
+  "generatedAt": "2026-10-18T22:57:40.379Z",
   "articles": [
     {
-      "id": "362dc6a14c8c02de",
-      "title": "Macron calls for calm in France and warns rioting must not escalate",
-      "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "id": "a9d3f3d23b6444b5",
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "diplomacy",
+      "region": "europe",
+      "publishedAt": "2026-10-18T22:10:45.000Z",
+      "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect."
+    },
+    {
+      "id": "6f518fc03f8dca17",
+      "title": "Alberta independence referendum: Will separatists survive a loss?",
+      "url": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-10-18T21:53:13.000Z",
+      "summary": "Alberta’s independence movement faces likely defeat, but history suggests losing a referendum may not end the fight."
+    },
+    {
+      "id": "1f907dd56f384e77",
+      "title": "What we know so far about deadly fire at Canadian military base",
+      "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-10-18T21:37:56.000Z",
+      "summary": "At least four people are confirmed to have died after a huge fire swept through the base."
+    },
+    {
+      "id": "5641d779d907f3f9",
+      "title": "Macron condemns violence after riots lead to looting and mass arrests",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-10-18T21:10:47.000Z",
+      "summary": "French President Emmanuel Macron says protesters who attacked government buildings need to pay for their crimes."
+    },
+    {
+      "id": "f155e758b340466e",
+      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-10-18T21:00:22.000Z",
+      "summary": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs."
+    },
+    {
+      "id": "28b46f8f16332503",
+      "title": "Macron calls for 'calm and order' after riots across France",
+      "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
       "region": "europe",
-      "publishedAt": "2026-10-18T20:06:20.000Z",
-      "summary": "French President Emmanuel Macron made a national television address after rioting caused widespread damage."
+      "publishedAt": "2026-10-18T20:33:21.000Z",
+      "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris."
+    },
+    {
+      "id": "4166bb5737a701bc",
+      "title": "Fire engulfs Albania’s Supreme Court as protests enter fifth day",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "middle_east",
+      "publishedAt": "2026-10-18T20:26:03.000Z",
+      "summary": "Offices at the Supreme Court in Tirana were set ablaze as anti-government protests continue."
+    },
+    {
+      "id": "d8e5ef781473b23e",
+      "title": "‘Anger and shame’: Macron denounces France’s nationwide rioting, looting",
+      "url": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-10-18T20:19:22.000Z",
+      "summary": "President Macron promises to increase security, but stops short of announcing a state of emergency or curfew."
+    },
+    {
+      "id": "707fb720389e6225",
+      "title": "What’s behind Europe’s youth protests?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/whats-behind-europes-youth-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-10-18T20:05:07.000Z",
+      "summary": "What's behind Europe's youth protests?"
+    },
+    {
+      "id": "f202db95006f746a",
+      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-10-18T19:53:27.000Z",
+      "summary": "Presley Gerber's death in September is being investigated as a suspected overdose."
     },
     {
       "id": "915bcae7fe7f476e",
@@ -20,16 +110,6 @@
       "region": "global",
       "publishedAt": "2026-10-18T19:51:22.000Z",
       "summary": "Crystal Palace manage Pierre Sage says he feels \"shame\" at the Eagles' performance during their 5-0 thrashing by Brighton and does not know if he will be given time to save his job."
-    },
-    {
-      "id": "1f907dd56f384e77",
-      "title": "What we know so far about deadly fire at Canadian military base",
-      "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-10-18T19:42:37.000Z",
-      "summary": "At least four people are confirmed to have died after a huge fire swept through the base."
     },
     {
       "id": "6d6f840603f02027",
@@ -72,36 +152,6 @@
       "summary": "Clarence Seedorf says football must be kept in perspective while genocides and conflicts continue around the world."
     },
     {
-      "id": "837e523411b0db54",
-      "title": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
-      "url": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-10-18T19:11:27.000Z",
-      "summary": "Ukraine's president says communication between Washington and Kyiv 'virtually nonstop', despite a spat with Trump."
-    },
-    {
-      "id": "e86d9f9a62013df8",
-      "title": "Bournemouth pick up first league victory with win over Sunderland",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cme8rz8x6pw8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-18T18:59:15.000Z",
-      "summary": "Bournemouth beat Sunderland 2-0 at the Vitality Stadium to pick up their first league victory of the season and move out of the relegation zone."
-    },
-    {
-      "id": "d40221b132c54809",
-      "title": "Leeds extend Man Utd's winless run to six games",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cw4g1dgr2v93o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-18T18:59:10.000Z",
-      "summary": "Dominic Calvert-Lewin earns a point for Leeds and extends Manchester United's winless run to six games."
-    },
-    {
       "id": "b83d36d38a3299cb",
       "title": "Madueke's strike enough as Arsenal pick up narrow win over Forest",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm70px0l7p7no?at_medium=RSS&at_campaign=rss",
@@ -132,14 +182,24 @@
       "summary": "A red alert has been issued in various parts of four regions of Saudi Arabia due to the threat of severe thunderstorms and flash floods. The country’s National Center of… The post Red Alert Issued in Four Regions of Saudi Arabia appeared first on Bangla Online News Portal."
     },
     {
-      "id": "296ac2cbf9a9c86e",
-      "title": "JERUSALEM DAILY: Settlers attack EU diplomats",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "diplomacy",
-      "region": "americas",
-      "publishedAt": "2026-10-18T17:52:37.000Z",
-      "summary": "Israeli settlers attacked an EU delegation in the occupied West Bank while it was visiting olive harvesters near Taybeh."
+      "id": "cca217757d4278dc",
+      "title": "Shades of Barca and Beckham - Brighton aim to maintain superb start",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyd05wj00do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-18T18:33:29.000Z",
+      "summary": "With 23 goals in seven Premier League matches, including some stunning strikes, Brighton continue to delight their fans and get them dreaming of what might be."
+    },
+    {
+      "id": "228a1c3b2e9cad75",
+      "title": "Northampton beat Cardiff for only English win of Champions Cup openers",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw62ynq8jz2no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-18T18:23:30.000Z",
+      "summary": "Northampton edge to a nervy Champions Cup pool win against tenacious Cardiff at Franklin's Gardens."
     },
     {
       "id": "cdfb52fb5d731e0c",
@@ -150,16 +210,6 @@
       "region": "global",
       "publishedAt": "2026-10-18T17:24:45.000Z",
       "summary": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win."
-    },
-    {
-      "id": "5d69dcc5a462aa35",
-      "title": "Trump endorses Netanyahu in Israeli legislative elections",
-      "url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "middle_east",
-      "publishedAt": "2026-10-18T16:36:26.000Z",
-      "summary": "In a social media post ahead of the October 27 election, Trump calls Netanyahu a 'Strong, Brave, and Brilliant' leader."
     },
     {
       "id": "5204ce42003937d3",
@@ -222,16 +272,6 @@
       "summary": "Canada has announced a grant of 45 million Canadian dollars, or approximately 390 crore Bangladeshi Taka, for agricultural innovation, economic reforms, business financing, and trade expansion in Bangladesh. This assistance… The post Canada Announces $45 Million Investment in Bangladesh appeared first on Bangla Online News Portal."
     },
     {
-      "id": "becb4acc107497cc",
-      "title": "J Mascis has nothing better to do",
-      "url": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-10-18T14:00:00.000Z",
-      "summary": "J Mascis on stage during Dinosaur Jr.’s Baby’s Alright show in NYC. | Photo: Terrence O’Brien Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Mascis has developed a similar reputation as an interview subject, quietly sitting and offering deft nonansw"
-    },
-    {
       "id": "a4ada43495b9d048",
       "title": "Search for Amelia Earhart's plane resumes after stormy weather",
       "url": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
@@ -270,16 +310,6 @@
       "region": "europe",
       "publishedAt": "2026-10-18T12:16:14.000Z",
       "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign."
-    },
-    {
-      "id": "fee946e98687df60",
-      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-10-18T12:07:31.000Z",
-      "summary": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism."
     },
     {
       "id": "a27ab3f86d9ea8b7",
@@ -392,16 +422,6 @@
       "summary": "Prime Minister Tareque Rahman has awarded the national flag to seven units of the Bangladesh Army in recognition of their special contribution to achieving professional excellence and their heroic roles… The post Prime Minister Awards National Flag to 7 Army Units appeared first on Bangla Online News Portal."
     },
     {
-      "id": "edaa4b03232a53d8",
-      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-10-18T05:04:31.000Z",
-      "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic."
-    },
-    {
       "id": "050620543aba4dab",
       "title": "Resort Fire: Case Filed Against Owner Tanvir as Principal Accused",
       "url": "https://www.bd24live.com/resort-fire-case-filed-against-owner-tanvir-as-principal-accused/",
@@ -490,16 +510,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-10-17T15:05:31.000Z",
       "summary": "The Standing Committee on the Ministry of Education of the National Parliament has put forward a set of recommendations aimed at bringing qualitative changes to the country’s education system. As… The post Great News for 7.04 Million Students Nationwide appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "5e97c90cb79cfe1c",
-      "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
-      "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-17T12:11:58.000Z",
-      "summary": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing."
     },
     {
       "id": "fcfc9e2aea622845",
@@ -620,16 +630,6 @@
       "region": "global",
       "publishedAt": "2026-10-16T13:04:10.000Z",
       "summary": "Late-night host discussed Trump’s falling poll numbers and concerns over his new press secretary, Katie Zacharia Trump’s new press secretary says it’s ‘unknown’ how much she’ll deal with media With other hosts still on holiday, Jimmy Kimmel checked in on Donald Trump’s record-low poll numbers and beleaguered new press secretary, Katie Zacharia. Continue reading..."
-    },
-    {
-      "id": "375db2783f4ef24c",
-      "title": "Banks expect to be hit with higher taxes in Budget",
-      "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-10-16T10:16:27.000Z",
-      "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month."
     },
     {
       "id": "f0ab722a521bc8a2",
