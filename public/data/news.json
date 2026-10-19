@@ -1,15 +1,235 @@
 {
-  "generatedAt": "2026-10-19T15:29:44.205Z",
+  "generatedAt": "2026-10-19T20:58:39.597Z",
   "articles": [
     {
-      "id": "f5ca58d983687637",
-      "title": "Kenya pastor convicted of ordering parents to starve their children to death",
+      "id": "fa6602831f82cbd6",
+      "title": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "disasters",
+      "region": "global",
+      "publishedAt": "2026-10-19T20:49:39.000Z",
+      "summary": "The Ukrainian army says it has carried out the world’s first drone evacuation of a wounded soldier from the front line."
+    },
+    {
+      "id": "f66f9a337f8d604a",
+      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-10-19T20:49:00.000Z",
+      "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing."
+    },
+    {
+      "id": "b81ff12e5b354315",
+      "title": "Ronaldo given 30-day suspension and £215 fine by Portuguese FA",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck9qznlywy8no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-19T20:35:44.000Z",
+      "summary": "Cristiano Ronaldo is given a 30-day suspension by the Portuguese Football Federation after leaving his country's international camp last month."
+    },
+    {
+      "id": "b1fb780d1d0f3485",
+      "title": "Kenya convicts cult leader over the murder of 190 children",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/kenya-convicts-cult-leader-over-the-murder-of-190-children?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "africa",
+      "publishedAt": "2026-10-19T20:31:21.000Z",
+      "summary": "The leader of a Kenyan cult who instructed followers to starve themselves to death to reach heaven has been found guilty"
+    },
+    {
+      "id": "1e7525aacde9bfd5",
+      "title": "Trump signs order launching women’s health division at NIH, White House",
+      "url": "https://www.aljazeera.com/news/2026/10/19/trump-signs-order-launching-womens-health-division-at-nih-white-house?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-10-19T20:29:46.000Z",
+      "summary": "First Lady Melania Trump has championed the executive action as a 'transformative moment' for US women's health."
+    },
+    {
+      "id": "9ff7e58afe20105d",
+      "title": "Building Lionesses 2.0 - Wiegman's new challenge awaits",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvze4w57746yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-19T20:15:48.000Z",
+      "summary": "England head coach Sarina Wiegman has changed women's football in the country, so what does she face after signing a contract extension?"
+    },
+    {
+      "id": "e68f7ae2c46f9b5d",
+      "title": "Finland seeking one million land mines as it eyes Russian threat",
+      "url": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "europe",
+      "publishedAt": "2026-10-19T19:57:10.000Z",
+      "summary": "Helsinki recently joined regional peers in withdrawing from UN Charter banning munitions as it eyes its eastern border."
+    },
+    {
+      "id": "fc3758d0cacb7b41",
+      "title": "One killed in US shooting near mosque in Columbus, Ohio",
+      "url": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-10-19T19:50:20.000Z",
+      "summary": "Local authorities say mosque was not target of attack."
+    },
+    {
+      "id": "2b5ce0a704784f2c",
+      "title": "Florida issues arrest warrant for Cuban leader Raul Castro",
+      "url": "https://www.aljazeera.com/news/2026/10/19/florida-issues-arrest-warrant-for-cuban-leader-raul-castro?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-10-19T19:48:53.000Z",
+      "summary": "The announcement mirrors a federal indictment from May as the US steps up pressure on the Cuban government."
+    },
+    {
+      "id": "da9010192256b7be",
+      "title": "Residents hoisted from rooftops amid Spain’s deadly flooding",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/residents-hoisted-from-rooftops-amid-spains-deadly-flooding?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-10-19T19:38:40.000Z",
+      "summary": "Spain’s military is hoisting residents from the rooftops of their flooded homes."
+    },
+    {
+      "id": "6dc230dc6777edba",
+      "title": "Palace manager Sage facing fight to keep his job",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq2d6npjy9xlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-19T19:32:56.000Z",
+      "summary": "Crystal Palace boss Pierre Sage faces a fight to keep his job, but will be given more time."
+    },
+    {
+      "id": "e7ed208109872679",
+      "title": "Melting Ron DeSantis statue unveiled to call out his inaction on climate crisis",
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/melting-ron-desantis-statue-climate-crisis",
+      "source": "The Guardian Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-10-19T19:22:02.000Z",
+      "summary": "Florida governor has consistently opposed any legislation to curb planet-heating emissions, calling it a ‘radical climate agenda’ A life-sized statue of Ron DeSantis, the Florida governor, was unveiled and promptly began melting in front of an audience in Tallahassee in a symbolic protest at his rejection of action on the climate crisis. The silvery statue, revealed to an audience of onlookers last week, melted away "
+    },
+    {
+      "id": "a919498fc898f4e4",
+      "title": "Indian court extends detention of ‘Cockroach’ leaders",
+      "url": "https://www.aljazeera.com/news/2026/10/19/indian-court-extends-detention-of-cockroach-leaders?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-19T19:09:22.000Z",
+      "summary": "The extension of the custody of the CJP activists comes amid a crackdown on near daily protests against the government."
+    },
+    {
+      "id": "abedf91860716d37",
+      "title": "‘Crucial opportunity to act’ as study finds most of Europe’s wild bee species in decline",
+      "url": "https://www.theguardian.com/environment/2026/oct/19/study-europe-wild-bee-species-decline-",
+      "source": "The Guardian Environment",
+      "category": "diplomacy",
+      "region": "europe",
+      "publishedAt": "2026-10-19T19:00:04.000Z",
+      "summary": "As Cop17 kicks off, records since 1921 show more bee species declining than increasing in all parts of Europe except the Alps Most of Europe’s wild bee species and about half of its hover fly species have declined over the last century, a study has found, as a UN biodiversity summit begins in Armenia. Records since 1921 show more bee species are declining than increasing in all parts of Europe except the Alpine regio"
+    },
+    {
+      "id": "606f2f4bd3b93824",
+      "title": "Protesters block Louvre in support of French student movement",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/protesters-block-louvre-in-support-of-french-student-movement?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-10-19T18:39:27.000Z",
+      "summary": "French students are now blockading the world’s busiest museum."
+    },
+    {
+      "id": "af5f8a74a4f4629d",
+      "title": "Ex-OpenAI employee accused of planting device has Saudi backing: Prosecutor",
+      "url": "https://www.aljazeera.com/economy/2026/10/19/ex-openai-employee-accused-of-planting-device-has-saudi-backing-prosecutor?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "ai_innovation",
+      "region": "middle_east",
+      "publishedAt": "2026-10-19T18:23:55.000Z",
+      "summary": "US federal prosecutors allege the defendant was in frequent contact with unnamed member of royal family."
+    },
+    {
+      "id": "679b8fc4041b3a1e",
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-10-19T18:22:48.000Z",
+      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest."
+    },
+    {
+      "id": "39205444000cfe02",
+      "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+      "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "ai_innovation",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-19T18:21:54.000Z",
+      "summary": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China."
+    },
+    {
+      "id": "ff2be8f47254ec1b",
+      "title": "Netanyahu’s new security doctrine: Regional strategy or election ploy?",
+      "url": "https://www.aljazeera.com/news/2026/10/19/netanyahus-new-security-doctrine-regional-strategy-or-election-ploy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "diplomacy",
+      "region": "global",
+      "publishedAt": "2026-10-19T18:21:06.000Z",
+      "summary": "Experts say Netanyahu's security doctrine and map of regional alliances serve his political ambitions ahead of elections"
+    },
+    {
+      "id": "b566e4f6529a6c0b",
+      "title": "Uefa gives Infantino two-week deadline to release key documents",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-19T18:20:39.000Z",
+      "summary": "Uefa's letter contained 42 questions, covering Fifa's failed private investment proposals, its Peace Prize and the fallout from Folarin Balogun's World Cup red card."
+    },
+    {
+      "id": "b7f6e3cd3f305d8d",
+      "title": "Leicester to visit Oxford City in FA Cup first round - see full draw",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckwyqdvedj32o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-19T18:13:52.000Z",
+      "summary": "Leicester City will travel to National League North side Oxford City in the 2026-27 FA Cup first round - five years after winning the competition."
+    },
+    {
+      "id": "a989b2c933449a71",
+      "title": "Benny Gantz drops out of Israel’s election race",
+      "url": "https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "middle_east",
+      "publishedAt": "2026-10-19T18:11:01.000Z",
+      "summary": "Decision comes after polls showed his Blue and White party below the 3.25 percent threshold needed to enter the Knesset."
+    },
+    {
+      "id": "8a1b061c771269fb",
+      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
       "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world_politics",
       "region": "africa",
-      "publishedAt": "2026-10-19T15:25:59.000Z",
-      "summary": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children."
+      "publishedAt": "2026-10-19T17:18:04.000Z",
+      "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children."
     },
     {
       "id": "96b21b1b29db3556",
@@ -18,78 +238,108 @@
       "source": "BBC Business",
       "category": "economy_business",
       "region": "global",
-      "publishedAt": "2026-10-19T15:25:44.000Z",
+      "publishedAt": "2026-10-19T16:46:35.000Z",
       "summary": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\"."
     },
     {
-      "id": "b566e4f6529a6c0b",
-      "title": "Uefa gives Infantino two-week deadline to release key documents",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo?at_medium=RSS&at_campaign=rss",
+      "id": "7328d21106a3428e",
+      "title": "Araujo the stopgap solution fixing Liverpool's problems",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck8dz7pp4089o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-10-19T15:20:47.000Z",
-      "summary": "European governing body Uefa tells Fifa it must release key documents related to its governance and decision-making by 2 November."
-    },
-    {
-      "id": "1c35f6f5a54709d3",
-      "title": "Man City’s Semenyo out for up to eight weeks due to knee injury",
-      "url": "https://www.aljazeera.com/sports/2026/10/19/man-citys-semenyo-out-for-up-to-eight-weeks-due-to-knee-injury?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
       "region": "global",
-      "publishedAt": "2026-10-19T15:07:19.000Z",
-      "summary": "City coach confirmed Semenyo's injury but said Haaland would be available for the Champions League match on Tuesday."
+      "publishedAt": "2026-10-19T16:29:34.000Z",
+      "summary": "Ronald Araujo has impressed since arriving at Liverpool from Barcelona. Could he prove a longer-term solution?"
     },
     {
-      "id": "028294bb2349992a",
-      "title": "Famine fears as aid cuts and shipment restrictions coincide in Gaza",
-      "url": "https://www.aljazeera.com/news/2026/10/19/famine-fears-as-aid-cuts-and-shipment-restrictions-coincide-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
+      "id": "df973b1307dd79b3",
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-10-19T16:22:12.000Z",
+      "summary": "The Saudi government did not immediately respond to BBC requests for comment."
+    },
+    {
+      "id": "0f85c38e27c3107e",
+      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "war_conflict",
       "region": "middle_east",
-      "publishedAt": "2026-10-19T15:05:16.000Z",
-      "summary": "Displaced families in Gaza fear worsening food insecurity as planned aid cuts coincide with continued restrictions."
+      "publishedAt": "2026-10-19T16:20:51.000Z",
+      "summary": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits."
     },
     {
-      "id": "daddab4e678a742f",
-      "title": "Who is cult leader Paul Mackenzie, accused of convincing followers to die?",
-      "url": "https://www.aljazeera.com/news/2026/10/19/who-is-cult-leader-paul-mackenzie-accused-of-convincing-followers-to-die?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "africa",
-      "publishedAt": "2026-10-19T14:54:24.000Z",
-      "summary": "A Kenyan court is set to hand down the first judgement in the 'doomsday' cult case."
-    },
-    {
-      "id": "5bfa8dc4f4691b5f",
-      "title": "Albania’s protests explained",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_albanias-protests-explained-191026?traffic_source=rss",
-      "source": "Al Jazeera",
+      "id": "0cd8db598a8408d9",
+      "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+      "url": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world_politics",
       "region": "global",
-      "publishedAt": "2026-10-19T14:46:53.000Z",
-      "summary": "Protesters in Albania say demonstrations will intensify as Prime Minister Edi Rama rejects calls to resign."
+      "publishedAt": "2026-10-19T16:16:51.000Z",
+      "summary": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic."
     },
     {
-      "id": "abf10ca0dff0be61",
-      "title": "Pakistan suspends Iran border trade, amid violence on both sides",
-      "url": "https://www.aljazeera.com/news/2026/10/19/pakistan-suspends-iran-border-trade-amid-violence-on-both-sides?traffic_source=rss",
-      "source": "Al Jazeera",
+      "id": "8fd03d2eb40ea20c",
+      "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+      "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
+      "source": "The Guardian World",
+      "category": "disasters",
+      "region": "africa",
+      "publishedAt": "2026-10-19T16:08:14.000Z",
+      "summary": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutors A Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the deaths of ⁠190 children and one adult in one of the world’s worst cult-related disasters in recent history. Mackenzie was arrested in 2023 after police received a tipoff, and weeks late"
+    },
+    {
+      "id": "00b2ef9dc9acdeee",
+      "title": "Apple teases MacBook Pro event next week",
+      "url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+      "source": "The Verge",
       "category": "technology",
-      "region": "middle_east",
-      "publishedAt": "2026-10-19T14:43:03.000Z",
-      "summary": "Islamabad cites security concerns, while Tehran points to technical issues as Pakistan mediates between Iran and the US."
+      "region": "global",
+      "publishedAt": "2026-10-19T16:04:29.000Z",
+      "summary": "Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomberg. The big announcement is expected to be a new MacBook Pro with an OLED touchscreen that's also lighter and has an iPhone-like Dynamic Island. But Apple is also planning on revealing a 14-inch MacBoo"
     },
     {
-      "id": "4adc06944f1ec72e",
-      "title": "Haaland a doubt, Semenyo out - what are Man City's options?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5djv21rkekwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
+      "id": "bd26fd24d4874ee6",
+      "title": "We are all Bangladeshis, irrespective of religion and caste: Prime Minister",
+      "url": "https://www.bd24live.com/we-are-all-bangladeshis-irrespective-of-religion-and-caste-prime-minister/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-19T15:45:19.000Z",
+      "summary": "Prime Minister Tarique Rahman has urged people of all faiths to build Bangladesh together, shoulder to shoulder. He also called upon everyone to rise above religious identity and consider themselves… The post We are all Bangladeshis, irrespective of religion and caste: Prime Minister appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "5ee9bcd32983aa7f",
+      "title": "Bikes 'not for jousting,' says Lime after duel video",
+      "url": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "europe",
+      "publishedAt": "2026-10-19T15:44:53.000Z",
+      "summary": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust."
+    },
+    {
+      "id": "4905fcea9c99f9a3",
+      "title": "Amazon is funding a new nuclear plant in Indiana",
+      "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+      "source": "The Verge",
+      "category": "environment",
+      "region": "americas",
+      "publishedAt": "2026-10-19T15:44:20.000Z",
+      "summary": "It’ll be several years before the facility is complete, but this digital rendering gives us some idea of what it’ll look like. | Image: Amazon Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to "
+    },
+    {
+      "id": "3e4dea7337fa29f5",
+      "title": "Microsoft fixes game, app crashes caused by recent Windows update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
+      "source": "BleepingComputer",
+      "category": "technology",
       "region": "global",
-      "publishedAt": "2026-10-19T14:36:36.000Z",
-      "summary": "Manchester City coach Enzo Maresca explores his attacking options for Tuesday's Champions League game against AEK Athens."
+      "publishedAt": "2026-10-19T14:55:23.000Z",
+      "summary": "Microsoft has resolved a bug that caused games and apps using AC-3 (Dolby Digital) audio decoding to crash after installing the September 2026 Windows 11 preview update (KB5124010). [...]"
     },
     {
       "id": "bef4cc974a595b8c",
@@ -99,7 +349,7 @@
       "category": "economy_business",
       "region": "europe",
       "publishedAt": "2026-10-19T14:30:00.000Z",
-      "summary": "Today, I’m talking with Illinois Governor JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming up next month, and early voting already underway in a lot of places, the stakes are pretty high right now. So "
+      "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming up next month, and early voting already underway in a lot of places, the stakes are pretty high right now. So I as"
     },
     {
       "id": "f59afe6e09dbbb7b",
@@ -119,7 +369,7 @@
       "category": "diplomacy",
       "region": "africa",
       "publishedAt": "2026-10-19T14:11:08.000Z",
-      "summary": "Opposition to US-led quarantine center in Kenya follows sweeping funding cuts and withdrawal from WHO An eighth person in Kenya has tested positive for the Bundibugyo strain of Ebola in the country’s first-ever cluster of cases of the virus, as the second-largest outbreak in history kills more than 4,300 and sickens more than 9,000 people in the region. It highlights the diminished role the US has played in the worse"
+      "summary": "Opposition to US-led quarantine center in Kenya follows sweeping funding cuts and withdrawal from WHO An eighth person in Kenya has tested positive for the Bundibugyo strain of Ebola in the country’s first-ever cluster of cases of the virus, as the second-largest outbreak in history has killed more than 4,300 and sickened more than 9,000 people in the region. It highlights the diminished role the US has played in the"
     },
     {
       "id": "410abadd32391680",
@@ -132,16 +382,6 @@
       "summary": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack."
     },
     {
-      "id": "0d082a40e1d20f16",
-      "title": "Catalonia's former rebel president can return to Spain, court rules",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-10-19T14:06:53.000Z",
-      "summary": "The court upholds a decision to lift an arrest warrant for Carles Puigdemont linked to the independence bid he led in 2017."
-    },
-    {
       "id": "a32b5be12c2a9aef",
       "title": "It’s hard to imagine wireless headphones ever getting lighter than these",
       "url": "https://www.theverge.com/tech/1013635/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these",
@@ -152,16 +392,6 @@
       "summary": "If you're on the hunt for lightweight wireless headphones but wearing earbuds or clip-ons never feels comfortable or secure, a relatively obscure Japanese headphone maker could have the solution. Final's new Porta headphones feature an on-ear design supported by a headband but with a structure made from a single piece of wire so they weigh just 40 grams. For comparison, Marshall's recently-launched Milton A.N.C. are "
     },
     {
-      "id": "1c5ae1abb6890f22",
-      "title": "PSG vs Barcelona match will not be postponed despite protests: French PM",
-      "url": "https://www.aljazeera.com/sports/2026/10/19/psg-vs-barcelona-match-will-not-be-postponed-despite-protests-french-pm?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-10-19T14:01:00.000Z",
-      "summary": "Barcelona have arrived in Paris for the Champions League match at the Parc des Princes on Tuesday at 19:00 GMT."
-    },
-    {
       "id": "6171bd24642115cc",
       "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
@@ -170,16 +400,6 @@
       "region": "global",
       "publishedAt": "2026-10-19T13:58:41.000Z",
       "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown as the technology grows more advanced, with hackers using the "
-    },
-    {
-      "id": "15a6bf4bdb123147",
-      "title": "Australian Member of Parliament critically injured after being hit by a car",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/australian-member-of-parliament-critically-injured-after-being-hit-by-a-car?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-19T13:49:32.000Z",
-      "summary": "Australian MP Dr. Helen Haines is in critical condition after being struck by a car outside her office in Victoria."
     },
     {
       "id": "7b52cc872b82842a",
@@ -210,56 +430,6 @@
       "region": "global",
       "publishedAt": "2026-10-19T13:42:41.000Z",
       "summary": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda."
-    },
-    {
-      "id": "2732fef6b55c7997",
-      "title": "French protest violence: A ‘Christmas present’ for Le Pen’s far right?",
-      "url": "https://www.aljazeera.com/news/2026/10/19/french-protest-violence-a-christmas-present-for-le-pens-far-right?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-10-19T13:41:23.000Z",
-      "summary": "Le Pen is positioning her party as more capable than centrist or left-wing forces before the 2027 presidential election."
-    },
-    {
-      "id": "b3cec90d028e804a",
-      "title": "Doctors describe hospitals shattered by Israel’s genocide in Gaza",
-      "url": "https://www.aljazeera.com/video/2026/10/19/doctors-describe-hospitals-shattered-by-israels-genocide-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-10-19T13:36:09.000Z",
-      "summary": "Doctors who volunteered in Gaza have described working during Israel’s genocidal war on the strip."
-    },
-    {
-      "id": "e206572c0629a78c",
-      "title": "Dozens killed after Houthi strike on military camp in Shabwa",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/dozens-killed-after-houthi-strike-on-military-camp-in-shabwa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-10-19T13:26:01.000Z",
-      "summary": "Dozens of Yemenis are feared dead after a Houthi strike targeted a military camp in Yemen’s Shabwa governorate."
-    },
-    {
-      "id": "03f1de7ad971b515",
-      "title": "Russia’s Lavrov discusses US war and regional security during Tehran visit",
-      "url": "https://www.aljazeera.com/news/2026/10/19/russias-lavrov-to-discuss-us-war-and-regional-security-during-tehran-visit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-10-19T13:22:58.000Z",
-      "summary": "GCC states have pressed Moscow to help halt Iranian attacks and reopen the Strait of Hormuz."
-    },
-    {
-      "id": "0a83d22bf110f15e",
-      "title": "‘Weight of responsibility’: Promise and perils of covering Ethiopia’s war",
-      "url": "https://www.aljazeera.com/news/2026/10/19/weight-of-responsibility-promise-and-perils-of-covering-ethiopias-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "africa",
-      "publishedAt": "2026-10-19T13:21:37.000Z",
-      "summary": "Al Jazeera correspondent shares his experience of covering the fighting between government forces and Tigray rebels."
     },
     {
       "id": "d42811feec079dbd",
@@ -302,16 +472,6 @@
       "summary": "Exclusive: Chris Hinchliff urges environment watchdog to block rules that will allow almost 16,000 new homes in one of UK’s most protected areas The environment watchdog is being urged to intervene in “cash to trash” planning rules that will allow almost 16,000 new homes in the Norfolk Broads despite the damage to one of the UK’s most environmentally protected areas. Labour’s flagship planning reforms allow damage to"
     },
     {
-      "id": "9d3300e52cc33648",
-      "title": "Brook says he has 'learned a lot' from off-field issues",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cm3elzgj5glzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-19T12:00:54.000Z",
-      "summary": "White-ball captain Harry Brook says he has \"learned a lot\" as a captain and a person - and wants to be the player England fans rely on."
-    },
-    {
       "id": "a2785d50024a45b3",
       "title": "Personal attacks fire up debate before Brazil's run-off vote",
       "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
@@ -320,16 +480,6 @@
       "region": "americas",
       "publishedAt": "2026-10-19T11:41:24.000Z",
       "summary": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger."
-    },
-    {
-      "id": "2f1d990c6014168e",
-      "title": "Meloni calls emergency meeting after weekend of violent clashes",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "disasters",
-      "region": "global",
-      "publishedAt": "2026-10-19T11:23:36.000Z",
-      "summary": "More than 200 people were detained during two days of rioting in the city, Italian media reports."
     },
     {
       "id": "9da58b08ad49ad6e",
@@ -342,26 +492,6 @@
       "summary": "President Mirza Fakhrul Islam Alamgir, describing the media as one of the principal pillars of a democratic system, stated that the positive role of the media is crucial for strengthening… The post Media, a Principal Pillar of Democratic System: President appeared first on Bangla Online News Portal."
     },
     {
-      "id": "c976f27051cba0af",
-      "title": "The Maeving RM2 is high-style electric riding with a few compromises",
-      "url": "https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs",
-      "source": "The Verge",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-10-19T11:00:00.000Z",
-      "summary": "There's a fast-growing category of two-wheeled electric vehicles splitting the difference between high-end scooters and entry-level motorcycles, fresh bikes with avant-garde style but approachable performance. I'm talking about offerings like the Infinite Machine P1 and BMW CE 02, similar concepts but with wildly different attitudes. Among this class, the Maeving RM2 stands out. It has a distinctly retrofuturistic fl"
-    },
-    {
-      "id": "11a0b1e6edc8150b",
-      "title": "England manager Wiegman signs contract extension",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c679plpvellgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-19T10:08:01.000Z",
-      "summary": "Sarina Wiegman says she \"cannot think of a better job in football\" as she commits to staying on as manager of the Lionesses until after Euro 2029."
-    },
-    {
       "id": "fce07bc1171cd850",
       "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
       "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
@@ -370,26 +500,6 @@
       "region": "americas",
       "publishedAt": "2026-10-19T10:07:09.000Z",
       "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22nd and latest named system. The category 2 hurricane remained roughly 100 miles (160km) south-west of the coast of Mexico, meaning the worst of the conditions stayed offshore. However,"
-    },
-    {
-      "id": "59fbf3f45e916936",
-      "title": "US disaster survivors still await at least $10bn in federal aid: ‘It’s devastating’",
-      "url": "https://www.theguardian.com/us-news/2026/oct/19/us-disaster-survivor-payouts-fema",
-      "source": "The Guardian Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-10-19T10:00:03.000Z",
-      "summary": "The last long-term federal recovery funds allocated for a major disaster were for Hurricane Milton, which hit in late 2024 Survivors of extreme weather disasters across the US are facing long waits for government assistance funds to rebuild their lives, with the last long-term recovery funds allocated for Hurricane Milton that hit Florida two years ago. Government officials estimate more than $10bn is needed in long-"
-    },
-    {
-      "id": "679b8fc4041b3a1e",
-      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-10-19T09:40:44.000Z",
-      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest."
     },
     {
       "id": "2232e89bc570d850",
@@ -409,7 +519,7 @@
       "category": "economy_business",
       "region": "asia_pacific",
       "publishedAt": "2026-10-19T09:27:04.000Z",
-      "summary": "Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demand Business live – latest updates Roaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending. China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on Monday. The figu"
+      "summary": "Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demand Roaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending. China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on Monday. The figures were better than economists"
     },
     {
       "id": "7614f19c16089175",
@@ -422,16 +532,6 @@
       "summary": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance."
     },
     {
-      "id": "29312e4d63fd0716",
-      "title": "Three deaths from float crushes raise safety concerns over Japanese festivals",
-      "url": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents",
-      "source": "The Guardian World",
-      "category": "creativity_arts",
-      "region": "europe",
-      "publishedAt": "2026-10-19T09:08:34.000Z",
-      "summary": "Deputy mayor of Saijo died after becoming trapped under float, days after two similar incidents elsewhere There is mounting concern over the safety of Japan’s traditional festivals after the death of a senior local official who was reportedly crushed beneath a float at the weekend, days after two men died in similar incidents in another part of the country. Akihiro Nabae, the deputy mayor of Saijo, in western Japan, "
-    },
-    {
       "id": "70489eb16ec0a35a",
       "title": "State Minister Ishraq Hossain Resigns",
       "url": "https://www.bd24live.com/state-minister-ishraq-hossain-resigns/",
@@ -440,26 +540,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-10-19T08:50:12.000Z",
       "summary": "State Minister for Liberation War Affairs, Ishraq Hossain, has announced his resignation from the cabinet, bringing an end to various speculations and rumors. He stated that he made this decision… The post State Minister Ishraq Hossain Resigns appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "de0ffca0314f759a",
-      "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
-      "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-10-19T08:17:19.000Z",
-      "summary": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque."
-    },
-    {
-      "id": "14d010f6feb7bfec",
-      "title": "Mission set to blast off for Mars to grab a piece of its moon",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-10-19T08:03:49.000Z",
-      "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth."
     },
     {
       "id": "9b58ede6e211de02",
@@ -512,16 +592,6 @@
       "summary": "Voters to be asked whether province should remain part of Canada or hold a second, binding independence vote Albertans are going to the polls to decide their place in Canada, in a referendum that has exposed deep divisions within the province, not least in the separatist movement itself. On Monday, voters will respond to the question of whether Alberta should remain in Canada, or hold a second, binding independence r"
     },
     {
-      "id": "5609c372ded23381",
-      "title": "Burnham urged to launch inquiry into unequal health impacts of air pollution",
-      "url": "https://www.theguardian.com/environment/2026/oct/19/andy-burnham-government-inquiry-unequal-health-impacts-air-pollution",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-10-19T05:00:20.000Z",
-      "summary": "Letter from 150 scientists, MPs and activists calls for action to protect lower-income and minority-ethnic communities The government must hold an inquiry into the unequal impacts of air pollution, 150 scientists, MPs and activists have urged. Research by the Institute for Fiscal Studies shows that across England, lower-income areas have persistently higher levels of air pollution than wealthier areas. Continue readi"
-    },
-    {
       "id": "9a544296f1238c3c",
       "title": "Ishraque Hossain to Make Final Resignation Announcement at Noon",
       "url": "https://www.bd24live.com/ishraque-hossain-to-make-final-resignation-announcement-at-noon/",
@@ -542,6 +612,16 @@
       "summary": "The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents."
     },
     {
+      "id": "d4ab453b3ae13f23",
+      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "europe",
+      "publishedAt": "2026-10-18T23:28:45.000Z",
+      "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports."
+    },
+    {
       "id": "166dbfa90187c0ef",
       "title": "Don't fall for this - how to protect yourself from AI scams",
       "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
@@ -550,16 +630,6 @@
       "region": "global",
       "publishedAt": "2026-10-18T23:24:59.000Z",
       "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites."
-    },
-    {
-      "id": "a9d3f3d23b6444b5",
-      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "diplomacy",
-      "region": "europe",
-      "publishedAt": "2026-10-18T23:20:15.000Z",
-      "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect."
     },
     {
       "id": "d8c300e7efba564d",
@@ -702,6 +772,16 @@
       "summary": "Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024 Get our breaking news email, free app or daily news podcast A Mexican ⁠judge ⁠has sentenced ​three men to 158 years ⁠and nine months in prison each for ⁠the murder of ​two Australian ‌brothers ‌and their American friend during ‌a 2024 surf trip to the state of Baja Cali"
     },
     {
+      "id": "209d483d4bb5f3b3",
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-10-17T02:33:09.000Z",
+      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro."
+    },
+    {
       "id": "a9d5012e23a92745",
       "title": "Why hasn't the UK had any named storms yet?",
       "url": "https://www.bbc.co.uk/weather/articles/ck5yn68mj88vo?at_medium=RSS&at_campaign=rss",
@@ -730,16 +810,6 @@
       "region": "europe",
       "publishedAt": "2026-10-16T15:31:33.000Z",
       "summary": "The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024."
-    },
-    {
-      "id": "7b65d5b99e28c2f9",
-      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
-      "url": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
-      "source": "BleepingComputer",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-10-16T13:50:59.000Z",
-      "summary": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized AI use and block sensitive information before it reaches personal accounts. [...]"
     },
     {
       "id": "1a4d418eaf24bb62",
@@ -780,36 +850,6 @@
       "region": "global",
       "publishedAt": "2026-10-15T15:42:37.000Z",
       "summary": "Parts of southern England have entered \"severe drought\", while about 30 million people are under hosepipe ban."
-    },
-    {
-      "id": "a8785a4922db6f34",
-      "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
-      "url": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-10-15T14:25:48.000Z",
-      "summary": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year."
-    },
-    {
-      "id": "9c99411e0030b300",
-      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-10-15T11:34:55.000Z",
-      "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure."
-    },
-    {
-      "id": "73af5ea364b297ee",
-      "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
-      "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
-      "source": "The Guardian World",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-10-15T08:00:25.000Z",
-      "summary": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reports Mass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report. More than 320 individuals have been arrested and detained on allegations of “acts against nature” since February, according to HIV Justic"
     },
     {
       "id": "8012d0a0ea8bbb17",
