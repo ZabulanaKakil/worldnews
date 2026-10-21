@@ -1,15 +1,285 @@
 {
-  "generatedAt": "2026-10-21T09:59:22.694Z",
+  "generatedAt": "2026-10-21T15:07:21.174Z",
   "articles": [
     {
-      "id": "7bbca102c7a3e809",
-      "title": "Farmer lost out by minutes in race for wildlife funding",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qznp3gdvdo?at_medium=RSS&at_campaign=rss",
+      "id": "b1e715f450173125",
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-10-21T15:00:00.000Z",
+      "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details). It's taken almost 12 months for Google to bring this to CarPlay users, but now they can talk to the voice ass"
+    },
+    {
+      "id": "fc0f71568b2e0c9d",
+      "title": "Samsung’s 5K monitor has good gaming chops and a great price",
+      "url": "https://www.theverge.com/gadgets/1015346/samsung-5k-monitor-gaming-gta-6-usbc-charger-deal-sale",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-10-21T14:47:14.000Z",
+      "summary": "There are quite a few 5K monitors out there. Many of them are designed to appeal to Mac users who are looking for cheaper Studio Display alternatives without giving up the pixel-dense 218ppi screen. However, if you’re interested in hearing about one with gaming chops, Samsung’s 27-inch Odyssey G80HF seems like one of the best monitors out there to satisfy your niche, but respectable desires. Currently, you can grab t"
+    },
+    {
+      "id": "8094c45377996874",
+      "title": "Musk pledges $10bn in SpaceX shares for US children: Who really gains?",
+      "url": "https://www.aljazeera.com/news/2026/10/21/musk-pledges-10bn-in-spacex-shares-for-us-children-who-really-gains?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-10-21T14:41:03.000Z",
+      "summary": "The pledge, which Trump says will go through tax-friendly 'Trump accounts', comes two weeks before the US midterms."
+    },
+    {
+      "id": "e1b93bc723d610ed",
+      "title": "Websites taken down across Europe as critical cyber-security update issued",
+      "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "region": "europe",
+      "publishedAt": "2026-10-21T14:39:41.000Z",
+      "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI."
+    },
+    {
+      "id": "e5a79ee53cbe4e50",
+      "title": "Russia releases American Stephen Hubbard after four years in prison",
+      "url": "https://www.aljazeera.com/news/2026/10/21/russia-releases-american-stephen-hubbard-after-four-years-in-prison?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-10-21T14:31:53.000Z",
+      "summary": "Hubbard was jailed after being accused of fighting alongside Ukrainian forces against Russia."
+    },
+    {
+      "id": "1991345f8d964f8e",
+      "title": "US congressional candidate Brad Lander freed after West Bank detention",
+      "url": "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "middle_east",
+      "publishedAt": "2026-10-21T14:12:15.000Z",
+      "summary": "Lander says dozens remain in Israeli custody after being detained while helping Palestinian farmers harvest olives."
+    },
+    {
+      "id": "f284dea26b18584b",
+      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
+      "source": "BleepingComputer",
+      "category": "disasters",
+      "region": "global",
+      "publishedAt": "2026-10-21T14:07:05.000Z",
+      "summary": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]"
+    },
+    {
+      "id": "64e421e876f30b42",
+      "title": "Macron accuses foreign leaders of exploiting French riots",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-10-21T14:04:28.000Z",
+      "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks."
+    },
+    {
+      "id": "b3ed6079c58fcb65",
+      "title": "Benson and McNabney handed first Ireland call-ups",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqrly237xlz3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-21T14:02:51.000Z",
+      "summary": "Ulster duo Jamie Benson and James McNabney have been handed their first Ireland call-ups for November's Nations Championship matches."
+    },
+    {
+      "id": "6679f14ddbbd0f97",
+      "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
+      "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-10-21T14:00:10.000Z",
+      "summary": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]"
+    },
+    {
+      "id": "e026fd51f4c5eae2",
+      "title": "Blink brings 4K to its low-cost security camera lineup",
+      "url": "https://www.theverge.com/tech/1015238/amazon-blink-4k-trail-security-camera-launch",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-10-21T14:00:00.000Z",
+      "summary": "From left to right, here are the Outdoor 2K XR Plus and Mini Pant-Tilt 2K Plus (top), and the Spotlight Cam 2K Plus, Mini 4K Plus, and Frontier XR Plus (bottom). | Image: Amazon / Blink Amazon is launching a new lineup of Blink security cameras, including its first 4K, pan-tilt models, and battery-powered spotlight models. These new additions provide better resolution and extended range for monitoring your property c"
+    },
+    {
+      "id": "893ebe84f2e05fa6",
+      "title": "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties",
+      "url": "https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-21T13:58:17.000Z",
+      "summary": "Experts say conflicts and uncertainty are accelerating efforts to strengthen regional military capacity."
+    },
+    {
+      "id": "ef5d9be79919a4c9",
+      "title": "Why do Man City fans boo pre-match anthems?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvx28yk1j6z0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-21T13:57:59.000Z",
+      "summary": "The cacophony of boos that greet the Premier League and Champions League anthems before kick-off have now become a fixture at Etihad Stadium."
+    },
+    {
+      "id": "497b300f0ad5e8d6",
+      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-10-21T13:57:43.000Z",
+      "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason to remove the monitoring integration from the user's code,\" Marcus Wil"
+    },
+    {
+      "id": "4ca09743f722da3e",
+      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-10-21T13:49:50.000Z",
+      "summary": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says."
+    },
+    {
+      "id": "84f28ae4390fe2be",
+      "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
+      "source": "The Guardian World",
+      "category": "diplomacy",
+      "region": "africa",
+      "publishedAt": "2026-10-21T13:40:08.000Z",
+      "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail Relatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions. Flights are scheduled as early as Wednesday, according to the families and the immigration advocacy group the Worker"
+    },
+    {
+      "id": "a8455c9c8177c052",
+      "title": "Family of prison officer killed by IRA receives state apology",
+      "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-10-21T13:35:27.000Z",
+      "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later."
+    },
+    {
+      "id": "d67460d0125b8231",
+      "title": "Biman Delivers Good News on Saudi Flights",
+      "url": "https://www.bd24live.com/biman-delivers-good-news-on-saudi-flights/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-21T13:35:12.000Z",
+      "summary": "Following the improvement of the situation related to airport attacks in Saudi Arabia, Biman Bangladesh Airlines has resumed flight operations on the Dhaka-Dammam route. The national flag carrier has also… The post Biman Delivers Good News on Saudi Flights appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "c6465aefba66ffcb",
+      "title": "How war in Lebanon has cost young people with autism and ADHD",
+      "url": "https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-10-21T13:32:57.000Z",
+      "summary": "Experts warn that war takes a heavy toll on neurodivergent people, who often rely on routine."
+    },
+    {
+      "id": "7720a2a6a250746f",
+      "title": "Are the UK, France being pulled into the Saudi-Houthi conflict?",
+      "url": "https://www.aljazeera.com/news/2026/10/21/are-the-uk-france-being-pulled-into-the-saudi-houthi-conflict?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-10-21T13:25:50.000Z",
+      "summary": "The European states say their support for Riyadh is 'defensive', but analysts warn Houthi reaction may complicate that."
+    },
+    {
+      "id": "4781064657fe6d07",
+      "title": "As fans reject AI-generated music, even boosters are drawing the line",
+      "url": "https://www.theguardian.com/music/2026/oct/21/artificial-intelligence-music-grimes-asap-rocky",
+      "source": "The Guardian Culture",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-10-21T13:22:51.000Z",
+      "summary": "Enthusiasts like Grimes and A$AP Rocky may embrace AI-generated content, but they won’t produce it themselves Streaming services, notable musicians and fans are confronting the growing presence of AI-generated music and drawing lines in the sand. On Tuesday, Spotify announced it had removed about 50m songs considered AI slop from its recommendations to users over the past year. Continue reading..."
+    },
+    {
+      "id": "6e79bb04d5ab7b30",
+      "title": "From one house to villages: Israeli settlers have Palestinians surrounded",
+      "url": "https://www.aljazeera.com/features/2026/10/21/from-one-house-to-whole-villages-settlers-have-palestinians-surrounded?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-10-21T13:20:27.000Z",
+      "summary": "A family in the South Hebron Hills has spent more than two weeks cut off by settlers camped outside."
+    },
+    {
+      "id": "3231db940bcc9d4f",
+      "title": "Pakistani authorities arrest man accused in $126m US postage fraud",
+      "url": "https://www.aljazeera.com/news/2026/10/21/pakistani-authorities-arrest-man-accused-in-126m-us-postage-fraud?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-10-21T13:06:53.000Z",
+      "summary": "Faheem Akram has been charged with several offences including conspiracy to defraud the United States."
+    },
+    {
+      "id": "fadcf94f3e1b2ac6",
+      "title": "Protests as UK approves new gas drilling in North Sea",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/protests-as-uk-approves-new-gas-drilling-in-north-sea?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "weather_climate",
+      "region": "europe",
+      "publishedAt": "2026-10-21T12:49:52.000Z",
+      "summary": "Climate activists have protested against the UK’s decision to go ahead with new gas drilling in the North Sea."
+    },
+    {
+      "id": "1ff6f42fec23b3e4",
+      "title": "Nigeria confirms Ebola case linked to East Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "africa",
+      "publishedAt": "2026-10-21T12:39:34.000Z",
+      "summary": "The female patient, who sources have told the BBC is not Nigerian, is in isolation and in an Abuja hospital."
+    },
+    {
+      "id": "1ad501f5d224caa1",
+      "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-10-21T12:20:34.000Z",
+      "summary": "Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]"
+    },
+    {
+      "id": "e8d20ecd3385fe4c",
+      "title": "Why has Lord's dug up its pitch and what comes next?",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cxvgd73rg97qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-21T12:02:29.000Z",
+      "summary": "After years of comment, Lord's has dug up one of its pitches for the first time in more than 25 years. Why the drastic action and what next?"
+    },
+    {
+      "id": "0087abfc1a88f51a",
+      "title": "How much gas could Jackdaw provide? And will it cut your energy bills?",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g13pplyzzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Science & Environment",
       "category": "environment",
-      "region": "americas",
-      "publishedAt": "2026-10-21T09:49:32.000Z",
-      "summary": "Richard Peace is among thousands of farmers who missed out as funding was snapped up in hours."
+      "region": "global",
+      "publishedAt": "2026-10-21T11:57:49.000Z",
+      "summary": "BBC Verify looks at what the Jackdaw decision means for bills, energy security and the environment."
     },
     {
       "id": "a39e07d2f77136a1",
@@ -18,38 +288,78 @@
       "source": "BBC Sport",
       "category": "sports",
       "region": "europe",
-      "publishedAt": "2026-10-21T09:49:23.000Z",
-      "summary": "Paris St-Germain winger Khvicha Kvaratskhelia will undergo knee surgery after suffering a knee injury during his side's 4-2 win over Barcelona on Tuesday."
+      "publishedAt": "2026-10-21T11:45:03.000Z",
+      "summary": "Paris St-Germain winger Khvicha Kvaratskhelia will undergo surgery after suffering a knee injury during his side's 4-2 win over Barcelona on Tuesday."
     },
     {
-      "id": "dca186c002ea838d",
-      "title": "Attack on Australian MP Haines: How threats against legislators have soared",
-      "url": "https://www.aljazeera.com/news/2026/10/21/attack-on-australian-mp-haines-how-threats-against-legislators-have-soared?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-21T09:24:47.000Z",
-      "summary": "Abuse, threats against Australian lawmakers are rising in a country where political violence has historically been rare."
+      "id": "c32a9cb69817e312",
+      "title": "F1 races to return to standard distance in 2028",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c69wzvr14xlxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-21T11:41:56.000Z",
+      "summary": "Formula 1 grands prix will return to their standard distance in 2028 after the maximum length was shortened for next season."
     },
     {
-      "id": "0a0a0d989786f947",
-      "title": "Russia frees US citizen Stephen Hubbard, state media reports",
-      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "id": "a7f3da63114bb2ed",
+      "title": "Shark trapped for a month in South Korean canal is finally freed",
+      "url": "https://www.theguardian.com/world/2026/oct/21/youtube-watch-over-shark-stuck-south-korea-canal-busan-bukang-i",
+      "source": "The Guardian World",
+      "category": "diplomacy",
+      "region": "americas",
+      "publishedAt": "2026-10-21T11:41:48.000Z",
+      "summary": "Bukang-i successfully guided out after month in which it drew 1.6m visitors and was watched over by YouTubers In South Korea, they call them jagyeongdan, a word whose meaning sits somewhere between vigilante group and neighbourhood watch. Each night they put on hi-vis vests, picked up their selfie sticks and gathered around the harbour in Busan to keep watch over an unlikely charge: a stranded shark affectionately kn"
+    },
+    {
+      "id": "781b9baf75831a79",
+      "title": "Allen reveals mental health clinic stay before return",
+      "url": "https://www.bbc.co.uk/sport/snooker/articles/c3ewe41dd0g5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-21T10:56:37.000Z",
+      "summary": "Mark Allen says he is working to \"turn things around\" and reveals he spent time in a mental health clinic before returning to snooker."
+    },
+    {
+      "id": "34714d815cd0a6bb",
+      "title": "Giant tunnel proposed to tackle Windermere sewage discharges",
+      "url": "https://www.theguardian.com/environment/2026/oct/21/giant-tunnel-proposed-to-tackle-widermere-sewage-discharges",
+      "source": "The Guardian Environment",
+      "category": "environment",
+      "region": "global",
+      "publishedAt": "2026-10-21T10:32:12.000Z",
+      "summary": "United Utilities, Environment Agency and local campaigners say 12-mile tunnel could take sewage away from England’s largest lake Plans are under way for a new giant tunnel to transport sewage away from Windermere, England’s largest lake. Windermere, in the Lake District, has suffered from widespread raw sewage and bacterial pollution driven by discharges from United Utilities. Campaigners say this pollution has cause"
+    },
+    {
+      "id": "f9e06710a1395d80",
+      "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-10-21T10:20:15.000Z",
+      "summary": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget."
+    },
+    {
+      "id": "2143c1326df16520",
+      "title": "Dengue Claims 7 More Lives, 1,373 Hospitalized",
+      "url": "https://www.bd24live.com/dengue-claims-7-more-lives-1373-hospitalized/",
+      "source": "BD24Live",
       "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-10-21T09:22:23.000Z",
-      "summary": "Stephen Hubbard has been taken to Pulkovo Airport, Putin said during talks with US envoy Steve Witkoff."
+      "region": "bangladesh",
+      "publishedAt": "2026-10-21T10:05:12.000Z",
+      "summary": "In the last 24 hours, seven more people have died from dengue across the country. With this, the total number of dengue fatalities this year has risen to 364. During… The post Dengue Claims 7 More Lives, 1,373 Hospitalized appeared first on Bangla Online News Portal."
     },
     {
-      "id": "e48d15bb028435ef",
-      "title": "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
-      "url": "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-10-21T09:02:18.000Z",
-      "summary": "Smoke seen rising near airport in Aden as Houthis say they attacked a military camp with a ballistic missile."
+      "id": "76113dcb17cee34d",
+      "title": "Cyndi Lauper on fun, fashion and freedom of expression: ‘We have braces on our brains’",
+      "url": "https://www.theguardian.com/music/2026/oct/21/cyndi-lauper-auction-fashion",
+      "source": "The Guardian Culture",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-10-21T09:00:00.000Z",
+      "summary": "As she auctions off her treasures, the synth-pop savant opens up about her eccentric style and why she doesn’t believe in cancel culture Before Cyndi Lauper rose to fame as one of the most singular pop breakouts of the 1980s, she was queen of the cash register at the edgy Manhattan boutique Screaming Mimi’s. The vintage emporium is still a downtown staple, but a little of its spirit comes uptown this month with Cyndi"
     },
     {
       "id": "007d454671cfdd93",
@@ -112,26 +422,6 @@
       "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger."
     },
     {
-      "id": "41f625aa3d73429b",
-      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-10-21T08:36:24.000Z",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]"
-    },
-    {
-      "id": "40722a209ce87fcb",
-      "title": "Australian MP loses both legs in vehicle attack as suspect appears in court",
-      "url": "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-21T08:34:37.000Z",
-      "summary": "Independent lawmaker Helen Haines is in stable condition, her husband says, as suspect charged with three offences."
-    },
-    {
       "id": "02ee38cebf974bf1",
       "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
       "url": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss",
@@ -140,36 +430,6 @@
       "region": "global",
       "publishedAt": "2026-10-21T08:31:48.000Z",
       "summary": "The Gambia has confirmed receiving $2.5m from the sale of the house in Maryland."
-    },
-    {
-      "id": "fbdfd56d9482b90a",
-      "title": "LeBron James’s 76ers beat NY Knicks on NBA’s opening night at MSG",
-      "url": "https://www.aljazeera.com/sports/2026/10/21/lebron-jamess-76ers-beat-ny-knicks-on-nbas-opening-night-at-msg?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-10-21T08:30:55.000Z",
-      "summary": "The Philadelphia 76ers defeated NBA champions New York Knicks 106-100 as the new NBA season tipped off."
-    },
-    {
-      "id": "fa5c3d1d152a321e",
-      "title": "Drone attack in disputed Sudan-South Sudan border region kills at least 153",
-      "url": "https://www.aljazeera.com/news/2026/10/21/drone-attack-in-disputed-sudan-south-sudan-border-region-kills-at-least-153?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "africa",
-      "publishedAt": "2026-10-21T08:25:45.000Z",
-      "summary": "South Sudan authorities say Sudan's army launched drone attack on market, as MSF says it is treating 20 wounded people."
-    },
-    {
-      "id": "36864b7bc88cfe22",
-      "title": "Climate campaigners condemn ‘maddening’ decision to approve Jackdaw gasfield",
-      "url": "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-climate-campaigners-condemn-decision-north-sea-mining",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "europe",
-      "publishedAt": "2026-10-21T08:23:46.000Z",
-      "summary": "Critics say move will jeopardise climate targets, fail to cut cost of living and distract from need to decarbonise energy UK politics live – latest updates Climate campaigners and green experts have condemned the government’s decision to allow the drilling of the Jackdaw gasfield in the North Sea. They said approval for the site would jeopardise the UK’s climate targets, fail to reduce the cost of living, and distrac"
     },
     {
       "id": "4b4205d483647cdf",
@@ -182,24 +442,24 @@
       "summary": "Prime Minister Tareq Rahman is scheduled to visit Khulna and Mongla on Thursday to assess port expansion, energy infrastructure development, and new investment opportunities. Businesspeople and the general public anticipate… The post Prime Minister Visiting Khulna and Mongla Tomorrow appeared first on Bangla Online News Portal."
     },
     {
-      "id": "147bec2688010ecf",
-      "title": "Bayern Munich vs Arsenal: Champions League – Predictions, Olise, lineups",
-      "url": "https://www.aljazeera.com/sports/2026/10/21/bayern-munich-arsenal-champions-league-predictions-saka-kane-olise?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-10-21T08:15:00.000Z",
-      "summary": "Bayern Munich host Arsenal on Wednesday, as the teams clash for the 16th time in Europe's premier club competition."
+      "id": "55dae853079f637b",
+      "title": "The Mystery of What Befell in the Ditch by Thure Erik Lund review – is this the greatest living Norwegian writer?",
+      "url": "https://www.theguardian.com/books/2026/oct/21/the-mystery-of-what-befell-in-the-ditch-by-thure-erik-lund-review-is-this-the-greatest-living-norwegian-writer",
+      "source": "The Guardian Culture",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-10-21T08:00:04.000Z",
+      "summary": "Translated into English at last, this portrait of a man appalled by modernity and desperate to get back to nature is brimming with Nordic weltschmerz T-O-M. The initials of Tomas Olsen Myrbråten, the narrator in Thure Erik Lund’s The Mystery of What Befell in the Ditch, spell out the Norwegian word for “empty”. Approaching 38, he’s already a relic. He spends his days slumped at the kitchen table or staring out of the"
     },
     {
-      "id": "cc9b140f64270bbd",
-      "title": "Israeli soldiers mock Lebanese home they rigged with explosives",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/israeli-soldiers-mock-lebanese-home-they-rigged-with-explosives?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-10-21T08:05:28.000Z",
-      "summary": "Israeli soldiers in Southern Lebanon are seen ‘jokingly’ giving a tour of a displaced family’s home."
+      "id": "f4ab774aebeedb9f",
+      "title": "Making Marie Antoinette review – sweet Coppola home movie reveals the family business",
+      "url": "https://www.theguardian.com/film/2026/oct/21/making-marie-antoinette-review-sofia-eleanor-coppola-documentary",
+      "source": "The Guardian Culture",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-10-21T08:00:04.000Z",
+      "summary": "Shot by Sofia’s mother Eleanor this documentary shows something of the strain of shooting a period piece, but is a far cry from the tumultuous portrait of her husband in Hearts of Darkness It is 20 years since the release of Sofia Coppola’s Marie Antoinette starring Kirsten Dunst; it is a supportively unjudging, unironised study of the queen’s early years before the 1789 revolution, lavishly and accurately costumed, "
     },
     {
       "id": "7a659885ad22d3c9",
@@ -212,36 +472,6 @@
       "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday."
     },
     {
-      "id": "979cad033ac28d7e",
-      "title": "‘It’s hard for us’: Paris small businesses bear brunt of protest violence",
-      "url": "https://www.aljazeera.com/news/2026/10/21/its-hard-for-us-paris-small-businesses-bear-brunt-of-protest-violence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "europe",
-      "publishedAt": "2026-10-21T07:56:14.000Z",
-      "summary": "Shopkeepers - including those from immigrant backgrounds - count losses from violence last weekend."
-    },
-    {
-      "id": "ae4cf4a2eeb02345",
-      "title": "‘I am still traumatised’: French police accused of brutalising minors",
-      "url": "https://www.aljazeera.com/news/2026/10/21/i-am-still-traumatised-french-police-accused-of-brutalising-minors?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-10-21T07:55:28.000Z",
-      "summary": "Police violence and use of crowd-control weapons deepen mistrust between French authorities and demonstrators."
-    },
-    {
-      "id": "312361edfb85692b",
-      "title": "Witkoff in Russia for Putin meeting after ‘positive’ talks with Zelenskyy",
-      "url": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-10-21T07:37:19.000Z",
-      "summary": "Secretary of State Marco Rubio described Witkoff's talks with Zelenskyy as 'positive', as efforts to end war intensify."
-    },
-    {
       "id": "02f9af5db34df9ac",
       "title": "Crystal Palace urged to retire bald eagle mascot",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmx2302r04r4o?at_medium=RSS&at_campaign=rss",
@@ -252,16 +482,6 @@
       "summary": "Animal rights group Peta is urging Crystal Palace to retire their bald eagle mascot, saying a \"bright stadium filled with boisterous fans is no place for animals\"."
     },
     {
-      "id": "25652e498fa1add7",
-      "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
-      "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-10-21T06:50:40.000Z",
-      "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history."
-    },
-    {
       "id": "124564cd596c868c",
       "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
       "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
@@ -270,16 +490,6 @@
       "region": "global",
       "publishedAt": "2026-10-21T06:36:39.000Z",
       "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history."
-    },
-    {
-      "id": "ac600dac846ad799",
-      "title": "LeBron James' 76ers beat Knicks on NBA opening night",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/c6vgj4g913wyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-21T06:34:15.000Z",
-      "summary": "LeBron James scores 14 points on debut for the Philadelphia 76ers as they defeat champions the New York Knicks on the opening night of the NBA season."
     },
     {
       "id": "65c2c5315f2b0c15",
@@ -302,16 +512,6 @@
       "summary": "Serie A success story Como have gone from Serie A to the Champions League - now they are ready for a historic night against Manchester United."
     },
     {
-      "id": "fe911a45aff44e8c",
-      "title": "World must cut emissions by 18% in four years ‘to find our way back’, UN says",
-      "url": "https://www.theguardian.com/environment/2026/oct/21/world-cut-emissions-un-climate-crisis",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-10-21T05:00:04.000Z",
-      "summary": "Action needed to avoid disastrous overshoot of climate targets, according to organisation’s environment body The world needs to cut carbon emissions by nearly a fifth in the next four years, and by close to half within a decade, to avoid overshooting climate targets by a disastrous margin. Although the “window has closed” on holding temperature rises to 1.5C, in line with scientific advice, limiting the “overshoot” o"
-    },
-    {
       "id": "57d15d66882b36d3",
       "title": "Giant tunnel proposed to clean up Windermere's sewage problem",
       "url": "https://www.bbc.co.uk/news/articles/cr5yn4pky527o?at_medium=RSS&at_campaign=rss",
@@ -320,16 +520,6 @@
       "region": "global",
       "publishedAt": "2026-10-21T04:44:56.000Z",
       "summary": "The plan would eliminate sewage spills into Windermere, blamed for turning the water green."
-    },
-    {
-      "id": "22a64f8273fbcf06",
-      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-10-21T01:01:50.000Z",
-      "summary": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]"
     },
     {
       "id": "6d7b756991bd33fc",
@@ -342,16 +532,6 @@
       "summary": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola. It is unclear when she arriv"
     },
     {
-      "id": "4ce9259992b058a0",
-      "title": "YouTube might be testing hiding the dislike button",
-      "url": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-10-21T00:00:56.000Z",
-      "summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike button being absent for them. Right now, for me, the dislike button sits right next to the like button under a video. Moving it to a submenu would"
-    },
-    {
       "id": "bde52c6dc05a96d7",
       "title": "The tech helping crack decades-old cold cases",
       "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
@@ -360,26 +540,6 @@
       "region": "global",
       "publishedAt": "2026-10-20T23:13:24.000Z",
       "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy."
-    },
-    {
-      "id": "c6cdfd0d25da9bbf",
-      "title": "No jeopardy but loads of fun - is new Champions League format a success?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5je34l0q5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-20T23:03:11.000Z",
-      "summary": "It was goals galore again in the Champions League on Tuesday, with the competition setting a new record this season."
-    },
-    {
-      "id": "981171f89d77754d",
-      "title": "The night 'ruthless' Ngumoha came of age for Liverpool",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck0e0zydv33go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-20T22:56:55.000Z",
-      "summary": "Rio Ngumoha produces a coming-of-age performance in Liverpool's comeback win over Villarreal, writes Aadam Patel."
     },
     {
       "id": "b21dcffdfb2274cf",
@@ -392,48 +552,8 @@
       "summary": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet."
     },
     {
-      "id": "98c813bdf4dfdc7e",
-      "title": "Google’s more personalized Gemini AI is heading to your car",
-      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "source": "The Verge",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-10-20T22:11:34.000Z",
-      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving to the airport. The AI assistant can pull your flight details from a confirmation"
-    },
-    {
-      "id": "18db47f3fdd372fa",
-      "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
-      "url": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-10-20T21:02:53.000Z",
-      "summary": "SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the attempt would mark the first time in history an orbital launch vehicle has been fully recovered. \"This is a profound technology milestone in the history of civilization consciousness,\" he said during the company"
-    },
-    {
-      "id": "c3a171372ec1abc5",
-      "title": "Snap is paying Robert Downey Jr. to do the Iron Man thing",
-      "url": "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-10-20T20:32:09.000Z",
-      "summary": "Snap has a new brand ambassador for its Specs AR glasses: Iron Man actor Robert Downey Jr. The company has brought on Downey as Specs' \"Chief Customer Experience Officer\" and has published several videos featuring Downey showcasing the capabilities of the new glasses, including as a tool to get help with a putt, practice art, and watch a private video of an MMA match in bed. In one video, he also dumps the contents o"
-    },
-    {
-      "id": "06bcb62418574442",
-      "title": "Oura adds two new cardiovascular health tracking features to its smart rings",
-      "url": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-10-20T20:26:04.000Z",
-      "summary": "Oura is introducing two new cardiovascular-focused health tracking features to its smart rings designed to help users better understand the effect regular workouts and exercise are having on their long-term health, and whether they need to ramp it up or dial things down. Cardio Effort and automatic VO2 Max (previously known as Cardio Capacity) are available for the Oura Ring Gen 3 and later models, but only to users "
-    },
-    {
-      "id": "0a8bcebf6445bf8b",
-      "title": "Trump and Zelensky appear at loggerheads despite new optimism",
+      "id": "7d1536dc2399525e",
+      "title": "Trump and Zelensky at loggerheads despite new optimism",
       "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "war_conflict",
@@ -450,16 +570,6 @@
       "region": "global",
       "publishedAt": "2026-10-20T19:42:32.000Z",
       "summary": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination."
-    },
-    {
-      "id": "ffdb331e7a9f86a0",
-      "title": "Trump sued over Canadian tariffs in latest legal challenge",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "economy_business",
-      "region": "americas",
-      "publishedAt": "2026-10-20T19:30:05.000Z",
-      "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\"."
     },
     {
       "id": "32563ff13c1e478d",
@@ -532,36 +642,6 @@
       "summary": "Mitchell Fairbarn found guilty of animal cruelty after prosecutors say he hurt and frightened the 27-year-old bird A Canadian man was convicted of animal cruelty charges on Monday for snatching a flamingo named Peachy from its enclosure at an iconic Las Vegas hotel. Prosecutors said it was a malicious prank while a lawyer for the tourist insisted it was drunken foolishness not meant to harm the bird. Continue reading"
     },
     {
-      "id": "faad281bd72f8db8",
-      "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
-      "url": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "africa",
-      "publishedAt": "2026-10-20T15:58:57.000Z",
-      "summary": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC."
-    },
-    {
-      "id": "e541cc958d6a3022",
-      "title": "‘It was so satisfying when I threw a rock through the screen’: the people sick of being spied on by their smart TV",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/20/smart-tv-television-dumb-wifi-techies-privacy",
-      "source": "The Guardian Culture",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-10-20T14:42:25.000Z",
-      "summary": "Is your television listening to every conversation? Filling your home with highly invasive ads? Some viewers have had enough of tech violating their privacy When Dan had had enough of his television, he threw a rock straight through the screen. The offence? His smart TV was downloading its third update in three days. “It drove me crazy with what seemed like daily software updates that never fixed anything and ‘featur"
-    },
-    {
-      "id": "63d0dab272f2e34f",
-      "title": "Huge fin whale filmed off Welsh coast",
-      "url": "https://www.bbc.co.uk/news/videos/cxly491v6p7yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-10-20T13:42:22.000Z",
-      "summary": "Rhys Morgan captured footage of the world's second-largest whale species lunge feeding on his drone."
-    },
-    {
       "id": "beb0c3a26c382553",
       "title": "UK asks Apple to widen access to its payment tech",
       "url": "https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&at_campaign=rss",
@@ -590,16 +670,6 @@
       "region": "global",
       "publishedAt": "2026-10-20T12:00:36.000Z",
       "summary": "Researchers say almost 90% of participants in unconditional basic income scheme in Peru adopted environmentally beneficial practices A pioneering project to provide Indigenous people in the Peruvian Amazon with an unconditional basic income has contributed to the protection of the rainforest, according to a study. The analysis from the University of Bath is expected to contribute to a growing debate about the role of"
-    },
-    {
-      "id": "8852a896e3e95dff",
-      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-20T11:45:49.000Z",
-      "summary": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread."
     },
     {
       "id": "cae72bf688957162",
@@ -792,16 +862,6 @@
       "summary": "Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demand Roaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending. China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on Monday. The figures were better than economists"
     },
     {
-      "id": "29312e4d63fd0716",
-      "title": "Three deaths from float crushes raise safety concerns over Japanese festivals",
-      "url": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents",
-      "source": "The Guardian World",
-      "category": "creativity_arts",
-      "region": "europe",
-      "publishedAt": "2026-10-19T09:08:34.000Z",
-      "summary": "Deputy mayor of Saijo died after becoming trapped under float, days after two similar incidents elsewhere There is mounting concern over the safety of Japan’s traditional festivals after the death of a senior local official who was reportedly crushed beneath a float at the weekend, days after two men died in similar incidents in another part of the country. Akihiro Nabae, the deputy mayor of Saijo, in western Japan, "
-    },
-    {
       "id": "70489eb16ec0a35a",
       "title": "State Minister Ishraq Hossain Resigns",
       "url": "https://www.bd24live.com/state-minister-ishraq-hossain-resigns/",
@@ -812,24 +872,14 @@
       "summary": "State Minister for Liberation War Affairs, Ishraq Hossain, has announced his resignation from the cabinet, bringing an end to various speculations and rumors. He stated that he made this decision… The post State Minister Ishraq Hossain Resigns appeared first on Bangla Online News Portal."
     },
     {
-      "id": "9b58ede6e211de02",
-      "title": "Attempt to bring back Awami League is a betrayal of July Martyrs: Prime Minister",
-      "url": "https://www.bd24live.com/attempt-to-bring-back-awami-league-is-a-betrayal-of-july-martyrs-prime-minister/",
-      "source": "BD24Live",
-      "category": "creativity_arts",
-      "region": "bangladesh",
-      "publishedAt": "2026-10-19T07:15:10.000Z",
-      "summary": "Prime Minister Tarique Rahman commented that any attempt to bring back the Awami League while in opposition would be a betrayal of the martyrs of the July mass uprising. He… The post Attempt to bring back Awami League is a betrayal of July Martyrs: Prime Minister appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "b9280fb0602d1bd7",
-      "title": "Prime Minister Unveils ‘July Memorial’ Accompanied by Families of Martyrs",
-      "url": "https://www.bd24live.com/prime-minister-unveils-july-memorial-accompanied-by-families-of-martyrs/",
-      "source": "BD24Live",
-      "category": "creativity_arts",
-      "region": "bangladesh",
-      "publishedAt": "2026-10-19T06:25:15.000Z",
-      "summary": "Prime Minister Tareque Rahman has inaugurated the ‘July Memorial’ built in Dhaka’s Osmani Udyan to preserve the memory of those martyred in the July Mass Uprising. Concurrently, he also inaugurated… The post Prime Minister Unveils ‘July Memorial’ Accompanied by Families of Martyrs appeared first on Bangla Online News Portal."
+      "id": "896c62c75b9cb7e4",
+      "title": "China's growth accelerates as AI boom helps boost exports",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "economy_business",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-19T06:08:02.000Z",
+      "summary": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook."
     },
     {
       "id": "45558f3d34b0e598",
@@ -840,26 +890,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-10-19T01:57:02.000Z",
       "summary": "The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents."
-    },
-    {
-      "id": "166dbfa90187c0ef",
-      "title": "Don't fall for this - how to protect yourself from AI scams",
-      "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-10-18T23:24:59.000Z",
-      "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites."
-    },
-    {
-      "id": "d8c300e7efba564d",
-      "title": "Fears for protected bats if glamping pod plans are approved",
-      "url": "https://www.bbc.co.uk/news/articles/c6dxwg50pq8lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-10-18T19:22:31.000Z",
-      "summary": "Without a mitigation strategy the effect on the creatures would be \"major\", a survey says."
     },
     {
       "id": "8012d0a0ea8bbb17",
@@ -910,16 +940,6 @@
       "region": "global",
       "publishedAt": "2026-09-16T18:14:22.000Z",
       "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face "
-    },
-    {
-      "id": "7f8534d822eaa61f",
-      "title": "Europe's next great coach? How Fabregas led Como into Champions League",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c86xjn97ve2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-09-08T07:35:25.000Z",
-      "summary": "BBC Sport visits Como to discover the vision and philosophy of the club's coach, Cesc Fabregas, who has overseen the team's remarkable rise to the Champions League."
     },
     {
       "id": "d0db026dbc4bae1f",
