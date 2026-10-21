@@ -1,65 +1,315 @@
 {
-  "generatedAt": "2026-10-21T15:07:21.174Z",
+  "generatedAt": "2026-10-21T20:02:21.194Z",
   "articles": [
     {
-      "id": "b1e715f450173125",
-      "title": "Conversational Gemini navigation comes to Apple CarPlay",
-      "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-      "source": "The Verge",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-10-21T15:00:00.000Z",
-      "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details). It's taken almost 12 months for Google to bring this to CarPlay users, but now they can talk to the voice ass"
-    },
-    {
-      "id": "fc0f71568b2e0c9d",
-      "title": "Samsung’s 5K monitor has good gaming chops and a great price",
-      "url": "https://www.theverge.com/gadgets/1015346/samsung-5k-monitor-gaming-gta-6-usbc-charger-deal-sale",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-10-21T14:47:14.000Z",
-      "summary": "There are quite a few 5K monitors out there. Many of them are designed to appeal to Mac users who are looking for cheaper Studio Display alternatives without giving up the pixel-dense 218ppi screen. However, if you’re interested in hearing about one with gaming chops, Samsung’s 27-inch Odyssey G80HF seems like one of the best monitors out there to satisfy your niche, but respectable desires. Currently, you can grab t"
-    },
-    {
-      "id": "8094c45377996874",
-      "title": "Musk pledges $10bn in SpaceX shares for US children: Who really gains?",
-      "url": "https://www.aljazeera.com/news/2026/10/21/musk-pledges-10bn-in-spacex-shares-for-us-children-who-really-gains?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-10-21T14:41:03.000Z",
-      "summary": "The pledge, which Trump says will go through tax-friendly 'Trump accounts', comes two weeks before the US midterms."
-    },
-    {
-      "id": "e1b93bc723d610ed",
-      "title": "Websites taken down across Europe as critical cyber-security update issued",
+      "id": "307bbd70b22d52de",
+      "title": "Websites taken down worldwide as critical cyber-security update issued",
       "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
       "category": "technology",
-      "region": "europe",
-      "publishedAt": "2026-10-21T14:39:41.000Z",
+      "region": "global",
+      "publishedAt": "2026-10-21T19:54:57.000Z",
       "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI."
     },
     {
-      "id": "e5a79ee53cbe4e50",
-      "title": "Russia releases American Stephen Hubbard after four years in prison",
-      "url": "https://www.aljazeera.com/news/2026/10/21/russia-releases-american-stephen-hubbard-after-four-years-in-prison?traffic_source=rss",
+      "id": "d46dd740b1db598b",
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-10-21T19:54:16.000Z",
+      "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California."
+    },
+    {
+      "id": "47ea974124b5a301",
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-10-21T19:53:20.000Z",
+      "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is built around Claude Opus 5.5. Here's Anthropic's description of what it can do: Each morn"
+    },
+    {
+      "id": "a9a2fa6b391e6f30",
+      "title": "'Playing for their careers' - Australia reeling after extraordinary day",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "africa",
+      "publishedAt": "2026-10-21T19:46:45.000Z",
+      "summary": "Australia are facing defeat in the second Test against South Africa with careers on the line after their shambolic performance on day four."
+    },
+    {
+      "id": "0ca4c4aadd777720",
+      "title": "Pupils who designed a badge sent to space meet NASA astronaut headed to the Moon",
+      "url": "https://www.bbc.co.uk/news/articles/cq78pzl85nglo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-10-21T19:39:38.000Z",
+      "summary": "Frank Rubio is set to be in the crew for the Artemis III mission and previously spent a year in space."
+    },
+    {
+      "id": "d1ac66deebc839d6",
+      "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "diplomacy",
+      "region": "africa",
+      "publishedAt": "2026-10-21T19:29:40.000Z",
+      "summary": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation."
+    },
+    {
+      "id": "b97e53e8a978df06",
+      "title": "India’s ‘Cockroach’ leaders free after a week in jail",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/indias-cockroach-leaders-free-after-a-week-in-jail?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-21T19:17:51.000Z",
+      "summary": "Two top leaders of India’s Cockroach Party, Ashutosh Ranka and Saurav Das, have been released after a week in jail."
+    },
+    {
+      "id": "8a9acd4b1904a0fb",
+      "title": "Tunisia jails opposition politician for four years over social media posts",
+      "url": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-10-21T19:14:49.000Z",
+      "summary": "Olfa ⁠Hamdi, a US-Tunisian national, was convicted of 'plotting' and 'inciting' military to disobey orders."
+    },
+    {
+      "id": "db246a9c8fe5554c",
+      "title": "Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal",
+      "url": "https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "americas",
+      "publishedAt": "2026-10-21T19:02:49.000Z",
+      "summary": "Mark Zuckerberg. | Image: Cath Virginia / The Verge, Getty Images The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling marks the biggest legal hit Meta has taken this year, even as it's faced several other losses or settlements. A New Mexico jury ruled in Septe"
+    },
+    {
+      "id": "33f0a402ad868e36",
+      "title": "Steelers and Saints set for historic NFL clash in riot-hit Paris",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/steelers-and-saints-set-for-historic-nfl-clash-in-riot-hit-paris?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-10-21T18:59:37.000Z",
+      "summary": "The NFL’s Steelers and Saints will play in Paris on Sunday despite the riots."
+    },
+    {
+      "id": "cb3f06be6fa74e72",
+      "title": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
+      "url": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "war_conflict",
       "region": "americas",
-      "publishedAt": "2026-10-21T14:31:53.000Z",
-      "summary": "Hubbard was jailed after being accused of fighting alongside Ukrainian forces against Russia."
+      "publishedAt": "2026-10-21T18:58:29.000Z",
+      "summary": "Tehran had 'nothing new' to tell Washington after latest nuclear proposals reportedly offered by mediators."
     },
     {
-      "id": "1991345f8d964f8e",
-      "title": "US congressional candidate Brad Lander freed after West Bank detention",
-      "url": "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss",
+      "id": "a300460fc94fb78b",
+      "title": "Farmers blocked from olive harvest in occ. West Bank, volunteers detained",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/farmers-blocked-from-olive-harvest-in-occ-west-bank-volunteers-detained?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-10-21T18:51:07.000Z",
+      "summary": "Palestinian farmers are still being blocked from accessing their olive groves by Israeli settlers and the military"
+    },
+    {
+      "id": "a66c5c9f5e92d85d",
+      "title": "Thousands march for school funding in Greece",
+      "url": "https://www.aljazeera.com/news/2026/10/21/thousands-march-for-school-funding-in-greece?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-10-21T18:45:46.000Z",
+      "summary": "Teachers joined nationwide student protests amid growing youth-led demonstrations in Europe."
+    },
+    {
+      "id": "3eb550176e263a21",
+      "title": "Qatar, Turkiye, Pakistan and Indonesia sign ‘Badr’ defence pact",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/qatar-turkiye-pakistan-and-indonesia-sign-badr-defence-pact?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-21T18:35:42.000Z",
+      "summary": "Al Jazeera’s Osama Bin Javaid reports on the ‘Badr’ Memorandum of Understanding."
+    },
+    {
+      "id": "c7f47f7bc7270047",
+      "title": "Actors, writers condemn UK anti-terror law targeting Sally Rooney",
+      "url": "https://www.aljazeera.com/news/2026/10/21/actors-writers-condemn-uk-anti-terror-law-targeting-sally-rooney?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-10-21T18:35:03.000Z",
+      "summary": "Dozens of leading figures term the UK law banning Palestine Action a ‘repressive absurdity’."
+    },
+    {
+      "id": "4684ccca6c83cf12",
+      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "americas",
+      "publishedAt": "2026-10-21T18:34:42.000Z",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]"
+    },
+    {
+      "id": "8fb9c338088752a9",
+      "title": "Fuel leak which killed fish in River Taff stopped",
+      "url": "https://www.bbc.co.uk/news/articles/c6y8lvxzp59vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-10-21T18:28:06.000Z",
+      "summary": "GE Aerospace previously confirmed fuel got into the river while repair work took place nearby."
+    },
+    {
+      "id": "fbaefda216599723",
+      "title": "Jerusalem Daily: Israeli minister calls for settling the entire West Bank",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/jerusalem-daily-israeli-minister-calls-for-settling-the-entire-west-bank?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-10-21T14:12:15.000Z",
-      "summary": "Lander says dozens remain in Israeli custody after being detained while helping Palestinian farmers harvest olives."
+      "region": "americas",
+      "publishedAt": "2026-10-21T18:24:42.000Z",
+      "summary": "Israeli forces are raiding Palestinian homes in the occupied West Bank and turning them into interrogation centres."
+    },
+    {
+      "id": "048242ef7e6c7fb6",
+      "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
+      "url": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-21T18:22:28.000Z",
+      "summary": "Saurav Das and Ashutosh Ranka were accused of breaking into an unauthorised protest venue in Delhi."
+    },
+    {
+      "id": "0c558b6ce230ba34",
+      "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+      "url": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "creativity_arts",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-21T18:10:42.000Z",
+      "summary": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community."
+    },
+    {
+      "id": "3ed78f8cf94f977a",
+      "title": "GM promises smarter cars, faster updates, and autonomous dry-cleaning runs",
+      "url": "https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-10-21T18:00:00.000Z",
+      "summary": "A vehicle is welded by robot arms as it goes through the assembly line at the General Motors Lansing Delta Township Assembly Plant March 10, 2010 in Lansing, Michigan. | Photo: Getty Images General Motors is still very much in the business of selling gas-guzzling trucks and massive SUVs. But if you listen to its leadership, the Detroit giant is rapidly transforming into a nimble, software-defined tech player with a t"
+    },
+    {
+      "id": "1e22073f1d282c76",
+      "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-10-21T17:42:34.000Z",
+      "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg."
+    },
+    {
+      "id": "3a78f532e39bd8f9",
+      "title": "Sports consolidates the spirit of amity, harmony, and patriotism: Prime Minister",
+      "url": "https://www.bd24live.com/sports-consolidates-the-spirit-of-amity-harmony-and-patriotism-prime-minister/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-21T17:20:16.000Z",
+      "summary": "Prime Minister Tarique Rahman stated that sports is not merely confined to competition; rather, it consolidates the spirit of camaraderie, harmony, mutual respect, and patriotism among people. The role of… The post Sports consolidates the spirit of amity, harmony, and patriotism: Prime Minister appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "c71068d1a585ca24",
+      "title": "Just Eat apologises for AI food mistakes after social media ridicule",
+      "url": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-10-21T17:04:13.000Z",
+      "summary": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool."
+    },
+    {
+      "id": "a8455c9c8177c052",
+      "title": "Family of prison officer killed by IRA receives state apology",
+      "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-10-21T16:58:16.000Z",
+      "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later."
+    },
+    {
+      "id": "db1aa5c835ff97f9",
+      "title": "OpenAI agents disabled safety monitoring, one lied about it",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
+      "source": "BleepingComputer",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-10-21T16:26:53.000Z",
+      "summary": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]"
+    },
+    {
+      "id": "a44669174021f80c",
+      "title": "Will Jackdaw cut your energy bills?",
+      "url": "https://www.bbc.co.uk/news/videos/cqvg0ke2v9njo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "environment",
+      "region": "global",
+      "publishedAt": "2026-10-21T16:17:49.000Z",
+      "summary": "BBC Verify's Ben Chu explains why energy prices are so high, and what Jackdaw could mean for your bills."
+    },
+    {
+      "id": "2d6f37ac6272a449",
+      "title": "Taiwan charges five men over plot to run over comedian for his Xi Jinping jokes",
+      "url": "https://www.theguardian.com/world/2026/oct/21/taiwan-five-men-plot-run-over-comedian-huang-yi-hao-xi-jinping-jokes",
+      "source": "The Guardian World",
+      "category": "creativity_arts",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-21T16:13:53.000Z",
+      "summary": "Person named ‘K’ from China paid five defendants to injure Huang Yi-hao, New Taipei prosecutors say Taiwanese prosecutors have charged five men over a plot to ram a car into a comedian who made fun of the Chinese Communist party and Xi Jinping. Taiwan has repeatedly accused China of transnational repression to silence critics on the self-governed island, which Beijing claims as its territory and has vowed to take by "
+    },
+    {
+      "id": "2c4e2fefa068f27c",
+      "title": "Orionid meteor shower to peak in UK skies into Thursday",
+      "url": "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "europe",
+      "publishedAt": "2026-10-21T15:44:20.000Z",
+      "summary": "Clear skies permitting, skygazers could be able to spot as many as 10-20 meteors per hour as the shower peaks this week."
+    },
+    {
+      "id": "0427249f94802af2",
+      "title": "Anderson, 44, not offered new Lancashire contract",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cmy0ek8vnxzko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-21T15:35:42.000Z",
+      "summary": "James Anderson’s legendary career could be over after Lancashire opt against offering England’s all-time leading wicket-taker a new deal."
+    },
+    {
+      "id": "213db2ed633ae203",
+      "title": "Former Open champion Oosthuizen quits LIV Golf",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/ck62y977vm33o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-21T15:18:40.000Z",
+      "summary": "Former Open Championship winner Louis Oosthuizen becomes the latest high-profile player to quit LIV Golf."
     },
     {
       "id": "f284dea26b18584b",
@@ -82,16 +332,6 @@
       "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks."
     },
     {
-      "id": "b3ed6079c58fcb65",
-      "title": "Benson and McNabney handed first Ireland call-ups",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqrly237xlz3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-21T14:02:51.000Z",
-      "summary": "Ulster duo Jamie Benson and James McNabney have been handed their first Ireland call-ups for November's Nations Championship matches."
-    },
-    {
       "id": "6679f14ddbbd0f97",
       "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
       "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
@@ -100,26 +340,6 @@
       "region": "global",
       "publishedAt": "2026-10-21T14:00:10.000Z",
       "summary": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]"
-    },
-    {
-      "id": "e026fd51f4c5eae2",
-      "title": "Blink brings 4K to its low-cost security camera lineup",
-      "url": "https://www.theverge.com/tech/1015238/amazon-blink-4k-trail-security-camera-launch",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-10-21T14:00:00.000Z",
-      "summary": "From left to right, here are the Outdoor 2K XR Plus and Mini Pant-Tilt 2K Plus (top), and the Spotlight Cam 2K Plus, Mini 4K Plus, and Frontier XR Plus (bottom). | Image: Amazon / Blink Amazon is launching a new lineup of Blink security cameras, including its first 4K, pan-tilt models, and battery-powered spotlight models. These new additions provide better resolution and extended range for monitoring your property c"
-    },
-    {
-      "id": "893ebe84f2e05fa6",
-      "title": "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties",
-      "url": "https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-21T13:58:17.000Z",
-      "summary": "Experts say conflicts and uncertainty are accelerating efforts to strengthen regional military capacity."
     },
     {
       "id": "ef5d9be79919a4c9",
@@ -132,26 +352,6 @@
       "summary": "The cacophony of boos that greet the Premier League and Champions League anthems before kick-off have now become a fixture at Etihad Stadium."
     },
     {
-      "id": "497b300f0ad5e8d6",
-      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "source": "The Verge",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-10-21T13:57:43.000Z",
-      "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason to remove the monitoring integration from the user's code,\" Marcus Wil"
-    },
-    {
-      "id": "4ca09743f722da3e",
-      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-10-21T13:49:50.000Z",
-      "summary": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says."
-    },
-    {
       "id": "84f28ae4390fe2be",
       "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
       "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
@@ -159,17 +359,7 @@
       "category": "diplomacy",
       "region": "africa",
       "publishedAt": "2026-10-21T13:40:08.000Z",
-      "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail Relatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions. Flights are scheduled as early as Wednesday, according to the families and the immigration advocacy group the Worker"
-    },
-    {
-      "id": "a8455c9c8177c052",
-      "title": "Family of prison officer killed by IRA receives state apology",
-      "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-10-21T13:35:27.000Z",
-      "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later."
+      "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail Send us your questions about immigration and the midterms Relatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions. Flights are scheduled as early as Wednesday, according to "
     },
     {
       "id": "d67460d0125b8231",
@@ -180,86 +370,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-10-21T13:35:12.000Z",
       "summary": "Following the improvement of the situation related to airport attacks in Saudi Arabia, Biman Bangladesh Airlines has resumed flight operations on the Dhaka-Dammam route. The national flag carrier has also… The post Biman Delivers Good News on Saudi Flights appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "c6465aefba66ffcb",
-      "title": "How war in Lebanon has cost young people with autism and ADHD",
-      "url": "https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-10-21T13:32:57.000Z",
-      "summary": "Experts warn that war takes a heavy toll on neurodivergent people, who often rely on routine."
-    },
-    {
-      "id": "7720a2a6a250746f",
-      "title": "Are the UK, France being pulled into the Saudi-Houthi conflict?",
-      "url": "https://www.aljazeera.com/news/2026/10/21/are-the-uk-france-being-pulled-into-the-saudi-houthi-conflict?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-10-21T13:25:50.000Z",
-      "summary": "The European states say their support for Riyadh is 'defensive', but analysts warn Houthi reaction may complicate that."
-    },
-    {
-      "id": "4781064657fe6d07",
-      "title": "As fans reject AI-generated music, even boosters are drawing the line",
-      "url": "https://www.theguardian.com/music/2026/oct/21/artificial-intelligence-music-grimes-asap-rocky",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-10-21T13:22:51.000Z",
-      "summary": "Enthusiasts like Grimes and A$AP Rocky may embrace AI-generated content, but they won’t produce it themselves Streaming services, notable musicians and fans are confronting the growing presence of AI-generated music and drawing lines in the sand. On Tuesday, Spotify announced it had removed about 50m songs considered AI slop from its recommendations to users over the past year. Continue reading..."
-    },
-    {
-      "id": "6e79bb04d5ab7b30",
-      "title": "From one house to villages: Israeli settlers have Palestinians surrounded",
-      "url": "https://www.aljazeera.com/features/2026/10/21/from-one-house-to-whole-villages-settlers-have-palestinians-surrounded?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-10-21T13:20:27.000Z",
-      "summary": "A family in the South Hebron Hills has spent more than two weeks cut off by settlers camped outside."
-    },
-    {
-      "id": "3231db940bcc9d4f",
-      "title": "Pakistani authorities arrest man accused in $126m US postage fraud",
-      "url": "https://www.aljazeera.com/news/2026/10/21/pakistani-authorities-arrest-man-accused-in-126m-us-postage-fraud?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-10-21T13:06:53.000Z",
-      "summary": "Faheem Akram has been charged with several offences including conspiracy to defraud the United States."
-    },
-    {
-      "id": "fadcf94f3e1b2ac6",
-      "title": "Protests as UK approves new gas drilling in North Sea",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/protests-as-uk-approves-new-gas-drilling-in-north-sea?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "weather_climate",
-      "region": "europe",
-      "publishedAt": "2026-10-21T12:49:52.000Z",
-      "summary": "Climate activists have protested against the UK’s decision to go ahead with new gas drilling in the North Sea."
-    },
-    {
-      "id": "1ff6f42fec23b3e4",
-      "title": "Nigeria confirms Ebola case linked to East Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "africa",
-      "publishedAt": "2026-10-21T12:39:34.000Z",
-      "summary": "The female patient, who sources have told the BBC is not Nigerian, is in isolation and in an Abuja hospital."
-    },
-    {
-      "id": "1ad501f5d224caa1",
-      "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-10-21T12:20:34.000Z",
-      "summary": "Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]"
     },
     {
       "id": "e8d20ecd3385fe4c",
@@ -322,16 +432,6 @@
       "summary": "Mark Allen says he is working to \"turn things around\" and reveals he spent time in a mental health clinic before returning to snooker."
     },
     {
-      "id": "34714d815cd0a6bb",
-      "title": "Giant tunnel proposed to tackle Windermere sewage discharges",
-      "url": "https://www.theguardian.com/environment/2026/oct/21/giant-tunnel-proposed-to-tackle-widermere-sewage-discharges",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-10-21T10:32:12.000Z",
-      "summary": "United Utilities, Environment Agency and local campaigners say 12-mile tunnel could take sewage away from England’s largest lake Plans are under way for a new giant tunnel to transport sewage away from Windermere, England’s largest lake. Windermere, in the Lake District, has suffered from widespread raw sewage and bacterial pollution driven by discharges from United Utilities. Campaigners say this pollution has cause"
-    },
-    {
       "id": "f9e06710a1395d80",
       "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
       "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
@@ -342,6 +442,16 @@
       "summary": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget."
     },
     {
+      "id": "e4bbc3e2ac6ecf84",
+      "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-10-21T10:16:17.000Z",
+      "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS)."
+    },
+    {
       "id": "2143c1326df16520",
       "title": "Dengue Claims 7 More Lives, 1,373 Hospitalized",
       "url": "https://www.bd24live.com/dengue-claims-7-more-lives-1373-hospitalized/",
@@ -350,16 +460,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-10-21T10:05:12.000Z",
       "summary": "In the last 24 hours, seven more people have died from dengue across the country. With this, the total number of dengue fatalities this year has risen to 364. During… The post Dengue Claims 7 More Lives, 1,373 Hospitalized appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "76113dcb17cee34d",
-      "title": "Cyndi Lauper on fun, fashion and freedom of expression: ‘We have braces on our brains’",
-      "url": "https://www.theguardian.com/music/2026/oct/21/cyndi-lauper-auction-fashion",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-10-21T09:00:00.000Z",
-      "summary": "As she auctions off her treasures, the synth-pop savant opens up about her eccentric style and why she doesn’t believe in cancel culture Before Cyndi Lauper rose to fame as one of the most singular pop breakouts of the 1980s, she was queen of the cash register at the edgy Manhattan boutique Screaming Mimi’s. The vintage emporium is still a downtown staple, but a little of its spirit comes uptown this month with Cyndi"
     },
     {
       "id": "007d454671cfdd93",
@@ -402,16 +502,6 @@
       "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner lives of other species and help humans realize that “animals are sentient creatures who think,…"
     },
     {
-      "id": "8bc691e95e3bbe83",
-      "title": "Eliminating traffic deaths",
-      "url": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/",
-      "source": "MIT Tech Review",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-10-21T09:00:00.000Z",
-      "summary": "Every year, traffic crashes kill more than one million people, and they’re the leading cause of death for children and young adults. In the US, 100 people a day lose their lives this way, in many cases not on highways but on rural and local streets. “Traffic deaths are a leading cause of preventable death,…"
-    },
-    {
       "id": "6f67985ae47cee6e",
       "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
       "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
@@ -420,6 +510,16 @@
       "region": "global",
       "publishedAt": "2026-10-21T08:42:49.000Z",
       "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger."
+    },
+    {
+      "id": "e45f5dc194fcb6d7",
+      "title": "What is happening to UK prices?",
+      "url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "europe",
+      "publishedAt": "2026-10-21T08:35:47.000Z",
+      "summary": "UK inflation rose in September, pushed up by higher petrol and diesel prices."
     },
     {
       "id": "02ee38cebf974bf1",
@@ -442,26 +542,6 @@
       "summary": "Prime Minister Tareq Rahman is scheduled to visit Khulna and Mongla on Thursday to assess port expansion, energy infrastructure development, and new investment opportunities. Businesspeople and the general public anticipate… The post Prime Minister Visiting Khulna and Mongla Tomorrow appeared first on Bangla Online News Portal."
     },
     {
-      "id": "55dae853079f637b",
-      "title": "The Mystery of What Befell in the Ditch by Thure Erik Lund review – is this the greatest living Norwegian writer?",
-      "url": "https://www.theguardian.com/books/2026/oct/21/the-mystery-of-what-befell-in-the-ditch-by-thure-erik-lund-review-is-this-the-greatest-living-norwegian-writer",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-10-21T08:00:04.000Z",
-      "summary": "Translated into English at last, this portrait of a man appalled by modernity and desperate to get back to nature is brimming with Nordic weltschmerz T-O-M. The initials of Tomas Olsen Myrbråten, the narrator in Thure Erik Lund’s The Mystery of What Befell in the Ditch, spell out the Norwegian word for “empty”. Approaching 38, he’s already a relic. He spends his days slumped at the kitchen table or staring out of the"
-    },
-    {
-      "id": "f4ab774aebeedb9f",
-      "title": "Making Marie Antoinette review – sweet Coppola home movie reveals the family business",
-      "url": "https://www.theguardian.com/film/2026/oct/21/making-marie-antoinette-review-sofia-eleanor-coppola-documentary",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-10-21T08:00:04.000Z",
-      "summary": "Shot by Sofia’s mother Eleanor this documentary shows something of the strain of shooting a period piece, but is a far cry from the tumultuous portrait of her husband in Hearts of Darkness It is 20 years since the release of Sofia Coppola’s Marie Antoinette starring Kirsten Dunst; it is a supportively unjudging, unironised study of the queen’s early years before the 1789 revolution, lavishly and accurately costumed, "
-    },
-    {
       "id": "7a659885ad22d3c9",
       "title": "Australian MP loses both legs after alleged car attack, husband says",
       "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
@@ -470,16 +550,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-10-21T07:56:30.000Z",
       "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday."
-    },
-    {
-      "id": "02f9af5db34df9ac",
-      "title": "Crystal Palace urged to retire bald eagle mascot",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmx2302r04r4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-21T07:24:35.000Z",
-      "summary": "Animal rights group Peta is urging Crystal Palace to retire their bald eagle mascot, saying a \"bright stadium filled with boisterous fans is no place for animals\"."
     },
     {
       "id": "124564cd596c868c",
@@ -500,16 +570,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-10-21T05:46:33.000Z",
       "summary": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece."
-    },
-    {
-      "id": "6feb4eb6875a7fa6",
-      "title": "Fabregas and Como prepare for historic Man Utd tie",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmpwg17ev9xxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-21T05:26:05.000Z",
-      "summary": "Serie A success story Como have gone from Serie A to the Champions League - now they are ready for a historic night against Manchester United."
     },
     {
       "id": "57d15d66882b36d3",
@@ -540,26 +600,6 @@
       "region": "global",
       "publishedAt": "2026-10-20T23:13:24.000Z",
       "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy."
-    },
-    {
-      "id": "b21dcffdfb2274cf",
-      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
-      "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "economy_business",
-      "region": "americas",
-      "publishedAt": "2026-10-20T22:22:17.000Z",
-      "summary": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet."
-    },
-    {
-      "id": "7d1536dc2399525e",
-      "title": "Trump and Zelensky at loggerheads despite new optimism",
-      "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-10-20T20:00:57.000Z",
-      "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams."
     },
     {
       "id": "ef531db3734bf0aa",
@@ -682,14 +722,14 @@
       "summary": "The first named storm of the season - Austen - will bring damaging winds and heavy rain to parts of the UK on Friday."
     },
     {
-      "id": "f53c3494d5fb43c8",
-      "title": "Orionid meteor shower to peak in UK skies this week",
-      "url": "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
+      "id": "975efe454f623f74",
+      "title": "What is the Budget and what could be in it?",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
       "region": "europe",
-      "publishedAt": "2026-10-20T06:31:04.000Z",
-      "summary": "Clear skies permitting, skygazers could be able to spot as many as 10-20 meteors per hour as the shower peaks this week."
+      "publishedAt": "2026-10-20T08:31:36.000Z",
+      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
     },
     {
       "id": "61d33dd8d1b2e697",
@@ -772,16 +812,6 @@
       "summary": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up."
     },
     {
-      "id": "8fd03d2eb40ea20c",
-      "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
-      "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
-      "source": "The Guardian World",
-      "category": "disasters",
-      "region": "africa",
-      "publishedAt": "2026-10-19T16:08:14.000Z",
-      "summary": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutors A Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the deaths of ⁠190 children and one adult in one of the world’s worst cult-related disasters in recent history. Mackenzie was arrested in 2023 after police received a tipoff, and weeks late"
-    },
-    {
       "id": "bd26fd24d4874ee6",
       "title": "We are all Bangladeshis, irrespective of religion and caste: Prime Minister",
       "url": "https://www.bd24live.com/we-are-all-bangladeshis-irrespective-of-religion-and-caste-prime-minister/",
@@ -850,46 +880,6 @@
       "region": "global",
       "publishedAt": "2026-10-19T09:38:25.000Z",
       "summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing."
-    },
-    {
-      "id": "07526c857ff54932",
-      "title": "China’s economy grows faster than forecast after AI boom boosts exports",
-      "url": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
-      "source": "The Guardian World",
-      "category": "economy_business",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-19T09:27:04.000Z",
-      "summary": "Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demand Roaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending. China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on Monday. The figures were better than economists"
-    },
-    {
-      "id": "70489eb16ec0a35a",
-      "title": "State Minister Ishraq Hossain Resigns",
-      "url": "https://www.bd24live.com/state-minister-ishraq-hossain-resigns/",
-      "source": "BD24Live",
-      "category": "war_conflict",
-      "region": "bangladesh",
-      "publishedAt": "2026-10-19T08:50:12.000Z",
-      "summary": "State Minister for Liberation War Affairs, Ishraq Hossain, has announced his resignation from the cabinet, bringing an end to various speculations and rumors. He stated that he made this decision… The post State Minister Ishraq Hossain Resigns appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "896c62c75b9cb7e4",
-      "title": "China's growth accelerates as AI boom helps boost exports",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "economy_business",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-19T06:08:02.000Z",
-      "summary": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook."
-    },
-    {
-      "id": "45558f3d34b0e598",
-      "title": "BBC visits wildfire front in haze-choked Indonesia",
-      "url": "https://www.bbc.co.uk/news/videos/cm9wzye55j4xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "disasters",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-19T01:57:02.000Z",
-      "summary": "The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents."
     },
     {
       "id": "8012d0a0ea8bbb17",
