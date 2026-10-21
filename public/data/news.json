@@ -1,25 +1,355 @@
 {
-  "generatedAt": "2026-10-20T23:45:21.005Z",
+  "generatedAt": "2026-10-21T09:59:22.694Z",
   "articles": [
     {
-      "id": "7d1dc69bad0b3a25",
-      "title": "Elon Musk says Tesla-SpaceX merger being considered",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
+      "id": "7bbca102c7a3e809",
+      "title": "Farmer lost out by minutes in race for wildlife funding",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qznp3gdvdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "environment",
+      "region": "americas",
+      "publishedAt": "2026-10-21T09:49:32.000Z",
+      "summary": "Richard Peace is among thousands of farmers who missed out as funding was snapped up in hours."
+    },
+    {
+      "id": "a39e07d2f77136a1",
+      "title": "PSG's Kvaratskhelia to have surgery on ruptured ACL",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxnv0ed5pz23o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-10-21T09:49:23.000Z",
+      "summary": "Paris St-Germain winger Khvicha Kvaratskhelia will undergo knee surgery after suffering a knee injury during his side's 4-2 win over Barcelona on Tuesday."
+    },
+    {
+      "id": "dca186c002ea838d",
+      "title": "Attack on Australian MP Haines: How threats against legislators have soared",
+      "url": "https://www.aljazeera.com/news/2026/10/21/attack-on-australian-mp-haines-how-threats-against-legislators-have-soared?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-21T09:24:47.000Z",
+      "summary": "Abuse, threats against Australian lawmakers are rising in a country where political violence has historically been rare."
+    },
+    {
+      "id": "0a0a0d989786f947",
+      "title": "Russia frees US citizen Stephen Hubbard, state media reports",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-10-21T09:22:23.000Z",
+      "summary": "Stephen Hubbard has been taken to Pulkovo Airport, Putin said during talks with US envoy Steve Witkoff."
+    },
+    {
+      "id": "e48d15bb028435ef",
+      "title": "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
+      "url": "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-10-21T09:02:18.000Z",
+      "summary": "Smoke seen rising near airport in Aden as Houthis say they attacked a military camp with a ballistic missile."
+    },
+    {
+      "id": "007d454671cfdd93",
+      "title": "Solid-state batteries",
+      "url": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/",
+      "source": "MIT Tech Review",
+      "category": "environment",
       "region": "global",
-      "publishedAt": "2026-10-20T23:24:47.000Z",
+      "publishedAt": "2026-10-21T09:00:00.000Z",
+      "summary": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who’s boarded a plane in the last decade could tell you, storing and pumping out energy by moving charged lithium ions through a liquid electrolyte soup has…"
+    },
+    {
+      "id": "61332ba5e5ffd7f5",
+      "title": "We can do impossible things",
+      "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
+      "source": "MIT Tech Review",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-10-21T09:00:00.000Z",
+      "summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my line: “I say no to myself too much.” I won’t lie. It’s a bit shameless—a definite humblebrag. I’m a systems thinker:…"
+    },
+    {
+      "id": "3ee86504009493cd",
+      "title": "Exercise in a pill",
+      "url": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
+      "source": "MIT Tech Review",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-10-21T09:00:00.000Z",
+      "summary": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some of the same perks—without the workout. The idea isn’t to replace exercise but to bring its upsides to people who…"
+    },
+    {
+      "id": "9781aadfc94de199",
+      "title": "Interspecies communication",
+      "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
+      "source": "MIT Tech Review",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-10-21T09:00:00.000Z",
+      "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner lives of other species and help humans realize that “animals are sentient creatures who think,…"
+    },
+    {
+      "id": "8bc691e95e3bbe83",
+      "title": "Eliminating traffic deaths",
+      "url": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/",
+      "source": "MIT Tech Review",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-10-21T09:00:00.000Z",
+      "summary": "Every year, traffic crashes kill more than one million people, and they’re the leading cause of death for children and young adults. In the US, 100 people a day lose their lives this way, in many cases not on highways but on rural and local streets. “Traffic deaths are a leading cause of preventable death,…"
+    },
+    {
+      "id": "6f67985ae47cee6e",
+      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-10-21T08:42:49.000Z",
       "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger."
     },
     {
-      "id": "6a116f6ed4531a5c",
-      "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
-      "url": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "diplomacy",
+      "id": "41f625aa3d73429b",
+      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
       "region": "global",
-      "publishedAt": "2026-10-20T23:19:52.000Z",
-      "summary": "The alliance announces the deployment after a series of deadly drone attacks in the region."
+      "publishedAt": "2026-10-21T08:36:24.000Z",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]"
+    },
+    {
+      "id": "40722a209ce87fcb",
+      "title": "Australian MP loses both legs in vehicle attack as suspect appears in court",
+      "url": "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-21T08:34:37.000Z",
+      "summary": "Independent lawmaker Helen Haines is in stable condition, her husband says, as suspect charged with three offences."
+    },
+    {
+      "id": "02ee38cebf974bf1",
+      "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
+      "url": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-10-21T08:31:48.000Z",
+      "summary": "The Gambia has confirmed receiving $2.5m from the sale of the house in Maryland."
+    },
+    {
+      "id": "fbdfd56d9482b90a",
+      "title": "LeBron James’s 76ers beat NY Knicks on NBA’s opening night at MSG",
+      "url": "https://www.aljazeera.com/sports/2026/10/21/lebron-jamess-76ers-beat-ny-knicks-on-nbas-opening-night-at-msg?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-10-21T08:30:55.000Z",
+      "summary": "The Philadelphia 76ers defeated NBA champions New York Knicks 106-100 as the new NBA season tipped off."
+    },
+    {
+      "id": "fa5c3d1d152a321e",
+      "title": "Drone attack in disputed Sudan-South Sudan border region kills at least 153",
+      "url": "https://www.aljazeera.com/news/2026/10/21/drone-attack-in-disputed-sudan-south-sudan-border-region-kills-at-least-153?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "africa",
+      "publishedAt": "2026-10-21T08:25:45.000Z",
+      "summary": "South Sudan authorities say Sudan's army launched drone attack on market, as MSF says it is treating 20 wounded people."
+    },
+    {
+      "id": "36864b7bc88cfe22",
+      "title": "Climate campaigners condemn ‘maddening’ decision to approve Jackdaw gasfield",
+      "url": "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-climate-campaigners-condemn-decision-north-sea-mining",
+      "source": "The Guardian Environment",
+      "category": "environment",
+      "region": "europe",
+      "publishedAt": "2026-10-21T08:23:46.000Z",
+      "summary": "Critics say move will jeopardise climate targets, fail to cut cost of living and distract from need to decarbonise energy UK politics live – latest updates Climate campaigners and green experts have condemned the government’s decision to allow the drilling of the Jackdaw gasfield in the North Sea. They said approval for the site would jeopardise the UK’s climate targets, fail to reduce the cost of living, and distrac"
+    },
+    {
+      "id": "4b4205d483647cdf",
+      "title": "Prime Minister Visiting Khulna and Mongla Tomorrow",
+      "url": "https://www.bd24live.com/prime-minister-visiting-khulna-and-mongla-tomorrow/",
+      "source": "BD24Live",
+      "category": "economy_business",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-21T08:20:11.000Z",
+      "summary": "Prime Minister Tareq Rahman is scheduled to visit Khulna and Mongla on Thursday to assess port expansion, energy infrastructure development, and new investment opportunities. Businesspeople and the general public anticipate… The post Prime Minister Visiting Khulna and Mongla Tomorrow appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "147bec2688010ecf",
+      "title": "Bayern Munich vs Arsenal: Champions League – Predictions, Olise, lineups",
+      "url": "https://www.aljazeera.com/sports/2026/10/21/bayern-munich-arsenal-champions-league-predictions-saka-kane-olise?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-10-21T08:15:00.000Z",
+      "summary": "Bayern Munich host Arsenal on Wednesday, as the teams clash for the 16th time in Europe's premier club competition."
+    },
+    {
+      "id": "cc9b140f64270bbd",
+      "title": "Israeli soldiers mock Lebanese home they rigged with explosives",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/israeli-soldiers-mock-lebanese-home-they-rigged-with-explosives?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-10-21T08:05:28.000Z",
+      "summary": "Israeli soldiers in Southern Lebanon are seen ‘jokingly’ giving a tour of a displaced family’s home."
+    },
+    {
+      "id": "7a659885ad22d3c9",
+      "title": "Australian MP loses both legs after alleged car attack, husband says",
+      "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-21T07:56:30.000Z",
+      "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday."
+    },
+    {
+      "id": "979cad033ac28d7e",
+      "title": "‘It’s hard for us’: Paris small businesses bear brunt of protest violence",
+      "url": "https://www.aljazeera.com/news/2026/10/21/its-hard-for-us-paris-small-businesses-bear-brunt-of-protest-violence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "europe",
+      "publishedAt": "2026-10-21T07:56:14.000Z",
+      "summary": "Shopkeepers - including those from immigrant backgrounds - count losses from violence last weekend."
+    },
+    {
+      "id": "ae4cf4a2eeb02345",
+      "title": "‘I am still traumatised’: French police accused of brutalising minors",
+      "url": "https://www.aljazeera.com/news/2026/10/21/i-am-still-traumatised-french-police-accused-of-brutalising-minors?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-10-21T07:55:28.000Z",
+      "summary": "Police violence and use of crowd-control weapons deepen mistrust between French authorities and demonstrators."
+    },
+    {
+      "id": "312361edfb85692b",
+      "title": "Witkoff in Russia for Putin meeting after ‘positive’ talks with Zelenskyy",
+      "url": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-10-21T07:37:19.000Z",
+      "summary": "Secretary of State Marco Rubio described Witkoff's talks with Zelenskyy as 'positive', as efforts to end war intensify."
+    },
+    {
+      "id": "02f9af5db34df9ac",
+      "title": "Crystal Palace urged to retire bald eagle mascot",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmx2302r04r4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-21T07:24:35.000Z",
+      "summary": "Animal rights group Peta is urging Crystal Palace to retire their bald eagle mascot, saying a \"bright stadium filled with boisterous fans is no place for animals\"."
+    },
+    {
+      "id": "25652e498fa1add7",
+      "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
+      "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-10-21T06:50:40.000Z",
+      "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history."
+    },
+    {
+      "id": "124564cd596c868c",
+      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+      "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-10-21T06:36:39.000Z",
+      "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history."
+    },
+    {
+      "id": "ac600dac846ad799",
+      "title": "LeBron James' 76ers beat Knicks on NBA opening night",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/c6vgj4g913wyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-21T06:34:15.000Z",
+      "summary": "LeBron James scores 14 points on debut for the Philadelphia 76ers as they defeat champions the New York Knicks on the opening night of the NBA season."
+    },
+    {
+      "id": "65c2c5315f2b0c15",
+      "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-21T05:46:33.000Z",
+      "summary": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece."
+    },
+    {
+      "id": "6feb4eb6875a7fa6",
+      "title": "Fabregas and Como prepare for historic Man Utd tie",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmpwg17ev9xxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-21T05:26:05.000Z",
+      "summary": "Serie A success story Como have gone from Serie A to the Champions League - now they are ready for a historic night against Manchester United."
+    },
+    {
+      "id": "fe911a45aff44e8c",
+      "title": "World must cut emissions by 18% in four years ‘to find our way back’, UN says",
+      "url": "https://www.theguardian.com/environment/2026/oct/21/world-cut-emissions-un-climate-crisis",
+      "source": "The Guardian Environment",
+      "category": "environment",
+      "region": "global",
+      "publishedAt": "2026-10-21T05:00:04.000Z",
+      "summary": "Action needed to avoid disastrous overshoot of climate targets, according to organisation’s environment body The world needs to cut carbon emissions by nearly a fifth in the next four years, and by close to half within a decade, to avoid overshooting climate targets by a disastrous margin. Although the “window has closed” on holding temperature rises to 1.5C, in line with scientific advice, limiting the “overshoot” o"
+    },
+    {
+      "id": "57d15d66882b36d3",
+      "title": "Giant tunnel proposed to clean up Windermere's sewage problem",
+      "url": "https://www.bbc.co.uk/news/articles/cr5yn4pky527o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-10-21T04:44:56.000Z",
+      "summary": "The plan would eliminate sewage spills into Windermere, blamed for turning the water green."
+    },
+    {
+      "id": "22a64f8273fbcf06",
+      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-10-21T01:01:50.000Z",
+      "summary": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]"
+    },
+    {
+      "id": "6d7b756991bd33fc",
+      "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+      "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+      "source": "The Guardian World",
+      "category": "diplomacy",
+      "region": "africa",
+      "publishedAt": "2026-10-21T00:14:55.000Z",
+      "summary": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola. It is unclear when she arriv"
+    },
+    {
+      "id": "4ce9259992b058a0",
+      "title": "YouTube might be testing hiding the dislike button",
+      "url": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-10-21T00:00:56.000Z",
+      "summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike button being absent for them. Right now, for me, the dislike button sits right next to the like button under a video. Moving it to a submenu would"
     },
     {
       "id": "bde52c6dc05a96d7",
@@ -32,8 +362,8 @@
       "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy."
     },
     {
-      "id": "e71a1d400d38ac0c",
-      "title": "No jeopardy but loads of fun - Champions League sets new goals record",
+      "id": "c6cdfd0d25da9bbf",
+      "title": "No jeopardy but loads of fun - is new Champions League format a success?",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg5je34l0q5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
@@ -52,14 +382,14 @@
       "summary": "Rio Ngumoha produces a coming-of-age performance in Liverpool's comeback win over Villarreal, writes Aadam Patel."
     },
     {
-      "id": "e97d042bcb4ac0ff",
-      "title": "No Haaland, no problem - can Foden be Man City's alternative goalscorer?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqx2vjdnwkyyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-20T22:35:32.000Z",
-      "summary": "Phil Foden's magnificent man-of-the-match display in Manchester City's Champions League win against AEK Athens serves as a reminder of his talent and ability to influence games."
+      "id": "b21dcffdfb2274cf",
+      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+      "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "economy_business",
+      "region": "americas",
+      "publishedAt": "2026-10-20T22:22:17.000Z",
+      "summary": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet."
     },
     {
       "id": "98c813bdf4dfdc7e",
@@ -72,66 +402,6 @@
       "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving to the airport. The AI assistant can pull your flight details from a confirmation"
     },
     {
-      "id": "2c6265871d1e2fae",
-      "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
-      "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
-      "source": "The Verge",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-10-20T21:30:24.000Z",
-      "summary": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees were formed at the request of shareholders and consist of independent directors (though he did not name them). He also noted that he is not a member of either committee, nor involved in any of the di"
-    },
-    {
-      "id": "d966a1129a74862a",
-      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-10-20T21:27:39.000Z",
-      "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington."
-    },
-    {
-      "id": "3dd0e27cd94706f6",
-      "title": "Carrick wants more clean sheets to turn season around",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cje362v35175o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-20T21:27:35.000Z",
-      "summary": "Manchester United boss Michael Carrick needs more clean sheets as he looks to change his team's fortunes, as they take on Como in the Champions League."
-    },
-    {
-      "id": "f576703c89c6b12b",
-      "title": "PSG score late to sink Barcelona 4-2 in Champions League blockbuster",
-      "url": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-20T21:24:06.000Z",
-      "summary": "Late strikes by Vitinha and Fabian Ruiz grab victory for PSG as they aim to win the UCL for third season running."
-    },
-    {
-      "id": "272bfc56c9dd20c0",
-      "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
-      "url": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-10-20T21:19:12.000Z",
-      "summary": "The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports."
-    },
-    {
-      "id": "5608e57b820ec32e",
-      "title": "Suspect arrested after historic town hall set alight - French media",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-10-20T21:05:50.000Z",
-      "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday."
-    },
-    {
       "id": "18db47f3fdd372fa",
       "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
       "url": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
@@ -140,76 +410,6 @@
       "region": "global",
       "publishedAt": "2026-10-20T21:02:53.000Z",
       "summary": "SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the attempt would mark the first time in history an orbital launch vehicle has been fully recovered. \"This is a profound technology milestone in the history of civilization consciousness,\" he said during the company"
-    },
-    {
-      "id": "ebb26d062e05eb86",
-      "title": "Why do the US midterms matter for Trump and Congress?",
-      "url": "https://www.aljazeera.com/news/2026/10/20/why-do-the-us-midterms-matter-for-trump-and-congress?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-10-20T21:00:42.000Z",
-      "summary": "Republicans and Democrats jockey for control of Congress, which will set course for Trump's final two years in office."
-    },
-    {
-      "id": "176736d798dcb2b7",
-      "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
-      "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
-      "source": "MIT Tech Review",
-      "category": "ai_innovation",
-      "region": "americas",
-      "publishedAt": "2026-10-20T21:00:00.000Z",
-      "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away. And now engineers at MIT and EPFL in Lausanne, Switzerland, have…"
-    },
-    {
-      "id": "bdc300702bcb71d5",
-      "title": "Here’s the tea",
-      "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
-      "source": "MIT Tech Review",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-10-20T21:00:00.000Z",
-      "summary": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thomas Wells had donated the label in 1987, saying it had been recovered after colonial protesters threw tea into…"
-    },
-    {
-      "id": "8895f71ba571f075",
-      "title": "Melt it, spin it, use it again",
-      "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
-      "source": "MIT Tech Review",
-      "category": "ai_innovation",
-      "region": "americas",
-      "publishedAt": "2026-10-20T21:00:00.000Z",
-      "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn. The thermoplastic yarn mimics the properties of conventional elastic yarns, which typically combine spandex with polyester or nylon. Those…"
-    },
-    {
-      "id": "90b694b21e88a321",
-      "title": "A reason to eat carbs",
-      "url": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
-      "source": "MIT Tech Review",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-10-20T21:00:00.000Z",
-      "summary": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also increase the risk of cancer in the small intestine. This type of diet forces the body to burn fatty acids instead…"
-    },
-    {
-      "id": "f8da5af610d1b488",
-      "title": "PSG and Barcelona fans divided over politics in football amid Paris riots",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/psg-and-barcelona-fans-divided-over-politics-in-football-amid-paris-riots?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-10-20T20:49:00.000Z",
-      "summary": "As PSG face Barcelona in a Champions League clash, fans weigh in on whether football should be a political platform."
-    },
-    {
-      "id": "27c1f3aa6e46b53f",
-      "title": "Trump: Ilhan Omar could be deported, slams Somalia as a ‘s—house’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/trump-ilhan-omar-could-be-deported-slams-somalia-as-a-s?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-10-20T20:32:29.000Z",
-      "summary": "Donald Trump called Congresswoman Ilhan Omar “sick” and “dishonest” a week after federal agents raided her home."
     },
     {
       "id": "c3a171372ec1abc5",
@@ -222,64 +422,24 @@
       "summary": "Snap has a new brand ambassador for its Specs AR glasses: Iron Man actor Robert Downey Jr. The company has brought on Downey as Specs' \"Chief Customer Experience Officer\" and has published several videos featuring Downey showcasing the capabilities of the new glasses, including as a tool to get help with a putt, practice art, and watch a private video of an MMA match in bed. In one video, he also dumps the contents o"
     },
     {
-      "id": "85ab96c1a812be4f",
-      "title": "SpaceX says big AI growth fueled revenue jump",
-      "url": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
+      "id": "06bcb62418574442",
+      "title": "Oura adds two new cardiovascular health tracking features to its smart rings",
+      "url": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
       "source": "The Verge",
-      "category": "economy_business",
+      "category": "creativity_arts",
       "region": "global",
-      "publishedAt": "2026-10-20T20:26:58.000Z",
-      "summary": "SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year \"fueled by our Super Intelligence (SI) segment and accelerated growth in Connectivity.\" While its Space division posted a $7 million loss in income from operations, its Connectivity group posted income from operations $2.4 billion and its SI group posted $431 million. The company's so-cal"
+      "publishedAt": "2026-10-20T20:26:04.000Z",
+      "summary": "Oura is introducing two new cardiovascular-focused health tracking features to its smart rings designed to help users better understand the effect regular workouts and exercise are having on their long-term health, and whether they need to ramp it up or dial things down. Cardio Effort and automatic VO2 Max (previously known as Cardio Capacity) are available for the Oura Ring Gen 3 and later models, but only to users "
     },
     {
-      "id": "b8d091fbc114f8c1",
-      "title": "Why the war on Iran could backfire on US regime-change goals",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_war-on-iran-could-strengthen-nationalism-201026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-10-20T20:23:52.000Z",
-      "summary": "Mortazavi: The war on Iran could strengthen Iranian nationalism rather than trigger regime change."
-    },
-    {
-      "id": "7f5302e4be8f1bda",
-      "title": "UK police rearrest two men on suspicion of assisting Iran’s intelligence",
-      "url": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-10-20T20:17:53.000Z",
-      "summary": "Duo was first arrested for suspected link to incident at US-run airbase used for striking Iran during this year's war."
-    },
-    {
-      "id": "d23ac3e62a21a4fc",
-      "title": "France riots leave thousands of businesses damaged",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-riots-leave-thousands-of-businesses-damaged?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "americas",
-      "publishedAt": "2026-10-20T20:16:01.000Z",
-      "summary": "Weekend riots in France left more than 3,000 businesses damaged with owners facing devastating losses"
-    },
-    {
-      "id": "d26dd7dea516bfc7",
-      "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+      "id": "0a8bcebf6445bf8b",
+      "title": "Trump and Zelensky appear at loggerheads despite new optimism",
       "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "war_conflict",
       "region": "global",
       "publishedAt": "2026-10-20T20:00:57.000Z",
       "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams."
-    },
-    {
-      "id": "13f55e1090599ea3",
-      "title": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off",
-      "url": "https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-10-20T20:00:00.000Z",
-      "summary": "The Superstrike looks similar to Logitech’s previous high-end gaming mice, but it has haptics-based sensors instead of switches. | Image: Cameron Faulkner / The Verge Looking for a way to try the haptics-equipped G Pro X2 Superstrike wireless gaming mouse without spending full price? You probably aren’t alone. Logitech’s now-last-gen right-handed mouse is a great PC gaming companion that mimics the feel of mechanical"
     },
     {
       "id": "ef531db3734bf0aa",
@@ -290,16 +450,6 @@
       "region": "global",
       "publishedAt": "2026-10-20T19:42:32.000Z",
       "summary": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination."
-    },
-    {
-      "id": "e924e52a438a0a02",
-      "title": "Zeabur shutting down after second security breach in two months",
-      "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-10-20T19:33:02.000Z",
-      "summary": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and information for 321,810 accounts. [...]"
     },
     {
       "id": "ffdb331e7a9f86a0",
@@ -352,16 +502,6 @@
       "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted."
     },
     {
-      "id": "f5db4da4066c0351",
-      "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "americas",
-      "publishedAt": "2026-10-20T16:59:06.000Z",
-      "summary": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure."
-    },
-    {
       "id": "c424094308549ba0",
       "title": "Great white shark leaps from water and photobombs California beachgoers",
       "url": "https://www.theguardian.com/us-news/2026/oct/20/great-white-shark-photobomb-california",
@@ -370,16 +510,6 @@
       "region": "global",
       "publishedAt": "2026-10-20T16:45:59.000Z",
       "summary": "Videos show shark launching several feet from water as a group of friends pose for photos along Marina state beach A great white shark put on a spectacular display for California beachgoers over the weekend, leaping from the water off Marina state beach and photobombing visitors. Videos circulating online show a great white shark launching several feet out of the water in the background as a group of friends pose for"
-    },
-    {
-      "id": "1a2448cc6d0ed64f",
-      "title": "Bavuma epic drags SA back into Test - do they have time to beat Australia?",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "africa",
-      "publishedAt": "2026-10-20T16:27:39.000Z",
-      "summary": "Captain Temba Bavuma drags South Africa back into their Test series against Australia but did his side bat on too long on day three?"
     },
     {
       "id": "86e8eb07283a9452",
@@ -412,16 +542,6 @@
       "summary": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC."
     },
     {
-      "id": "0de3977f541da683",
-      "title": "Allen considers retirement after NI Open exit",
-      "url": "https://www.bbc.co.uk/sport/snooker/articles/cmn8w3zl0z4po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-20T15:55:57.000Z",
-      "summary": "Mark Allen says that retiring from snooker is \"something I have been contemplating for a while\" following his 4-2 loss to Jordan Brown in the Northern Ireland Open."
-    },
-    {
       "id": "e541cc958d6a3022",
       "title": "‘It was so satisfying when I threw a rock through the screen’: the people sick of being spied on by their smart TV",
       "url": "https://www.theguardian.com/tv-and-radio/2026/oct/20/smart-tv-television-dumb-wifi-techies-privacy",
@@ -430,16 +550,6 @@
       "region": "global",
       "publishedAt": "2026-10-20T14:42:25.000Z",
       "summary": "Is your television listening to every conversation? Filling your home with highly invasive ads? Some viewers have had enough of tech violating their privacy When Dan had had enough of his television, he threw a rock straight through the screen. The offence? His smart TV was downloading its third update in three days. “It drove me crazy with what seemed like daily software updates that never fixed anything and ‘featur"
-    },
-    {
-      "id": "f2ee694ae19f18c4",
-      "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
-      "url": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-10-20T13:51:00.000Z",
-      "summary": "CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management, passwords, logging, and audit readiness. [...]"
     },
     {
       "id": "63d0dab272f2e34f",
@@ -452,16 +562,6 @@
       "summary": "Rhys Morgan captured footage of the world's second-largest whale species lunge feeding on his drone."
     },
     {
-      "id": "e100cac8131ea079",
-      "title": "Kenya cult leader's children still being starved weeks before trial, son says",
-      "url": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "africa",
-      "publishedAt": "2026-10-20T13:23:32.000Z",
-      "summary": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother."
-    },
-    {
       "id": "beb0c3a26c382553",
       "title": "UK asks Apple to widen access to its payment tech",
       "url": "https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&at_campaign=rss",
@@ -470,16 +570,6 @@
       "region": "europe",
       "publishedAt": "2026-10-20T12:29:24.000Z",
       "summary": "Proposed changes could lead to new digital wallets and keys as well as ticketing apps, the regulator says."
-    },
-    {
-      "id": "2066e2a56b99ad90",
-      "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-10-20T12:08:06.000Z",
-      "summary": "France's second city saw some of the worst violence as chaos gripped the country on Saturday."
     },
     {
       "id": "cbeb051d6431086e",
@@ -510,16 +600,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-10-20T11:45:49.000Z",
       "summary": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread."
-    },
-    {
-      "id": "91a090cc73aeaf48",
-      "title": "Man charged with attack on Australia MP to face court",
-      "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-20T11:25:35.000Z",
-      "summary": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years."
     },
     {
       "id": "cae72bf688957162",
@@ -560,16 +640,6 @@
       "region": "global",
       "publishedAt": "2026-10-20T05:27:15.000Z",
       "summary": "The new chair of the Climate Change Committee is spending two days in Northern Ireland on a fact-finding mission."
-    },
-    {
-      "id": "27c688388c1b1cda",
-      "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
-      "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-10-20T03:10:39.000Z",
-      "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm."
     },
     {
       "id": "8260572124b6700f",
@@ -622,16 +692,6 @@
       "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth."
     },
     {
-      "id": "abedf91860716d37",
-      "title": "‘Crucial opportunity to act’ as study finds most of Europe’s wild bee species in decline",
-      "url": "https://www.theguardian.com/environment/2026/oct/19/study-europe-wild-bee-species-decline-",
-      "source": "The Guardian Environment",
-      "category": "diplomacy",
-      "region": "europe",
-      "publishedAt": "2026-10-19T19:00:04.000Z",
-      "summary": "As Cop17 kicks off, records since 1921 show more bee species declining than increasing in all parts of Europe except the Alps Most of Europe’s wild bee species and about half of its hover fly species have declined over the last century, a study has found, as a UN biodiversity summit begins in Armenia. Records since 1921 show more bee species are declining than increasing in all parts of Europe except the Alpine regio"
-    },
-    {
       "id": "248233e444568d6a",
       "title": "US bans China's DeepSeek from government in race for AI dominance",
       "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
@@ -662,26 +722,6 @@
       "summary": "Prime Minister Tarique Rahman has urged people of all faiths to build Bangladesh together, shoulder to shoulder. He also called upon everyone to rise above religious identity and consider themselves… The post We are all Bangladeshis, irrespective of religion and caste: Prime Minister appeared first on Bangla Online News Portal."
     },
     {
-      "id": "d1285a6c4820a27f",
-      "title": "Drone attack near market kills 80 in Sudan",
-      "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
-      "source": "The Guardian World",
-      "category": "war_conflict",
-      "region": "africa",
-      "publishedAt": "2026-10-19T14:45:53.000Z",
-      "summary": "Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of war A drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catching rides home. Ahmed Wadi, a witness, said the attack in the town of al-Dibab in West Kordofan state left “50 bodies who I helped bury, one of them my own brother Mohamed”. Continue reading..."
-    },
-    {
-      "id": "08f1271742750c69",
-      "title": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services",
-      "url": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
-      "source": "The Guardian World",
-      "category": "diplomacy",
-      "region": "africa",
-      "publishedAt": "2026-10-19T14:11:08.000Z",
-      "summary": "Opposition to US-led quarantine center in Kenya follows sweeping funding cuts and withdrawal from WHO An eighth person in Kenya has tested positive for the Bundibugyo strain of Ebola in the country’s first-ever cluster of cases of the virus, as the second-largest outbreak in history has killed more than 4,300 and sickened more than 9,000 people in the region. It highlights the diminished role the US has played in the"
-    },
-    {
       "id": "7b52cc872b82842a",
       "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
       "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
@@ -710,16 +750,6 @@
       "region": "global",
       "publishedAt": "2026-10-19T12:58:39.000Z",
       "summary": "Claims that Uber misled TfL over its licence were thrown out because they were brought too late."
-    },
-    {
-      "id": "e1ec12a6ffd5d738",
-      "title": "Stop ‘cash to trash’ housebuilding in Norfolk Broads, says Labour MP",
-      "url": "https://www.theguardian.com/environment/2026/oct/19/stop-cash-for-trash-housebuilding-norfolk-broads-labour-mp-chris-hinchcliffe",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-10-19T12:20:08.000Z",
-      "summary": "Exclusive: Chris Hinchliff urges environment watchdog to block rules that will allow almost 16,000 new homes in one of UK’s most protected areas The environment watchdog is being urged to intervene in “cash to trash” planning rules that will allow almost 16,000 new homes in the Norfolk Broads despite the damage to one of the UK’s most environmentally protected areas. Labour’s flagship planning reforms allow damage to"
     },
     {
       "id": "9da58b08ad49ad6e",
@@ -802,26 +832,6 @@
       "summary": "Prime Minister Tareque Rahman has inaugurated the ‘July Memorial’ built in Dhaka’s Osmani Udyan to preserve the memory of those martyred in the July Mass Uprising. Concurrently, he also inaugurated… The post Prime Minister Unveils ‘July Memorial’ Accompanied by Families of Martyrs appeared first on Bangla Online News Portal."
     },
     {
-      "id": "896c62c75b9cb7e4",
-      "title": "China's growth accelerates as AI boom helps boost exports",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "economy_business",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-19T06:08:02.000Z",
-      "summary": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook."
-    },
-    {
-      "id": "9a544296f1238c3c",
-      "title": "Ishraque Hossain to Make Final Resignation Announcement at Noon",
-      "url": "https://www.bd24live.com/ishraque-hossain-to-make-final-resignation-announcement-at-noon/",
-      "source": "BD24Live",
-      "category": "war_conflict",
-      "region": "bangladesh",
-      "publishedAt": "2026-10-19T03:05:15.000Z",
-      "summary": "Ishraque Hossain is set to make a final announcement regarding his resignation from the post of State Minister for Liberation War Affairs. He has informed that he will declare his… The post Ishraque Hossain to Make Final Resignation Announcement at Noon appeared first on Bangla Online News Portal."
-    },
-    {
       "id": "45558f3d34b0e598",
       "title": "BBC visits wildfire front in haze-choked Indonesia",
       "url": "https://www.bbc.co.uk/news/videos/cm9wzye55j4xo?at_medium=RSS&at_campaign=rss",
@@ -850,26 +860,6 @@
       "region": "global",
       "publishedAt": "2026-10-18T19:22:31.000Z",
       "summary": "Without a mitigation strategy the effect on the creatures would be \"major\", a survey says."
-    },
-    {
-      "id": "b21764b2654b2db7",
-      "title": "Fuel leak spreads more than two miles along River Taff",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-10-18T19:20:57.000Z",
-      "summary": "Public Health Wales advises people living nearby to shut their doors and windows due to the smell."
-    },
-    {
-      "id": "af75f71c21a4bf0b",
-      "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
-      "url": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-10-18T08:12:24.000Z",
-      "summary": "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities."
     },
     {
       "id": "8012d0a0ea8bbb17",
@@ -920,6 +910,16 @@
       "region": "global",
       "publishedAt": "2026-09-16T18:14:22.000Z",
       "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face "
+    },
+    {
+      "id": "7f8534d822eaa61f",
+      "title": "Europe's next great coach? How Fabregas led Como into Champions League",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c86xjn97ve2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-09-08T07:35:25.000Z",
+      "summary": "BBC Sport visits Como to discover the vision and philosophy of the club's coach, Cesc Fabregas, who has overseen the team's remarkable rise to the Champions League."
     },
     {
       "id": "d0db026dbc4bae1f",
