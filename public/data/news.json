@@ -1,9 +1,229 @@
 {
-  "generatedAt": "2026-10-22T04:29:39.673Z",
+  "generatedAt": "2026-10-22T09:59:25.962Z",
   "articles": [
     {
-      "id": "b50cd50c31be1427",
-      "title": "No purchase, no seats: Starbucks China rolls out new policy",
+      "id": "50823a6d15d95f15",
+      "title": "Russia and Ukraine trade attacks despite pledging to resume peace talks",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-and-ukraine-trade-attacks-despite-pledging-to-resume-peace-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "europe",
+      "publishedAt": "2026-10-22T09:57:47.000Z",
+      "summary": "Overnight attacks on Kyiv injured 15 people, while two were injured in Moscow as Russia said it intercepted 163 drones."
+    },
+    {
+      "id": "18115787a46760cf",
+      "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-10-22T09:56:36.000Z",
+      "summary": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago."
+    },
+    {
+      "id": "e39d3c772a725051",
+      "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
+      "url": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-22T09:47:54.000Z",
+      "summary": "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\"."
+    },
+    {
+      "id": "b9ef3d27103d1ba3",
+      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-10-22T09:37:58.000Z",
+      "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce."
+    },
+    {
+      "id": "4a3478d2baccb4d3",
+      "title": "How do Israel's elections work and who are the main contenders?",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-10-22T09:27:10.000Z",
+      "summary": "Many view it as one of the most pivotal elections in Israel's history, with global implications."
+    },
+    {
+      "id": "44e2f042f25c6f10",
+      "title": "‘Facebook’s wrongdoing’: Why has Meta been fined $25bn in New Mexico?",
+      "url": "https://www.aljazeera.com/news/2026/10/22/facebooks-wrongdoing-why-has-meta-been-fined-25bn-in-new-mexico?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "technology",
+      "region": "americas",
+      "publishedAt": "2026-10-22T09:23:53.000Z",
+      "summary": "The tech giant has been accused of misleading users regarding data privacy linked to the Cambridge Analytica scandal."
+    },
+    {
+      "id": "6f5bbccbd8e55f71",
+      "title": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-10-22T09:14:48.000Z",
+      "summary": "It is the latest in a series of attacks by the Houthi movement which have targeted airports and other sites in the kingdom."
+    },
+    {
+      "id": "bb5017156eb3d4a0",
+      "title": "Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 now displaced",
+      "url": "https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-10-22T09:00:05.000Z",
+      "summary": "Yemen's government forces launched hundreds of strikes on Houthi locations, a spokesperson says."
+    },
+    {
+      "id": "40550efbe5738288",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "source": "MIT Tech Review",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-10-22T08:41:18.000Z",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs…"
+    },
+    {
+      "id": "2eb275669c9d4ec1",
+      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+      "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "africa",
+      "publishedAt": "2026-10-22T08:27:11.000Z",
+      "summary": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]"
+    },
+    {
+      "id": "f1a9f56346841cc9",
+      "title": "UK working to identify exposure after global cyber-security warning",
+      "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-10-22T08:23:42.000Z",
+      "summary": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public."
+    },
+    {
+      "id": "32a3392cd90c3e4d",
+      "title": "Two European women held captive for more than a year in Niger freed in Libya",
+      "url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-10-22T08:21:13.000Z",
+      "summary": "The aid workers from Switzerland and Austria are due to fly home on Thursday, reports say."
+    },
+    {
+      "id": "6d06d867a464d172",
+      "title": "Speaker: ‘No Possibility of Sheikh Hasina’s Return Even in Next 10 Years’",
+      "url": "https://www.bd24live.com/speaker-no-possibility-of-sheikh-hasinas-return-even-in-next-10-years/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-22T08:20:14.000Z",
+      "summary": "Major (Retd.) Hafiz Uddin Ahmed Bir Bikrom, Speaker of the Jatiya Sangsad, commented that there is no possibility of Sheikh Hasina returning even in the next 10 years. He made… The post Speaker: ‘No Possibility of Sheikh Hasina’s Return Even in Next 10 Years’ appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "955c05568df63ae8",
+      "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
+      "url": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-10-22T08:18:39.000Z",
+      "summary": "Ukraine says 'appeasement' will not end war as Russian attacks kill 1, injure 22 in its capital."
+    },
+    {
+      "id": "bf8e4b6f9571bcef",
+      "title": "Can Russia broker a new US-Iran deal?",
+      "url": "https://www.aljazeera.com/opinions/2026/10/22/can-russia-broker-a-new-us-iran-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "diplomacy",
+      "region": "europe",
+      "publishedAt": "2026-10-22T08:00:48.000Z",
+      "summary": "Russia’s nuclear expertise, close ties with Tehran and negotiation experience could give Moscow an edge as a mediator."
+    },
+    {
+      "id": "a49ff8b5268943ad",
+      "title": "Angel Reese shines again as Dream down Valkyries to lead WNBA Finals",
+      "url": "https://www.aljazeera.com/sports/2026/10/22/angel-reese-shines-again-as-dream-down-valkyries-to-lead-wnba-finals?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-10-22T07:53:55.000Z",
+      "summary": "Atlanta's Reese has become the only woman in history to record consecutive double-doubles in three WNBA Finals games."
+    },
+    {
+      "id": "e89b093c7f9c2468",
+      "title": "Weekly sports quiz: How much was Ronaldo fined by Portugal?",
+      "url": "https://www.bbc.co.uk/sport/articles/c51kdwym8ej3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-22T07:29:51.000Z",
+      "summary": "How much attention have you paid to what's happened in the world of sport over the past seven days?"
+    },
+    {
+      "id": "f07ff4846c1e2fe6",
+      "title": "Meta faces Australian lawsuit over alleged social media harm to children",
+      "url": "https://www.aljazeera.com/news/2026/10/22/meta-faces-australian-lawsuit-over-alleged-social-media-harm-to-children?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-22T07:23:12.000Z",
+      "summary": "Class action could be first in Australia to blame social media for harming its users."
+    },
+    {
+      "id": "dde6f4d1f3ece39d",
+      "title": "Wrong national anthems played three times at Asian Para Games in Japan",
+      "url": "https://www.aljazeera.com/sports/2026/10/22/wrong-national-anthems-played-three-times-at-asian-para-games-in-japan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-22T07:10:55.000Z",
+      "summary": "The Iranian national anthem was played for athletes from Taiwan and Mongolia, prompting Nagoya's mayor to apologise."
+    },
+    {
+      "id": "1730fed8db199bc5",
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-10-22T06:24:59.000Z",
+      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
+    },
+    {
+      "id": "7ac79b391bd47550",
+      "title": "How Arab parties could hold critical balance of power in Israeli election",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "creativity_arts",
+      "region": "middle_east",
+      "publishedAt": "2026-10-22T05:30:22.000Z",
+      "summary": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition."
+    },
+    {
+      "id": "6152133f7b0fc3aa",
+      "title": "NI risks missing 2030 energy goals, says Stormont committee",
+      "url": "https://www.bbc.co.uk/news/articles/c623d18dl3v0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-10-22T05:09:52.000Z",
+      "summary": "A committee hears that Northern Ireland could lose out on economic opportunities if action is not accelerated."
+    },
+    {
+      "id": "9c6a4eafa4c27687",
+      "title": "No order, no seat: Starbucks China rolls out new store policy",
       "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world_politics",
@@ -12,24 +232,14 @@
       "summary": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals."
     },
     {
-      "id": "1730fed8db199bc5",
-      "title": "What is PHP and why did it spark a global cyber-security scramble?",
-      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-10-22T03:48:50.000Z",
-      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
-    },
-    {
-      "id": "ed32a0a8cc7de47a",
-      "title": "Trump administration seeks Supreme Court approval to build Big Bend wall",
-      "url": "https://www.aljazeera.com/news/2026/10/22/trump-administration-seeks-supreme-court-approval-to-build-big-bend-wall?traffic_source=rss",
-      "source": "Al Jazeera",
+      "id": "650b50a92eabe434",
+      "title": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
+      "url": "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea",
+      "source": "The Guardian World",
       "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-10-22T03:19:38.000Z",
-      "summary": "US federal judge blocked wall's construction on Texas-Mexico border amid an ongoing legal battle."
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-22T03:56:46.000Z",
+      "summary": "Kim Yo-jong, sister of Kim Jong-un, issues warning after inspecting border fortifications against backdrop of rising tensions Propaganda loudspeakers aimed at South Korea will be ready to restart within days along the entire border, Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, has said amid a worsening of ties between the two countries. The statement, carried by the state news agency KCNA on T"
     },
     {
       "id": "552fa7f6a8d28c7b",
@@ -40,96 +250,6 @@
       "region": "global",
       "publishedAt": "2026-10-22T03:15:41.000Z",
       "summary": "Swimming banned at Maroubra and Coogee while council prioritises ‘culturally respectful’ approach to remains Get our breaking news email, free app or daily news podcast A whale carcass has forced the closure of two busy swimming and surfing spots after washing up between Coogee and Maroubra beaches in Sydney – but there are no plans to remove it. The whale’s heavily decomposed body was found on Thursday morning at Lu"
-    },
-    {
-      "id": "296fbac13a106a65",
-      "title": "US embassy accuses Canada of election meddling ahead of midterms",
-      "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-10-22T03:05:28.000Z",
-      "summary": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada."
-    },
-    {
-      "id": "d98c8c236c39aa02",
-      "title": "Can Trump deport Congresswoman Ilhan Omar?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/can-trump-deport-congresswoman-ilhan-omar?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-10-22T02:34:46.000Z",
-      "summary": "Can Trump deport Congresswoman Ilhan Omar?"
-    },
-    {
-      "id": "82bbf83624e6d398",
-      "title": "Russia frees American Stephen Hubbard after 4 years behind bars",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-frees-american-stephen-hubbard-after-4-years-behind-bars?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-10-22T02:16:25.000Z",
-      "summary": "Russia frees American Stephen Hubbard after 4 years behind bars"
-    },
-    {
-      "id": "d280c20730465a91",
-      "title": "Tigray resumes daily life amid fears of wider war",
-      "url": "https://www.aljazeera.com/news/2026/10/22/tigray-resumes-daily-life-amid-fears-of-wider-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-10-22T02:08:05.000Z",
-      "summary": "Mekelle’s reopening offers little relief as instability and economic hardship persist."
-    },
-    {
-      "id": "ad3f68fcec06f884",
-      "title": "What is the FDLR, and why does its anti-Tutsi ideology endure?",
-      "url": "https://www.aljazeera.com/news/2026/10/22/what-is-the-fdlr-and-why-does-its-anti-tutsi-ideology-endure?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "africa",
-      "publishedAt": "2026-10-22T02:02:55.000Z",
-      "summary": "Four former FDLR officers reveal how its anti-Tutsi ideology took root and endured in Africa."
-    },
-    {
-      "id": "83d796249559fa5b",
-      "title": "Colombian president purges National Museum of works promoting ‘communism’",
-      "url": "https://www.aljazeera.com/news/2026/10/22/colombian-president-purges-national-museum-of-works-promoting-communism?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-10-22T01:09:40.000Z",
-      "summary": "Far-right President Abelardo de la Espriella says he will wage a 'counterrevolution' against cultural institutions."
-    },
-    {
-      "id": "a6d967023f7ea133",
-      "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-10-22T01:07:34.000Z",
-      "summary": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field."
-    },
-    {
-      "id": "13d7d948fbb6a1a9",
-      "title": "George W Bush’s brother backs Democrat James Talarico in Texas Senate race",
-      "url": "https://www.aljazeera.com/news/2026/10/22/brother-of-george-bush-endorses-democratic-senate-candidate-in-texas?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-10-22T01:01:52.000Z",
-      "summary": "Neil Bush says that he voted for Democrat James Talarico due to reservations about Republican candidate Ken Paxton."
-    },
-    {
-      "id": "6aeb466bea2f5d6e",
-      "title": "US accuses Canada of election interference ahead of midterms",
-      "url": "https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-10-21T23:52:21.000Z",
-      "summary": "Washington cites Canadian tariffs, political meetings and anti-Trump ads as evidence of attempted election interference."
     },
     {
       "id": "abc6a4488c5e176f",
@@ -172,14 +292,14 @@
       "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history."
     },
     {
-      "id": "29bb5a5b09d0aba9",
-      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
-      "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
+      "id": "7035d509f4feb630",
+      "title": "'Simply not good enough - Warnock on Man Utd's Como display",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8040gdrdlwwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
       "region": "global",
-      "publishedAt": "2026-10-21T22:54:58.000Z",
-      "summary": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November."
+      "publishedAt": "2026-10-21T22:36:23.000Z",
+      "summary": "Match of the Day pundits Nedum Onuoha and Stephen Warnock analyse Manchester United's performance after their 4-1 Champions League defeat to Como, and discuss midfielder Bruno Fernandes' criticism of team tactics."
     },
     {
       "id": "0f4dbc673504a49d",
@@ -190,16 +310,6 @@
       "region": "global",
       "publishedAt": "2026-10-21T22:33:44.000Z",
       "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas turbines or renewable energy - will determine just how dirty things will get. So far, tho"
-    },
-    {
-      "id": "c574702373f36d54",
-      "title": "New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes",
-      "url": "https://www.bbc.co.uk/news/articles/cqx287g8714lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-10-21T22:20:22.000Z",
-      "summary": "Both men have denied having any knowledge of Epstein's crimes and their attorney rejected the lawsuit as \"categorically false\"."
     },
     {
       "id": "3a9ce21e67856832",
@@ -215,21 +325,11 @@
       "id": "d46dd740b1db598b",
       "title": "Meta fined $25bn for 'lies' over user data privacy",
       "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
+      "source": "BBC World",
+      "category": "world_politics",
       "region": "global",
       "publishedAt": "2026-10-21T21:49:07.000Z",
       "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California."
-    },
-    {
-      "id": "f33e0b19d8044589",
-      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-21T21:43:27.000Z",
-      "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]"
     },
     {
       "id": "016741032c74cdc1",
@@ -272,14 +372,24 @@
       "summary": "Manchester United suffer a heavy defeat to a Como side playing just their third ever game of Champions League football, as Nico Paz stars for the hosts to pile the pressure on Michael Carrick."
     },
     {
-      "id": "74328a1d2bf0518e",
-      "title": "Pope does not need further treatment after lung cancer surgery",
-      "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
+      "id": "5beada9cf847041d",
+      "title": "New York’s first microdrama film festival searches for its audience",
+      "url": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
+      "source": "The Verge",
+      "category": "creativity_arts",
       "region": "global",
-      "publishedAt": "2026-10-21T20:09:10.000Z",
-      "summary": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised."
+      "publishedAt": "2026-10-21T20:49:07.000Z",
+      "summary": "Actors Taye Diggs, Autumn Federici, Gary Entin, Troy Brookins, Edmund Entin and Eric Guilmette attend the world premiere of Microhouse Films and Lifetime's Reunion Island during the ALZA Festival. | Getty Images for Lifetime. It remains to be seen if people really want to watch vertical content on horizontal TV screens, but many filmmakers and creators were confident that their latest projects would play well at Alza"
+    },
+    {
+      "id": "5d89287087993cad",
+      "title": "Flying Roadsters can’t lift Tesla’s flat Q3 revenues",
+      "url": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-10-21T20:22:31.000Z",
+      "summary": "As the smoke clears from its outrageous Roadster demo, Tesla reported Q3 earnings on Wednesday - and the cold reality is that revenue has flatlined. Tesla said it earned $1.7 billion in net income on $28.0 billion in revenue in the quarter that ended in September 2026. Revenues were flat, while profits dropped 4 percent compared to the third quarter of 2025, when the company earned $1.4 billion in net income on $28.1"
     },
     {
       "id": "1a5f182c69e5d8c1",
@@ -292,34 +402,14 @@
       "summary": "Manchester United captain Bruno Fernandes blames head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League."
     },
     {
-      "id": "021786638a02feb0",
-      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-      "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-10-21T19:58:06.000Z",
-      "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes."
-    },
-    {
       "id": "307bbd70b22d52de",
       "title": "Websites taken down worldwide as critical cyber-security update issued",
       "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "source": "BBC Technology",
       "category": "technology",
       "region": "global",
       "publishedAt": "2026-10-21T19:54:57.000Z",
       "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI."
-    },
-    {
-      "id": "a9a2fa6b391e6f30",
-      "title": "'Playing for their careers' - Australia reeling after extraordinary day",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "africa",
-      "publishedAt": "2026-10-21T19:46:45.000Z",
-      "summary": "Australia are facing defeat in the second Test against South Africa with careers on the line after their shambolic performance on day four."
     },
     {
       "id": "93e06d21fb89633c",
@@ -342,16 +432,6 @@
       "summary": "GE Aerospace previously confirmed fuel got into the river while repair work took place nearby."
     },
     {
-      "id": "0c558b6ce230ba34",
-      "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
-      "url": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-21T18:10:42.000Z",
-      "summary": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community."
-    },
-    {
       "id": "3a78f532e39bd8f9",
       "title": "Sports consolidates the spirit of amity, harmony, and patriotism: Prime Minister",
       "url": "https://www.bd24live.com/sports-consolidates-the-spirit-of-amity-harmony-and-patriotism-prime-minister/",
@@ -360,6 +440,16 @@
       "region": "bangladesh",
       "publishedAt": "2026-10-21T17:20:16.000Z",
       "summary": "Prime Minister Tarique Rahman stated that sports is not merely confined to competition; rather, it consolidates the spirit of camaraderie, harmony, mutual respect, and patriotism among people. The role of… The post Sports consolidates the spirit of amity, harmony, and patriotism: Prime Minister appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "8974b530a50f9c23",
+      "title": "Controversial US-backed vaccine trial in African newborns halted",
+      "url": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
+      "source": "The Guardian World",
+      "category": "war_conflict",
+      "region": "africa",
+      "publishedAt": "2026-10-21T17:18:56.000Z",
+      "summary": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’ The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher said on Wednesday. It was “now clear” that the study “will not move forward in Guinea-Bissau”, Frederik Schaltz-Buchholzer, a Danish researcher, wrote on LinkedIn, adding, “we were not"
     },
     {
       "id": "c71068d1a585ca24",
@@ -410,16 +500,6 @@
       "region": "europe",
       "publishedAt": "2026-10-21T15:44:20.000Z",
       "summary": "Clear skies permitting, skygazers could be able to spot as many as 10-20 meteors per hour as the shower peaks this week."
-    },
-    {
-      "id": "0427249f94802af2",
-      "title": "Anderson, 44, not offered new Lancashire contract",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cmy0ek8vnxzko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-21T15:35:42.000Z",
-      "summary": "James Anderson’s legendary career could be over after Lancashire opt against offering England’s all-time leading wicket-taker a new deal."
     },
     {
       "id": "f284dea26b18584b",
@@ -540,16 +620,6 @@
       "region": "global",
       "publishedAt": "2026-10-21T09:00:00.000Z",
       "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner lives of other species and help humans realize that “animals are sentient creatures who think,…"
-    },
-    {
-      "id": "8bc691e95e3bbe83",
-      "title": "Eliminating traffic deaths",
-      "url": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/",
-      "source": "MIT Tech Review",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-10-21T09:00:00.000Z",
-      "summary": "Every year, traffic crashes kill more than one million people, and they’re the leading cause of death for children and young adults. In the US, 100 people a day lose their lives this way, in many cases not on highways but on rural and local streets. “Traffic deaths are a leading cause of preventable death,…"
     },
     {
       "id": "6f67985ae47cee6e",
@@ -742,16 +812,6 @@
       "summary": "Elk, bear, frogs and other animals have used the overpass, which connects 39,000 acres of habitat, since its completion Colorado officials have tracked herds of elk, bears, pronghorn and even northern leopard frogs ambling across its new wildlife overpass. According to a newly released report, the overpass, which acts as a bridge over a busy stretch of interstate, has helped cut wildlife-vehicle collisions by 91% sin"
     },
     {
-      "id": "73e9c400a1647917",
-      "title": "Five ways El Niño is affecting the weather around the world",
-      "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-10-19T23:08:25.000Z",
-      "summary": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence."
-    },
-    {
       "id": "ca37b6ff4eb22264",
       "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
       "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
@@ -770,26 +830,6 @@
       "region": "middle_east",
       "publishedAt": "2026-10-19T21:12:30.000Z",
       "summary": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail."
-    },
-    {
-      "id": "df16e42b6b89a4fe",
-      "title": "Mission blasts off for Mars to grab a piece of its moon",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-10-19T19:45:46.000Z",
-      "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth."
-    },
-    {
-      "id": "248233e444568d6a",
-      "title": "US bans China's DeepSeek from government in race for AI dominance",
-      "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-19T18:21:54.000Z",
-      "summary": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up."
     },
     {
       "id": "bd26fd24d4874ee6",
@@ -820,16 +860,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-10-19T13:20:12.000Z",
       "summary": "The food crisis in the besieged Gaza Strip of Palestine is taking a more severe turn. According to data from the United Nations World Food Programme (WFP), approximately 1.4 million… The post 1.4 Million Palestinians Face Severe Food Crisis in Gaza as WFP Cuts Aid appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "9da58b08ad49ad6e",
-      "title": "Media, a Principal Pillar of Democratic System: President",
-      "url": "https://www.bd24live.com/media-a-principal-pillar-of-democratic-system-president/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-10-19T11:10:15.000Z",
-      "summary": "President Mirza Fakhrul Islam Alamgir, describing the media as one of the principal pillars of a democratic system, stated that the positive role of the media is crucial for strengthening… The post Media, a Principal Pillar of Democratic System: President appeared first on Bangla Online News Portal."
     },
     {
       "id": "fce07bc1171cd850",
