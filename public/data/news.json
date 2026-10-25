@@ -1,35 +1,205 @@
 {
-  "generatedAt": "2026-10-25T14:13:53.409Z",
+  "generatedAt": "2026-10-25T18:19:28.870Z",
   "articles": [
     {
-      "id": "b94fd3d85ed9f55e",
-      "title": "Flight disruption and thousands without electricity after Storm Boelo",
-      "url": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
+      "id": "411e981657ff9653",
+      "title": "Israeli air strike on Gaza City university kills three people",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-10-25T18:12:13.000Z",
+      "summary": "Two Israeli strikes hit students and security guards at the Islamic University in Gaza City."
+    },
+    {
+      "id": "fb07cb0e1cbf829d",
+      "title": "Jordan FA chief says AFC Congress ‘pure politics’ at behest of Infantino",
+      "url": "https://www.aljazeera.com/sports/2026/10/25/jordan-fa-chief-says-afc-congress-pure-politics-at-behest-of-infantino?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-10-25T18:05:14.000Z",
+      "summary": "Prince Ali bin Hussein said nobody was allowed to speak, question, debate or talk to the media at the AFC Congress."
+    },
+    {
+      "id": "d7282c9ac74cf258",
+      "title": "Malard stars as Chelsea beat Palace to extend unbeaten start",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c699zk701n2yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-25T17:56:35.000Z",
+      "summary": "Melvine Malard scores twice and wins a penalty as she helps Chelsea come from behind to beat Crystal Palace 3-1 in the Women's Super League, as the away side extend their unbeaten start to the season to seven matches."
+    },
+    {
+      "id": "4c7f58d5740f6151",
+      "title": "Man killed by falling tree as Storm Boelo brings more severe weather to UK",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Science & Environment",
       "category": "weather_climate",
+      "region": "europe",
+      "publishedAt": "2026-10-25T17:56:18.000Z",
+      "summary": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK."
+    },
+    {
+      "id": "da1f7a17e975a6b4",
+      "title": "US and Israel elections: New leaders, same policies?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-10-25T17:53:23.000Z",
+      "summary": "Israeli governments change. US presidents come and go. But settlement expansion on occupied Palestinian land continues."
+    },
+    {
+      "id": "2ce4a8d774235322",
+      "title": "Man killed by falling tree as Storm Boelo batters Scotland",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-10-25T17:49:38.000Z",
+      "summary": "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland."
+    },
+    {
+      "id": "ca524a343046c4f0",
+      "title": "Can protests in Europe bring about change?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-10-25T17:39:42.000Z",
+      "summary": "People have been taking to the streets to demand action."
+    },
+    {
+      "id": "603bd6040f1437c5",
+      "title": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
+      "url": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-10-25T17:26:22.000Z",
+      "summary": "The deputy secretary-general of UN's ICT agency says unequal access to AI means poorer nations may be left behind."
+    },
+    {
+      "id": "1f39ef90ade06f15",
+      "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
+      "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+      "source": "The Guardian World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-10-25T17:18:28.000Z",
+      "summary": "Nobel peace prize winner’s return after almost a year in exile is unlikely to please interim president Delcy Rodríguez The Venezuelan opposition leader María Corina Machado has announced she has returned to Venezuela almost a year after she left the country to receive the Nobel peace prize. “I’m here. With you,” she wrote on X on Sunday lunchtime. Continue reading..."
+    },
+    {
+      "id": "fdfa2471c400d273",
+      "title": "Jerusalem Daily: Israel expels thousands from Hebron",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
       "region": "americas",
-      "publishedAt": "2026-10-25T13:50:04.000Z",
-      "summary": "About 350 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure."
+      "publishedAt": "2026-10-25T17:12:59.000Z",
+      "summary": "Jerusalem Daily: Israel expels thousands from Hebron"
     },
     {
-      "id": "8c3799dadabf5006",
-      "title": "Saudi air defences intercept Houthi barrage near Mecca",
-      "url": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-10-25T13:49:33.000Z",
-      "summary": "Houthi attacks on Saudi Arabia escalate as fierce ground battles and a devastating siege strangle Yemen's Taiz."
+      "id": "c63ee3ae9a551ce9",
+      "title": "When will the weather settle after Storm Boelo?",
+      "url": "https://www.bbc.co.uk/news/videos/cmrlyeekzldpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-10-25T17:04:32.000Z",
+      "summary": "Gillian Smart has the weather forecast after the worst of Storm Boelo."
     },
     {
-      "id": "b03e844cc68fe40a",
-      "title": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
-      "url": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss",
+      "id": "d5a9360b8b2ca2d1",
+      "title": "Carrick 'saddened' by Man Utd situation after Bournemouth loss",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr5ynqy55l68o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-25T17:02:59.000Z",
+      "summary": "Manchester United manager Micheal Carrick reflects on a 'tough day' after his side lost 3-0 at home to Bournemouth with his future in doubt with United without a win in their last eight games."
+    },
+    {
+      "id": "12ee0c58a74772e7",
+      "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
+      "url": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-10-25T17:00:00.000Z",
+      "summary": "The stick and face buttons are too close for comfort. | Photo: Cameron Faulkner / The Verge The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made for both the original Switch and the larger Switch 2, continues the tradition of having b"
+    },
+    {
+      "id": "68f2d8b348653051",
+      "title": "Carrick future under major threat - can he survive?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crgj9wnpd1lvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-25T16:51:48.000Z",
+      "summary": "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday."
+    },
+    {
+      "id": "1109d82a54321ccd",
+      "title": "Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports",
+      "url": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss",
       "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-10-25T13:46:51.000Z",
-      "summary": "Children in Gaza with auditory and visual challenges often have no access to specialist education."
+      "category": "economy_business",
+      "region": "americas",
+      "publishedAt": "2026-10-25T16:42:33.000Z",
+      "summary": "Just as American cattle went to market, Trump's action added unease to an industry already facing uncertainty."
+    },
+    {
+      "id": "43f53d0c6b042ec9",
+      "title": "England lose to Pakistan after improbable last-wicket stand",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-25T16:34:17.000Z",
+      "summary": "England somehow lose another one-day international from a seemingly unbeatable position thanks to an improbable last-wicket stand by Pakistan in Lahore."
+    },
+    {
+      "id": "3d0de17c81455636",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-10-25T16:21:40.000Z",
+      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
+    },
+    {
+      "id": "f8bd9823a04f822b",
+      "title": "Now you can watch Instagram Reels on your Apple TV",
+      "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-10-25T16:20:17.000Z",
+      "summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew of new features for the app, which is available for Amazon's Fire TV, Samsung Smart TVs, and Google TV. Now Meta is bring"
+    },
+    {
+      "id": "81b58873b4912296",
+      "title": "Early reports suggest record high turnout in Serbia elections",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-10-25T16:05:15.000Z",
+      "summary": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić."
+    },
+    {
+      "id": "4d6fa8f32d45e77a",
+      "title": "Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-25T16:04:13.000Z",
+      "summary": "Another catastrophic day for Manchester United and a glorious one for Bournemouth - how did the players rate?"
     },
     {
       "id": "6848c08850db303e",
@@ -38,8 +208,78 @@
       "source": "BBC Science & Environment",
       "category": "weather_climate",
       "region": "global",
-      "publishedAt": "2026-10-25T13:45:16.000Z",
-      "summary": "Hundreds of homes have been without power while there is disruption on roads, rail and ferry."
+      "publishedAt": "2026-10-25T15:58:33.000Z",
+      "summary": "Authorities said they were dealing with flooding and fallen trees as Storm Boelo followed Storm Austen."
+    },
+    {
+      "id": "58949a6c2c9af408",
+      "title": "Isak, Barcola and Wirtz turn up - player ratings for Liverpool v Brighton",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crwyd857p00yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-25T15:58:26.000Z",
+      "summary": "How Liverpool and Brighton's players rated following their Premier League match."
+    },
+    {
+      "id": "767e6f69e87b6a0c",
+      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+      "source": "BleepingComputer",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-10-25T15:49:38.000Z",
+      "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]"
+    },
+    {
+      "id": "2d55f1319d827045",
+      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-10-25T15:32:51.000Z",
+      "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said."
+    },
+    {
+      "id": "8664411d81196a3e",
+      "title": "Jarman wins historic second Worlds silver in vault final",
+      "url": "https://www.bbc.co.uk/sport/gymnastics/videos/c574pv1nk0jgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-25T15:25:16.000Z",
+      "summary": "Jake Jarman becomes the first British male gymnast to win two individual medals at a World Gymnastics Championships, landing silver in a thrilling men's vault final in Rotterdam."
+    },
+    {
+      "id": "b94fd3d85ed9f55e",
+      "title": "Flight disruption and thousands without electricity after Storm Boelo",
+      "url": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "americas",
+      "publishedAt": "2026-10-25T15:14:26.000Z",
+      "summary": "About 350 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure."
+    },
+    {
+      "id": "d9237991b2c6d2cc",
+      "title": "Gabon says access to social media restored after eight-month ban",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-10-25T14:39:47.000Z",
+      "summary": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power."
+    },
+    {
+      "id": "5604dc666ec69ad1",
+      "title": "‘There’s nothing interesting about me – and no interest in me’: how Larry David’s new biography nearly didn’t happen",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/25/theres-nothing-interesting-about-me-and-no-interest-in-me-how-larry-davids-new-biography-nearly-didnt-happen",
+      "source": "The Guardian Culture",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-10-25T14:00:04.000Z",
+      "summary": "He point-blank refused, begged the author not to talk to people who knew him … and eventually relented. Making the first authorised biography of the Seinfeld and Curb creator was no mean feat Emperor of Nothing: The Making of Larry David might be the most begrudgingly authorised biography ever written. The story of how author Blake J Harris convinced the comedy titan to “tolerate” him begins, of all places, at Fox Ne"
     },
     {
       "id": "cb0b8b1751050ced",
@@ -52,94 +292,24 @@
       "summary": "Biman Bangladesh Airlines has extended the suspension of all flights from Dhaka to Dammam and Riyadh until November 4, for the safety of passengers in light of attacks on various… The post Flights Suspended on Dhaka-Dammam and Riyadh Routes Until November 4 appeared first on Bangla Online News Portal."
     },
     {
-      "id": "75cf27d9b4c6c147",
-      "title": "Serbia votes as student-led bloc challenges longtime leader Vucic",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-10-25T13:40:10.000Z",
-      "summary": "Serbians turn out in huge numbers for a parliamentary election that could end Aleksandar Vucic’s longstanding reign."
-    },
-    {
-      "id": "58c1f713dea46893",
-      "title": "Portuguese police clear Lisbon housing protest camp, arrest 25",
-      "url": "https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-10-25T13:29:56.000Z",
-      "summary": "Officers baton-charge demonstrators in overnight operation as activists demand government action on housing crisis."
-    },
-    {
-      "id": "0b20efac07759a52",
-      "title": "Overnight winds reach 85mph as Scotland is hit by Storm Boelo",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-10-25T13:25:04.000Z",
-      "summary": "Heavy rain and strong winds are affecting most of the country until 21:00 on Sunday."
-    },
-    {
-      "id": "5a73dec9149d1ba9",
-      "title": "Elena Rybakina retains Ningbo title, wins first trophy as world number one",
-      "url": "https://www.aljazeera.com/sports/2026/10/25/elena-rybakina-retains-ningbo-title-wins-first-trophy-as-world-number-one?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-10-25T12:40:20.000Z",
-      "summary": "The victory helped the Kazakh take a big step towards securing the year-end number one ranking."
-    },
-    {
-      "id": "ebf0d13a21000b06",
-      "title": "UK PM Burnham says he wants to discuss a return to EU freedom of movement",
-      "url": "https://www.aljazeera.com/news/2026/10/25/uk-pm-burnham-says-he-wants-to-discuss-a-return-to-eu-freedom-of-movement?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-10-25T12:38:54.000Z",
-      "summary": "Burnham says Britain should have an 'honest discussion' about how immigration to the UK has changed since Brexit."
-    },
-    {
-      "id": "05233b766e86d3db",
-      "title": "Wembanyama scores 23 as Spurs beat Mavericks for first win of NBA season",
-      "url": "https://www.aljazeera.com/sports/2026/10/25/wembanyama-scores-23-as-spurs-beat-mavericks-for-first-win-of-nba-season?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-10-25T12:37:49.000Z",
-      "summary": "Joel Embiid posts triple-double as 76ers handle Bucks. Devin Booker posts 43 to help Suns down Warriors."
-    },
-    {
-      "id": "10eefdaa9f6768a5",
-      "title": "Why Israel’s latest assault on Hebron is so significant for the West Bank",
-      "url": "https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-10-25T12:17:39.000Z",
-      "summary": "Mass expulsions, blockades and expanding settler control in Hebron threaten to devastate the West Bank economy."
-    },
-    {
-      "id": "6ff9cb7847ce98e3",
-      "title": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-10-25T12:05:16.000Z",
-      "summary": "An oil slick has been filmed washing up on the UAE shoreline, prompting authorities to close beaches in Umm Al Quwain."
-    },
-    {
-      "id": "4ab74226e1bd62fa",
-      "title": "Anderson stops short of retiring after Lancashire exit",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c3qjng48exxwo?at_medium=RSS&at_campaign=rss",
+      "id": "ffe76698e1c752f2",
+      "title": "Fernandes left on bench for Man Utd defeat - a failed gamble?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
       "region": "global",
-      "publishedAt": "2026-10-25T12:03:17.000Z",
-      "summary": "James Anderson expresses sadness at being released by Lancashire, but stopped short of confirming the end of his legendary playing career."
+      "publishedAt": "2026-10-25T13:26:13.000Z",
+      "summary": "Manchester United skipper Bruno Fernandes is left on the bench for Sunday's 3-0 loss to Bournemouth, following his criticism of manager Michael Carrick."
+    },
+    {
+      "id": "9bd65e791e696732",
+      "title": "Stephen Fry: ‘Sherlock Holmes altered the course of my whole life’",
+      "url": "https://www.theguardian.com/books/2026/oct/25/stephen-fry-sherlock-holmes-altered-the-course-of-my-whole-life",
+      "source": "The Guardian Culture",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-10-25T12:00:02.000Z",
+      "summary": "Nearly a hundred years after Arthur Conan Doyle’s last Sherlock Holmes story, the writer and broadcaster unravels the mystery of the detective’s enduring appeal It has become quite the fashion for contemporary writers to have a go at reinventing past classics. We’ve seen it done with imperishable literary heroes like Bond, Jeeves, Poirot and Winnie-the-Pooh. This is a relatively new phenomenon. But not in the case of"
     },
     {
       "id": "92db90c8fefff98d",
@@ -150,16 +320,6 @@
       "region": "global",
       "publishedAt": "2026-10-25T12:00:00.000Z",
       "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on Google for a very long time. Many outlets spent time and money optimizing their webpages to show up at th"
-    },
-    {
-      "id": "71bc0e98c1e12fe4",
-      "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-      "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-10-25T11:54:16.000Z",
-      "summary": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office."
     },
     {
       "id": "5ee5a3a7213a488c",
@@ -180,26 +340,6 @@
       "region": "global",
       "publishedAt": "2026-10-25T11:42:17.000Z",
       "summary": "BBC Scotland reports from the scene at Cardross as Storm Boelo batters the country."
-    },
-    {
-      "id": "9535bfe802241a29",
-      "title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
-      "url": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-10-25T11:39:41.000Z",
-      "summary": "Reports say Pentagon has drawn up plans for strikes after midterm polls, but analysts question what it could achieve."
-    },
-    {
-      "id": "8c21f7ae65e81525",
-      "title": "Australia reach World Cup semis & New Zealand get back on track",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c60mekrgx4zvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-25T11:21:50.000Z",
-      "summary": "Australia edge to a 36-22 victory in a pulsating Group A match against Fiji to book their place in the Rugby League World Cup semi-finals."
     },
     {
       "id": "70d6edaba643df26",
@@ -262,16 +402,6 @@
       "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
     },
     {
-      "id": "4d615161570431bd",
-      "title": "Watch Match of the Day on iPlayer",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0033jlx?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-25T09:00:00.000Z",
-      "summary": "With Chelsea v Spurs, Arsenal v Everton, Villa v Man City and Coventry v Fulham"
-    },
-    {
       "id": "af6fb7e542dbf96d",
       "title": "Rosebank: Life on the oil field at the centre of a political storm",
       "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
@@ -280,16 +410,6 @@
       "region": "global",
       "publishedAt": "2026-10-25T07:15:38.000Z",
       "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate."
-    },
-    {
-      "id": "bf3020a02d142798",
-      "title": "When is Premier League 'sacking season' - and who should be worried?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmy83vg66zngo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-25T06:17:46.000Z",
-      "summary": "As pressure builds on Manchester United manager Michael Carrick, BBC Sport looks at when the Premier League 'sacking season' begins."
     },
     {
       "id": "729b45c1b499650b",
@@ -342,26 +462,6 @@
       "summary": "Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\"."
     },
     {
-      "id": "452038420546604f",
-      "title": "Antonelli stands on brink of history in Austin",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cvlyd5k776yyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-25T00:40:56.000Z",
-      "summary": "Kimi Antonelli can become the youngest F1 world champion on Sunday, but far from feeling the pressure he says he is enjoying himself more than usual."
-    },
-    {
-      "id": "1fd5c2df82f6b882",
-      "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-24T19:17:06.000Z",
-      "summary": "Tottenham claim just their second victory over Chelsea at Stamford Bridge in 36 years, winning 2-0 as the hosts finish with 10 men after a red card for Cole Palmer."
-    },
-    {
       "id": "3618dc91b53f9daa",
       "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
       "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
@@ -370,26 +470,6 @@
       "region": "global",
       "publishedAt": "2026-10-24T19:12:51.000Z",
       "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer."
-    },
-    {
-      "id": "dc2e471b5e33a8fa",
-      "title": "Arsenal beat Everton to go level on points with leaders Man City",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-24T18:59:30.000Z",
-      "summary": "Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat Everton 2-0 at the Emirates to move level on points with league leaders Manchester City."
-    },
-    {
-      "id": "d9ac42df5211a298",
-      "title": "Bobb's late strike secures Fulham win at Coventry",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpmrzr04do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-24T18:59:22.000Z",
-      "summary": "Fulham's Oscar Bobb scores in the 80th minute against Coventry to earn back-to-back victories in the Premier League."
     },
     {
       "id": "33f6a9a3d4430ef1",
@@ -410,16 +490,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-10-24T17:35:10.000Z",
       "summary": "The results of this year’s Higher Secondary Certificate (HSC) and equivalent examinations will be published on October 29 (Thursday). Professor Syed Akteruzzaman, President of the Inter-Education Board Coordination Committee and… The post HSC and Equivalent Exam Results to be Published on October 29 appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "82f5a248dc2a0072",
-      "title": "Mum who died trying to save sons was hero, husband says",
-      "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-10-24T17:11:56.000Z",
-      "summary": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\"."
     },
     {
       "id": "cace024fe6cd1523",
@@ -452,16 +522,6 @@
       "summary": "LG’s C6 OLED TV is on sale in multiple sizes starting at $999.99 ($300 off). | Image: LG Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various soundbars through November 1st. Right now, for instance, you can snag a 55-inch C6 for an all-time low of $999.99"
     },
     {
-      "id": "f46229d381c1c75a",
-      "title": "Amber weather warning as Storm Boelo hits Scotland",
-      "url": "https://www.bbc.co.uk/news/videos/cmqlnkq6p6y7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-10-24T14:40:18.000Z",
-      "summary": "The Met Office has issued an amber warning for wind over Scotland from 21:00 until 21:00 on Sunday."
-    },
-    {
       "id": "372c1b744d4519d7",
       "title": "What to expect from Apple’s ‘Pro and tell’ event",
       "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
@@ -470,16 +530,6 @@
       "region": "global",
       "publishedAt": "2026-10-24T14:15:00.000Z",
       "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" event is scheduled for October 28th at 1PM ET in Los Angeles. While obviously nothing is confirmed yet, it sure seems like we're finally going to get that long-rumored touch"
-    },
-    {
-      "id": "c5825fffab535c58",
-      "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
-      "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-10-24T14:00:00.000Z",
-      "summary": "The Lenovo Yoga 9n is a pricey workstation laptop, but being a 2-in-1 also makes it fun. | Photo: Antonio G. Di Benedetto / The Verge It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook. Like the Apple silicon in modern Ma"
     },
     {
       "id": "d91f8a5369c91868",
@@ -502,26 +552,6 @@
       "summary": "Bangladesh Jamaat-e-Islami Ameer Dr. Shafiqur Rahman has rejected allegations of a purported nexus with the Awami League and claims that his party has forgiven it. He challenged the Prime Minister… The post Jamaat Ameer Challenges Prime Minister to Prove Collusion Allegations with Awami League appeared first on Bangla Online News Portal."
     },
     {
-      "id": "a52d517b84814d9a",
-      "title": "Lee Chang Dong ponders the ethics of the camera",
-      "url": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-24T12:30:00.000Z",
-      "summary": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee movies that engage with themes of class or labor or religion or compressed modernity, that uniquely Korean affliction, without feeling didactic. A different kind of movie"
-    },
-    {
-      "id": "17e4252b7de74144",
-      "title": "Storm Boelo to bring severe gales and heavy rain into Sunday",
-      "url": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-10-24T11:48:58.000Z",
-      "summary": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches."
-    },
-    {
       "id": "61927237f126d621",
       "title": "New Trump rule allows hunters to bait bears in Alaska with doughnuts, bacon and more",
       "url": "https://www.theguardian.com/us-news/2026/oct/24/trump-administration-alaska-bear-hunting-bait",
@@ -530,16 +560,6 @@
       "region": "americas",
       "publishedAt": "2026-10-24T11:00:32.000Z",
       "summary": "Critics decry Trump administration rule that lets hunters lure bears with human foods on federal lands in Alaska A new Trump administration rule allows hunters to bait bears on federal lands in Alaska with bacon, doughnuts, meat scraps or other human foods typically used to help kill the trophy animals at close range. Opponents say the practice will cause bears to be more aggressive around humans, and allege that the"
-    },
-    {
-      "id": "10a12b12c89213cb",
-      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "africa",
-      "publishedAt": "2026-10-24T09:46:53.000Z",
-      "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo."
     },
     {
       "id": "05590b9deb1fd262",
@@ -570,16 +590,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-10-24T04:00:11.000Z",
       "summary": "A total of 141 flights from Dhaka to Riyadh and Dammam in Saudi Arabia have been cancelled, affecting 21,933 passengers. According to the Civil Aviation Authority of Bangladesh (CAAB), among… The post 141 Flights from Dhaka to Riyadh-Dammam Cancelled, Affecting 21,933 Passengers appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "b76e0623c0f9050a",
-      "title": "Australian MP's condition improves after alleged car attack",
-      "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-24T01:55:15.000Z",
-      "summary": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital."
     },
     {
       "id": "69918c19a226bf79",
