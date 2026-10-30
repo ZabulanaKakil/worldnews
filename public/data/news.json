@@ -1,65 +1,285 @@
 {
-  "generatedAt": "2026-10-30T00:45:36.717Z",
+  "generatedAt": "2026-10-30T06:58:09.935Z",
   "articles": [
     {
-      "id": "4be33c66cbc87237",
-      "title": "Crypto giant Binance freezes $2.5bn of assets over suspected hack",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-10-30T00:37:59.000Z",
-      "summary": "The firm said deposits and withdrawals are suspended while its teams conduct security checks and will \"cover all losses\"."
-    },
-    {
-      "id": "bfb474d01d234fcc",
-      "title": "Armenian parliament turns into a boxing ring, third time in a month",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/armenian-parliament-turns-into-a-boxing-ring-third-time-in-a-month?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-10-30T00:36:03.000Z",
-      "summary": "Armenia’s parliament descended into fisticuffs after a ruling-party MP mocked the opposition leader’s family."
-    },
-    {
-      "id": "d15ae1d46241fcc2",
-      "title": "Binance says $2.54bn in crypto funds frozen amid ‘potential security issue’",
-      "url": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-10-30T00:29:24.000Z",
-      "summary": "Binance founder says world's largest crypto exchange appears to have been hacked."
-    },
-    {
-      "id": "859022be7da37897",
-      "title": "ক্ষমতা হারানোর ভয়েই কি আরব দলগুলোর ওপর আক্রমণ বাড়িয়েছেন নেতানিয়াহু",
-      "url": "https://www.prothomalo.com/world/middle-east/qk2p7aunju",
+      "id": "48ebf4eb0b7f0ddc",
+      "title": "মেঘনায় গুলিবিদ্ধ জেলের মৃত্যু : ২৪ ঘণ্টা পরও মামলা হয়নি, থানায় পুলিশের জিডি",
+      "url": "https://www.prothomalo.com/bangladesh/district/wsds46og13",
       "source": "Prothom Alo",
       "category": "world_politics",
       "region": "bangladesh",
-      "publishedAt": "2026-10-30T00:24:24.000Z",
-      "summary": "বিশ্লেষকদের ধারণা, নেতানিয়াহু আইজেনকটকে এমন অবস্থায় ফেলতে চাইছেন, যাতে তিনি আরব দলগুলোকে নিয়ে সরকার গঠনের কথা চিন্তা করতে না পারেন।"
+      "publishedAt": "2026-10-30T06:40:46.000Z",
+      "summary": "বরিশালের হিজলায় মেঘনা নদীতে গুলিবিদ্ধ হয়ে জেলে আক্তার হোসেন হাওলাদার (৪০) নিহত হওয়ার ঘটনায় পুলিশ থানায় সাধারণ ডায়েরি (জিডি) করেছে।"
     },
     {
-      "id": "1e7f206df0158108",
-      "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
-      "url": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
+      "id": "9defd98c6e6abeef",
+      "title": "US midterms: 4 days to go – What the polls say as Trump cancels two rallies",
+      "url": "https://www.aljazeera.com/news/2026/10/30/us-midterms-4-days-to-go-what-the-polls-say-as-trump-cancels-two-rallies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-10-30T06:36:11.000Z",
+      "summary": "Trump cancels Kansas and Iowa rallies, opting for telephone events across nearly 20 states over the weekend."
+    },
+    {
+      "id": "9e37c8b3ab4af6eb",
+      "title": "বিমানবাহিনীর সাবেক কর্মকর্তার মৃত্যু: বন্ধু দীপ হেফাজতে",
+      "url": "https://www.prothomalo.com/bangladesh/crime/bimaanbaahiniir-saabek-krmkrtaar-mrtyu-bndhu-diip-hephaajte",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-30T06:34:25.000Z",
+      "summary": "বিমানবাহিনীর সাবেক কর্মকর্তার মৃত্যু: বন্ধু দীপ হেফাজতে"
+    },
+    {
+      "id": "a8387ff81e02b87f",
+      "title": "মৃত ও প্রবাসীদের দেখিয়েছেন শ্রমিক, ভুয়া ভাউচারে আত্মসাৎ ৫৫ প্রকল্পের টাকা",
+      "url": "https://www.prothomalo.com/bangladesh/district/i1bnh75dr6",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-30T06:32:41.000Z",
+      "summary": "বিষয়টি জানতে পেরে তাঁর স্ত্রী হাসিনা বেগম অবাক হন। একই এলাকার মোস্তফার মৃত্যুর পর তাঁর ব্যাংক হিসাব থেকেও টাকা উত্তোলন করা হয়েছে।"
+    },
+    {
+      "id": "5df10c961260248b",
+      "title": "আড়াই শ ছবিতে অভিনয়, পরেশ রাওয়ালের পছন্দ মাত্র ১১টি! কোনগুলো",
+      "url": "https://www.prothomalo.com/entertainment/bollywood/4se61azvio",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-30T06:30:00.000Z",
+      "summary": "এত দীর্ঘ ক্যারিয়ারে নিজের অভিনীত কয়টি ছবিকে ভালো মনে করেন পরেশ রাওয়াল? উত্তরটা শুনলে অবাক হতে হয়। মাত্র ১১টি!"
+    },
+    {
+      "id": "e0343d2c98d13189",
+      "title": "তুরাগ নদের কাছ থেকে মোটরসাইকেল উদ্ধার, তাহসিফের কি না যাচাই করছে পুলিশ",
+      "url": "https://www.prothomalo.com/bangladesh/crime/z3krxialp0",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-30T06:25:50.000Z",
+      "summary": "গতকাল বৃহস্পতিবার দিবাগত রাতে মোটরসাইকেলটি উদ্ধার করে পিবিআই। সংস্থাটি বলছে, মরদেহ উদ্ধারের স্থান থেকে ৫০ গজ দূরে টঙ্গীর মাজার বস্তি এলাকায় মোটরসাইকেল পাওয়া যায়।"
+    },
+    {
+      "id": "6064e3de1f7785dc",
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmd7qj9r3v7vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-30T06:22:04.000Z",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+    },
+    {
+      "id": "e0f646d8c3fa02f6",
+      "title": "How talking about Man Utd's cycle of doom became an industry",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-30T06:14:19.000Z",
+      "summary": "Manchester United's struggles are pored over more than ever before - not least by former players."
+    },
+    {
+      "id": "b895945cfd3e57cc",
+      "title": "নেতানিয়াহুর সাফল্যে আশা দেখছেন \nডোনাল্ড ট্রাম্প",
+      "url": "https://www.prothomalo.com/world/usa/x612mwpxpd",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-30T06:12:02.000Z",
+      "summary": "বিরোধীরা সরকার গঠন করতে না পারলে নেতানিয়াহু তাঁদের একাংশকে নিজের দিকে টেনে একটি জাতীয় ঐক্যের সরকার গঠনের চেষ্টা করতে পারেন।"
+    },
+    {
+      "id": "342ada215da7a7c5",
+      "title": "Hyrox athlete who soiled herself in race tells BBC she put others at risk but says backlash was traumatic",
+      "url": "https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-30T06:10:50.000Z",
+      "summary": "In her first interview since the incident, Joanna Wietrzyk told the BBC she takes responsibility for it but did not deserve such a severe backlash."
+    },
+    {
+      "id": "7bb3a6da903094d7",
+      "title": "পৃথিবীতে পানি এল কোথা থেকে",
+      "url": "https://www.prothomalo.com/technology/science/q8hv1vywsa",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-30T06:03:02.000Z",
+      "summary": ""
+    },
+    {
+      "id": "73895ada11f6f76d",
+      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+      "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-10-30T06:02:23.000Z",
+      "summary": "Fuel price rises are driving discontent, testing support for Ahmed al-Sharaa's government."
+    },
+    {
+      "id": "5204e0cebaaf172d",
+      "title": "ভোটের চূড়ান্ত ফলাফল: ইসরায়েলে সরকার গঠন নিয়ে অচলাবস্থা কি দীর্ঘ হতে পারে",
+      "url": "https://www.prothomalo.com/world/middle-east/rpk2n3mke2",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-30T06:01:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "2ead3bde36089d45",
+      "title": "সরকারি বাসা থেকে ভাড়াটে সরাতে হবে কালকের মধ্যেই, নয়তো বাসা বাতিল",
+      "url": "https://www.prothomalo.com/bangladesh/7jfi1apr6a",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-30T06:00:42.000Z",
+      "summary": "আগামীকাল ৩১ অক্টোবরের মধ্যে সাবলেট বা ভাড়াটেদের সরিয়ে দেওয়ার নির্দেশ দেওয়া হয়েছে। যে সরকারি চাকরিজীবীকে বাসা বরাদ্দ দেওয়া হয়েছে, তাঁকেই সেখানে বসবাস করার নির্দেশ দিয়েছে সরকারি আবাসন পরিদপ্তর।"
+    },
+    {
+      "id": "1d684a7dc0e6ce4f",
+      "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "economy_business",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-30T05:15:16.000Z",
+      "summary": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor."
+    },
+    {
+      "id": "8bfe587d4408db74",
+      "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
+      "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
+      "source": "The Guardian World",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-10-30T05:00:45.000Z",
+      "summary": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF Members of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplomat for the top job at the UN, citing her denial of accusations that the United Arab Emirates is fuelling the war in Sudan by supporting the paramilitary Rapid Support Forces. The UAE "
+    },
+    {
+      "id": "6e244a853aba43b9",
+      "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
+      "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
+      "source": "The Guardian World",
+      "category": "creativity_arts",
+      "region": "africa",
+      "publishedAt": "2026-10-30T05:00:45.000Z",
+      "summary": "There is no end in sight for the drivers of illegal mining, while police action appears ineffective Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991. But as the price of gold has soared, so too has activity in the abandoned mine shafts that mark the area. In late September, dozens of zama zamas – th"
+    },
+    {
+      "id": "9336b330c48f0a8d",
+      "title": "Venezuela’s Machado lauds Trump for ‘freedom’, urges 2027 elections",
+      "url": "https://www.aljazeera.com/news/2026/10/30/machado-lauds-trump-for-freedom-floodgate-urges-2027-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-10-30T04:40:07.000Z",
+      "summary": "Nobel winner returns to Venezuela from exile, urging elections and criticising a controversial US oil deal with Caracas."
+    },
+    {
+      "id": "72cc1287960eac64",
+      "title": "US judge blocks Trump’s Medicaid rule forcing ill to prove impairment",
+      "url": "https://www.aljazeera.com/news/2026/10/30/us-judge-blocks-trumps-medicaid-rule-forcing-ill-to-prove-impairment?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-10-30T04:38:24.000Z",
+      "summary": "A US district judge sided with 25 states and the District of Columbia, which sued the administration."
+    },
+    {
+      "id": "346d2339308cf976",
+      "title": "‘You look like hell’, Trump lashes out at reporter in tarmac tirade",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/you-look-like-hell-trump-lashes-out-at-reporter-in-tarmac-tirade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-10-30T04:31:16.000Z",
+      "summary": "US President Donald Trump has lashed out at a reporter’s appearance."
+    },
+    {
+      "id": "af2cd229691a67e2",
+      "title": "Israeli actress slams occupation in accidental ‘hot mic’ moment",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-actress-slams-occupation-in-accidental-hot-mic-moment?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "war_conflict",
       "region": "middle_east",
-      "publishedAt": "2026-10-30T00:11:20.000Z",
-      "summary": "The announcement comes despite talks between Iran and the Mecca pact countries in Tehran earlier this week."
+      "publishedAt": "2026-10-30T04:14:09.000Z",
+      "summary": "Veteran Israeli actress Chelli Goldenberg was left shocked after she was caught ripping into Israel's policies."
     },
     {
-      "id": "6024df3528bd8662",
-      "title": "What does bourbon have to do with the US midterms?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/what-does-bourbon-have-to-do-with-the-us-midterms?traffic_source=rss",
+      "id": "7b33c7a4944a0fb0",
+      "title": "Why are Detroit gas stations selling discounted fuel in Trump’s name?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/why-are-detroit-gas-stations-selling-discounted-fuel-in-trumps-name?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-10-30T03:31:30.000Z",
+      "summary": "Gas stations promoted by President Trump are selling discounted fuel in Detroit as Americans grapple with rising prices."
+    },
+    {
+      "id": "8a6ef3118eee2f58",
+      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "creativity_arts",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-30T03:24:12.000Z",
+      "summary": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say."
+    },
+    {
+      "id": "4c39329389bcbec5",
+      "title": "Flash floods kill five in Syria",
+      "url": "https://www.aljazeera.com/news/2026/10/30/flash-floods-kills-five-in-syria?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-10-30T00:08:50.000Z",
-      "summary": "The US-Canada trade war is hurting Kentucky’s bourbon industry, which generates billions of dollars annually."
+      "region": "middle_east",
+      "publishedAt": "2026-10-30T03:11:55.000Z",
+      "summary": "Four children drowned while a man died after his car was caught in floodwaters."
+    },
+    {
+      "id": "69a55155a301dee1",
+      "title": "Three dead after two helicopters collide midair near Oregon airport",
+      "url": "https://www.bbc.co.uk/news/articles/cked3p81303yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-10-30T03:05:17.000Z",
+      "summary": "The collision involving a Robinson R22 and an Airbus helicopter occurred on Thursday afternoon, with both aircraft crashing in a field adjacent to a highway."
+    },
+    {
+      "id": "db012bf05cdfe055",
+      "title": "China expels a record number from Communist party amid Xi’s intensified purges of top officials",
+      "url": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum",
+      "source": "The Guardian World",
+      "category": "creativity_arts",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-30T02:56:46.000Z",
+      "summary": "The unprecedented number of empty seats at the fifth plenum – a symbol of expulsions – serve as a symbol for the scale of the purges under Xi Jinping China expelled a record number of officials from the Chinese Communist party (CCP) as it concluded a major political gathering, which saw an unprecedented number of empty seats indicating the scale of the purges under Xi Jinping. A record 33 members were expelled at thi"
+    },
+    {
+      "id": "81952523457df436",
+      "title": "El Niño-driven drought in Papua New Guinea a ‘national crisis’ as rivers dry up and local farms fail",
+      "url": "https://www.theguardian.com/world/2026/oct/30/png-el-nino-drought-papua-new-guinea",
+      "source": "The Guardian World",
+      "category": "economy_business",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-30T01:45:56.000Z",
+      "summary": "As many as 8 million people have been affected by food shortages, electricity blackouts and health clinic closures Extreme drought driven by an historic El Niño is affecting as many as 8 million people in Papua New Guinea, causing a cascade of issues from shortages of food and water, to electricity scarcity and schooling disruption. An influential coalition that includes churches, trade unions and business groups has"
+    },
+    {
+      "id": "8678258e5c3560bd",
+      "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
+      "url": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-30T01:35:40.000Z",
+      "summary": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all."
     },
     {
       "id": "87c2b5e4b3495af8",
@@ -70,26 +290,6 @@
       "region": "global",
       "publishedAt": "2026-10-30T00:00:35.000Z",
       "summary": "A new generation is embracing eye-catching patching and visible mends."
-    },
-    {
-      "id": "a3791a5b5b4613ac",
-      "title": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-10-30T00:00:00.000Z",
-      "summary": "Iran's IRGC says four tankers have struck naval mines after using \"unauthorised\" Strait of Hormuz routes."
-    },
-    {
-      "id": "a5bd4b47a9081925",
-      "title": "France braces for ‘very high risk’ of disorder at Halloween protests",
-      "url": "https://www.aljazeera.com/news/2026/10/29/france-braces-for-very-high-risk-of-disorder-at-halloween-protests?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-10-29T23:52:30.000Z",
-      "summary": "Authorities vow firm action against violence as yellow vest and student movements announce widespread demonstrations."
     },
     {
       "id": "b945aae2e1a88951",
@@ -112,6 +312,16 @@
       "summary": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]"
     },
     {
+      "id": "2fdc9c8f5195aa0b",
+      "title": "Binance probes potential $5.8 billion crypto-theft hack",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-10-29T22:45:23.000Z",
+      "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]"
+    },
+    {
       "id": "3e6778132bfe5605",
       "title": "PSG score late to hold struggling Man City",
       "url": "https://www.bbc.co.uk/sport/football/videos/ckeq3v1wgxy4o?at_medium=RSS&at_campaign=rss",
@@ -122,134 +332,14 @@
       "summary": "Manchester City concede late to a draw 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues."
     },
     {
-      "id": "ebc14de2e5b853c4",
-      "title": "Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86",
-      "url": "https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-10-29T22:36:06.000Z",
-      "summary": "Stewart died in Los Angeles after living with Alzheimer's disease and Lewy body dementia."
-    },
-    {
-      "id": "10f62e4573c562cd",
-      "title": "গায়ে পা লাগলে ‘সালাম’ করা: প্রথা নাকি বিধান",
-      "url": "https://www.prothomalo.com/religion/islam/62o7c5v6j1",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-10-29T22:30:00.000Z",
-      "summary": "লোকসমাজে এটিকে শিষ্টাচারের অন্যতম অংশ মনে করা হলেও, ইসলামে কি গায়ে পা লাগলে সালাম করার বা এ ধরনের শারীরিক ভঙ্গি করার কোনো বিধান রয়েছে?"
-    },
-    {
       "id": "5ccf9f684b9c3d20",
       "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
       "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
+      "source": "BBC World",
       "category": "economy_business",
       "region": "global",
       "publishedAt": "2026-10-29T22:17:52.000Z",
       "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue."
-    },
-    {
-      "id": "777ed1dceec3701a",
-      "title": "Trump administration attempts to take down leak of ICE personnel data",
-      "url": "https://www.aljazeera.com/news/2026/10/29/trump-administration-attempts-to-take-down-leak-of-ice-personnel-data?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-10-29T22:16:51.000Z",
-      "summary": "An Icelandic web company, FlokiNET, has defended the data's publication as satisfying a 'legitimate' public interest."
-    },
-    {
-      "id": "e7a0cec813d411c3",
-      "title": "জাপানে চার দিনের সফর শেষে দেশে ফিরেছেন প্রধানমন্ত্রী",
-      "url": "https://www.prothomalo.com/bangladesh/0tp09d6z5g",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-10-29T21:51:19.000Z",
-      "summary": "গত সোমবার জাপানের প্রধানমন্ত্রীর আমন্ত্রণে চার দিনের সফরে জাপান যান তারেক রহমান।"
-    },
-    {
-      "id": "86bd23ea270b159f",
-      "title": "Chelsea linked with Alexander-Arnold - Friday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck1l396jqv4zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-29T21:40:24.000Z",
-      "summary": "Trent Alexander-Arnold may become a target for Chelsea, Bournemouth's Alex Scott could also be heading to Stamford Bridge and Manchester United are looking at Leeds United striker Dominic Calvert-Lewin."
-    },
-    {
-      "id": "57def6f1c21be208",
-      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-10-29T21:31:12.000Z",
-      "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan."
-    },
-    {
-      "id": "65ec827b1860f233",
-      "title": "Israel bans travel for Brad Lander after detention in occupied West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-10-29T21:10:13.000Z",
-      "summary": "Israel has revoked travel authorisation for US Democratic congressional candidate Brad Lander after he was detained."
-    },
-    {
-      "id": "c61aa2b4edf0878e",
-      "title": "হানিফসহ চার আসামির অপরাধ কী, মৃত্যুদণ্ড ছাড়াও তাঁরা কী কী সাজা পেলেন",
-      "url": "https://www.prothomalo.com/bangladesh/m7qgb6n6cd",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-10-29T21:02:38.000Z",
-      "summary": "জুলাই গণ-অভ্যুত্থানের সময় সংঘটিত মানবতাবিরোধী অপরাধের ঘটনায় আটটি মামলার রায় ঘোষণা করা হলো। এসব রায়ে ৭২ জনকে সাজা দেওয়া হয়েছে।"
-    },
-    {
-      "id": "e360733c1d6018bd",
-      "title": "ঢাকার দুই সিটি করপোরেশনে বড় নিয়োগ হচ্ছে",
-      "url": "https://www.prothomalo.com/bangladesh/capital/v9uss0wyv3",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-10-29T20:57:02.000Z",
-      "summary": "বর্জ্য অপসারণ, পরিচ্ছন্নতা ও মশকনিধনে দৈনিক মজুরির ভিত্তিতে ৩ হাজার ৪৩০ কর্মী নিয়োগ দিচ্ছে ঢাকার দুই সিটি করপোরেশন।"
-    },
-    {
-      "id": "d3a3419505262bb4",
-      "title": "এসআরবির অভিযানের সময় তরুণের মৃত্যু, \nগুলি করেছে কে",
-      "url": "https://www.prothomalo.com/bangladesh/crime/g955xvbf62",
-      "source": "Prothom Alo",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-10-29T20:52:43.000Z",
-      "summary": "রাজধানীর যাত্রাবাড়ীর ধলপুরে গত মঙ্গলবার সন্ধ্যায় গুলিবিদ্ধ হয়ে মারা যান মারুফ ওরফে দুখু মিয়া।"
-    },
-    {
-      "id": "26bbfc8b174b049f",
-      "title": "Real Madrid and FC Barcelona honour Spain train crash victims",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/real-madrid-and-fc-barcelona-honour-spain-train-crash-victims?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-10-29T20:42:03.000Z",
-      "summary": "Spanish football clubs were among those to hold a minute’s silence for the victims of Wednesday’s train collision."
-    },
-    {
-      "id": "e1e940f52d4dac68",
-      "title": "Cundy's 20-year reign as world champion ends",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/cxj0lv0vzv7do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-29T20:27:23.000Z",
-      "summary": "Jody Cundy's 20-year reign as para cycling's C4 kilo time trial world champion was ended by Australian Korey Boddington."
     },
     {
       "id": "ec9ae060b62ce3de",
@@ -272,6 +362,16 @@
       "summary": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes."
     },
     {
+      "id": "60e9707c3c7ab486",
+      "title": "Sutton's predictions v Bad Day At The Office star John Hannah",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-29T19:55:24.000Z",
+      "summary": "BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures."
+    },
+    {
       "id": "205e4fab8d3864df",
       "title": "Grealish dropped over 'breach of club discipline' - what now?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo?at_medium=RSS&at_campaign=rss",
@@ -280,16 +380,6 @@
       "region": "global",
       "publishedAt": "2026-10-29T19:31:36.000Z",
       "summary": "Jack Grealish is left out of Everton's EFL Cup win over Newcastle United on Thursday because of \"a breach of club discipline\"."
-    },
-    {
-      "id": "5c7d369a29a4db66",
-      "title": "Dream win to set up WNBA Finals decider",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/cr4g181v4q4wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-29T19:12:04.000Z",
-      "summary": "Atlanta Dream deny the Golden State Valkyries their first WNBA Finals victory after an 80-69 win forces the series into a seventh and deciding game on Sunday."
     },
     {
       "id": "0f26884b0f4de03c",
@@ -312,16 +402,6 @@
       "summary": "A number of clips show firefighters celebrating in the rain."
     },
     {
-      "id": "8517f5274aacb173",
-      "title": "Hong Kong’s leader apologises for residential fire that killed 168 people",
-      "url": "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-10-29T18:14:21.000Z",
-      "summary": "Blaze was world’s deadliest residential fire since 1980, but some survivors and bereaved families say justice has yet to be served Hong Kong’s leader has apologised for government shortcomings that contributed to a fire that killed 168 people in the city last year, a rare sign of public contrition that nevertheless failed to impress some victims’ families. The chief executive, John Lee, and seven other officials bowe"
-    },
-    {
       "id": "9e0b6db3a5a35ca3",
       "title": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
       "url": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
@@ -332,14 +412,14 @@
       "summary": "Musician wrote a ‘love letter’ to Canada with a new album – and some pointed commentary about the US president Lake Ontario, the vast body of water that straddles the US-Canada border, has gone by many names over the centuries: Lac Saint-Louis, Lacus Ontarius, Skaniadorio, Cataraqui Lake. But one thing it will never be called, says the Canadian rock star Bryan Adams, is Lake America. In his new song Lake Ontario, Ada"
     },
     {
-      "id": "6b90586c2d13b30b",
-      "title": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
-      "url": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-10-29T17:46:38.000Z",
-      "summary": "The trouncing of the far right provides a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France Thank you, Brazil, for demonstrating how the far right can be trounced while protection for the Amazon is strengthened. In a world where nature and democracy appeared to be bleeding out in tandem, voters and forest defenders in this global south powerhouse h"
+      "id": "9c233f155f3d6285",
+      "title": "Apple’s new laptop supports one of the coolest features for color pros",
+      "url": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-10-29T17:48:09.000Z",
+      "summary": "The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident display expert, what excites me most about the MacBook Pro with PROLED XDR Display is the technology it uses to display an accurate picture. It's the first laptop, and only the second product overall, to sup"
     },
     {
       "id": "49488d7be868e209",
@@ -372,16 +452,6 @@
       "summary": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany."
     },
     {
-      "id": "c26c49fb67e75b45",
-      "title": "Eight of England’s nine water companies still failing on environment, report finds",
-      "url": "https://www.theguardian.com/business/2026/oct/29/ministers-water-bosses-report-performance-worse",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-10-29T16:39:48.000Z",
-      "summary": "Angela Eagle tells industry ‘people are sick of excuses’ as pollution levels remain high despite billions in investment Angela Eagle, the environment secretary, has summoned water industry bosses to Whitehall after a report found that the environmental performance of the big companies has worsened despite investment. “People are sick of excuses,” Dame Angela said, after the Environment Agency joined the Drinking Wate"
-    },
-    {
       "id": "4e37ab1c7f78cd1f",
       "title": "Duckett and Dawson deliver in England's consolation win",
       "url": "https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo?at_medium=RSS&at_campaign=rss",
@@ -402,16 +472,6 @@
       "summary": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model."
     },
     {
-      "id": "8678d42e8a19b973",
-      "title": "Nvidia CEO reportedly targeted by an alleged Chinese spy",
-      "url": "https://www.theguardian.com/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy",
-      "source": "The Guardian World",
-      "category": "technology",
-      "region": "americas",
-      "publishedAt": "2026-10-29T15:23:48.000Z",
-      "summary": "Jensen Huang reported to have had close relationship with tech company executive suspected of passing intel to China US intelligence agencies believe the Nvidia chief executive, Jensen Huang, has been targeted by an alleged Chinese spy who had done business with him, according to a new report by the New York Times. Alice Huang or Huang Le, of no relation to the Nvidia CEO, is an executive at a Singapore-based datacen"
-    },
-    {
       "id": "01882d7f17862c2b",
       "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
       "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
@@ -422,46 +482,6 @@
       "summary": "The defeated presidential candidate says he will lead the opposition from the US."
     },
     {
-      "id": "8d29c291a77ded5d",
-      "title": "Finland launches criminal investigation into Google’s clearing of forest for datacentre site",
-      "url": "https://www.theguardian.com/world/2026/oct/29/finland-criminal-investigation-google-clearing-forest-datacentre",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-10-29T14:51:45.000Z",
-      "summary": "Authorities allege company may have breached Finnish environmental laws by forgoing required impact assessment ‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre Finnish ⁠police have launched a criminal investigation into possible breaches ⁠of the country’s environmental ⁠laws ​at the site of a planned Google datacentre in rural northern Finland. Authorities allege that Tuike Fi"
-    },
-    {
-      "id": "fe94d44f874f3c8f",
-      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-10-29T14:17:35.000Z",
-      "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy."
-    },
-    {
-      "id": "e0d0c0d8ba05abd8",
-      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-      "url": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "middle_east",
-      "publishedAt": "2026-10-29T13:44:39.000Z",
-      "summary": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum."
-    },
-    {
-      "id": "a5a8435c8dcab3f2",
-      "title": "Philippine police obtain warrant to search Thomas Markle's devices",
-      "url": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-29T13:25:07.000Z",
-      "summary": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines."
-    },
-    {
       "id": "1d4eb68b5330084b",
       "title": "Is the double drop from the Premier League becoming more common?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&at_campaign=rss",
@@ -470,16 +490,6 @@
       "region": "global",
       "publishedAt": "2026-10-29T13:19:52.000Z",
       "summary": "Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester."
-    },
-    {
-      "id": "8a6ef3118eee2f58",
-      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-29T12:49:17.000Z",
-      "summary": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say."
     },
     {
       "id": "f6933deef4924c9d",
@@ -532,20 +542,10 @@
       "summary": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over."
     },
     {
-      "id": "5cc874c11a5a1ed4",
-      "title": "Angry Labour MPs urge leadership not to overrule energy secretary on Rosebank",
-      "url": "https://www.theguardian.com/environment/2026/oct/29/labour-mps-rosebank-oilfield-decision-miatta-fahnbulleh-john-healey",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-10-29T06:00:26.000Z",
-      "summary": "Exclusive: Backbenchers voice alarm over ‘intolerable position’ faced by Miatta Fahnbulleh over oilfield decision Furious Labour MPs have been lobbying the prime minister and chancellor not to overrule the energy secretary should she decide to block the Rosebank oilfield. MPs say they are alarmed at the cabinet splits that have emerged over the issue after sources told the Guardian that Miatta Fahnbulleh was minded t"
-    },
-    {
       "id": "fffd805f933479b3",
       "title": "Details of thousands of US immigration agents leaked in major hack",
       "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "source": "BBC Technology",
       "category": "creativity_arts",
       "region": "americas",
       "publishedAt": "2026-10-29T01:30:43.000Z",
@@ -572,16 +572,6 @@
       "summary": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand."
     },
     {
-      "id": "9dc9dcc59f01b77b",
-      "title": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami",
-      "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-10-28T22:06:46.000Z",
-      "summary": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador Flávio Bolsonaro declared himself the “true president” of Brazil after losing last Sunday’s presidential election and fleeing to the United States. After landing on a private jet with his family in Miami, Florida, on Wednesday morning, the far-right senator published the claim in a letter – even though his ow"
-    },
-    {
       "id": "0f4f524219d1590c",
       "title": "EU backs away from offer to Canada to start ‘associate member’ talks",
       "url": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
@@ -590,16 +580,6 @@
       "region": "americas",
       "publishedAt": "2026-10-28T21:27:33.000Z",
       "summary": "Watered-down version of statement to be issued at end of Montreal summit instead offers ‘ever closer association’ The EU has backed away from its offer to Canada to start talks on becoming an “associate member” after disagreements between member states just as an EU-Canada summit was set to begin in Montreal. A draft of a joint statement to be issued after the end of the summit, which runs Thursday and Friday, showed"
-    },
-    {
-      "id": "f66636fe851e7401",
-      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
-      "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-10-28T21:16:30.000Z",
-      "summary": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs."
     },
     {
       "id": "f7b7c09be1789a54",
@@ -622,6 +602,16 @@
       "summary": "Critics warn of climate danger as president in Texas claims change will save companies and consumers billions Donald Trump said his administration was “terminating” Biden-era regulations holding oil and gas companies accountable for large leaks of planet-warming methane during a rally in Lubbock, Texas, on Tuesday evening. “Tonight, I’m officially terminating Biden’s expensive and unnecessary methane regulations to s"
     },
     {
+      "id": "994cbdf001116154",
+      "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
+      "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
+      "source": "The Guardian World",
+      "category": "war_conflict",
+      "region": "africa",
+      "publishedAt": "2026-10-28T14:16:24.000Z",
+      "summary": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been released from detention by Egypt’s authorities and had her website ordered to be shut down by a court amid an intensifying crackdown on independent media in the country. Attalah was taken"
+    },
+    {
       "id": "8d607d9e691921b4",
       "title": "Pairing industrial AI autonomy and human control",
       "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
@@ -630,6 +620,26 @@
       "region": "global",
       "publishedAt": "2026-10-28T12:00:00.000Z",
       "summary": ""
+    },
+    {
+      "id": "6d2b1342e27b9dc8",
+      "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+      "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+      "source": "The Guardian World",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-10-28T09:37:49.000Z",
+      "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and other countries, according to one of Africa’s top health officials. As the current outbreak reached 10,000 cases, with almost 5,000 deaths, Dr Jean Kaseya, director general of the Africa"
+    },
+    {
+      "id": "181fb069038d17a3",
+      "title": "মিরপুর টেস্ট: ৪ উইকেট পেলেন নাঈম, ২৪৫ রানে অলআউট ওয়েস্ট ইন্ডিজ",
+      "url": "https://www.prothomalo.com/sports/cricket/havs08wgsy",
+      "source": "Prothom Alo",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-28T03:05:34.000Z",
+      "summary": "বাংলাদেশ–ওয়েস্ট ইন্ডিজ দুই ম্যাচের টেস্ট সিরিজের প্রথম ম্যাচে মুখোমুখি দুই দল। ম্যাচের লাইভ আপডেট ও বিস্তারিত জানতে চোখ রাখুন প্রথম আলোতে।"
     },
     {
       "id": "6de48a41dd8e4f16",
@@ -752,16 +762,6 @@
       "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information."
     },
     {
-      "id": "7edd09a842b63ed0",
-      "title": "Political battle intensifies within Labour over Rosebank oil field",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-10-26T18:09:49.000Z",
-      "summary": "Scottish Labour leader Michael Marra is urging the energy secretary to approve the controversial plans."
-    },
-    {
       "id": "28f71d493be3a726",
       "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
       "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
@@ -830,6 +830,16 @@
       "region": "americas",
       "publishedAt": "2026-09-25T21:44:40.000Z",
       "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims."
+    },
+    {
+      "id": "44177b60be140a15",
+      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+      "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-09-16T18:14:22.000Z",
+      "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face "
     },
     {
       "id": "d0db026dbc4bae1f",
