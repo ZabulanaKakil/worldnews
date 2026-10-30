@@ -1,45 +1,235 @@
 {
-  "generatedAt": "2026-10-30T19:15:07.193Z",
+  "generatedAt": "2026-10-30T23:36:14.683Z",
   "articles": [
     {
-      "id": "c60ff54e89b915e4",
-      "title": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
-      "url": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-10-30T18:55:36.000Z",
-      "summary": "Pakistan's military spokesman warns of 'powerful spoilers and detractors' who still believe the conflict serves them."
+      "id": "7c3d85c311ed7d1d",
+      "title": "Leclerc sets pace in Friday practice at Mexico City Grand Prix",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "americas",
+      "publishedAt": "2026-10-30T23:11:31.000Z",
+      "summary": "Ferrari's Charles Leclerc goes fastest in Friday practice at the Mexico City Grand Prix."
     },
     {
-      "id": "db9b4223b513d5ef",
-      "title": "‘Deepest possible partnership’: Canada and EU announce new alliance",
+      "id": "d0a0c4057dbb67f0",
+      "title": "Villa to sue Carragher over 'unacceptable insults'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqd09p3kppyvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-10-30T23:05:45.000Z",
+      "summary": "Aston Villa say they will initiate legal action against Jamie Carragher over what the club branded as \"unacceptable insults\"."
+    },
+    {
+      "id": "19b807167f4dff26",
+      "title": "US judge orders ethics inquiry into Trump lawyers over golf course case",
+      "url": "https://www.aljazeera.com/news/2026/10/30/us-judge-orders-ethics-inquiry-into-trump-lawyers-over-golf-course-case?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-10-30T22:58:38.000Z",
+      "summary": "Judge Ana Reyes calls on US government lawyers to explain contradictory statements about the East Potomac Golf Links."
+    },
+    {
+      "id": "f895daebb53235c4",
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-30T22:32:53.000Z",
+      "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple In"
+    },
+    {
+      "id": "3f3f8407e79f7677",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-10-30T22:20:52.000Z",
+      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
+    },
+    {
+      "id": "1add638aded2e582",
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "creativity_arts",
+      "region": "europe",
+      "publishedAt": "2026-10-30T22:11:52.000Z",
+      "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine."
+    },
+    {
+      "id": "c3798ffd2c7b0dfe",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "cybersecurity",
+      "region": "asia_pacific",
+      "publishedAt": "2026-10-30T21:13:14.000Z",
+      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
+    },
+    {
+      "id": "f5d75fafd7a31b29",
+      "title": "Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence",
+      "url": "https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-10-30T21:00:51.000Z",
+      "summary": "Alieu Kosiah killed civilians and unarmed soldiers, and ordered lootings and other crimes against humanity."
+    },
+    {
+      "id": "921041c89682db47",
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-10-30T20:52:01.000Z",
+      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
+    },
+    {
+      "id": "20c5cd5fe169a252",
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-10-30T20:48:43.000Z",
+      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want local inference. And somehow, they assume that the problem is solved now because we are going to have o"
+    },
+    {
+      "id": "c6c21bc169285fc4",
+      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-10-30T20:41:51.000Z",
+      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades."
+    },
+    {
+      "id": "47059200031b665f",
+      "title": "US appeals court again rejects Trump bid to set aside California ballots",
+      "url": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-10-30T20:39:50.000Z",
+      "summary": "The 9th Circuit Court calls the petition to remove 20,000 ballots from California's vote count unconstitutional."
+    },
+    {
+      "id": "ab89981992b5d47c",
+      "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
+      "url": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-10-30T20:37:20.000Z",
+      "summary": "Sanctioned Russian FM attends Atlanta talks as Iran war, Hormuz disruption and Ukraine divide G20 members."
+    },
+    {
+      "id": "9b2b413c60bc15d4",
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-10-30T20:34:46.000Z",
+      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
+    },
+    {
+      "id": "53a09a04391f59b6",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-10-30T20:26:10.000Z",
+      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal is proposed by Kevin Kelley, a technical lead for standards at An"
+    },
+    {
+      "id": "e214dfb2fd378d6b",
+      "title": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-10-30T20:13:36.000Z",
+      "summary": "US Secretary of State Marco Rubio urged G20 officials to work together to confront threats to the economic order."
+    },
+    {
+      "id": "9b3cef8f1986726d",
+      "title": "Port Sudan families can barely afford water as shortages persist",
+      "url": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "africa",
+      "publishedAt": "2026-10-30T20:10:22.000Z",
+      "summary": "Despite efforts to restore damaged infrastructure, residents face soaring water costs as war, displacement strain supply"
+    },
+    {
+      "id": "27d764c9863cb7e7",
+      "title": "EU and Canada seek deeper ties amid worsening global uncertainty",
+      "url": "https://www.aljazeera.com/news/2026/10/30/eu-and-canada-seek-deeper-ties-amid-worsening-global-uncertainty?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "technology",
+      "region": "americas",
+      "publishedAt": "2026-10-30T20:00:10.000Z",
+      "summary": "Both sides signed a digital trade deal, as Trump's trade threats push Washington's allies to seek closer ties elsewhere."
+    },
+    {
+      "id": "dc63b1755d20eb91",
+      "title": "Canada and EU announce new alliance open to like-minded countries",
       "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
       "source": "The Guardian World",
       "category": "diplomacy",
       "region": "europe",
-      "publishedAt": "2026-10-30T18:54:51.000Z",
+      "publishedAt": "2026-10-30T19:42:15.000Z",
       "summary": "Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’ Canada and Europe have announced a new alliance of like-minded nations to serve as both a “protective canopy under which our citizens can thrive” and a powerful hedge against the unpredictable nature of geopolitics, while welcoming other countries to join. Speaking to reporters on Friday from M"
     },
     {
-      "id": "32962da7afc15573",
-      "title": "Israel demolishes homes of Palestinians blamed for attack on soldiers",
-      "url": "https://www.aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss",
+      "id": "0b0f5346839e1d63",
+      "title": "How 20-year-old Kimi Antonelli is making F1 history",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/how-20-year-old-kimi-antonelli-is-making-f1-history?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-10-30T18:35:44.000Z",
-      "summary": "Troops hold at least 12 Palestinians near demolished homes as nearly 5,000 remain displaced from Hebron neighbourhoods"
+      "region": "global",
+      "publishedAt": "2026-10-30T19:39:03.000Z",
+      "summary": "Kimi Antonelli had an F1 licence before he could legally drive. Now he could become Formula One’s youngest champion."
     },
     {
-      "id": "085bd748b07fdeba",
-      "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
-      "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
+      "id": "9c31247f46b5f582",
+      "title": "What to know about California’s midterm elections",
+      "url": "https://www.aljazeera.com/news/2026/10/30/what-to-know-about-the-midterm-elections-in-california?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-10-30T19:38:49.000Z",
+      "summary": "Redistricting in California, the most populous US state, could flip control of US House from Republican to Democrat."
+    },
+    {
+      "id": "832c6a6e01e47e59",
+      "title": "Why is Netanyahu accusing Palestinian Israeli parties of fraud?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/30/why-is-netanyahu-accusing-palestinian-israeli-parties-of-fraud?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "middle_east",
+      "publishedAt": "2026-10-30T19:34:36.000Z",
+      "summary": "Prime Minister claims the parties accepted foreign funding."
+    },
+    {
+      "id": "785fb5fbbf8aff68",
+      "title": "Texas grand jury indicts ICE officer accused of running over man in Houston",
+      "url": "https://www.aljazeera.com/news/2026/10/30/texas-grand-jury-indicts-ice-officer-accused-of-running-over-man-in-houston?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-10-30T18:33:29.000Z",
-      "summary": "Incident comes as Iran says three oil tankers were halted while attempting to use 'unauthorised routes' to cross Hormuz."
+      "region": "global",
+      "publishedAt": "2026-10-30T19:16:30.000Z",
+      "summary": "The officer faces charges after allegedly striking a fleeing construction worker with an SUV during an immigration raid."
     },
     {
       "id": "020813b4c4f70d8c",
@@ -52,16 +242,6 @@
       "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in silent grace Starlight feeds my core. ✨ Google says it tried out other space-themed lim"
     },
     {
-      "id": "35f69ab36e18705d",
-      "title": "Kim Jong Un calls for North Korea’s drone technology superiority",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_north-korea-seeks-absolute-superiority-in-drone-301026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "technology",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-30T18:03:45.000Z",
-      "summary": "North Korean leader Kim Jong Un calls for “absolute superiority” in drone capabilities."
-    },
-    {
       "id": "5ee72743d5cb6f4a",
       "title": "City of London chief tops UK Black Powerlist",
       "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
@@ -72,36 +252,6 @@
       "summary": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year."
     },
     {
-      "id": "9b2b413c60bc15d4",
-      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-10-30T17:47:01.000Z",
-      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
-    },
-    {
-      "id": "2d86b903c433d5e6",
-      "title": "How cuts under Colombia’s de la Espriella threaten a key human rights court",
-      "url": "https://www.aljazeera.com/news/longform/2026/10/30/how-cuts-under-colombias-de-la-espriella-threaten-a-key-human-rights-court?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-10-30T17:43:21.000Z",
-      "summary": "Colombia's president plans to slash spending on a transitional justice court. But war crimes victims fear the cost."
-    },
-    {
-      "id": "c3798ffd2c7b0dfe",
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "cybersecurity",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-30T17:39:43.000Z",
-      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
-    },
-    {
       "id": "583408ca0241ee4d",
       "title": "How crypto hacking funds isolated North Korea’s nuclear programme",
       "url": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
@@ -110,46 +260,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-10-30T17:37:46.000Z",
       "summary": "Cryptocurrency theft is estimated to generate half of the country’s foreign currency income North Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings it relies on some of the world’s most sophisticated hacking. Experts, such as TRM Labs, quickly attributed the extraordinary $6.3bn (£4.7bn) B"
-    },
-    {
-      "id": "912fc901046fc785",
-      "title": "Report reveals campaign promoting racist, Islamophobic, anti-Qatar views",
-      "url": "https://www.aljazeera.com/news/2026/10/30/report-reveals-campaign-promoting-racist-islamophobic-anti-qatar-views?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-10-30T17:34:27.000Z",
-      "summary": "Investigation finds that years-long operation sought to portray Qatar as driving force behind mass migration to Europe."
-    },
-    {
-      "id": "1add638aded2e582",
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "diplomacy",
-      "region": "europe",
-      "publishedAt": "2026-10-30T17:25:20.000Z",
-      "summary": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta."
-    },
-    {
-      "id": "04d8f189a6fbb26a",
-      "title": "Rivian’s autonomy gamble faces its first real test",
-      "url": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-10-30T17:16:09.000Z",
-      "summary": "Rivian founder and CEO RJ Scaringe (left) watches Rivian R2s being built after an event at the Rivian assembly plant on May 19th, 2026, in Normal, Illinois. | Photo: Scott Olson / Getty Images During an hourlong earnings call last night, Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company's still-unproven autonomous vehicle ambitions. But"
-    },
-    {
-      "id": "fcdade931801c799",
-      "title": "Barcelona’s Flick praises Yamal’s ‘mentality’ after missing out on Ballon d’Or",
-      "url": "https://www.aljazeera.com/sports/2026/10/30/barcelonas-flick-praises-yamal-mentality-in-missing-out-on-ballon-dor?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-10-30T17:13:32.000Z",
-      "summary": "Lamine Yamal was tipped for the Golden Ball which went to Harry Kane, but his Barca boss 'proud' of teenager's reaction."
     },
     {
       "id": "bd12dd0ee44ff007",
@@ -180,16 +290,6 @@
       "region": "americas",
       "publishedAt": "2026-10-30T17:00:32.000Z",
       "summary": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts."
-    },
-    {
-      "id": "6bd94cdee4839397",
-      "title": "Chelsea vs Manchester United: Premier League – teams, prediction, lineups",
-      "url": "https://www.aljazeera.com/sports/2026/10/30/chelsea-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-30T16:55:04.000Z",
-      "summary": "Manchester United appeared set to sack Michael Carrick this week, but he may have one chance to save his job - at Chelsea."
     },
     {
       "id": "6333d72393cf1695",
@@ -232,26 +332,6 @@
       "summary": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced."
     },
     {
-      "id": "a46db175dde6cf28",
-      "title": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "middle_east",
-      "publishedAt": "2026-10-30T15:50:23.000Z",
-      "summary": "Israel has announced its final election results, tightened its siege on Hebron, and arrested people returning to Gaza."
-    },
-    {
-      "id": "3762f4109968d79b",
-      "title": "Swiss foreign minister talks political ties on rare visit to North Korea",
-      "url": "https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "diplomacy",
-      "region": "asia_pacific",
-      "publishedAt": "2026-10-30T15:37:03.000Z",
-      "summary": "Switzerland formally reopens diplomatic office in North Korea after its closure in 2020."
-    },
-    {
       "id": "79d917dddae6ab23",
       "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
       "url": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
@@ -260,16 +340,6 @@
       "region": "global",
       "publishedAt": "2026-10-30T15:29:02.000Z",
       "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the year and just $10 shy of its all-time low. Google Nest Learning Thermostat (fourth-gen) Where to Buy: $279.99 $219.99 at Amazon $279.99 "
-    },
-    {
-      "id": "345f65359006e241",
-      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
-      "url": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "africa",
-      "publishedAt": "2026-10-30T15:17:11.000Z",
-      "summary": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists."
     },
     {
       "id": "6b4fd8521b9b805e",
@@ -322,26 +392,6 @@
       "summary": "Experimental power production has commenced at the first unit of the Rooppur Nuclear Power Plant in Pabna. This process began on Friday (October 30) at 12 PM, following the completion… The post New Milestone at Rooppur Nuclear Power Plant, Experimental Production Begins appeared first on Bangla Online News Portal."
     },
     {
-      "id": "4ba85b71f64729db",
-      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
-      "url": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-10-30T14:23:26.000Z",
-      "summary": "Companies like Hoto and Fanttik have elevated the design and functionality of tools like electric screwdrivers, but Arrowmax wants to make them smarter by adding a camera and AI that work together to eliminate the trial and error of finding the exact type and size of bit you need. It's convenient, but also helpful, as choosing the wrong size could potentially leave you with a stripped screw and a much harder repair. "
-    },
-    {
-      "id": "601bea86d9f94aba",
-      "title": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
-      "url": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-10-30T14:08:41.000Z",
-      "summary": "Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of arms Flávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil. Instead, the far-right politician’s decision to flee to the US after losing the election and – for 58 minutes – to declare himself “Brazil’s true president-elect”, has made him a laughing stock,"
-    },
-    {
       "id": "0633beaf03c240f6",
       "title": "Britain's first £100m man facing defining moment",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&at_campaign=rss",
@@ -357,9 +407,9 @@
       "url": "https://www.theguardian.com/politics/2026/oct/30/public-sector-afterthought-north-sea-oil-jobs-unison",
       "source": "The Guardian Environment",
       "category": "economy_business",
-      "region": "europe",
+      "region": "global",
       "publishedAt": "2026-10-30T13:04:03.000Z",
-      "summary": "Andrea Egan calls for same political focus on teachers, care sector and NHS and says Jackdaw decision ‘a serious misstep’ UK politics live – latest updates The leader of the UK’s biggest trade union has called for the same political focus to be given to NHS, education and care sector workers as there has been on those employed in North Sea oil and gas. Andrea Egan, the general secretary of Unison, said too often publ"
+      "summary": "Andrea Egan calls for same political focus on teachers, care sector and NHS and says Jackdaw decision ‘a serious misstep’ The leader of the UK’s biggest trade union has called for the same political focus to be given to NHS, education and care sector workers as there has been on those employed in North Sea oil and gas. Andrea Egan, the general secretary of Unison, said too often public sector workers were treated as "
     },
     {
       "id": "c8c48e4b3d8a28c4",
@@ -412,16 +462,6 @@
       "summary": "State Minister for Foreign Affairs Humayun Kabir has described Prime Minister Tareque Rahman’s visit to Japan as effective and fruitful. According to him, the visit has elevated the bilateral relationship… The post Prime Minister’s Japan Visit Has Been Fruitful: State Minister for Foreign Affairs appeared first on Bangla Online News Portal."
     },
     {
-      "id": "13c9c677b2c8d2ea",
-      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
-      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-10-30T11:23:06.000Z",
-      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades."
-    },
-    {
       "id": "5fe6a87056a93f0b",
       "title": "Beijing Queer film festival cancelled after harassment from authorities",
       "url": "https://www.theguardian.com/world/2026/oct/30/beijing-queer-film-festival-cancelled-after-police-harassment",
@@ -430,16 +470,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-10-30T11:04:12.000Z",
       "summary": "Forums for discussion of feminist and LGBTQ+ views face growing intolerance from Chinese state, say experts Beijing’s annual independent queer film festival has been cancelled after what is understood to have been a campaign of sustained harassment from authorities. Beijing Queer film festival, which was due to begin on Friday in China’s capital, is one of the country’s oldest independent film festivals. Continue rea"
-    },
-    {
-      "id": "eacaacc311292fb5",
-      "title": "Anderson 'shocked' by Lancs exit and unsure if he will continue",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-10-30T10:44:19.000Z",
-      "summary": "Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a person\"."
     },
     {
       "id": "89ef9d8e4554512d",
@@ -490,16 +520,6 @@
       "region": "europe",
       "publishedAt": "2026-10-30T06:10:43.000Z",
       "summary": "Some of Britain's rarest and most threatened bats have been recorded in the south-west of England."
-    },
-    {
-      "id": "73895ada11f6f76d",
-      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
-      "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "middle_east",
-      "publishedAt": "2026-10-30T06:02:23.000Z",
-      "summary": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government."
     },
     {
       "id": "6e244a853aba43b9",
@@ -590,16 +610,6 @@
       "region": "americas",
       "publishedAt": "2026-10-29T17:49:47.000Z",
       "summary": "Musician wrote a ‘love letter’ to Canada with a new album – and some pointed commentary about the US president Lake Ontario, the vast body of water that straddles the US-Canada border, has gone by many names over the centuries: Lac Saint-Louis, Lacus Ontarius, Skaniadorio, Cataraqui Lake. But one thing it will never be called, says the Canadian rock star Bryan Adams, is Lake America. In his new song Lake Ontario, Ada"
-    },
-    {
-      "id": "6b90586c2d13b30b",
-      "title": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
-      "url": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-10-29T17:46:38.000Z",
-      "summary": "The trouncing of the far right provides a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France Thank you, Brazil, for demonstrating how the far right can be trounced while protection for the Amazon is strengthened. In a world where nature and democracy appeared to be bleeding out in tandem, voters and forest defenders in this global south powerhouse h"
     },
     {
       "id": "f7ad1298a5ece48f",
