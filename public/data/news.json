@@ -1,95 +1,215 @@
 {
-  "generatedAt": "2026-11-01T19:29:30.058Z",
+  "generatedAt": "2026-11-01T23:28:38.720Z",
   "articles": [
     {
-      "id": "417f4805963c161e",
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+      "id": "8beffc231966ed76",
+      "title": "'We've got big problems' - Hamilton says Ferrari need 'serious talks'",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmwy7dl879gzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "americas",
+      "publishedAt": "2026-11-01T23:27:08.000Z",
+      "summary": "Lewis Hamilton says Ferrari need \"some serious talks behind closed doors\" after fighting between their two drivers in Mexico."
+    },
+    {
+      "id": "7cc83dc28c61d394",
+      "title": "Antonelli becomes world champion as Verstappen wins in Mexico",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "americas",
+      "publishedAt": "2026-11-01T23:20:54.000Z",
+      "summary": "Kimi Antonelli becomes the youngest world champion in Formula 1 history as Max Verstappen wins the Mexico City Grand Prix."
+    },
+    {
+      "id": "90bd5e814d17f4f0",
+      "title": "High-ranking US Democratic senator suffers stroke",
+      "url": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-11-01T22:32:54.000Z",
+      "summary": "Senator Chris Murphy, a fierce Trump critic who is not up for re-election in the midterms, is 'alert' after a stroke."
+    },
+    {
+      "id": "f6a32c84339ecda7",
+      "title": "Antonelli heads list of F1's youngest champions",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cjy56wkdk3nko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-01T22:28:28.000Z",
+      "summary": "As Kimi Antonelli becomes F1's youngest world champion, we look at how his achievement compares with some of the drivers who previously held the record."
+    },
+    {
+      "id": "b276c55a6539e50f",
+      "title": "How much do you know about F1 champion Antonelli?",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c98rzkv5y115o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-01T22:25:21.000Z",
+      "summary": "Kimi Antonelli has been crowned Formula 1 world champion - how well do you know the Mercedes driver?"
+    },
+    {
+      "id": "32c3de2bb4028070",
+      "title": "Antonelli - the boy 'born in a garage' who became world champion",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-01T22:25:01.000Z",
+      "summary": "Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he developed to become the F1 champion at the age of 20."
+    },
+    {
+      "id": "93de235fe46231e6",
+      "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+      "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-11-01T22:15:14.000Z",
+      "summary": "Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire."
+    },
+    {
+      "id": "562ee53a9497ec8d",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-11-01T21:55:01.000Z",
+      "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky."
+    },
+    {
+      "id": "3f71b773e66e3cf3",
+      "title": "Democrat Haley Stevens heckled as she backs El-Sayed rival",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-11-01T21:29:43.000Z",
+      "summary": "US Democrat Haley Stevens from Michigan was heckled as a ‘traitor’, after endorsing Republican Mike Rogers."
+    },
+    {
+      "id": "963ffe4190605775",
+      "title": "Thousands displaced from Hebron as Israel carries on siege",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-11-01T21:28:47.000Z",
+      "summary": "Almost 5,000 people have been displaced as a result of Israel’s military siege on the city of Hebron in the West Bank."
+    },
+    {
+      "id": "58a870c1b6b294f5",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
       "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "creativity_arts",
       "region": "global",
-      "publishedAt": "2026-11-01T19:17:34.000Z",
+      "publishedAt": "2026-11-01T21:16:45.000Z",
       "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote."
     },
     {
-      "id": "0020e594d7d4b62e",
-      "title": "Arsenal go top after narrow win at Liverpool",
-      "url": "https://www.aljazeera.com/sports/2026/11/1/arsenal-go-top-after-narrow-win-at-liverpool?traffic_source=rss",
+      "id": "d2df87374bef7ad2",
+      "title": "Carney signals progress on Canada-US trade deal talks as midterms loom",
+      "url": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "americas",
+      "publishedAt": "2026-11-01T21:01:33.000Z",
+      "summary": "Canadian PM Mark Carney announces progress in Canada-US trade deal talks ahead of Tuesday's US midterm elections."
+    },
+    {
+      "id": "a2d347ef483243b7",
+      "title": "Why did Democrat Haley Stevens just endorse a Republican for US Senate?",
+      "url": "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "war_conflict",
       "region": "global",
-      "publishedAt": "2026-11-01T19:09:18.000Z",
-      "summary": "Arsenal pick up their first win at Anfield since 2012 to go three points clear of Man City"
+      "publishedAt": "2026-11-01T21:00:52.000Z",
+      "summary": "Stevens’s endorsement of Republican Mike Rogers comes after a bitter dispute with Democratic nominee Abdul El-Sayed."
     },
     {
-      "id": "2b9c0fab32512646",
-      "title": "How will the Iran war shape the outcome of the US midterm vote?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss",
+      "id": "d6f301d6ddce6c96",
+      "title": "I'll tell my players to dive in future - Iraola",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-01T21:00:26.000Z",
+      "summary": "Andoni Iraola says that he will tell his players to go down in future after Liverpool were denied a penalty in Sunday's defeat by Arsenal."
+    },
+    {
+      "id": "7704b0eb028261a9",
+      "title": "Al Jazeera Director General hails 30 years of groundbreaking news",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-director-general-hails-30-years-of-groundbreaking-news?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "war_conflict",
       "region": "middle_east",
-      "publishedAt": "2026-11-01T19:00:32.000Z",
-      "summary": "The conflict has become a central issue ahead of Tuesday's polls."
+      "publishedAt": "2026-11-01T20:48:00.000Z",
+      "summary": "Al Jazeera has marked 30 years since its first broadcast in 1996, with a ceremony in Doha attended by Qatar’s Emir."
     },
     {
-      "id": "f80f257edf5e6113",
-      "title": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
-      "url": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-11-01T18:58:23.000Z",
-      "summary": "No arrests made after several security officers were reportedly injured during incidents at Saturday's protests."
-    },
-    {
-      "id": "beb58f98725c9502",
-      "title": "Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers",
-      "url": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-11-01T18:51:07.000Z",
-      "summary": "US Rep Stevens lost Democratic primary to Abdul El-Sayed and now endorses his Republican opponent in the Senate race."
-    },
-    {
-      "id": "dd8205a8a4c0508c",
-      "title": "Rice rewarded, Wirtz must do more - Liverpool and Arsenal player ratings",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-01T18:38:45.000Z",
-      "summary": "How Liverpool and Arsenal's players rated in their Premier League match at Anfield, as the champions of the past two seasons went head to head."
-    },
-    {
-      "id": "192b56d75823b8ed",
-      "title": "Bellingham & Mbappe score as Real Madrid earn statement win",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cv0ldye7k4g3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-01T18:37:48.000Z",
-      "summary": "Kylian Mbappe, Jude Bellingham and Yan Diomande score as Real Madrid cruise to a 3-0 win against Racing Santander, moving only three points behind Barcelona at the top of La Liga."
-    },
-    {
-      "id": "647f0418db3a954e",
-      "title": "Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit",
-      "url": "https://www.aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit?traffic_source=rss",
+      "id": "bc80f18aa50ea518",
+      "title": "Bulgaria’s acting President Iotova leads in run-off exit polls",
+      "url": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "world_politics",
       "region": "global",
-      "publishedAt": "2026-11-01T18:37:37.000Z",
-      "summary": "Senator Sullivan's pledge contrasts with the Trump administration's effort to challenge Alaska's election certification."
+      "publishedAt": "2026-11-01T20:43:33.000Z",
+      "summary": "Iliana Iotova would become the nation’s first elected female president if results confirm her win on Monday."
     },
     {
-      "id": "7e556444661d0b45",
-      "title": "Israel’s first ambassador to Somaliland presents credentials in Hargeisa",
-      "url": "https://www.aljazeera.com/news/2026/11/1/israels-first-ambassador-to-somaliland-presents-credentials-in-hargeisa?traffic_source=rss",
+      "id": "0ac05baeafa72b28",
+      "title": "Police clash with housing crisis protesters in Portugal",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-11-01T18:23:57.000Z",
-      "summary": "Israel expands ties with the breakaway territory as Somalia challenges its motives and war intensifies in Yemen."
+      "region": "global",
+      "publishedAt": "2026-11-01T20:31:17.000Z",
+      "summary": "Police clash with housing crisis protesters in Portugal"
+    },
+    {
+      "id": "eb42dd5322efae12",
+      "title": "Al Jazeera celebrates 30th anniversary",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-celebrates-30th-anniversary?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-11-01T20:21:05.000Z",
+      "summary": "Since its first broadcast in 1996, Al Jazeera has spent three decades bringing stories to audiences worldwide."
+    },
+    {
+      "id": "a1a112f68091e811",
+      "title": "From Fleetwood embarrassment to 'magical' Anfield win 14 years in making",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-01T20:16:46.000Z",
+      "summary": "Arsenal bounce back from the low of defeat at League Two Fleetwood to secure their first win in 14 years at Anfield - and open up a three-point lead at the top of the Premier League."
+    },
+    {
+      "id": "a64a1291bd572db8",
+      "title": "Arsenal move clear at the top with a rare win at Liverpool",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-01T20:00:18.000Z",
+      "summary": "Arsenal win at Anfield for the first time since 2012 to earn a three-point lead at the top of the Premier League table following an end-to-end match that leaves Liverpool frustrated to have taken nothing."
+    },
+    {
+      "id": "a5621832532ac9d9",
+      "title": "Video captures house collapsing due to Ecuador floods",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-11-01T19:56:47.000Z",
+      "summary": "Residents filmed as a house collapsed into a swollen river in Ecuador, where torrential rains and floods linked to El N"
     },
     {
       "id": "b630941fa2b45f9c",
@@ -112,16 +232,6 @@
       "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival."
     },
     {
-      "id": "6c7f73fce1cd2526",
-      "title": "Clinical Man City edge past London City in WSL thriller",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm4g1rgey8j7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-11-01T17:54:43.000Z",
-      "summary": "Manchester City earn a dramatic victory courtesy of goals from Khadija Shaw and Lauren Hemp against an excellent but wasteful London City Lionesses side."
-    },
-    {
       "id": "c7fb7c072d6c4864",
       "title": "Remittances Exceed BDT 35,600 Crore in October",
       "url": "https://www.bd24live.com/remittances-exceed-bdt-35600-crore-in-october/",
@@ -130,26 +240,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-11-01T17:45:19.000Z",
       "summary": "In the recently concluded October, expatriate Bangladeshis sent home remittances amounting to USD 287.40 million. In Bangladeshi currency, at an exchange rate of BDT 124.11 per dollar, this amount stands… The post Remittances Exceed BDT 35,600 Crore in October appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "0c69a8847b502bc5",
-      "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
-      "url": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-11-01T17:30:45.000Z",
-      "summary": "Hebron's economic losses surpass $3.8m as Israeli forces demolish West Bank homes and close hundreds of businesses."
-    },
-    {
-      "id": "10cc2cf6701719fa",
-      "title": "Chelsea put six past Charlton to top WSL",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6wyrgydvx0lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-01T17:10:45.000Z",
-      "summary": "Ruthless Chelsea put six goals past Charlton - who are yet to earn a point in the WSL this season - to return to the top of the table with 27 goals in just eight games."
     },
     {
       "id": "44d77c70905c2f13",
@@ -172,16 +262,6 @@
       "summary": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked."
     },
     {
-      "id": "e1c65581d3e53eb4",
-      "title": "Al Jazeera marks 30 years of transforming news in Middle East and beyond",
-      "url": "https://www.aljazeera.com/news/2026/11/1/al-jazeera-celebrates-30-years-of-transforming-news-in-region-and-beyond?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-11-01T16:59:41.000Z",
-      "summary": "The anniversary coincides with a significant restructuring of Al Jazeera Media Network’s Arabic-language news services."
-    },
-    {
       "id": "e1f6d363820184df",
       "title": "Thousands of jobs at Virgin Media O2 to be cut",
       "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
@@ -192,36 +272,6 @@
       "summary": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands."
     },
     {
-      "id": "dcfe4fef5ec99e30",
-      "title": "Bangladesh workers clash with police in protests over low pay",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/bangladesh-workers-clash-with-police-in-protests-over-low-pay?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "bangladesh",
-      "publishedAt": "2026-11-01T16:52:42.000Z",
-      "summary": "Dozens of garment workers in Bangladesh clashed with police in the capital Dhaka."
-    },
-    {
-      "id": "5d59886ee68c87a9",
-      "title": "India protesters march with 1km banner of deleted voters’ names",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/india-protesters-march-with-1km-banner-of-deleted-voters-names?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "asia_pacific",
-      "publishedAt": "2026-11-01T16:42:18.000Z",
-      "summary": "Protesters in New Delhi carried a one-kilometre banner bearing the names of people removed from India’s voter rolls."
-    },
-    {
-      "id": "50926261d8f40c62",
-      "title": "Russia detains minor over alleged Moscow attack plot after US warning",
-      "url": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-11-01T16:24:16.000Z",
-      "summary": "Russian authorities say a US tip-off helped them identify teenager suspected of planning attack at a Moscow park."
-    },
-    {
       "id": "ae87047d5ee6155a",
       "title": "A fully playable version of Portal prequel F-Stop leaked",
       "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
@@ -230,36 +280,6 @@
       "region": "global",
       "publishedAt": "2026-11-01T16:19:21.000Z",
       "summary": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparently hit the Valve Cut Content Discord this week, allowing a nearly complete version to be pieced together. Some dialog and elements of F-Stop eventually found thei"
-    },
-    {
-      "id": "36e56d7525101ca9",
-      "title": "Alcaraz wins Vienna Open to maintain perfect record",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/crd6dezj8v86o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-01T16:10:39.000Z",
-      "summary": "Carlos Alcaraz extends his winning run in ATP 500 events with a straight-set victory over Alex de Minaur at the Vienna Open."
-    },
-    {
-      "id": "4db98d809d04b720",
-      "title": "Defeat for London City against Man City - but is Europe a real possibility?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-11-01T15:49:47.000Z",
-      "summary": "London City Lionesses suffer defeat by Manchester City but their performance suggests they are closer to Champions League qualification than expected."
-    },
-    {
-      "id": "95677e42292bac85",
-      "title": "Referee accidentally fractures college football player's leg",
-      "url": "https://www.bbc.co.uk/sport/american-football/articles/ck30ey1ezmyqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-01T15:17:04.000Z",
-      "summary": "A referee accidentally fractures a college football player's leg during a bizarre incident in the first half of East Carolina Pirates' win against Temple Owls."
     },
     {
       "id": "021eab751a9f7f05",
@@ -279,17 +299,7 @@
       "category": "environment",
       "region": "global",
       "publishedAt": "2026-11-01T14:00:18.000Z",
-      "summary": "Officials in Red Hill, Colorado, say they have a safe plan to wipe out invasive weeds, but some locals are concerned Soon, weed-killing chemicals will start falling from the sky over the Red Hill area of Boulder county, Colorado. The wildland is known for its biodiversity, home to hundreds of important species and a concentration of rare environmental resources. It is a key habitat for beloved herds of elk and bighor"
-    },
-    {
-      "id": "662ec3f319504d01",
-      "title": "The plan England's rugby league bosses hope avoids repeat of World Cup pain",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c5y439xp22n7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-01T13:56:16.000Z",
-      "summary": "After England exit the Men's and Women's Rugby League World Cups at the group stage, the RFL announces plans designed to prevent a repeat."
+      "summary": "Officials in Boulder County, Colorado, say they have a safe plan to wipe out invasive weeds, but some locals are concerned Soon, weed-killing chemicals will start falling from the sky over the Red Hill area of Boulder county, Colorado. The wildland is known for its biodiversity, home to hundreds of important species and a concentration of rare environmental resources. It is a key habitat for beloved herds of elk and "
     },
     {
       "id": "ffadc5bd8bfb3f01",
@@ -340,16 +350,6 @@
       "region": "europe",
       "publishedAt": "2026-11-01T11:57:48.000Z",
       "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France."
-    },
-    {
-      "id": "212fe6884b292703",
-      "title": "Binance resumes customer withdrawals after record $6.3bn hack",
-      "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
-      "source": "The Guardian World",
-      "category": "creativity_arts",
-      "region": "asia_pacific",
-      "publishedAt": "2026-11-01T11:54:23.000Z",
-      "summary": "Cryptocurrency exchange says 90% of losses covered as FBI blames North Korean state-sponsored group TraderTraitor The cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the platform, as it recovers from a record $6.3bn (£4.7bn) hack. The exchange was hit by the theft on Thursday, which has since been described as the biggest heist in history, with experts identifying North"
     },
     {
       "id": "1c6fa7a65c4419cf",
@@ -472,16 +472,6 @@
       "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards over the years, from the legendary Optimus Maximus to the ultra-luxe Seneca to even stranger fare. But I wanted to know wha"
     },
     {
-      "id": "d7fd1e3459241b22",
-      "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
-      "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-      "source": "The Verge",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-10-31T18:40:32.000Z",
-      "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of \"less liquid\" tokens, which the company says may take longer to acquire. The company also sai"
-    },
-    {
       "id": "394debd0e837c50e",
       "title": "Prime Minister Announces BDT 500 Crore Fund for Young Entrepreneurs",
       "url": "https://www.bd24live.com/prime-minister-announces-bdt-500-crore-fund-for-young-entrepreneurs/",
@@ -500,16 +490,6 @@
       "region": "global",
       "publishedAt": "2026-10-31T15:16:20.000Z",
       "summary": "Government data shows that more than 10,000 people have contracted the rare virus."
-    },
-    {
-      "id": "909474210bee4ee0",
-      "title": "Ethiopian PM puts ministers through military training",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "africa",
-      "publishedAt": "2026-10-31T14:28:15.000Z",
-      "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions."
     },
     {
       "id": "26925712109c4b08",
@@ -662,6 +642,16 @@
       "summary": "Experimental power production has commenced at the first unit of the Rooppur Nuclear Power Plant in Pabna. This process began on Friday (October 30) at 12 PM, following the completion… The post New Milestone at Rooppur Nuclear Power Plant, Experimental Production Begins appeared first on Bangla Online News Portal."
     },
     {
+      "id": "601bea86d9f94aba",
+      "title": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
+      "url": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
+      "source": "The Guardian World",
+      "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-10-30T14:08:41.000Z",
+      "summary": "Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of arms Flávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil. Instead, the far-right politician’s decision to flee to the US after losing the election and – for 58 minutes – to declare himself “Brazil’s true president-elect”, has made him a laughing stock,"
+    },
+    {
       "id": "c8c48e4b3d8a28c4",
       "title": "What we know about Binance's $6.3bn hack",
       "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
@@ -812,6 +802,16 @@
       "summary": "Musician wrote a ‘love letter’ to Canada with a new album – and some pointed commentary about the US president Lake Ontario, the vast body of water that straddles the US-Canada border, has gone by many names over the centuries: Lac Saint-Louis, Lacus Ontarius, Skaniadorio, Cataraqui Lake. But one thing it will never be called, says the Canadian rock star Bryan Adams, is Lake America. In his new song Lake Ontario, Ada"
     },
     {
+      "id": "1ba634ce1c2115d8",
+      "title": "Fuel Prices Remain Unchanged in November",
+      "url": "https://www.bd24live.com/fuel-prices-remain-unchanged-in-november/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-10-29T14:05:10.000Z",
+      "summary": "For the month of November, the government has kept the prices of diesel, octane, petrol, and kerosene unchanged. Consequently, these fuel oils will be sold next month at the prices… The post Fuel Prices Remain Unchanged in November appeared first on Bangla Online News Portal."
+    },
+    {
       "id": "5276481f29205902",
       "title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
       "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
@@ -850,6 +850,16 @@
       "region": "americas",
       "publishedAt": "2026-10-19T13:48:56.000Z",
       "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that"
+    },
+    {
+      "id": "8012d0a0ea8bbb17",
+      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
+      "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "region": "europe",
+      "publishedAt": "2026-10-14T14:22:49.000Z",
+      "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions."
     },
     {
       "id": "d0db026dbc4bae1f",
