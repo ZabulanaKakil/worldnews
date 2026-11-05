@@ -1,6 +1,536 @@
 {
-  "generatedAt": "2026-11-05T06:21:22.125Z",
+  "generatedAt": "2026-11-05T21:53:35.761Z",
   "articles": [
+    {
+      "id": "d7f2b81ccf4ee691",
+      "title": "Major tech and AI stocks plummet as Nasdaq loses $2.5tn in value",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-11-05T21:43:39.000Z",
+      "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms"
+    },
+    {
+      "id": "eb5656e20c49bcb0",
+      "title": "Spanish footballer Jesus de Miguel mourned by family and friends",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/spanish-footballer-jesus-de-miguel-mourned-by-family-and-friends?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-05T21:42:30.000Z",
+      "summary": "The 30-year-old striker suffered cardiac arrest following an on-field collision."
+    },
+    {
+      "id": "aad7e9b47288f7f3",
+      "title": "Friday's gossip: Man Utd contact Deschamps",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-05T21:41:38.000Z",
+      "summary": "Manchester United contact Didier Deschamps, support for Michael Carrick remains at Old Trafford, Arsenal are interested in Club Brugge striker Nicolo Tresoldi, plus more."
+    },
+    {
+      "id": "5eabfb4a82254181",
+      "title": "Israeli demolitions displace more than 100 Palestinians in Biddu",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_israeli-demolitions-displace-palestinians-in-biddu-051126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "middle_east",
+      "publishedAt": "2026-11-05T21:33:40.000Z",
+      "summary": "Israeli forces demolished five homes in Biddu, occupied West Bank, displacing more than 100 people."
+    },
+    {
+      "id": "ac8b16dbab7cddef",
+      "title": "Hoax bomb threats force emergency landings, evacuations across Europe",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "disasters",
+      "region": "europe",
+      "publishedAt": "2026-11-05T21:26:21.000Z",
+      "summary": "Bomb threats are causing travel disruptions at airports across Europe, targeting at least 27 flights."
+    },
+    {
+      "id": "caae274317060db6",
+      "title": "California governor commutes sentences for state's 548 death row inmates",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-11-05T21:25:48.000Z",
+      "summary": "California has historically had the largest population of people on death row in the US."
+    },
+    {
+      "id": "af4b2a370625ebff",
+      "title": "Saudi coalition intercepts missile fired towards Medina",
+      "url": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-11-05T20:48:47.000Z",
+      "summary": "Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu."
+    },
+    {
+      "id": "00d7f53734a047cd",
+      "title": "Blue Origin’s next launch now won’t happen until 2027",
+      "url": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-11-05T20:47:14.000Z",
+      "summary": "Blue Origin CEO reportedly sent a memo to staff about the new timeline. | Anadolu via Getty Images Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a May launchpad explosion that damaged Blue Origin's New Glenn launchpad ahead of a flight that would have brought Amazon Leo s"
+    },
+    {
+      "id": "71495efa683ff646",
+      "title": "Why are wealthy countries failing developing nations?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/5/why-are-wealthy-countries-failing-developing-nations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-11-05T20:45:47.000Z",
+      "summary": "UN report warns climate adaptation funding is falling far short of needs."
+    },
+    {
+      "id": "006d8c417c827740",
+      "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-11-05T20:43:46.000Z",
+      "summary": "US First Lady Melania Trump has brought Russian and Ukrainian representatives together at the White House."
+    },
+    {
+      "id": "eba8ab139c33d1bb",
+      "title": "Mass protests in France driven by nationwide strike action",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-11-05T20:11:37.000Z",
+      "summary": "More than 250,000 people took to the streets across France on Thursday as five unions called a day of strike action."
+    },
+    {
+      "id": "4a2351b319fd3f35",
+      "title": "The blame game: How the US midterm shock is shaping Israel’s race for PM",
+      "url": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-11-05T20:07:04.000Z",
+      "summary": "The Republican midterm rout is helping shape who leads Israel next, as Netanyahu’s US ties turn toxic."
+    },
+    {
+      "id": "e9c62925f361fb6c",
+      "title": "Who could be behind hoax bomb threats to European air travel?",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-11-05T19:58:40.000Z",
+      "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups."
+    },
+    {
+      "id": "84e14540e9bb6ffc",
+      "title": "Top US civil rights official resigns",
+      "url": "https://www.aljazeera.com/news/2026/11/5/top-us-civil-rights-official-resigns?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-11-05T19:48:00.000Z",
+      "summary": "New Democratic Congress expected to probe Trump Justice Department office's handling of Epstein files and ICE killings."
+    },
+    {
+      "id": "33afb588c7d715bc",
+      "title": "Eight killed in series of shootings in western Turkey",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-11-05T19:32:54.000Z",
+      "summary": "Victims are found in several locations in three separate vehicles, according to local reports."
+    },
+    {
+      "id": "2cc25a1080ce79af",
+      "title": "Melania Trump calls for peace at meeting with Russia, Ukraine officials",
+      "url": "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-11-05T19:31:28.000Z",
+      "summary": "US first lady hosts Russian, Ukrainian officials at the White House, urges two sides to build on recent local truce."
+    },
+    {
+      "id": "cecd5e1bc8468736",
+      "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+      "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
+      "source": "BleepingComputer",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-11-05T19:24:26.000Z",
+      "summary": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]"
+    },
+    {
+      "id": "cdb768ed76eeddc9",
+      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-11-05T19:08:08.000Z",
+      "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire."
+    },
+    {
+      "id": "4749fb50a70afcf0",
+      "title": "Muse has a voice mode now",
+      "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-11-05T19:03:04.000Z",
+      "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of your conversation animates in time with the words that it's saying. You can also change the tone of the voice by just asking your agent abou"
+    },
+    {
+      "id": "094c6ea734ce043a",
+      "title": "England check on Palmer - what are Tuchel's other big choices?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-05T19:00:04.000Z",
+      "summary": "It is the last international break of the year and England have some important Nations League games. Thomas Tuchel has big decisions to make in selecting his squad."
+    },
+    {
+      "id": "0f49f28c37005ec6",
+      "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+      "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+      "source": "The Guardian World",
+      "category": "technology",
+      "region": "americas",
+      "publishedAt": "2026-11-05T18:48:07.000Z",
+      "summary": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s banking system in recent days. At the centre of the crisis is Ueno Bank, which in just a few years under Peña went from an obscure digital bank to one of the c"
+    },
+    {
+      "id": "e91d47bb619cf98e",
+      "title": "'I don't fear for my safety from online abuse - because we're so used to it'",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cmq8nn2q01wdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "europe",
+      "publishedAt": "2026-11-05T18:38:24.000Z",
+      "summary": "Britain's Jodie Burrage speaks to BBC Sport about the online abuse she received after her recent defeat - and why it no longer comes as a surprise."
+    },
+    {
+      "id": "9652882344256910",
+      "title": "EA is bringing 25 classic PC games to Steam",
+      "url": "https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "americas",
+      "publishedAt": "2026-11-05T18:30:00.000Z",
+      "summary": "This Road Rash screenshot rules. | Image: EA Electronic Arts is launching 25 classic games on Steam, including \"Anniversary Editions\" of the motorcycle racer Road Rash and six Wing Commander titles. These Anniversary Editions preserve \"the original look, feel and creative intent of the game\" but also have quality-of-life updates to support modern systems and controls and improve performance, according to EA. The seve"
+    },
+    {
+      "id": "0f75d5c3e44ac9af",
+      "title": "LIV confirms intention to wind down after five years",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cq70pdjjgy5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-05T18:12:32.000Z",
+      "summary": "LIV Golf confirms its intention to wind down because of a lack of financial support."
+    },
+    {
+      "id": "668d5f3aef4decc3",
+      "title": "Claude AI can plug directly into your bank account",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "source": "The Verge",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-11-05T18:00:00.000Z",
+      "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview with a breakdown of spending by category, including rent and utilities, shopping, and food. Claude can also"
+    },
+    {
+      "id": "8f644b842e337052",
+      "title": "French protests see numbers surge as unions join strikes over high cost of living",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-11-05T17:59:53.000Z",
+      "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher."
+    },
+    {
+      "id": "cd80ee802e59219c",
+      "title": "‘Total repudiation’: The blue wave is about to hit AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "americas",
+      "publishedAt": "2026-11-05T17:51:52.000Z",
+      "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico, and a Maine Senator ceding to a Democrat after 30 years in office. In these and other campaigns, one theme kept coming up: "
+    },
+    {
+      "id": "35f8a625df24b939",
+      "title": "Paraguay President Santiago Peña resigns after bank collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-11-05T17:40:40.000Z",
+      "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him."
+    },
+    {
+      "id": "596e51d24f15a033",
+      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+      "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-11-05T17:39:48.000Z",
+      "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\"."
+    },
+    {
+      "id": "f3b6f73febac467c",
+      "title": "TikTok launched a dedicated TikTok Shop app",
+      "url": "https://www.theverge.com/tech/1027772/tiktok-shop-app",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-11-05T17:27:36.000Z",
+      "summary": "TikTok has released a standalone app for TikTok Shop in a few countries, as spotted by social media consultant Matt Navarra. According to its App Store listing, the TikTok Shop app offers: - Personalized picks inspired by your interests - LIVE streams & short videos to see products in action - App-only deals, free shipping offers & exclusive first-order benefits that make every order feel worth it - Secure payments f"
+    },
+    {
+      "id": "c1e9905b6b4f6bd6",
+      "title": "Nintendo says it’s not planning another Switch 2 price hike",
+      "url": "https://www.theverge.com/games/1027757/nintendo-switch-2-price-hike-plans-ram",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-11-05T17:24:39.000Z",
+      "summary": "Nintendo president Shuntaro Furukawa said during the company's latest earnings call that it's \"not considering additional changes\" to the Switch 2's price, Reuters reports. The Switch 2 got a $50 price hike earlier this year, bringing its starting price up to $499. Nintendo said in Thursday's earnings report that Switch 2 sales have dropped 37.4 percent year-over-year. According to Reuters, Furukawa also gave an upda"
+    },
+    {
+      "id": "67849438fb6f475e",
+      "title": "The FAA is finally ditching floppy disks",
+      "url": "https://www.theverge.com/transportation/1027511/faa-floppy-disks-sean-duffy-air-traffic-control-eids",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "americas",
+      "publishedAt": "2026-11-05T17:13:42.000Z",
+      "summary": "The air traffic control tower is seen San Diego International Airport on May 27th in San Diego, California. | Photo by Kevin Carter / Getty Images It's the year 2026 and the Federal Aviation Administration is still running critical pieces of American airspace on 3.5-inch magnetic floppy disks. But those technology artifacts could be headed for the dustbin after Transportation Secretary Sean Duffy announced an effort "
+    },
+    {
+      "id": "aa33c358f334928f",
+      "title": "Interest rates hiked to 4% in first increase in over three years",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-11-05T17:09:55.000Z",
+      "summary": "Most analysts expected the increase from 3.75% to 4%."
+    },
+    {
+      "id": "4b0a47564623e083",
+      "title": "K-pop group NewJeans’s contract omitted rights to ‘sleep and free choice’ – report",
+      "url": "https://www.theguardian.com/music/2026/nov/05/k-pop-group-newjeans-contract",
+      "source": "The Guardian World",
+      "category": "diplomacy",
+      "region": "global",
+      "publishedAt": "2026-11-05T17:08:29.000Z",
+      "summary": "New report finds that record label Ador stripped child protections from group’s contracts when they were minors The superstar K-pop group NewJeans signed restrictive record label contracts that waived their right to “sleep, rest and free choice”. A new report from the New York Times found that the contracts were signed when the members of the record-breaking girl group were aged 14 to 17. Continue reading..."
+    },
+    {
+      "id": "b8ffda11139290a1",
+      "title": "Russell Brand faces ‘significant’ prison term for rape and sexual assault",
+      "url": "https://www.theguardian.com/culture/2026/nov/05/russell-brand-found-guilty-rape-sexual-assault",
+      "source": "The Guardian Culture",
+      "category": "economy_business",
+      "region": "europe",
+      "publishedAt": "2026-11-05T17:03:15.000Z",
+      "summary": "Actor and comedian, 51, found guilty of raping a woman and assaulting three others Flashbulbs, lies and victim blaming: how Russell Brand’s trial unfolded The downfall of Russell Brand: from Big Brother and Hollywood to convicted rapist Russell Brand has been found guilty of raping a fan and sexually assaulting three other women, ending a years-long legal saga that has raised questions about how he was able to commit"
+    },
+    {
+      "id": "510153f306e75004",
+      "title": "How Democrats used the midterms to turn affordability concerns into ‘green populism’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/05/democrats-climate-crisis-in-midterm-election-results",
+      "source": "The Guardian Environment",
+      "category": "environment",
+      "region": "middle_east",
+      "publishedAt": "2026-11-05T17:00:28.000Z",
+      "summary": "From energy prices to datacenters, climate became a cost-of-living issue – and a winning one Climate-forward Democrats swept into power on Tuesday night as a blue tsunami flipped the Senate, House and several governor’s races. Voters were laser-focused on affordability, and experts said Democrats succeeded in linking cost-of-living concerns with rising energy prices, datacenters and, to some extent, the climate crisi"
+    },
+    {
+      "id": "8c630f50d579cbc8",
+      "title": "Iran exempts four countries’ ships from restrictions in Hormuz",
+      "url": "https://www.bd24live.com/iran-exempts-four-countries-ships-from-restrictions-in-hormuz/",
+      "source": "BD24Live",
+      "category": "war_conflict",
+      "region": "bangladesh",
+      "publishedAt": "2026-11-05T15:45:18.000Z",
+      "summary": "Amidst ongoing conflict in the Middle East, Iran has exempted commercial ships from four countries from restrictions on ship movement through the strategically important Strait of Hormuz. The countries are… The post Iran exempts four countries’ ships from restrictions in Hormuz appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "cf96fdb7c9605029",
+      "title": "Russell Brand is being investigated over two new rape complaints, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-11-05T15:44:49.000Z",
+      "summary": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts."
+    },
+    {
+      "id": "51e8c08f45897e37",
+      "title": "Everton's Grealish unavailable again after 'breach of discipline'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-05T15:28:37.000Z",
+      "summary": "Jack Grealish remains unavailable for Everton's Premier League clash with Coventry on Friday, manager David Moyes confirms."
+    },
+    {
+      "id": "fce6af435a96a8c1",
+      "title": "Bangladesh must be established as a powerful nation in the world: Prime Minister",
+      "url": "https://www.bd24live.com/bangladesh-must-be-established-as-a-powerful-nation-in-the-world-prime-minister/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-11-05T15:25:19.000Z",
+      "summary": "“You must build this Bangladesh, you must shape it. Bangladesh must be established as a powerful nation in the world. Each of you is an ambassador of Bangladesh and an… The post Bangladesh must be established as a powerful nation in the world: Prime Minister appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "f228f9911f9a26f3",
+      "title": "Investigation into 'major fish kill' after pollution incident",
+      "url": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "environment",
+      "region": "global",
+      "publishedAt": "2026-11-05T14:51:45.000Z",
+      "summary": "The pollution caused the death of brown and migratory sea trout in the Inler river."
+    },
+    {
+      "id": "9de13d46fad462c4",
+      "title": "What new Kane deal means for England and the Premier League record",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-05T14:44:34.000Z",
+      "summary": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty."
+    },
+    {
+      "id": "04b8be0382039ece",
+      "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-05T14:29:40.000Z",
+      "summary": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend."
+    },
+    {
+      "id": "825eb16b6ba17fe7",
+      "title": "Watch: How rapist Brand was never far from controversy",
+      "url": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-11-05T14:28:21.000Z",
+      "summary": "BBC correspondent Sima Kotecha explains how the trial unfolded."
+    },
+    {
+      "id": "e7149df4fab8cb8e",
+      "title": "Is that an explosion, an implosion or an orgasm? Pixies bass-player Emma Richardson’s realm-leaping life in painting",
+      "url": "https://www.theguardian.com/artanddesign/2026/nov/05/emma-richardson-paintings-pixies-hotwire-my-heart-wolf-collective",
+      "source": "The Guardian Culture",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-11-05T14:12:43.000Z",
+      "summary": "Huge, ecstatic canvases are just one of the vocations of the musician who joined the art rockers in 2024. As her show Hotwire My Heart opens, she talks terror, awe and teabags Emma Richardson loves to eavesdrop when people look at her paintings and talk about what they see in them. “They turn into these Rorschach inkblot tests,” she grins. Looking at her works, you do stand back in awe wondering. Is that a nebula, a "
+    },
+    {
+      "id": "42841b0a1e4577a5",
+      "title": "Faisal Islam: How high will interest rates go?",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-11-05T13:17:10.000Z",
+      "summary": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all."
+    },
+    {
+      "id": "b0ade84daaa0dbad",
+      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "source": "MIT Tech Review",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-11-05T13:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s…"
+    },
+    {
+      "id": "6054f2e17aeecd52",
+      "title": "Three ways the interest rate rise could affect you",
+      "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-11-05T13:08:30.000Z",
+      "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England."
+    },
+    {
+      "id": "141c96575d67bc50",
+      "title": "Full of life and catching feelings: Christine and the Queens’ greatest songs – ranked!",
+      "url": "https://www.theguardian.com/music/2026/nov/05/full-of-life-and-catching-feelings-christine-and-the-queens-greatest-songs-ranked",
+      "source": "The Guardian Culture",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-11-05T12:15:23.000Z",
+      "summary": "As the French avant-popper returns with new single Rendez-vous avec toi, we celebrate the best of an artist who uses sleek songwriting to grapple with knotty emotion Originally leaked online by the artist himself, Christine and the Queens’ fifth album, Hopecore, was released under a new name of Rahim Redcar (he’s now back to releasing as Christine and the Queens, and using Chris as his own name). Hopecore eschewed th"
+    },
+    {
+      "id": "85b45bb1b2dde066",
+      "title": "Trump takes 500 actions to weaken cancer protections, new report says",
+      "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-cancer-carcinogen-regulation",
+      "source": "The Guardian Environment",
+      "category": "environment",
+      "region": "global",
+      "publishedAt": "2026-11-05T12:00:23.000Z",
+      "summary": "Natural Resources Defense Council shows how federal rules changes will spike up public’s exposure to carcinogens Amid a surge in early onset cancer, the Trump administration has taken more than 500 actions to systematically dismantle protections against carcinogens once in place across the federal government, an October report alleges. The Natural Resources Defense Council report, and comments from current and former"
+    },
+    {
+      "id": "7279416248117134",
+      "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-11-05T11:21:35.000Z",
+      "summary": "The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series."
+    },
+    {
+      "id": "9b061e4994e307a8",
+      "title": "Prime Minister: Attempts Being Made to Create Anarchy from Across the Border Under Guise of Workers’ Demands",
+      "url": "https://www.bd24live.com/prime-minister-attempts-being-made-to-create-anarchy-from-across-the-border-under-guise-of-workers-demands/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-11-05T10:30:16.000Z",
+      "summary": "Prime Minister Tareque Rahman has stated that attempts are being made to create anarchy in the country from across the border, under the guise of workers’ demands. He remarked that… The post Prime Minister: Attempts Being Made to Create Anarchy from Across the Border Under Guise of Workers’ Demands appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "4fb63f81725c9763",
+      "title": "State Minister for Foreign Affairs: Sheikh Hasina Will Not Be Issued a Travel Pass",
+      "url": "https://www.bd24live.com/state-minister-for-foreign-affairs-sheikh-hasina-will-not-be-issued-a-travel-pass/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-11-05T08:40:12.000Z",
+      "summary": "Former Prime Minister Sheikh Hasina, currently residing in India as a fugitive and a death-row convict, will not be issued a regular passport or a travel pass to return to… The post State Minister for Foreign Affairs: Sheikh Hasina Will Not Be Issued a Travel Pass appeared first on Bangla Online News Portal."
+    },
     {
       "id": "a5c44492919e8898",
       "title": "MoU Signed with China for Investment and Infrastructure Development",
@@ -10,136 +540,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-11-05T06:20:12.000Z",
       "summary": "A Memorandum of Understanding (MoU) on economic and infrastructure cooperation was signed between Bangladesh and China in the presence of Prime Minister Tarique Rahman. The MoU was signed between Invest… The post MoU Signed with China for Investment and Infrastructure Development appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "b45cc935566824ee",
-      "title": "Israel’s opposition slams ‘toxic Netanyahu’ after Democrats win US Congress",
-      "url": "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "middle_east",
-      "publishedAt": "2026-11-05T05:39:31.000Z",
-      "summary": "Netanyahu's rivals say US midterm results show Israel 'cannot afford' to have the prime minister remain in office."
-    },
-    {
-      "id": "efdc18fd851fabbc",
-      "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
-      "url": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
-      "source": "The Guardian World",
-      "category": "environment",
-      "region": "europe",
-      "publishedAt": "2026-11-05T05:00:55.000Z",
-      "summary": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification The UK is “dangerously” dependent on China for critical raw materials needed for the military, renewable energy infrastructure and AI, a parliamentary investigation has found. MPs on the business select committee called for an urgent centralised policy and the creation of a “critical minerals financ"
-    },
-    {
-      "id": "5bab7c04f3fee3de",
-      "title": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine",
-      "url": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-11-05T04:49:56.000Z",
-      "summary": "EU officials also urge new US Congress to step up pressure on Russia to end the four-and-a-half-year war."
-    },
-    {
-      "id": "2357f03c53f15598",
-      "title": "Mamdani: ‘it’s morning again in America’ after blue wave",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mamdani-its-morning-again-in-america-after-blue-wave?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-11-05T04:30:18.000Z",
-      "summary": "New York City Mayor Zohran Mamdani urged fellow Democrats to ‘fulfill promises’ after sweeping wins."
-    },
-    {
-      "id": "03ec4a502f774999",
-      "title": "Pound rises to its highest level since the Brexit referendum",
-      "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-11-05T04:21:35.000Z",
-      "summary": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago"
-    },
-    {
-      "id": "465a9c4a6c50a600",
-      "title": "Brazilian airport torn apart by violent storm",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/brazilian-airport-torn-apart-by-violent-storm?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "weather_climate",
-      "region": "americas",
-      "publishedAt": "2026-11-05T04:12:11.000Z",
-      "summary": "Dramatic footage captured the moment a powerful tornado struck Chapecó Airport in Santa Catarina, Brazil"
-    },
-    {
-      "id": "17477e8402c1d5a2",
-      "title": "Paraguay bank collapses with half of population’s savings",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-11-05T04:11:45.000Z",
-      "summary": "Protests have erupted across Paraguay after Ueno Bank was shut down in the middle of the night over a solvency crisis."
-    },
-    {
-      "id": "ff4f3e88006c7dbd",
-      "title": "Hong Kong activist Joshua Wong sentenced to ten years in jail",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hong-kong-activist-joshua-wong-sentenced-to-ten-years-in-jail?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-11-05T04:04:57.000Z",
-      "summary": "Hong Kong activist Joshua Wong, who became the global face of Hong Kong’s pro-democracy movement has been sentenced."
-    },
-    {
-      "id": "57ff5128a3fcf9e4",
-      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-11-05T03:56:16.000Z",
-      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law."
-    },
-    {
-      "id": "246090c7d1d072bf",
-      "title": "World record 53 red cards shown in Brazil football match",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/world-record-53-red-cards-shown-in-brazil-football-match?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "americas",
-      "publishedAt": "2026-11-05T03:48:19.000Z",
-      "summary": "Referees have red-carded 53 players and staff after a massive brawl in an under-20s football match in Brazil."
-    },
-    {
-      "id": "386bf7a78f10cf14",
-      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "middle_east",
-      "publishedAt": "2026-11-05T03:47:56.000Z",
-      "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory."
-    },
-    {
-      "id": "97efca5afd5fb1b0",
-      "title": "Former Israeli generals help Palestinian olive farmers",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/former-israeli-generals-help-palestinian-olive-farmers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-11-05T02:52:30.000Z",
-      "summary": "A group of former Israeli military generals offered their help to Palestinian olive farmers in the occupied West Bank."
-    },
-    {
-      "id": "a60465f2ace041c3",
-      "title": "El Salvador’s Bukele touts military intervention in Haiti",
-      "url": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-11-05T02:10:07.000Z",
-      "summary": "Haitian police have found a vehicle used by four missing Salvadoran technicians as Salvadoran troops deploy to Haiti."
     },
     {
       "id": "4e75e715eaaa79f0",
@@ -152,144 +552,14 @@
       "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament."
     },
     {
-      "id": "86173befe63a91bd",
-      "title": "X says its updated web app is way faster",
-      "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-11-05T00:25:12.000Z",
-      "summary": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection,\" principal engineer Yagiz Nizipli said in a blog post about the changes. \"On the old web app, you'd stare at the X logo for more than 22 seconds before the first post appeared. On the new one, it sh"
-    },
-    {
-      "id": "97f1b7743135c6d8",
-      "title": "Interest rates expected to rise for first time in over three years",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-11-05T00:00:09.000Z",
-      "summary": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years."
-    },
-    {
-      "id": "732e7c4ca4166723",
-      "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-11-04T23:50:40.000Z",
-      "summary": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths."
-    },
-    {
       "id": "d10db94329987808",
       "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
       "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "source": "BBC Science & Environment",
       "category": "weather_climate",
       "region": "asia_pacific",
       "publishedAt": "2026-11-04T23:12:47.000Z",
       "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather."
-    },
-    {
-      "id": "af19c72b5eb73e43",
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-11-04T22:48:43.000Z",
-      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says."
-    },
-    {
-      "id": "6a7c134ceb9ed0bd",
-      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-11-04T22:42:15.000Z",
-      "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier this year. The company expects that portion of its business to grow quickly, forecasting around"
-    },
-    {
-      "id": "7ddc04de7ce70aa8",
-      "title": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-04T22:38:24.000Z",
-      "summary": "Liverpool conceded \"cheap\" and \"messy\" goals in their defeat by Fenerbahce, says boss Andoni Iraola, as former Reds hero Dirk Kuyt celebrates a \"miracle\" in Istanbul."
-    },
-    {
-      "id": "bd034dd8d371a019",
-      "title": "LIV to wind down after backers withdraw support",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/cq70pdjjgy5no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-04T22:33:17.000Z",
-      "summary": "LIV Golf is set to announce on Thursday it will wind down after a financing firm retracted its support."
-    },
-    {
-      "id": "4953869b15ef96bb",
-      "title": "Haaland scores winner as Man City beat Leipzig",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-04T22:15:31.000Z",
-      "summary": "Erling Haaland scores the winning goal as Manchester City overcome being pegged back twice to beat RB Leipzig 3-2 on match day four of the UEFA Champions League group phase."
-    },
-    {
-      "id": "94e671a1dd3b881e",
-      "title": "Arsenal survive late Slavia scare for hard-fought win",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq4g1jwnzmyro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-04T22:10:07.000Z",
-      "summary": "Arsenal earn their third win from four in the Champions League as goals from Noni Madueke and Victor Gyokeres are too much for Slavia Prague, despite a valiant late fight from the hosts to get back into the game."
-    },
-    {
-      "id": "19211f8e9e3d9eb4",
-      "title": "How I learned to love an obnoxious phone grip",
-      "url": "https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-11-04T21:30:00.000Z",
-      "summary": "Have a little treat. | Photo: Allison Johnson / The Verge Much like a great recipe, it started with a stick of butter. This wasn't real butter; it was a friend's new phone grip, complemented by a phone case with bold stripes. Butter is in vogue now, or at least that's what a 12-year-old told me a few months ago. This stick of butter was labeled \"unsalty\" and committed to the bit by including the appropriate tablespoo"
-    },
-    {
-      "id": "6956e0a1a90b6099",
-      "title": "Bose’s QuietComfort Headphones are more than half off",
-      "url": "https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale",
-      "source": "The Verge",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-04T21:13:11.000Z",
-      "summary": "It’s not often that some of the best noise-canceling headphones you can buy are over half off. But right now, the first-gen Bose QuietComfort Headphones are on sale for $169.99 ($190 off) at Amazon, Best Buy, and Bose, matching its best price to date. The newer, second-generation version that launched in August is also down to $199 ($160 off) in multiple colors at Amazon, Best Buy, and directly from Bose, which is ju"
-    },
-    {
-      "id": "af1bbc3e7526a352",
-      "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
-      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-11-04T20:23:24.000Z",
-      "summary": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more. With the update, Gemini for Home can provide detailed descriptions about events captured by your security cameras, su"
-    },
-    {
-      "id": "3353b827ec9223c1",
-      "title": "Poundland owner in crunch talks as retailer's collapse looms",
-      "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-11-04T19:44:46.000Z",
-      "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland."
     },
     {
       "id": "8f493eef0e148d33",
@@ -302,194 +572,14 @@
       "summary": "Conservation officers say more than one bear may have been involved in attack on women near their home Search teams in Canada have discovered the body of a 20-year-old woman and confirmed that both she and her mother were killed in an attack that conservation officers now believe could have involved multiple grizzly bears. Late on Tuesday, conservation officers in British Columbia said the two women, who were reporte"
     },
     {
-      "id": "87759e74ea1c4d6a",
-      "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-11-04T19:38:53.000Z",
-      "summary": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online."
-    },
-    {
-      "id": "45c39c1b2d173e65",
-      "title": "Xbox previews two new ways to control cloud games",
-      "url": "https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-11-04T19:00:00.000Z",
-      "summary": "I revealed yesterday that the new Xbox Nano controller supports a Wi-Fi connection directly to Xbox Cloud Gaming, and now Microsoft is making it official today. Two new Xbox previews will let players try out using a phone as a controller on smart TVs, as well as cloud connect on the Xbox Nano to connect directly to cloud servers. \"Instead of a Bluetooth connection to your TV, cloud connect uses your Wi-Fi to connect "
-    },
-    {
-      "id": "17995b45efeea673",
-      "title": "An island in mourning: Tenerife processes death of De Miguel",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckx2qz97gz3no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-04T18:51:21.000Z",
-      "summary": "Tenerife football club and the wider football community mourn the loss of footballer Jesus de Miguel following an on-field collision."
-    },
-    {
-      "id": "a500690f0d0f0b2b",
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "source": "MIT Tech Review",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-11-04T18:50:55.000Z",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…"
-    },
-    {
-      "id": "e0c22b6068b85591",
-      "title": "Nothing teases a screen-free AI device ahead of launch next month",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-      "source": "The Verge",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-11-04T18:26:07.000Z",
-      "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature it won't have is a screen: \"Our first AI-native product ships next month. It's a tool, but one built with the personality"
-    },
-    {
-      "id": "3771d8f9d642adc8",
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-      "source": "MIT Tech Review",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-11-04T18:21:40.000Z",
-      "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring possible paths to keep your mind going, including gradual…"
-    },
-    {
-      "id": "66adc498f85965ff",
-      "title": "What Democrats can and can't do with their new power after taking Congress",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-11-04T18:01:27.000Z",
-      "summary": "Democrats can vote legislation through. But Trump still has veto power."
-    },
-    {
-      "id": "809961d146a7c0a1",
-      "title": "Zverev annoyed by reaction to becoming world number one",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/ckpdg01pq55eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-11-04T17:08:45.000Z",
-      "summary": "After a defeat at the Paris Masters, Alexander Zverev complains that he is the only player who has had \"to explain why it's OK\" for him to be top of the rankings."
-    },
-    {
-      "id": "7cfddf69dea56e65",
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-11-04T16:59:15.000Z",
-      "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat."
-    },
-    {
-      "id": "63d2f18394b87f18",
-      "title": "Herbert Blomstedt, renowned conductor with a seven-decade career, dies aged 99",
-      "url": "https://www.theguardian.com/music/2026/nov/04/herbert-blomstedt-renowned-conductor-with-a-seven-decade-career-dies-aged-99",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "americas",
-      "publishedAt": "2026-11-04T16:54:44.000Z",
-      "summary": "The much loved Swedish-American musician, particularly known for his work with the San Francisco Symphony and Leipzig Gewandhaus, continued performing until earlier this year The conductor Herbert Blomstedt has died aged 99. His career stretched over an extraordinary seven decades and he continued to conduct and tour into his late 90s; his final concert was earlier this year, aged 98. Born in Massachusetts, US, in Ju"
-    },
-    {
-      "id": "f3bb8ee5d88aec9b",
-      "title": "Tinto Brass, director of Caligula and maestro of Euro erotica, dies aged 93",
-      "url": "https://www.theguardian.com/film/2026/nov/04/tinto-brass-director-of-caligula-erotic-cinema-dies-aged-93",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-11-04T16:47:15.000Z",
-      "summary": "The cult Italian film-maker began as an assistant to Roberto Rossellini but moved into sex films, believing ‘eroticism to be a fundamental key to human expression’ Italian film director Tinto Brass, who was once hailed as the “Antonioni of the 70s” but came to be better known for bringing Italian erotic cinema to a wider audience with films such as Caligula and Salon Kitty, has died aged 93. His wife Caterina Varzi a"
-    },
-    {
-      "id": "d12c29103f415d33",
-      "title": "'Most difficult days of my life' for keeper Owono",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-11-04T16:40:38.000Z",
-      "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death."
-    },
-    {
       "id": "3170fcbd6f98cd04",
       "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
       "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "source": "BBC Technology",
       "category": "cybersecurity",
       "region": "global",
       "publishedAt": "2026-11-04T16:26:15.000Z",
       "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers."
-    },
-    {
-      "id": "304588bfca5777b7",
-      "title": "Israel's president begins consultations with parties after election deadlock",
-      "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "middle_east",
-      "publishedAt": "2026-11-04T16:18:21.000Z",
-      "summary": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election."
-    },
-    {
-      "id": "66bc203516a21cd8",
-      "title": "Secret police files released in Hungary, 37 years after fall of communism",
-      "url": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-11-04T15:28:18.000Z",
-      "summary": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish."
-    },
-    {
-      "id": "3051968421c0ca98",
-      "title": "‘This is redemption time’: celebrities react to Democrats’ historic midterms sweep",
-      "url": "https://www.theguardian.com/culture/2026/nov/04/celebrities-react-us-midterms-democrats-sweep",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "americas",
-      "publishedAt": "2026-11-04T14:40:33.000Z",
-      "summary": "After the party regained control of both houses of Congress, stars including Viola Davis, Bette Midler and John Cusack have been celebrating US midterms 2026 live – latest updates Track live results from all 50 states Tell us: what do you want to know about midterm results? Celebrities have been reacting to last night’s historic midterm victory for the Democrats after the party regained control of both the House and "
-    },
-    {
-      "id": "55d3202f878443e2",
-      "title": "‘He lent me his RSC Oberon cape for my school play’: Patrick Stewart remembered by readers",
-      "url": "https://www.theguardian.com/culture/2026/nov/04/readers-memories-of-patrick-stewart",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-11-04T14:15:47.000Z",
-      "summary": "From coaching youth community theatre to supporting Huddersfield football club and delighting sci-fi fans at graduation ceremonies, the actor is fondly remembered Patrick Stewart – a life in pictures On Star Trek, Patrick Stewart could make anyone feel hopeful for humanity Patrick Stewart brought gravitas and complexity to the screen ‘He stood for the best of us’: William Shatner and more pay tribute What I always lo"
-    },
-    {
-      "id": "7cdb985908ad189c",
-      "title": "Endangered giant burrowing frog returns to wild after tadpoles rescued from ashes of black summer fires",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/05/giant-burrowing-frog-returns-to-wild-after-tadpoles-rescued-black-summer-fires-australia",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-11-04T14:01:35.000Z",
-      "summary": "Tadpoles collected from puddles in East Gippsland were transported to Melbourne zoo, where they were raised to metamorphosis and successfully bred in captivity for the first time After the 2019-20 black summer bushfires, scientists in eastern Victoria stumbled across something they had been after for years: puddles of tadpoles from the southern giant burrowing frog, one of the state’s most cryptic amphibians. The fir"
-    },
-    {
-      "id": "ca9ba552a0129aab",
-      "title": "All’s Fair season two review – am I delirious … or is this getting good?",
-      "url": "https://www.theguardian.com/tv-and-radio/tvandradioblog/2026/nov/04/alls-fair-season-two-review-am-i-delirious-or-is-this-getting-good",
-      "source": "The Guardian Culture",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-11-04T13:06:48.000Z",
-      "summary": "From Glenn Close in pleather to naughty rumours about Bruno Mars, this legal drama is still absolutely ludicrous. But squint hard enough and it has slightly improved since its zero-star debut On the one hand, Trump and the Maga movement have been routed in the midterms. On the other, the second season of All’s Fair is out. Truly, the lord giveth and the lord taketh away. For those of you who have blanked the first se"
     },
     {
       "id": "9af8c77b3ac781df",
@@ -500,16 +590,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-11-04T12:15:20.000Z",
       "summary": "The Executive Committee of the National Economic Council (ECNEC) has approved 13 projects with a total expenditure of BDT 58,088.92 crore. Of this, the government’s own financing accounts for BDT… The post ECNEC Approves 13 Projects Worth BDT 58,088.92 Crore appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "8290213aed0b59e4",
-      "title": "Firework noise limit should be drastically cut to protect wild animals, UK government told",
-      "url": "https://www.theguardian.com/environment/2026/nov/04/firework-noise-limit-protect-wild-animals-bonfire-night",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "europe",
-      "publishedAt": "2026-11-04T11:47:33.000Z",
-      "summary": "Ministers urged to go further than proposed cut to 110 decibels to ease acute stress on birds and others animals Campaigners are calling on the UK government to protect the welfare of wild animals by cutting the maximum noise level of fireworks sold to the public from 120 to 90 decibels. The Center for Wild Animal Welfare (CWAW) has said lowering the limit to 90dB – which is about one-eighth of the loudness of 120dB "
     },
     {
       "id": "189e39a85731f48b",
@@ -582,16 +662,6 @@
       "summary": "The Democratic Party has taken control of the Senate in the US midterm elections. Democratic candidates have won seats previously held by Republicans in Texas, South Carolina, Iowa, and Kansas.… The post Democrats Take Control of Senate, Major Setback for Trump appeared first on Bangla Online News Portal."
     },
     {
-      "id": "f20bda6bf28b5558",
-      "title": "Canva announces major job cuts after 'our hardest year yet'",
-      "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-11-04T00:09:35.000Z",
-      "summary": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles."
-    },
-    {
       "id": "c14ea40bc579d2e0",
       "title": "Graduates are managing AI - but are they learning much else?",
       "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
@@ -612,26 +682,6 @@
       "summary": "The incident took place in the same province where a grizzly attacked a group of schoolchildren last November A mother is dead and her daughter is missing in western Canada after a suspected grizzly bear attack in the same community where a bear attacked a group of schoolchildren earlier in the year. On Tuesday, the British Columbia conservation officer service said in a social media post that it had launched a searc"
     },
     {
-      "id": "82bfbad02959ddc1",
-      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "diplomacy",
-      "region": "europe",
-      "publishedAt": "2026-11-03T20:53:03.000Z",
-      "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far."
-    },
-    {
-      "id": "c14edd147a6bd344",
-      "title": "BDT 2 Crore Grant Requested for Christmas, Prime Minister Allocates BDT 3 Crore",
-      "url": "https://www.bd24live.com/bdt-2-crore-grant-requested-for-christmas-prime-minister-allocates-bdt-3-crore/",
-      "source": "BD24Live",
-      "category": "creativity_arts",
-      "region": "bangladesh",
-      "publishedAt": "2026-11-03T16:30:15.000Z",
-      "summary": "The Christian Welfare Trust had requested a grant of two crore Taka for the celebration of Christmas, the largest religious festival of the Christian community. However, Prime Minister Tarique Rahman… The post BDT 2 Crore Grant Requested for Christmas, Prime Minister Allocates BDT 3 Crore appeared first on Bangla Online News Portal."
-    },
-    {
       "id": "c04e42498beaf09c",
       "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
       "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
@@ -642,14 +692,14 @@
       "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says."
     },
     {
-      "id": "cc68ec21ebf9160a",
-      "title": "PM Directs Expedition of Y-shaped Second Padma Bridge, Second Jamuna Bridge, and Padma Barrage Projects",
-      "url": "https://www.bd24live.com/pm-directs-expedition-of-y-shaped-second-padma-bridge-second-jamuna-bridge-and-padma-barrage-projects/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-11-03T13:30:13.000Z",
-      "summary": "Prime Minister Tarique Rahman has instructed to expedite the plans for the construction of the Y-shaped Second Padma Bridge, the Second Jamuna Bridge, and the Padma Barrage. He gave these… The post PM Directs Expedition of Y-shaped Second Padma Bridge, Second Jamuna Bridge, and Padma Barrage Projects appeared first on Bangla Online News Portal."
+      "id": "df5d2d36330fda69",
+      "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
+      "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "weather_climate",
+      "region": "europe",
+      "publishedAt": "2026-11-03T13:07:00.000Z",
+      "summary": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday."
     },
     {
       "id": "bc886664a1c34850",
@@ -722,16 +772,6 @@
       "summary": "The men and women who rummage through commercial bins to take clothes and other items."
     },
     {
-      "id": "4f43973ece6ef880",
-      "title": "Home Minister Alleges Political Motives Behind Garment Sector Unrest",
-      "url": "https://www.bd24live.com/home-minister-alleges-political-motives-behind-garment-sector-unrest/",
-      "source": "BD24Live",
-      "category": "war_conflict",
-      "region": "bangladesh",
-      "publishedAt": "2026-11-03T06:45:12.000Z",
-      "summary": "Home Minister Salahuddin Ahmed has warned that legal action will be taken against anyone who engages in activities aimed at shutting down garment factories or disrupting production. He also stated… The post Home Minister Alleges Political Motives Behind Garment Sector Unrest appeared first on Bangla Online News Portal."
-    },
-    {
       "id": "da8e475520d1ea72",
       "title": "AI data centres could undermine UK's emissions goals",
       "url": "https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o?at_medium=RSS&at_campaign=rss",
@@ -752,16 +792,6 @@
       "summary": "Researchers have detected signals from the smallest distances ever probed."
     },
     {
-      "id": "d1beb2ac575e0e10",
-      "title": "Worker-Police Clashes in Mirpur, Metro Rail Station Closed",
-      "url": "https://www.bd24live.com/worker-police-clashes-in-mirpur-metro-rail-station-closed/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-11-03T05:10:13.000Z",
-      "summary": "New tensions have erupted in Mirpur, Dhaka, amid the ongoing workers’ movement demanding a minimum wage of BDT 30,000. On Tuesday (November 3), at approximately 10:15 AM, protesting garment workers… The post Worker-Police Clashes in Mirpur, Metro Rail Station Closed appeared first on Bangla Online News Portal."
-    },
-    {
       "id": "88fc5c5265f9c3fe",
       "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
       "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
@@ -770,16 +800,6 @@
       "region": "global",
       "publishedAt": "2026-11-03T02:24:31.000Z",
       "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's access to more than 10 million additional compromised systems, including o"
-    },
-    {
-      "id": "5310d7bde090dd31",
-      "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
-      "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
-      "source": "The Guardian World",
-      "category": "diplomacy",
-      "region": "americas",
-      "publishedAt": "2026-11-02T20:00:27.000Z",
-      "summary": "Chemical tests on Aratasaurus bone identify presence of heme, the organic compound that allows haemoglobin in blood to carry oxygen around body It could be the opening of a Jurassic Park rip-off: scientists examining ancient dinosaur bones find what appear to be fossilised red blood cells, and traces of the molecule that gives the beast’s blood its distinctive crimson hue. But that is what researchers are claiming to"
     },
     {
       "id": "c2e702bf951110d7",
@@ -870,16 +890,6 @@
       "region": "americas",
       "publishedAt": "2026-10-31T02:12:19.000Z",
       "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become."
-    },
-    {
-      "id": "9b2b413c60bc15d4",
-      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-10-30T20:34:46.000Z",
-      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
     },
     {
       "id": "6e244a853aba43b9",
