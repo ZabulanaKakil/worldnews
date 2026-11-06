@@ -1,15 +1,235 @@
 {
-  "generatedAt": "2026-11-05T21:53:35.761Z",
+  "generatedAt": "2026-11-06T02:10:56.636Z",
   "articles": [
     {
-      "id": "d7f2b81ccf4ee691",
-      "title": "Major tech and AI stocks plummet as Nasdaq loses $2.5tn in value",
+      "id": "7ec027732f68ebbb",
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
       "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "economy_business",
       "region": "global",
-      "publishedAt": "2026-11-05T21:43:39.000Z",
-      "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms"
+      "publishedAt": "2026-11-06T01:44:03.000Z",
+      "summary": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms."
+    },
+    {
+      "id": "1363b3dcefc64614",
+      "title": "California governor commutes sentences of more than 500 people on death row",
+      "url": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-11-06T01:39:35.000Z",
+      "summary": "Gavin Newsom cites state values and flaws in the legal system as he grants largest mass clemency in US history."
+    },
+    {
+      "id": "0c9ece76fa467a08",
+      "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-11-06T01:28:03.000Z",
+      "summary": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists."
+    },
+    {
+      "id": "65238336e5d6cc57",
+      "title": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
+      "url": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
+      "source": "The Guardian World",
+      "category": "environment",
+      "region": "europe",
+      "publishedAt": "2026-11-06T01:22:49.000Z",
+      "summary": "Three suitcases’ worth of the spiders were on their way to Germany, where they could fetch an estimated €1.5m More than 3,000 tarantulas were seized at an airport in Lima on their way to Germany, Peruvian authorities said. The spiders were hidden inside dirty socks contained in three suitcases carried by two Germans and a Polish citizen, the National Forestry and Wildlife Service (SERFOR) told Agence France-Presse on"
+    },
+    {
+      "id": "7068198d8957fae8",
+      "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+      "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "europe",
+      "publishedAt": "2026-11-06T01:22:39.000Z",
+      "summary": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains."
+    },
+    {
+      "id": "f088ded7cc0c8f1b",
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "source": "The Verge",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-11-06T00:37:56.000Z",
+      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions between developers and local officials."
+    },
+    {
+      "id": "0925d173ea331bcb",
+      "title": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-11-06T00:19:57.000Z",
+      "summary": "Israeli settlers have set fire to olive trees belonging to Palestinian farmers in the village of Burqa, near Ramallah."
+    },
+    {
+      "id": "56ee8767a0fac2cd",
+      "title": "Turkiye’s parliament ratifies Mecca defence agreement",
+      "url": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-11-06T00:15:22.000Z",
+      "summary": "Parliament's approval lays the groundwork for further Turkish involvement in Saudi Arabia's conflict with the Houthis."
+    },
+    {
+      "id": "51414863eda5cbe2",
+      "title": "Trump met Russian envoy after he appeared with Melania Trump and Ukrainians",
+      "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-11-06T00:06:31.000Z",
+      "summary": "Trump again said a major Russia-Ukraine deal is 'very close', but gave no specifics."
+    },
+    {
+      "id": "872460de1efd828a",
+      "title": "Airbnb is working on an AI travel agent",
+      "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-11-06T00:06:12.000Z",
+      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said. \"But planning a trip on Airbnb is different.\" The company argued that its experience matching hosts and"
+    },
+    {
+      "id": "24ec5a41874742f1",
+      "title": "The engine parts that 'fight the laws of the universe'",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-11-06T00:06:06.000Z",
+      "summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make."
+    },
+    {
+      "id": "383612fd88ee9311",
+      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "creativity_arts",
+      "region": "americas",
+      "publishedAt": "2026-11-06T00:02:57.000Z",
+      "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru."
+    },
+    {
+      "id": "eeb8df04aa094e90",
+      "title": "'I was asked if I was a crier': Your worst job interviews revealed",
+      "url": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-11-06T00:02:52.000Z",
+      "summary": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work"
+    },
+    {
+      "id": "4b17938e3af53f17",
+      "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-11-06T00:00:00.000Z",
+      "summary": "Trump says the US may have to 'destroy' the rest of Iran, adding that people will 'know soon enough'."
+    },
+    {
+      "id": "68b64cc1dfb7d934",
+      "title": "Nithya Raman wins LA mayoral race, becoming city’s first South Asian mayor",
+      "url": "https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-11-05T23:46:52.000Z",
+      "summary": "DSA-backed Raman will lead the second-largest US city, promising action on homelessness and affordable housing."
+    },
+    {
+      "id": "3cbe19b1b73d8f5b",
+      "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
+      "url": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
+      "source": "The Verge",
+      "category": "diplomacy",
+      "region": "global",
+      "publishedAt": "2026-11-05T23:45:10.000Z",
+      "summary": "Letterboxd’s homepage. The New York Times Company is in talks\"exclusive negotations\" to acquire Letterboxd, the social network for film lovers, for around $330 million, The New York Times reports. The Times Company, Sony Pictures Entertainment, and A24 were all recently rumored to be among those interested in buying Letterboxd. The negotiations with the Times Company have included the potential for Letterboxd's co-fo"
+    },
+    {
+      "id": "9680b8b70f3b36be",
+      "title": "Anderson could be given chance to join Surrey",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-05T23:33:52.000Z",
+      "summary": "James Anderson could be given the opportunity to extend his legendary career by joining Surrey."
+    },
+    {
+      "id": "9a883d6dd0eeb99e",
+      "title": "T-Mobile owner on Elon Musk launching a wireless carrier: &#8216;Welcome to the party&#8217;",
+      "url": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-11-05T23:17:10.000Z",
+      "summary": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim Höttges says he takes the Elon Musk-owned company \"super serious,\" but that it will cost at least $200 billion to pull off: He [Musk] has now bought 76 megahertz of spectrum. By the way, we have 400. So if you now say he can buy the"
+    },
+    {
+      "id": "f6509a5374c6e06c",
+      "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+      "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "environment",
+      "region": "asia_pacific",
+      "publishedAt": "2026-11-05T23:16:53.000Z",
+      "summary": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough."
+    },
+    {
+      "id": "caae274317060db6",
+      "title": "California governor commutes sentences for state's 548 death row inmates",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-11-05T23:09:33.000Z",
+      "summary": "California has historically had the largest population of people on death row in the US."
+    },
+    {
+      "id": "f04d0259aa6531e9",
+      "title": "Perplexity launches its own take on AI agents for work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-11-05T22:26:50.000Z",
+      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device to complete tasks. But Perplexity says Teammates \"build on "
+    },
+    {
+      "id": "c2f2e6a16a28e915",
+      "title": "Keep or sell Konsa? - FPL gameweek 10 dilemmas",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-05T22:26:23.000Z",
+      "summary": "BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing managers in gameweek 10."
+    },
+    {
+      "id": "e4304d4b19ed0059",
+      "title": "Salon is shutting down after 31 years",
+      "url": "https://www.theverge.com/news/1028281/salon-dot-com-shuts-down",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-11-05T22:08:14.000Z",
+      "summary": "Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication. The company said that the \"business realities of independent digital journalism have changed profoundly over the years,\" and it decided that its publishing model is \"no longer sustainable.\" It didn't go into detail about why, but many websites are grappling with "
     },
     {
       "id": "eb5656e20c49bcb0",
@@ -20,16 +240,6 @@
       "region": "global",
       "publishedAt": "2026-11-05T21:42:30.000Z",
       "summary": "The 30-year-old striker suffered cardiac arrest following an on-field collision."
-    },
-    {
-      "id": "aad7e9b47288f7f3",
-      "title": "Friday's gossip: Man Utd contact Deschamps",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-05T21:41:38.000Z",
-      "summary": "Manchester United contact Didier Deschamps, support for Michael Carrick remains at Old Trafford, Arsenal are interested in Club Brugge striker Nicolo Tresoldi, plus more."
     },
     {
       "id": "5eabfb4a82254181",
@@ -52,16 +262,6 @@
       "summary": "Bomb threats are causing travel disruptions at airports across Europe, targeting at least 27 flights."
     },
     {
-      "id": "caae274317060db6",
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-11-05T21:25:48.000Z",
-      "summary": "California has historically had the largest population of people on death row in the US."
-    },
-    {
       "id": "af4b2a370625ebff",
       "title": "Saudi coalition intercepts missile fired towards Medina",
       "url": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
@@ -82,46 +282,6 @@
       "summary": "Blue Origin CEO reportedly sent a memo to staff about the new timeline. | Anadolu via Getty Images Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a May launchpad explosion that damaged Blue Origin's New Glenn launchpad ahead of a flight that would have brought Amazon Leo s"
     },
     {
-      "id": "71495efa683ff646",
-      "title": "Why are wealthy countries failing developing nations?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/5/why-are-wealthy-countries-failing-developing-nations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-11-05T20:45:47.000Z",
-      "summary": "UN report warns climate adaptation funding is falling far short of needs."
-    },
-    {
-      "id": "006d8c417c827740",
-      "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-11-05T20:43:46.000Z",
-      "summary": "US First Lady Melania Trump has brought Russian and Ukrainian representatives together at the White House."
-    },
-    {
-      "id": "eba8ab139c33d1bb",
-      "title": "Mass protests in France driven by nationwide strike action",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-11-05T20:11:37.000Z",
-      "summary": "More than 250,000 people took to the streets across France on Thursday as five unions called a day of strike action."
-    },
-    {
-      "id": "4a2351b319fd3f35",
-      "title": "The blame game: How the US midterm shock is shaping Israel’s race for PM",
-      "url": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-11-05T20:07:04.000Z",
-      "summary": "The Republican midterm rout is helping shape who leads Israel next, as Netanyahu’s US ties turn toxic."
-    },
-    {
       "id": "e9c62925f361fb6c",
       "title": "Who could be behind hoax bomb threats to European air travel?",
       "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
@@ -132,16 +292,6 @@
       "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups."
     },
     {
-      "id": "84e14540e9bb6ffc",
-      "title": "Top US civil rights official resigns",
-      "url": "https://www.aljazeera.com/news/2026/11/5/top-us-civil-rights-official-resigns?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-11-05T19:48:00.000Z",
-      "summary": "New Democratic Congress expected to probe Trump Justice Department office's handling of Epstein files and ICE killings."
-    },
-    {
       "id": "33afb588c7d715bc",
       "title": "Eight killed in series of shootings in western Turkey",
       "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
@@ -150,16 +300,6 @@
       "region": "middle_east",
       "publishedAt": "2026-11-05T19:32:54.000Z",
       "summary": "Victims are found in several locations in three separate vehicles, according to local reports."
-    },
-    {
-      "id": "2cc25a1080ce79af",
-      "title": "Melania Trump calls for peace at meeting with Russia, Ukraine officials",
-      "url": "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-11-05T19:31:28.000Z",
-      "summary": "US first lady hosts Russian, Ukrainian officials at the White House, urges two sides to build on recent local truce."
     },
     {
       "id": "cecd5e1bc8468736",
@@ -222,36 +362,6 @@
       "summary": "Britain's Jodie Burrage speaks to BBC Sport about the online abuse she received after her recent defeat - and why it no longer comes as a surprise."
     },
     {
-      "id": "9652882344256910",
-      "title": "EA is bringing 25 classic PC games to Steam",
-      "url": "https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "americas",
-      "publishedAt": "2026-11-05T18:30:00.000Z",
-      "summary": "This Road Rash screenshot rules. | Image: EA Electronic Arts is launching 25 classic games on Steam, including \"Anniversary Editions\" of the motorcycle racer Road Rash and six Wing Commander titles. These Anniversary Editions preserve \"the original look, feel and creative intent of the game\" but also have quality-of-life updates to support modern systems and controls and improve performance, according to EA. The seve"
-    },
-    {
-      "id": "0f75d5c3e44ac9af",
-      "title": "LIV confirms intention to wind down after five years",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/cq70pdjjgy5no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-05T18:12:32.000Z",
-      "summary": "LIV Golf confirms its intention to wind down because of a lack of financial support."
-    },
-    {
-      "id": "668d5f3aef4decc3",
-      "title": "Claude AI can plug directly into your bank account",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-      "source": "The Verge",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-11-05T18:00:00.000Z",
-      "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview with a breakdown of spending by category, including rent and utilities, shopping, and food. Claude can also"
-    },
-    {
       "id": "8f644b842e337052",
       "title": "French protests see numbers surge as unions join strikes over high cost of living",
       "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
@@ -260,16 +370,6 @@
       "region": "europe",
       "publishedAt": "2026-11-05T17:59:53.000Z",
       "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher."
-    },
-    {
-      "id": "cd80ee802e59219c",
-      "title": "‘Total repudiation’: The blue wave is about to hit AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-      "source": "The Verge",
-      "category": "ai_innovation",
-      "region": "americas",
-      "publishedAt": "2026-11-05T17:51:52.000Z",
-      "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico, and a Maine Senator ceding to a Democrat after 30 years in office. In these and other campaigns, one theme kept coming up: "
     },
     {
       "id": "35f8a625df24b939",
@@ -290,36 +390,6 @@
       "region": "europe",
       "publishedAt": "2026-11-05T17:39:48.000Z",
       "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\"."
-    },
-    {
-      "id": "f3b6f73febac467c",
-      "title": "TikTok launched a dedicated TikTok Shop app",
-      "url": "https://www.theverge.com/tech/1027772/tiktok-shop-app",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-11-05T17:27:36.000Z",
-      "summary": "TikTok has released a standalone app for TikTok Shop in a few countries, as spotted by social media consultant Matt Navarra. According to its App Store listing, the TikTok Shop app offers: - Personalized picks inspired by your interests - LIVE streams & short videos to see products in action - App-only deals, free shipping offers & exclusive first-order benefits that make every order feel worth it - Secure payments f"
-    },
-    {
-      "id": "c1e9905b6b4f6bd6",
-      "title": "Nintendo says it’s not planning another Switch 2 price hike",
-      "url": "https://www.theverge.com/games/1027757/nintendo-switch-2-price-hike-plans-ram",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-11-05T17:24:39.000Z",
-      "summary": "Nintendo president Shuntaro Furukawa said during the company's latest earnings call that it's \"not considering additional changes\" to the Switch 2's price, Reuters reports. The Switch 2 got a $50 price hike earlier this year, bringing its starting price up to $499. Nintendo said in Thursday's earnings report that Switch 2 sales have dropped 37.4 percent year-over-year. According to Reuters, Furukawa also gave an upda"
-    },
-    {
-      "id": "67849438fb6f475e",
-      "title": "The FAA is finally ditching floppy disks",
-      "url": "https://www.theverge.com/transportation/1027511/faa-floppy-disks-sean-duffy-air-traffic-control-eids",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "americas",
-      "publishedAt": "2026-11-05T17:13:42.000Z",
-      "summary": "The air traffic control tower is seen San Diego International Airport on May 27th in San Diego, California. | Photo by Kevin Carter / Getty Images It's the year 2026 and the Federal Aviation Administration is still running critical pieces of American airspace on 3.5-inch magnetic floppy disks. But those technology artifacts could be headed for the dustbin after Transportation Secretary Sean Duffy announced an effort "
     },
     {
       "id": "aa33c358f334928f",
@@ -359,7 +429,7 @@
       "category": "environment",
       "region": "middle_east",
       "publishedAt": "2026-11-05T17:00:28.000Z",
-      "summary": "From energy prices to datacenters, climate became a cost-of-living issue – and a winning one Climate-forward Democrats swept into power on Tuesday night as a blue tsunami flipped the Senate, House and several governor’s races. Voters were laser-focused on affordability, and experts said Democrats succeeded in linking cost-of-living concerns with rising energy prices, datacenters and, to some extent, the climate crisi"
+      "summary": "From energy prices to datacenters, climate became a cost-of-living issue – and a winning one Q&A: Ask your questions about Democrats’ win in the midterms Climate-forward Democrats swept into power on Tuesday night as a blue tsunami flipped the Senate, House and several governor’s races. Voters were laser-focused on affordability, and experts said Democrats succeeded in linking cost-of-living concerns with rising ener"
     },
     {
       "id": "8c630f50d579cbc8",
@@ -370,16 +440,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-11-05T15:45:18.000Z",
       "summary": "Amidst ongoing conflict in the Middle East, Iran has exempted commercial ships from four countries from restrictions on ship movement through the strategically important Strait of Hormuz. The countries are… The post Iran exempts four countries’ ships from restrictions in Hormuz appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "cf96fdb7c9605029",
-      "title": "Russell Brand is being investigated over two new rape complaints, police say",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-11-05T15:44:49.000Z",
-      "summary": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts."
     },
     {
       "id": "51e8c08f45897e37",
@@ -432,26 +492,6 @@
       "summary": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend."
     },
     {
-      "id": "825eb16b6ba17fe7",
-      "title": "Watch: How rapist Brand was never far from controversy",
-      "url": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-11-05T14:28:21.000Z",
-      "summary": "BBC correspondent Sima Kotecha explains how the trial unfolded."
-    },
-    {
-      "id": "e7149df4fab8cb8e",
-      "title": "Is that an explosion, an implosion or an orgasm? Pixies bass-player Emma Richardson’s realm-leaping life in painting",
-      "url": "https://www.theguardian.com/artanddesign/2026/nov/05/emma-richardson-paintings-pixies-hotwire-my-heart-wolf-collective",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-11-05T14:12:43.000Z",
-      "summary": "Huge, ecstatic canvases are just one of the vocations of the musician who joined the art rockers in 2024. As her show Hotwire My Heart opens, she talks terror, awe and teabags Emma Richardson loves to eavesdrop when people look at her paintings and talk about what they see in them. “They turn into these Rorschach inkblot tests,” she grins. Looking at her works, you do stand back in awe wondering. Is that a nebula, a "
-    },
-    {
       "id": "42841b0a1e4577a5",
       "title": "Faisal Islam: How high will interest rates go?",
       "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
@@ -470,26 +510,6 @@
       "region": "global",
       "publishedAt": "2026-11-05T13:10:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s…"
-    },
-    {
-      "id": "6054f2e17aeecd52",
-      "title": "Three ways the interest rate rise could affect you",
-      "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-11-05T13:08:30.000Z",
-      "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England."
-    },
-    {
-      "id": "141c96575d67bc50",
-      "title": "Full of life and catching feelings: Christine and the Queens’ greatest songs – ranked!",
-      "url": "https://www.theguardian.com/music/2026/nov/05/full-of-life-and-catching-feelings-christine-and-the-queens-greatest-songs-ranked",
-      "source": "The Guardian Culture",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-11-05T12:15:23.000Z",
-      "summary": "As the French avant-popper returns with new single Rendez-vous avec toi, we celebrate the best of an artist who uses sleek songwriting to grapple with knotty emotion Originally leaked online by the artist himself, Christine and the Queens’ fifth album, Hopecore, was released under a new name of Rahim Redcar (he’s now back to releasing as Christine and the Queens, and using Chris as his own name). Hopecore eschewed th"
     },
     {
       "id": "85b45bb1b2dde066",
@@ -542,14 +562,14 @@
       "summary": "A Memorandum of Understanding (MoU) on economic and infrastructure cooperation was signed between Bangladesh and China in the presence of Prime Minister Tarique Rahman. The MoU was signed between Invest… The post MoU Signed with China for Investment and Infrastructure Development appeared first on Bangla Online News Portal."
     },
     {
-      "id": "4e75e715eaaa79f0",
-      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
-      "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+      "id": "56283830fcc465ed",
+      "title": "Australia's oldest department store David Jones folds after 188 years",
+      "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-11-05T02:09:23.000Z",
-      "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament."
+      "category": "creativity_arts",
+      "region": "asia_pacific",
+      "publishedAt": "2026-11-05T00:59:22.000Z",
+      "summary": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations."
     },
     {
       "id": "d10db94329987808",
@@ -570,6 +590,26 @@
       "region": "americas",
       "publishedAt": "2026-11-04T19:42:47.000Z",
       "summary": "Conservation officers say more than one bear may have been involved in attack on women near their home Search teams in Canada have discovered the body of a 20-year-old woman and confirmed that both she and her mother were killed in an attack that conservation officers now believe could have involved multiple grizzly bears. Late on Tuesday, conservation officers in British Columbia said the two women, who were reporte"
+    },
+    {
+      "id": "a500690f0d0f0b2b",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "source": "MIT Tech Review",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-11-04T18:50:55.000Z",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…"
+    },
+    {
+      "id": "3771d8f9d642adc8",
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "source": "MIT Tech Review",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-11-04T18:21:40.000Z",
+      "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring possible paths to keep your mind going, including gradual…"
     },
     {
       "id": "3170fcbd6f98cd04",
@@ -702,16 +742,6 @@
       "summary": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday."
     },
     {
-      "id": "bc886664a1c34850",
-      "title": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels",
-      "url": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels",
-      "source": "The Guardian World",
-      "category": "diplomacy",
-      "region": "americas",
-      "publishedAt": "2026-11-03T13:00:07.000Z",
-      "summary": "Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementing All countries can start to break their dependence on fossil fuels now without needing to wait for new technologies or economic changes, Brazil’s government has said ahead of a global climate summit. Brazil, the host of last year’s UN climate conference, set out the world’s first global “roadmap” fo"
-    },
-    {
       "id": "5053d28599d56667",
       "title": "North America’s most widely distributed game bird is under threat",
       "url": "https://www.theguardian.com/environment/2026/nov/04/ruffed-grouse-population-decline",
@@ -822,16 +852,6 @@
       "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group."
     },
     {
-      "id": "b630941fa2b45f9c",
-      "title": "'Fascinating' rare beetle found in Wales again after 60 years",
-      "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-11-01T18:04:52.000Z",
-      "summary": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys."
-    },
-    {
       "id": "78b12625fc5de38a",
       "title": "Colorado community fights plan to use drones to spray weed killer",
       "url": "https://www.theguardian.com/us-news/2026/nov/01/colorado-drones-weed-killer",
@@ -842,16 +862,6 @@
       "summary": "Officials in Boulder County, Colorado, say they have a safe plan to wipe out invasive weeds, but some locals are concerned Soon, weed-killing chemicals will start falling from the sky over the Red Hill area of Boulder county, Colorado. The wildland is known for its biodiversity, home to hundreds of important species and a concentration of rare environmental resources. It is a key habitat for beloved herds of elk and "
     },
     {
-      "id": "d3c06c38f0d35b76",
-      "title": "Spill from vandalised home oil tank kills 13 birds",
-      "url": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-11-01T08:57:56.000Z",
-      "summary": "A number of birds are also injured after the spill from the oil tank earlier this week."
-    },
-    {
       "id": "431aa4926b940352",
       "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
       "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
@@ -860,36 +870,6 @@
       "region": "global",
       "publishedAt": "2026-11-01T01:37:26.000Z",
       "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds."
-    },
-    {
-      "id": "b3316f98a30b60a3",
-      "title": "Trump boosted half of US coal plants with taxpayer dollars and ‘free passes to pollute’, report says",
-      "url": "https://www.theguardian.com/us-news/2026/oct/31/trump-coal-plants-taxpayer-dollars",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-10-31T13:00:42.000Z",
-      "summary": "Environmental Defense Fund analysis shows administration handed out $950m and Clean Air Act exemptions It’s a good time to be a coal plant in the US. The Trump administration has given support to almost half of the nation’s coal plants, helping them to continue operating despite economic and regulatory headwinds, according to a new analysis by the Environmental Defense Fund. The analysis, which looked at the 184 oper"
-    },
-    {
-      "id": "98b294e9d886b2c5",
-      "title": "Mill 19: a creative hub built into a former steel factory",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/31/mill-19-steel-factory-pittsburgh",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-10-31T12:00:42.000Z",
-      "summary": "In Pittsburgh, Pennsylviania, a post-industrial site gets a second life Continue reading..."
-    },
-    {
-      "id": "effb2a57385325cf",
-      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-      "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "cybersecurity",
-      "region": "americas",
-      "publishedAt": "2026-10-31T02:12:19.000Z",
-      "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become."
     },
     {
       "id": "6e244a853aba43b9",
@@ -930,6 +910,16 @@
       "region": "americas",
       "publishedAt": "2026-10-10T00:17:42.000Z",
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity."
+    },
+    {
+      "id": "6c8a355b468bf37f",
+      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
+      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "region": "europe",
+      "publishedAt": "2026-09-28T15:08:57.000Z",
+      "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p."
     }
   ]
 }
