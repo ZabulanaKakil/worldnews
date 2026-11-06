@@ -1,35 +1,285 @@
 {
-  "generatedAt": "2026-11-06T02:10:56.636Z",
+  "generatedAt": "2026-11-06T10:40:38.395Z",
   "articles": [
     {
-      "id": "7ec027732f68ebbb",
-      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-11-06T01:44:03.000Z",
-      "summary": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms."
-    },
-    {
-      "id": "1363b3dcefc64614",
-      "title": "California governor commutes sentences of more than 500 people on death row",
-      "url": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-11-06T01:39:35.000Z",
-      "summary": "Gavin Newsom cites state values and flaws in the legal system as he grants largest mass clemency in US history."
-    },
-    {
-      "id": "0c9ece76fa467a08",
-      "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
+      "id": "0f444c16fc9e6e99",
+      "title": "Tanzanian opposition leader found guilty of incitement",
+      "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-11-06T10:37:12.000Z",
+      "summary": "The 58-year-old, who has been detained since April last year, was acquitted of the more serious charge of treason."
+    },
+    {
+      "id": "dddf49022c52ffbf",
+      "title": "Two dead after bus crashes in France, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-11-06T10:36:31.000Z",
+      "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured."
+    },
+    {
+      "id": "8afccdb30e07d807",
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-11-06T09:57:04.000Z",
+      "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver."
+    },
+    {
+      "id": "afdf353a9075c0a1",
+      "title": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
+      "url": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker",
+      "source": "The Guardian World",
+      "category": "weather_climate",
       "region": "americas",
-      "publishedAt": "2026-11-06T01:28:03.000Z",
-      "summary": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists."
+      "publishedAt": "2026-11-06T09:54:12.000Z",
+      "summary": "Further south this week, severe thunderstorms affected midterms voting in Florida, Oklahoma and Colorado Despite the rapid descent into autumn in the northern hemisphere, parts of eastern North America have experienced an exceptionally late taste of summer in recent days. Temperatures approached 23C (73F) in New York and Boston, about 7-10C above what is expected in early November. The unseasonable warmth spilled int"
+    },
+    {
+      "id": "99bd5b80f0fcbf43",
+      "title": "How does it affect me if share prices fall?",
+      "url": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-11-06T09:21:50.000Z",
+      "summary": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives."
+    },
+    {
+      "id": "6ffa3b95f95d8ec7",
+      "title": "Trump signs order to preserve Oval Office as national monument",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-11-06T09:19:57.000Z",
+      "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing."
+    },
+    {
+      "id": "58f78db83658885a",
+      "title": "Court grants ex-Malaysian PM Najib house arrest after $12m royal pardon",
+      "url": "https://www.aljazeera.com/news/2026/11/6/courts-grant-ex-malaysian-pm-najib-house-arrest-after-12m-royal-pardon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-11-06T09:01:40.000Z",
+      "summary": "Court had approved his transfer after the former prime minister's party paid $12m fine via crowdfunding."
+    },
+    {
+      "id": "fe8c97897bea0330",
+      "title": "Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph",
+      "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+      "source": "The Guardian World",
+      "category": "economy_business",
+      "region": "europe",
+      "publishedAt": "2026-11-06T08:58:22.000Z",
+      "summary": "Asian and European markets follow Wall Street with sharp fall as FTSE down 1.5% Business live – latest updates European stock markets have fallen sharply as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fears of a slowdown in the AI industry. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stocks markets on Friday morning. The investor se"
+    },
+    {
+      "id": "766025131edd79fe",
+      "title": "Tech stock rout, driven by US AI fears, continues in Asian trading",
+      "url": "https://www.aljazeera.com/economy/2026/11/6/tech-stock-rout-driven-by-us-ai-fears-continues-in-asian-trading?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "asia_pacific",
+      "publishedAt": "2026-11-06T08:41:05.000Z",
+      "summary": "Global markets are being roiled due to concerns over US data centre expansion and AI regulation."
+    },
+    {
+      "id": "f2ad3fc9ef198665",
+      "title": "UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’",
+      "url": "https://www.aljazeera.com/features/2026/11/6/uk-jailing-of-indian-sailor-over-russia-sanctions-sets-off-perfect-storm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "diplomacy",
+      "region": "europe",
+      "publishedAt": "2026-11-06T08:32:57.000Z",
+      "summary": "Captain Ajay Pant was in international waters when his allegedly 'shadow' tanker was captured by British soldiers."
+    },
+    {
+      "id": "8daddc3c67702c40",
+      "title": "Somalia's top court rejects president's term extension amid political crisis",
+      "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-11-06T08:18:10.000Z",
+      "summary": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt."
+    },
+    {
+      "id": "4bfbe2aa9505ac9c",
+      "title": "Lampard looks for Coventry progress as belief grows",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr20w943gvl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-06T08:11:03.000Z",
+      "summary": "Coventry City could move 11th in the Premier League with victory at Everton on Friday as Frank Lampard returns to the Toffees with his side growing in confidence."
+    },
+    {
+      "id": "151fc1029890fa24",
+      "title": "Australia recruit Hussey for Ashes build-up",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c9y7lln8vyglo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "asia_pacific",
+      "publishedAt": "2026-11-06T08:05:05.000Z",
+      "summary": "Australia recruit Michael Hussey as a long-term batting consultant to help them prepare for the 2027 Ashes and 2028 Los Angeles Olympics."
+    },
+    {
+      "id": "abd5a329e9c088a5",
+      "title": "Scotland can be best & worst team in world - Dempsey",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmd934jpg59yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-06T07:53:44.000Z",
+      "summary": "Jack Dempsey on his guilt over leaving Glasgow, coming up against Dave Rennie and Scotland's hopes of finally overcoming New Zealand."
+    },
+    {
+      "id": "a6be239e469da957",
+      "title": "Abdul El-Sayed did not have to become less Muslim to win",
+      "url": "https://www.aljazeera.com/opinions/2026/11/6/abdul-el-sayed-did-not-have-to-become-less-muslim-to-win?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-11-06T07:53:32.000Z",
+      "summary": "His historic victory in Michigan shows that Muslim Americans need not abandon their identity to succeed in politics."
+    },
+    {
+      "id": "d19ec85f1db9dbfe",
+      "title": "Can America ever return to pre-Trump politics?",
+      "url": "https://www.aljazeera.com/opinions/2026/11/6/can-america-ever-return-to-pre-trump-politics?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-11-06T07:51:09.000Z",
+      "summary": "The US midterms were a rejection of Trump's politics of division, but his legacy may be impossible to undo."
+    },
+    {
+      "id": "f7c40ab91340a22a",
+      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-11-06T07:33:41.000Z",
+      "summary": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest."
+    },
+    {
+      "id": "bfe5a8483b773123",
+      "title": "US judge halts construction of Trump’s triumphal arch in Washington, DC",
+      "url": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-11-06T07:32:08.000Z",
+      "summary": "A 14-day pause has been ordered blocking the so-called 'Arc de Trump' project in Washington, DC."
+    },
+    {
+      "id": "e85055590510c51d",
+      "title": "Lebanese pack bags and stock up amid fears of new Israeli escalation",
+      "url": "https://www.aljazeera.com/news/2026/11/6/lebanese-pack-bags-and-stock-up-amid-fears-of-new-israeli-escalation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "middle_east",
+      "publishedAt": "2026-11-06T07:30:04.000Z",
+      "summary": "Lebanese who lived through two Israeli escalations are stocking up and packing bags in case of a third."
+    },
+    {
+      "id": "e5f547b6ca2b0fd9",
+      "title": "How Israel is tightening its grip on Palestinian schools in East Jerusalem",
+      "url": "https://www.aljazeera.com/features/2026/11/6/how-israel-is-tightening-its-grip-on-palestinian-schools-in-east-jerusalem?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-11-06T07:28:53.000Z",
+      "summary": "Israeli restrictions on teachers and pressure to adopt Israeli curriculum threaten Palestinian education in the city."
+    },
+    {
+      "id": "23594b35debadad2",
+      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-11-06T07:27:26.000Z",
+      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry."
+    },
+    {
+      "id": "5369b6982eda710f",
+      "title": "Global tech stocks plunge over fears of AI curbs in US",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/global-tech-stocks-plunge-over-fears-of-ai-curbs-in-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "asia_pacific",
+      "publishedAt": "2026-11-06T07:24:20.000Z",
+      "summary": "Asian markets plunged Friday, tracking a sell-off in Western stocks following the US midterm elections."
+    },
+    {
+      "id": "cbd8ec8e6346c932",
+      "title": "Why managers can learn a lot from leaders like Napoleon - Pulis",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-06T06:53:56.000Z",
+      "summary": "BBC Sport columnist Tony Pulis explains what he did between jobs and why out-of-work managers can learn a lot from leaders outside of football."
+    },
+    {
+      "id": "e33e256ae0e562e3",
+      "title": "Australia appoint Mike Hussey as consultant for Ashes and Cricket World Cup",
+      "url": "https://www.aljazeera.com/sports/2026/11/6/mike-hussey-australia-cricket-batting-consultant-ashes-world-cup?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "asia_pacific",
+      "publishedAt": "2026-11-06T06:52:30.000Z",
+      "summary": "Hussey, known as 'Mr Cricket' for his technical expertise, will also work with Australia during the LA 2028 Olympics."
+    },
+    {
+      "id": "6ecb897d58fcd1c7",
+      "title": "Macau jails pro-democracy campaigner in city's first national security case",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-11-06T06:46:21.000Z",
+      "summary": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\"."
+    },
+    {
+      "id": "0f49f28c37005ec6",
+      "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+      "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+      "source": "The Guardian World",
+      "category": "technology",
+      "region": "americas",
+      "publishedAt": "2026-11-06T06:16:22.000Z",
+      "summary": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s banking system in recent days. At the centre of the crisis is Ueno Bank, which in just a few years under Peña went from an obscure digital bank to one of the c"
+    },
+    {
+      "id": "f7915ca68df5cdbf",
+      "title": "Do Fairies Really Exist on Earth? What Science Says",
+      "url": "https://www.bd24live.com/do-fairies-really-exist-on-earth-what-science-says/",
+      "source": "BD24Live",
+      "category": "creativity_arts",
+      "region": "bangladesh",
+      "publishedAt": "2026-11-06T02:35:53.000Z",
+      "summary": "In the realm of human imagination, fairies are enigmatic characters. For hundreds of years, fairies have appeared in folklore, myths, literature, and culture across various regions of the world. Sometimes… The post Do Fairies Really Exist on Earth? What Science Says appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "9e69aa76b727b1f8",
+      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-11-06T02:08:57.000Z",
+      "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run."
     },
     {
       "id": "65238336e5d6cc57",
@@ -62,36 +312,6 @@
       "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions between developers and local officials."
     },
     {
-      "id": "0925d173ea331bcb",
-      "title": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-11-06T00:19:57.000Z",
-      "summary": "Israeli settlers have set fire to olive trees belonging to Palestinian farmers in the village of Burqa, near Ramallah."
-    },
-    {
-      "id": "56ee8767a0fac2cd",
-      "title": "Turkiye’s parliament ratifies Mecca defence agreement",
-      "url": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-11-06T00:15:22.000Z",
-      "summary": "Parliament's approval lays the groundwork for further Turkish involvement in Saudi Arabia's conflict with the Houthis."
-    },
-    {
-      "id": "51414863eda5cbe2",
-      "title": "Trump met Russian envoy after he appeared with Melania Trump and Ukrainians",
-      "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-11-06T00:06:31.000Z",
-      "summary": "Trump again said a major Russia-Ukraine deal is 'very close', but gave no specifics."
-    },
-    {
       "id": "872460de1efd828a",
       "title": "Airbnb is working on an AI travel agent",
       "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
@@ -120,36 +340,6 @@
       "region": "americas",
       "publishedAt": "2026-11-06T00:02:57.000Z",
       "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru."
-    },
-    {
-      "id": "eeb8df04aa094e90",
-      "title": "'I was asked if I was a crier': Your worst job interviews revealed",
-      "url": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-11-06T00:02:52.000Z",
-      "summary": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work"
-    },
-    {
-      "id": "4b17938e3af53f17",
-      "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-11-06T00:00:00.000Z",
-      "summary": "Trump says the US may have to 'destroy' the rest of Iran, adding that people will 'know soon enough'."
-    },
-    {
-      "id": "68b64cc1dfb7d934",
-      "title": "Nithya Raman wins LA mayoral race, becoming city’s first South Asian mayor",
-      "url": "https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-11-05T23:46:52.000Z",
-      "summary": "DSA-backed Raman will lead the second-largest US city, promising action on homelessness and affordable housing."
     },
     {
       "id": "3cbe19b1b73d8f5b",
@@ -212,16 +402,6 @@
       "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device to complete tasks. But Perplexity says Teammates \"build on "
     },
     {
-      "id": "c2f2e6a16a28e915",
-      "title": "Keep or sell Konsa? - FPL gameweek 10 dilemmas",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-05T22:26:23.000Z",
-      "summary": "BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing managers in gameweek 10."
-    },
-    {
       "id": "e4304d4b19ed0059",
       "title": "Salon is shutting down after 31 years",
       "url": "https://www.theverge.com/news/1028281/salon-dot-com-shuts-down",
@@ -232,44 +412,14 @@
       "summary": "Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication. The company said that the \"business realities of independent digital journalism have changed profoundly over the years,\" and it decided that its publishing model is \"no longer sustainable.\" It didn't go into detail about why, but many websites are grappling with "
     },
     {
-      "id": "eb5656e20c49bcb0",
-      "title": "Spanish footballer Jesus de Miguel mourned by family and friends",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/spanish-footballer-jesus-de-miguel-mourned-by-family-and-friends?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-05T21:42:30.000Z",
-      "summary": "The 30-year-old striker suffered cardiac arrest following an on-field collision."
-    },
-    {
-      "id": "5eabfb4a82254181",
-      "title": "Israeli demolitions displace more than 100 Palestinians in Biddu",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_israeli-demolitions-displace-palestinians-in-biddu-051126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-11-05T21:33:40.000Z",
-      "summary": "Israeli forces demolished five homes in Biddu, occupied West Bank, displacing more than 100 people."
-    },
-    {
-      "id": "ac8b16dbab7cddef",
-      "title": "Hoax bomb threats force emergency landings, evacuations across Europe",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "disasters",
-      "region": "europe",
-      "publishedAt": "2026-11-05T21:26:21.000Z",
-      "summary": "Bomb threats are causing travel disruptions at airports across Europe, targeting at least 27 flights."
-    },
-    {
-      "id": "af4b2a370625ebff",
-      "title": "Saudi coalition intercepts missile fired towards Medina",
-      "url": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-11-05T20:48:47.000Z",
-      "summary": "Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu."
+      "id": "0d1768462c8be0e4",
+      "title": "Nigerian court rules opposition candidate cannot stand in elections",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "creativity_arts",
+      "region": "africa",
+      "publishedAt": "2026-11-05T22:00:33.000Z",
+      "summary": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections."
     },
     {
       "id": "00d7f53734a047cd",
@@ -282,26 +432,6 @@
       "summary": "Blue Origin CEO reportedly sent a memo to staff about the new timeline. | Anadolu via Getty Images Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a May launchpad explosion that damaged Blue Origin's New Glenn launchpad ahead of a flight that would have brought Amazon Leo s"
     },
     {
-      "id": "e9c62925f361fb6c",
-      "title": "Who could be behind hoax bomb threats to European air travel?",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-11-05T19:58:40.000Z",
-      "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups."
-    },
-    {
-      "id": "33afb588c7d715bc",
-      "title": "Eight killed in series of shootings in western Turkey",
-      "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "middle_east",
-      "publishedAt": "2026-11-05T19:32:54.000Z",
-      "summary": "Victims are found in several locations in three separate vehicles, according to local reports."
-    },
-    {
       "id": "cecd5e1bc8468736",
       "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
       "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
@@ -312,44 +442,14 @@
       "summary": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]"
     },
     {
-      "id": "cdb768ed76eeddc9",
-      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-11-05T19:08:08.000Z",
-      "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire."
-    },
-    {
-      "id": "4749fb50a70afcf0",
-      "title": "Muse has a voice mode now",
-      "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+      "id": "bc19a6f746f9db91",
+      "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
       "source": "The Verge",
-      "category": "creativity_arts",
+      "category": "war_conflict",
       "region": "global",
-      "publishedAt": "2026-11-05T19:03:04.000Z",
-      "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of your conversation animates in time with the words that it's saying. You can also change the tone of the voice by just asking your agent abou"
-    },
-    {
-      "id": "094c6ea734ce043a",
-      "title": "England check on Palmer - what are Tuchel's other big choices?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-05T19:00:04.000Z",
-      "summary": "It is the last international break of the year and England have some important Nations League games. Thomas Tuchel has big decisions to make in selecting his squad."
-    },
-    {
-      "id": "0f49f28c37005ec6",
-      "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
-      "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
-      "source": "The Guardian World",
-      "category": "technology",
-      "region": "americas",
-      "publishedAt": "2026-11-05T18:48:07.000Z",
-      "summary": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s banking system in recent days. At the centre of the crisis is Ueno Bank, which in just a few years under Peña went from an obscure digital bank to one of the c"
+      "publishedAt": "2026-11-05T19:12:58.000Z",
+      "summary": "Android fans with a bit of iPhone Duo envy, take note: The Samsung Galaxy Z Fold 8 is discounted to $1,599.99 at both Amazon and Best Buy, a hefty $300 markdown from its usual price, and just $50 higher than the lowest we’ve seen. Considering the device only launched a few months ago, you’re saving a significant amount of cash on the unlocked device, and you can also opt for the 512GB model, doubling the storage, for"
     },
     {
       "id": "e91d47bb619cf98e",
@@ -362,16 +462,6 @@
       "summary": "Britain's Jodie Burrage speaks to BBC Sport about the online abuse she received after her recent defeat - and why it no longer comes as a surprise."
     },
     {
-      "id": "8f644b842e337052",
-      "title": "French protests see numbers surge as unions join strikes over high cost of living",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-11-05T17:59:53.000Z",
-      "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher."
-    },
-    {
       "id": "35f8a625df24b939",
       "title": "Paraguay President Santiago Peña resigns after bank collapse",
       "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
@@ -380,36 +470,6 @@
       "region": "global",
       "publishedAt": "2026-11-05T17:40:40.000Z",
       "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him."
-    },
-    {
-      "id": "596e51d24f15a033",
-      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-      "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-11-05T17:39:48.000Z",
-      "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\"."
-    },
-    {
-      "id": "aa33c358f334928f",
-      "title": "Interest rates hiked to 4% in first increase in over three years",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-11-05T17:09:55.000Z",
-      "summary": "Most analysts expected the increase from 3.75% to 4%."
-    },
-    {
-      "id": "4b0a47564623e083",
-      "title": "K-pop group NewJeans’s contract omitted rights to ‘sleep and free choice’ – report",
-      "url": "https://www.theguardian.com/music/2026/nov/05/k-pop-group-newjeans-contract",
-      "source": "The Guardian World",
-      "category": "diplomacy",
-      "region": "global",
-      "publishedAt": "2026-11-05T17:08:29.000Z",
-      "summary": "New report finds that record label Ador stripped child protections from group’s contracts when they were minors The superstar K-pop group NewJeans signed restrictive record label contracts that waived their right to “sleep, rest and free choice”. A new report from the New York Times found that the contracts were signed when the members of the record-breaking girl group were aged 14 to 17. Continue reading..."
     },
     {
       "id": "b8ffda11139290a1",
@@ -442,16 +502,6 @@
       "summary": "Amidst ongoing conflict in the Middle East, Iran has exempted commercial ships from four countries from restrictions on ship movement through the strategically important Strait of Hormuz. The countries are… The post Iran exempts four countries’ ships from restrictions in Hormuz appeared first on Bangla Online News Portal."
     },
     {
-      "id": "51e8c08f45897e37",
-      "title": "Everton's Grealish unavailable again after 'breach of discipline'",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-05T15:28:37.000Z",
-      "summary": "Jack Grealish remains unavailable for Everton's Premier League clash with Coventry on Friday, manager David Moyes confirms."
-    },
-    {
       "id": "fce6af435a96a8c1",
       "title": "Bangladesh must be established as a powerful nation in the world: Prime Minister",
       "url": "https://www.bd24live.com/bangladesh-must-be-established-as-a-powerful-nation-in-the-world-prime-minister/",
@@ -472,16 +522,6 @@
       "summary": "The pollution caused the death of brown and migratory sea trout in the Inler river."
     },
     {
-      "id": "9de13d46fad462c4",
-      "title": "What new Kane deal means for England and the Premier League record",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-05T14:44:34.000Z",
-      "summary": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty."
-    },
-    {
       "id": "04b8be0382039ece",
       "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
@@ -490,16 +530,6 @@
       "region": "global",
       "publishedAt": "2026-11-05T14:29:40.000Z",
       "summary": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend."
-    },
-    {
-      "id": "42841b0a1e4577a5",
-      "title": "Faisal Islam: How high will interest rates go?",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-11-05T13:17:10.000Z",
-      "summary": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all."
     },
     {
       "id": "b0ade84daaa0dbad",
@@ -520,16 +550,6 @@
       "region": "global",
       "publishedAt": "2026-11-05T12:00:23.000Z",
       "summary": "Natural Resources Defense Council shows how federal rules changes will spike up public’s exposure to carcinogens Amid a surge in early onset cancer, the Trump administration has taken more than 500 actions to systematically dismantle protections against carcinogens once in place across the federal government, an October report alleges. The Natural Resources Defense Council report, and comments from current and former"
-    },
-    {
-      "id": "7279416248117134",
-      "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-11-05T11:21:35.000Z",
-      "summary": "The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series."
     },
     {
       "id": "9b061e4994e307a8",
@@ -562,16 +582,6 @@
       "summary": "A Memorandum of Understanding (MoU) on economic and infrastructure cooperation was signed between Bangladesh and China in the presence of Prime Minister Tarique Rahman. The MoU was signed between Invest… The post MoU Signed with China for Investment and Infrastructure Development appeared first on Bangla Online News Portal."
     },
     {
-      "id": "56283830fcc465ed",
-      "title": "Australia's oldest department store David Jones folds after 188 years",
-      "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "asia_pacific",
-      "publishedAt": "2026-11-05T00:59:22.000Z",
-      "summary": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations."
-    },
-    {
       "id": "d10db94329987808",
       "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
       "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
@@ -600,16 +610,6 @@
       "region": "global",
       "publishedAt": "2026-11-04T18:50:55.000Z",
       "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…"
-    },
-    {
-      "id": "3771d8f9d642adc8",
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-      "source": "MIT Tech Review",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-11-04T18:21:40.000Z",
-      "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring possible paths to keep your mind going, including gradual…"
     },
     {
       "id": "3170fcbd6f98cd04",
@@ -692,16 +692,6 @@
       "summary": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\"."
     },
     {
-      "id": "23b99f135d55ac8f",
-      "title": "Democrats Take Control of Senate, Major Setback for Trump",
-      "url": "https://www.bd24live.com/democrats-take-control-of-senate-major-setback-for-trump/",
-      "source": "BD24Live",
-      "category": "creativity_arts",
-      "region": "bangladesh",
-      "publishedAt": "2026-11-04T05:30:10.000Z",
-      "summary": "The Democratic Party has taken control of the Senate in the US midterm elections. Democratic candidates have won seats previously held by Republicans in Texas, South Carolina, Iowa, and Kansas.… The post Democrats Take Control of Senate, Major Setback for Trump appeared first on Bangla Online News Portal."
-    },
-    {
       "id": "c14ea40bc579d2e0",
       "title": "Graduates are managing AI - but are they learning much else?",
       "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
@@ -710,16 +700,6 @@
       "region": "global",
       "publishedAt": "2026-11-04T00:04:35.000Z",
       "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?"
-    },
-    {
-      "id": "94e08cd2604968d2",
-      "title": "One dead and another missing in suspected grizzly bear attack in Canada",
-      "url": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
-      "source": "The Guardian World",
-      "category": "diplomacy",
-      "region": "americas",
-      "publishedAt": "2026-11-03T22:08:50.000Z",
-      "summary": "The incident took place in the same province where a grizzly attacked a group of schoolchildren last November A mother is dead and her daughter is missing in western Canada after a suspected grizzly bear attack in the same community where a bear attacked a group of schoolchildren earlier in the year. On Tuesday, the British Columbia conservation officer service said in a social media post that it had launched a searc"
     },
     {
       "id": "c04e42498beaf09c",
@@ -862,16 +842,6 @@
       "summary": "Officials in Boulder County, Colorado, say they have a safe plan to wipe out invasive weeds, but some locals are concerned Soon, weed-killing chemicals will start falling from the sky over the Red Hill area of Boulder county, Colorado. The wildland is known for its biodiversity, home to hundreds of important species and a concentration of rare environmental resources. It is a key habitat for beloved herds of elk and "
     },
     {
-      "id": "431aa4926b940352",
-      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
-      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-11-01T01:37:26.000Z",
-      "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds."
-    },
-    {
       "id": "6e244a853aba43b9",
       "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
       "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
@@ -880,6 +850,26 @@
       "region": "africa",
       "publishedAt": "2026-10-30T05:00:45.000Z",
       "summary": "There is no end in sight for the drivers of illegal mining, while police action appears ineffective Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991. But as the price of gold has soared, so too has activity in the abandoned mine shafts that mark the area. In late September, dozens of zama zamas – th"
+    },
+    {
+      "id": "8bfe587d4408db74",
+      "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
+      "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
+      "source": "The Guardian World",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-10-30T05:00:45.000Z",
+      "summary": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF Members of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplomat for the top job at the UN, citing her denial of accusations that the United Arab Emirates is fuelling the war in Sudan by supporting the paramilitary Rapid Support Forces. The UAE "
+    },
+    {
+      "id": "994cbdf001116154",
+      "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
+      "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
+      "source": "The Guardian World",
+      "category": "war_conflict",
+      "region": "africa",
+      "publishedAt": "2026-10-28T14:16:24.000Z",
+      "summary": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been released from detention by Egypt’s authorities and had her website ordered to be shut down by a court amid an intensifying crackdown on independent media in the country. Attalah was taken"
     },
     {
       "id": "7b52cc872b82842a",
@@ -910,16 +900,6 @@
       "region": "americas",
       "publishedAt": "2026-10-10T00:17:42.000Z",
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity."
-    },
-    {
-      "id": "6c8a355b468bf37f",
-      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
-      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
-      "source": "Krebs on Security",
-      "category": "cybersecurity",
-      "region": "europe",
-      "publishedAt": "2026-09-28T15:08:57.000Z",
-      "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p."
     }
   ]
 }
