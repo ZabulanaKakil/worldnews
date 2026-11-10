@@ -1,6 +1,306 @@
 {
-  "generatedAt": "2026-11-10T16:56:59.489Z",
+  "generatedAt": "2026-11-10T22:16:41.645Z",
   "articles": [
+    {
+      "id": "c5ee57c89af52753",
+      "title": "UNIFIL patrol comes under fire in southern Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/11/10/unifil-patrol-comes-under-fire-in-southern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-11-10T22:03:50.000Z",
+      "summary": "UNIFIL said on Tuesday that 'about a dozen rounds' were fired at one of its patrols, without identifying the assailants."
+    },
+    {
+      "id": "6bc548943691fa93",
+      "title": "US poll shows death penalty lost majority support for first time since 1971",
+      "url": "https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-11-10T22:03:20.000Z",
+      "summary": "Support for capital punishment has been declining in the US for years over concerns about fairness and racial bias."
+    },
+    {
+      "id": "7084919c224b3763",
+      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+      "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-11-10T22:00:00.000Z",
+      "summary": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avengers and Black Panther, Meta says. But the updated Quest app doesn't just offer 3D movies; you'll also be able to see some films in themed, immersive virtual environments, "
+    },
+    {
+      "id": "f2fbbca98de5a890",
+      "title": "IBM’s biggest division ends most US foreign worker sponsorships",
+      "url": "https://www.aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-11-10T21:55:49.000Z",
+      "summary": "Announcement follows Trump administration crackdown on visa programmes for skilled foreign workers."
+    },
+    {
+      "id": "bec273660d4bc686",
+      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+      "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-11-10T21:40:31.000Z",
+      "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to deliver AI-generated responses and insights based on users' health data reported from their wearables that can then proceed to a conversation with one of its in-ho"
+    },
+    {
+      "id": "85648f3b71627111",
+      "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-11-10T21:23:00.000Z",
+      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material."
+    },
+    {
+      "id": "4edab097578155a9",
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-11-10T21:22:36.000Z",
+      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal."
+    },
+    {
+      "id": "61299e0a2f9cc5c9",
+      "title": "First day of Ukraine peace talks constructive, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-11-10T21:21:55.000Z",
+      "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February."
+    },
+    {
+      "id": "8aa119b24d7a0905",
+      "title": "White House announces funds for law enforcement programme in several cities",
+      "url": "https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-11-10T21:00:01.000Z",
+      "summary": "Trump administration awarded more than $60m each to St Louis, Missouri, and Jackson, Mississippi, in crime push."
+    },
+    {
+      "id": "f14674c64b6e10f0",
+      "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+      "url": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "asia_pacific",
+      "publishedAt": "2026-11-10T20:54:55.000Z",
+      "summary": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]"
+    },
+    {
+      "id": "7b9bb23025606f88",
+      "title": "Pocognoli to lean on Scotland's 'captain group of five'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmde8e8wjyzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-10T20:49:11.000Z",
+      "summary": "Sebastien Pocognoli is delighted to welcome \"exciting\" Scott McTominay into his squad, saying the Napoli midfielder is one of the \"fantastic leaders\" that helped persuade him to become Scotland head coach."
+    },
+    {
+      "id": "e2aad8fc99e6051e",
+      "title": "Spain's king and queen attend memorial service for rail crash victims",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-11-10T20:46:40.000Z",
+      "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital."
+    },
+    {
+      "id": "30b11859a8ed7fb1",
+      "title": "US soldier arrested in UK on suspicion of spying for Russia",
+      "url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-11-10T20:41:53.000Z",
+      "summary": "London Metropolitan Police says its 'counterterror' forces worked closely with the FBI and US military to make arrest."
+    },
+    {
+      "id": "43764c6b71e2a927",
+      "title": "Iraq blocks Iranian football team’s plane from landing over US sanctions",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "diplomacy",
+      "region": "middle_east",
+      "publishedAt": "2026-11-10T20:23:03.000Z",
+      "summary": "Iraq has barred Iran’s national football team from landing in Basra due to US sanctions on Iranian airlines."
+    },
+    {
+      "id": "cfd8425cbb54d7bc",
+      "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-11-10T20:04:36.000Z",
+      "summary": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]"
+    },
+    {
+      "id": "7a26a1f2f023b80f",
+      "title": "The PlayStation Plus PC app is shutting down next month",
+      "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-11-10T19:40:52.000Z",
+      "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, not many people are using that perk: With a very small number of eligible PlayStation Plus Premium members (less than 0.4%) using the PlayStation Plus app on PC, making this change allow"
+    },
+    {
+      "id": "8baf4efe7530a62b",
+      "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-11-10T19:31:11.000Z",
+      "summary": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]"
+    },
+    {
+      "id": "f40cb96de622bb78",
+      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-11-10T19:26:42.000Z",
+      "summary": "Supporters of Sheikh Hasina want her to return from exile in India."
+    },
+    {
+      "id": "5e6283866f18130e",
+      "title": "Starlink Mini 2 adds a swappable battery",
+      "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-11-10T19:19:12.000Z",
+      "summary": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who shared screenshots of invitations to order Starlink Mini 2, the dish is priced at $999, which includes a full year of Roam Unlimited service that SpaceX values at $2,100. The Starlink Mini 2 will run for u"
+    },
+    {
+      "id": "c3f36cca44e03cc4",
+      "title": "Google’s Pixel Tag tracker is now available",
+      "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-11-10T19:00:00.000Z",
+      "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's tracking network and app that was renamed the Find Hub last year. The Pixel Tag is priced similar to Apple's AirTag 2. A single tracker costs $29.99 while a four-pack is discounted to $99.99. At 0."
+    },
+    {
+      "id": "60ef2787bc6417b8",
+      "title": "Google is making Pixel HiLight slightly more useful",
+      "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-11-10T19:00:00.000Z",
+      "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: As part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure, it's a small addition to the disappointing ways you could use HiLight at the Pixel 11 Pro's August launch, which included glowing when you used Gemini and lighting up for calls from yo"
+    },
+    {
+      "id": "ce8caabf8ae54bf0",
+      "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+      "url": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-11-10T18:43:04.000Z",
+      "summary": "The US Food and Drug Administration says Ozempic, Wegovy, and other weight-loss drugs must have labels about the condition, known as NAION."
+    },
+    {
+      "id": "eadfa7bd5f0b4db2",
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-11-10T18:33:51.000Z",
+      "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund."
+    },
+    {
+      "id": "efbd86491a64f78c",
+      "title": "The Monaco summit that will decide the future of Carrick and Man Utd",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "diplomacy",
+      "region": "global",
+      "publishedAt": "2026-11-10T18:12:02.000Z",
+      "summary": "Manchester United's power brokers meet in Monaco on Wednesday to decide whether Michael Carrick will remain as head coach"
+    },
+    {
+      "id": "1f85ca3ccbef0118",
+      "title": "Arrests made after visit from former US President Biden",
+      "url": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-11-10T18:07:56.000Z",
+      "summary": "Joe Biden was in Dublin to see his son Hunter awarded the Gold Medal for Outstanding Contribution for Public Discourse"
+    },
+    {
+      "id": "8866a0c98499f759",
+      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-11-10T18:04:18.000Z",
+      "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones."
+    },
+    {
+      "id": "e90aa8f93cd768e6",
+      "title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "europe",
+      "publishedAt": "2026-11-10T18:00:00.000Z",
+      "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You can start talking with a Business Agent if a business that has created one appea"
+    },
+    {
+      "id": "9004dde5dd815f5f",
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-11-10T17:56:12.000Z",
+      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected."
+    },
+    {
+      "id": "70b84b5dc26a659c",
+      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-11-10T17:04:55.000Z",
+      "summary": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media."
+    },
+    {
+      "id": "5033c674fba82349",
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-11-10T17:03:16.000Z",
+      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister."
+    },
     {
       "id": "78804a4e60f6df77",
       "title": "28 Buses Set Ablaze in 9 Days: Law Enforcement’s Role Under Scrutiny",
@@ -10,56 +310,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-11-10T16:35:14.000Z",
       "summary": "The fear of past arson attacks seems to have returned once again. In the last 9 days, miscreants have set fire to 28 buses, a common mode of transport for… The post 28 Buses Set Ablaze in 9 Days: Law Enforcement’s Role Under Scrutiny appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "f46ff44a63f6df32",
-      "title": "Did Fox News’ fixation on Hasan Piker backfire?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/did-fox-news-fixation-on-hasan-piker-backfire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-11-10T16:26:08.000Z",
-      "summary": "Did Fox News' fixation on Hasan Piker backfire?"
-    },
-    {
-      "id": "9b1c0087df06639b",
-      "title": "eBay appears to have shut the door on third-party AI agents",
-      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-11-10T16:20:30.000Z",
-      "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a link to listings, price, shipping details, and relevant notes about condition or style. This weekend, though, Muse was u"
-    },
-    {
-      "id": "647ae9fc0a49d756",
-      "title": "At least 12 people killed in Bulgaria motorway pile-up",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-11-10T16:20:12.000Z",
-      "summary": "At least 12 people have been killed and dozens injured in multiple crashes involving around 50 vehicles on a motorway"
-    },
-    {
-      "id": "cbce2b40e87cc00a",
-      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-11-10T16:19:48.000Z",
-      "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police."
-    },
-    {
-      "id": "efdc5a9205c89b66",
-      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-11-10T16:17:16.000Z",
-      "summary": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]"
     },
     {
       "id": "e702d4158b569d8e",
@@ -82,74 +332,14 @@
       "summary": "Former Arsenal legendary coach Arsene Wenger may challenge the long-standing leadership of FIFA President Gianni Infantino. The 77-year-old French football personality is seriously considering contesting the FIFA presidential election scheduled… The post Wenger to Rival Infantino for FIFA Presidency appeared first on Bangla Online News Portal."
     },
     {
-      "id": "20457ddf9c10d525",
-      "title": "The Verge’s 2026 holiday gift guide for moms",
-      "url": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-11-10T16:00:00.000Z",
-      "summary": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, but fear not, we've done the hard work for you. To help you make the mother figure in your life feel truly appreciated, we've created a sprawli"
-    },
-    {
-      "id": "7a6e7971da292207",
-      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "source": "The Verge",
-      "category": "ai_innovation",
-      "region": "global",
-      "publishedAt": "2026-11-10T16:00:00.000Z",
-      "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon \"pushes the frontier even further\" than Argon, referring to the company's other frontier model that"
-    },
-    {
-      "id": "5033c674fba82349",
-      "title": "Israel's new parliament sworn in as leaders compete to form government",
-      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+      "id": "22b5b949dfaa9ba8",
+      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world_politics",
       "region": "middle_east",
-      "publishedAt": "2026-11-10T15:51:09.000Z",
-      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister."
-    },
-    {
-      "id": "6623f3b398e76570",
-      "title": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
-      "url": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-11-10T15:49:36.000Z",
-      "summary": "Israel has killed more than 1,600 people in Gaza since last year's 'ceasefire', the enclave's Health Ministry says."
-    },
-    {
-      "id": "990b0802df056a0b",
-      "title": "Ember’s latest self-heating 14-ounce mug is $50 off",
-      "url": "https://www.theverge.com/gadgets/1030735/ember-mug-3-criterion-collection-blu-ray-pixel-watch-deal-sale",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-11-10T15:47:18.000Z",
-      "summary": "You can toggle through temperature settings directly from the mug, or from within the app. | Image: The Verge If you were cool on the $149.95 original price of the 14-ounce Ember Mug 3, you might warm up to the current discount happening at Amazon, Ember, and Best Buy for several colors of the (top rack) dishwasher-safe mug. It’s 33 percent off, dropping to $99.99 — still not cheap, but cheaper, and notably just $10 "
-    },
-    {
-      "id": "b5672585cd423f04",
-      "title": "Poland gunman fascinated by Norway’s neo-Nazi mass killer Breivik",
-      "url": "https://www.aljazeera.com/news/2026/11/10/polish-gunman-visited-websites-about-norwegian-neo-nazi-serial-killer?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-11-10T15:36:49.000Z",
-      "summary": "Suspect in deadly November 7 Krakow shooting looked up the white supremacist who killed dozens in 2011, a minister says."
-    },
-    {
-      "id": "34d8b55365a7558d",
-      "title": "Deadly Egypt train crash prompts calls for political accountability",
-      "url": "https://www.aljazeera.com/news/2026/11/10/deadly-egypt-train-collision-prompts-calls-for-political-accountability?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "africa",
-      "publishedAt": "2026-11-10T15:22:17.000Z",
-      "summary": "A deadly train collision in Egypt's al-Ayyat prompts demands for political accountability and rail upgrade reviews."
+      "publishedAt": "2026-11-10T15:21:18.000Z",
+      "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza."
     },
     {
       "id": "2a5c86417b47e6d6",
@@ -172,26 +362,6 @@
       "summary": "The 2026 Formula 1 season will conclude with the Qatar and Abu Dhabi grands prix as planned, with Italy's Imola circuit stood down as back-up for the races."
     },
     {
-      "id": "f0ec17cb0eb5615b",
-      "title": "Reddit wants to guide your next purchase",
-      "url": "https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-11-10T15:00:00.000Z",
-      "summary": "Millions of people turn to Reddit for firsthand recommendations and reviews of consumer goods. Now, the platform is leaning into its role as a destination for shoppers in a challenge to more traditional outlets that publish product reviews and roundups. The company is launching Reddit Reviews, a built-in product reviews hub for consumer goods that are frequently discussed on the platform. The reviews feature collects"
-    },
-    {
-      "id": "d51abd64a62ea9f8",
-      "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-11-10T14:46:50.000Z",
-      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78."
-    },
-    {
       "id": "b426704870fa5d52",
       "title": "US inflation higher than expected in October - here's what is happening with prices",
       "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
@@ -200,46 +370,6 @@
       "region": "global",
       "publishedAt": "2026-11-10T14:45:46.000Z",
       "summary": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs."
-    },
-    {
-      "id": "4a589bf6f9167175",
-      "title": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles",
-      "url": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-11-10T14:37:09.000Z",
-      "summary": "Rockstar Games is making Grand Theft Auto VI available on Xbox Cloud Gaming when it launches next week. While you'd normally assume that would mean Grand Theft Auto VI would be available to stream on phones, PCs, the web, Xbox consoles, and even TVs, it appears to be restricted to just Xbox Series X / S and Xbox One consoles. That does mean that anyone with an older Xbox One console can stream Grand Theft Auto VI ins"
-    },
-    {
-      "id": "edb60f463774f045",
-      "title": "First day of Ukraine peace talks 'very productive', US says",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-11-10T14:36:57.000Z",
-      "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February."
-    },
-    {
-      "id": "ce3aaffed9c82e57",
-      "title": "Birthdays and broken lamps - at home with the Charles brothers",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c615je0lgleqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-11-10T14:36:21.000Z",
-      "summary": "Before Northern Ireland's Nations League matches, BBC Sport joins Shea and Pierce Charles at their London home to discuss birthdays, steak sandwiches and starring for Michael O'Neill's young team."
-    },
-    {
-      "id": "c162d599df4267e6",
-      "title": "Anthropic targets $1.4 trillion IPO",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-11-10T14:06:54.000Z",
-      "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the The New York Times. The Wall Street Journal reports that according to its sources, Anthropic is \"aiming for its shares to start trading Thursday or F"
     },
     {
       "id": "e6a476c97e308e89",
@@ -252,44 +382,14 @@
       "summary": "Usman Khawaja's autobiography has exposed the limbo Australian cricket finds itself stuck in over the sandpaper scandal, writes Stephan Shemilt."
     },
     {
-      "id": "49f1b50ec1a332c3",
-      "title": "Peak Design’s Roller Lite Carry-On is bigger on the inside — and cheaper, too",
-      "url": "https://www.theverge.com/tech/1030186/peak-design-roller-lite-carry-on-review",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-11-10T14:00:00.000Z",
-      "summary": "When we sampled Peak Design's Roller Pro last year, we loved almost everything about the camera gear powerhouse's first attempt at a proper suitcase. Everything, that is, except for the price. Back then, during its crowdfunded launch, the Pro could be had for as little as $425. Today, you're looking at $599.95 for the same roller bag. Peak Design has taken that feedback to heart in creating the Roller Lite Carry-On, "
-    },
-    {
-      "id": "e29c79c08f95f6b5",
-      "title": "Adobe is going all in on agentic AI",
-      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-11-10T14:00:00.000Z",
-      "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include allowing your preferred third-party AI agents to access and change Creative Cloud projects, new capabilities for Adobe's Firefly AI Assistant"
-    },
-    {
-      "id": "7f7d81b09241c63b",
-      "title": "Aura’s next color E Ink photo frame is smaller, cheaper, sharper, and more colorful",
-      "url": "https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability",
-      "source": "The Verge",
+      "id": "6305ccd7c44714f9",
+      "title": "World Cup finalists England still feel short of best",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/ckzd6dmm5z19o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-10T14:00:00.000Z",
-      "summary": "Aura just launched a smaller version of its color E Ink frame with a handful of improvements and a more affordable price. The new Aura Ink frame features a 10-inch E Ink panel that can display more colors at a higher pixel density. It's also differentiated from the original 13-inch model with a black frame and matching mat board that helps photos stand out. The Aura Ink 10 is now available in the US for $349, $150 ch"
-    },
-    {
-      "id": "a8f4ca7fe0029b97",
-      "title": "Iran rejects French claims it was behind supermarket fridge hacking",
-      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "economy_business",
-      "region": "middle_east",
-      "publishedAt": "2026-11-10T13:45:13.000Z",
-      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up."
+      "region": "asia_pacific",
+      "publishedAt": "2026-11-10T13:58:00.000Z",
+      "summary": "England are into the Wheelchair Rugby League World Cup final after thrashing Australia 86-18 - but still have not hit peak form, according to try-scorer Rob Hawkins."
     },
     {
       "id": "e4d5ad22b0feb939",
@@ -300,16 +400,6 @@
       "region": "global",
       "publishedAt": "2026-11-10T13:23:54.000Z",
       "summary": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces."
-    },
-    {
-      "id": "773aefd0226230ad",
-      "title": "California police investigate after 27 fall ill at half-marathon running event",
-      "url": "https://www.bbc.co.uk/news/articles/cq0ldlyd556go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-11-10T13:22:12.000Z",
-      "summary": "A local hospital says runners had \"unusual\" symptoms after racing on an atypically hot day."
     },
     {
       "id": "2f64c425b3aac35c",
@@ -372,14 +462,14 @@
       "summary": "Brigadier General Ali Bilali, Senior Advisor to the Aerospace Force of Iran’s Islamic Revolutionary Guard Corps (IRGC), has claimed that Iran is manufacturing its missiles entirely using its own technology… The post IRGC: Sanctions Cannot Halt Iran’s Missile Production appeared first on Bangla Online News Portal."
     },
     {
-      "id": "9d6a2830c4278690",
-      "title": "Hamza Joins Practice Immediately Upon Arriving in Dhaka, Bangladesh Awaits Full Squad",
-      "url": "https://www.bd24live.com/hamza-joins-practice-immediately-upon-arriving-in-dhaka-bangladesh-awaits-full-squad/",
-      "source": "BD24Live",
-      "category": "sports",
-      "region": "bangladesh",
-      "publishedAt": "2026-11-10T13:10:12.000Z",
-      "summary": "England-based footballer Hamza Choudhury has joined the national team practice upon arriving in Dhaka. Another expatriate footballer, Farhan Ali Wahid, was also scheduled to join practice at the same time… The post Hamza Joins Practice Immediately Upon Arriving in Dhaka, Bangladesh Awaits Full Squad appeared first on Bangla Online News Portal."
+      "id": "63cfcfd60e4c9c88",
+      "title": "Even Martin Scorsese uses AI for storyboards. Can the art survive?",
+      "url": "https://www.theguardian.com/film/2026/nov/10/storyboard-artists-ai",
+      "source": "The Guardian Culture",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-11-10T13:00:24.000Z",
+      "summary": "As Hollywood begins to adopt the technology, the professionals in most direct jeopardy are the illustrators mapping out directors’ first visions. They sketch out what could be lost A film industry dominated by AI is a dystopian prospect: stories and dialogue generated by large language models, populated by reincarnated screen icons and uncanny humanoids. That is in the future, but the real-world impact of AI is alrea"
     },
     {
       "id": "3c0f878dee9db7db",
@@ -390,6 +480,26 @@
       "region": "middle_east",
       "publishedAt": "2026-11-10T12:08:23.000Z",
       "summary": "Former US secretary of state says most nations are ‘stumbling along’ while Beijing has ‘hugely accelerated’ Cop31 live – latest updates China is leading the world in moving away from fossil fuels, and the rest of the globe – including the US – must now follow, the former US secretary of state John Kerry has told the Guardian, as Cop watchers wonder exactly how China is going to approach this year’s climate summit. As"
+    },
+    {
+      "id": "3491713f9419b0e7",
+      "title": "From Hendrix to Bowie: the trippiest music concert posters – in pictures",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/10/gunther-kieser-concert-posters",
+      "source": "The Guardian Culture",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-11-10T12:00:52.000Z",
+      "summary": "Günther Kieser is behind some of the most singular music poster designs of the 20th century. Inspired by sculpture, the free-form nature of jazz and psychedelic art, the German artist created works for David Bowie, Jimi Hendrix and Diana Ross and the Supremes, as well as mind-expanding designs for leading brands and art institutions. The exhibition Sculpting Sound: Günther Kieser’s Music Posters at New York’s Poster "
+    },
+    {
+      "id": "a3744177406f1c8b",
+      "title": "‘It wasn’t long until he asked me if I’d ever had sex before’: David Walliams accused of preying on young women for sex",
+      "url": "https://www.theguardian.com/tv-and-radio/ng-interactive/2026/nov/10/david-walliams-accused-sex-grooming-allegations-young-women",
+      "source": "The Guardian Culture",
+      "category": "creativity_arts",
+      "region": "europe",
+      "publishedAt": "2026-11-10T12:00:52.000Z",
+      "summary": "Comedian and former Britain’s Got Talent judge alleged to have groomed fans he met when they were as young as 15 and harassed women in the workplace over a number of years. He denies the allegations Continue reading..."
     },
     {
       "id": "664cd57db4858ea1",
@@ -412,54 +522,14 @@
       "summary": "Bournemouth defender James Hill is added to the England squad for Thursday's Nations League match against Croatia at Wembley."
     },
     {
-      "id": "69218d84588d1f81",
-      "title": "Jockey Neale, 22, dies after fall during race",
-      "url": "https://www.bbc.co.uk/sport/horse-racing/articles/c933x3yjk530o?at_medium=RSS&at_campaign=rss",
+      "id": "9ba26009bd7d9641",
+      "title": "DeChambeau running out of options - McIlroy",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cwz0v0jmxpl0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
-      "region": "asia_pacific",
-      "publishedAt": "2026-11-10T11:34:41.000Z",
-      "summary": "Australian jockey Izzy Neale passes away following a fall during a race in Australia on Sunday."
-    },
-    {
-      "id": "9f3ad22f5ef70344",
-      "title": "Police officer dies and another injured after backpack explosion in northern Spain",
-      "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-11-10T11:25:46.000Z",
-      "summary": "Officers attended the scene in connection with a separate incident at a residential building in the Spanish city."
-    },
-    {
-      "id": "1d37bdb5b5899fdf",
-      "title": "Carrick's Man Utd future to be decided at Wednesday meeting",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-10T11:23:43.000Z",
-      "summary": "Manchester United head coach Michael Carrick's future will be discussed at a meeting in Monaco on Wednesday."
-    },
-    {
-      "id": "ce8a2d617a86f54c",
-      "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-11-10T11:23:18.000Z",
-      "summary": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis."
-    },
-    {
-      "id": "df47913a30ab5b30",
-      "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-11-10T10:10:20.000Z",
-      "summary": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]"
+      "region": "americas",
+      "publishedAt": "2026-11-10T11:23:31.000Z",
+      "summary": "Rory McIlroy says the addition of Bryson DeChambeau to the DP World Tour next season would bring more \"eyeballs\" to the tour but feels the American is running out of options."
     },
     {
       "id": "b41e04cb7313a63e",
@@ -472,24 +542,14 @@
       "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses."
     },
     {
-      "id": "9d68ebc1c13e3aaf",
-      "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
-      "url": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
+      "id": "5d9da9530e84eec6",
+      "title": "How good is Hamilton and how long can he stay in F1? - Q&A",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmp3g005zyxko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
       "region": "global",
-      "publishedAt": "2026-11-10T08:39:05.000Z",
-      "summary": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks."
-    },
-    {
-      "id": "b73cf5a8859e487f",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-11-10T08:23:21.000Z",
-      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
+      "publishedAt": "2026-11-10T08:00:49.000Z",
+      "summary": "BBC F1 correspondent Andrew Benson answers your latest questions after the Sao Paulo Grand Prix."
     },
     {
       "id": "f6d40c4c7e861e50",
@@ -522,24 +582,14 @@
       "summary": "Key environmental groups come out against bipartisan Baaja bill over fears it could spur datacenters and ICE jails The Senate on Monday advanced bipartisan legislation aimed at speeding up permitting reviews for datacenters and other infrastructure projects, in the first major action since last week’s election that soundly repudiated Donald Trump and congressional Republicans. It’s a bill that would make it easier to"
     },
     {
-      "id": "f51bdb4ccb477417",
-      "title": "'Cruise for life' ship seized in Singapore",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
+      "id": "88143ea2aa143368",
+      "title": "I took Vinted to court to get my money back",
+      "url": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
       "region": "global",
-      "publishedAt": "2026-11-10T01:49:06.000Z",
-      "summary": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money."
-    },
-    {
-      "id": "4edab097578155a9",
-      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-11-09T23:51:22.000Z",
-      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal."
+      "publishedAt": "2026-11-10T00:27:37.000Z",
+      "summary": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets."
     },
     {
       "id": "cd40ffdbf851290f",
@@ -552,16 +602,6 @@
       "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy."
     },
     {
-      "id": "abf96dc82d2c9df6",
-      "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
-      "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
-      "source": "BleepingComputer",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-11-09T21:26:25.000Z",
-      "summary": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let attackers take over vulnerable systems. [...]"
-    },
-    {
       "id": "29f9fa084fda38f9",
       "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
       "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
@@ -570,16 +610,6 @@
       "region": "global",
       "publishedAt": "2026-11-09T19:58:01.000Z",
       "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia."
-    },
-    {
-      "id": "a8eb4e36d41dbb82",
-      "title": "Donnie Dunagan, original voice of Disney’s Bambi and triple Purple Heart marine, dies aged 92",
-      "url": "https://www.theguardian.com/film/2026/nov/09/donnie-dunagan-bambi-voice-triple-purple-heart-marine-dies",
-      "source": "The Guardian Culture",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-11-09T17:48:31.000Z",
-      "summary": "Dunagan was six when he voiced the young deer in the classic cartoon, with an assistant director instructing him to pretend his own mother had died Donnie Dunagan, who voiced Bambi in the Walt Disney classic, as well as playing the son of Frankenstein opposite Basil Rathbone and Boris Karloff, has died aged 92. Dunagan was six when he was chosen to provide the voice of the young deer in the animation’s most heartbrea"
     },
     {
       "id": "3026a03d0d8bdcbf",
@@ -662,16 +692,6 @@
       "summary": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort”. The New York Times reported in ​October that Donald Trump had been briefed last year on intelligence that Huang ‌had a close rel"
     },
     {
-      "id": "f1a0a6422feeb01d",
-      "title": "Collision of two trains in Egypt kills at least seven",
-      "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "africa",
-      "publishedAt": "2026-11-08T17:51:17.000Z",
-      "summary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said. The crash occurred in al-Ayyat district in Giza province, about 50km (30 miles) south of Cairo, when a train travelling to Fayoum province crashed into the rear of a train "
-    },
-    {
       "id": "c782da04cc8e560e",
       "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
       "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
@@ -740,16 +760,6 @@
       "region": "global",
       "publishedAt": "2026-11-06T21:49:50.000Z",
       "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver."
-    },
-    {
-      "id": "90836fc0193f90c4",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-11-06T21:06:25.000Z",
-      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
     },
     {
       "id": "34b9b1ab0f3b3cb5",
@@ -850,16 +860,6 @@
       "region": "europe",
       "publishedAt": "2026-09-28T15:08:57.000Z",
       "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p."
-    },
-    {
-      "id": "190c07b82be36b0d",
-      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
-      "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
-      "source": "Krebs on Security",
-      "category": "cybersecurity",
-      "region": "americas",
-      "publishedAt": "2026-09-25T21:44:40.000Z",
-      "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims."
     },
     {
       "id": "d0db026dbc4bae1f",
