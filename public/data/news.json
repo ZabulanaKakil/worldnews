@@ -1,15 +1,265 @@
 {
-  "generatedAt": "2026-11-10T00:09:18.875Z",
+  "generatedAt": "2026-11-10T08:13:09.735Z",
   "articles": [
     {
-      "id": "4e2cdeb956e0c6db",
-      "title": "Initiative launched to make UK world leader in women's sport",
-      "url": "https://www.bbc.co.uk/sport/articles/crp3g3l2wew3o?at_medium=RSS&at_campaign=rss",
+      "id": "317f810a6501e206",
+      "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "region": "asia_pacific",
+      "publishedAt": "2026-11-10T08:07:16.000Z",
+      "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses."
+    },
+    {
+      "id": "5d9da9530e84eec6",
+      "title": "How good is Hamilton and how long can he stay in F1? - Q&A",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmp3g005zyxko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-10T08:00:49.000Z",
+      "summary": "BBC F1 correspondent Andrew Benson answers your latest questions after the Sao Paulo Grand Prix."
+    },
+    {
+      "id": "6192bb72864f0561",
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-11-10T07:58:07.000Z",
+      "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February."
+    },
+    {
+      "id": "082bdc216e6343b6",
+      "title": "Fireworks AI discloses new breach after cloud provider hack",
+      "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-11-10T07:49:58.000Z",
+      "summary": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]"
+    },
+    {
+      "id": "a4c52a49d83cff85",
+      "title": "Cop31 live: slight drop in fossil fuel emissions revealed as conference enters second day",
+      "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
+      "source": "The Guardian Environment",
+      "category": "diplomacy",
+      "region": "middle_east",
+      "publishedAt": "2026-11-10T07:47:17.000Z",
+      "summary": "UN climate summit prepares to host world leaders from more than 90 countries tomorrow Good morning from Turkey and welcome to the second day of Cop31, the UN gathering that is taking place, again, to help prod indolent countries clear of catastrophic planetary heating. A lot of angst was vented on the first day of the summit over whether this goal is being achieved, and even if Cop is the best forum in which to achie"
+    },
+    {
+      "id": "2204bc9a65d39b0c",
+      "title": "How Germany's greatest goalscorer is guiding the next generation",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmq8nnddpllqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
       "region": "europe",
-      "publishedAt": "2026-11-10T00:01:29.000Z",
-      "summary": "The FA, Team GB and England Netball are among major organisations to back the Equal Sport Project - a new initiative aimed at improving equality and making the UK world leaders for women and girls' sport."
+      "publishedAt": "2026-11-10T07:34:07.000Z",
+      "summary": "Miroslav Klose rose from amateur to World Cup winner as a player - now the German is forging a similar path as a coach."
+    },
+    {
+      "id": "ec0bfb94c56415e1",
+      "title": "'No reason' to reopen sandpaper investigation",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cjzxlxrp3335o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "asia_pacific",
+      "publishedAt": "2026-11-10T07:31:01.000Z",
+      "summary": "Cricket Australia CEO Todd Greenberg says he does not see \"any compelling reason\" to reopen the investigation into the 2018 Australia ball-tampering scandal."
+    },
+    {
+      "id": "d2148f2e2d85cc0f",
+      "title": "Australia tightens AI oversight rules after OpenAI government breach",
+      "url": "https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "ai_innovation",
+      "region": "asia_pacific",
+      "publishedAt": "2026-11-10T07:05:11.000Z",
+      "summary": "The decision comes after ​an OpenAI agent breached ​an Australian government website in June."
+    },
+    {
+      "id": "c10f3ce316883aaa",
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5x2vwr0zm2ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-10T06:40:56.000Z",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+    },
+    {
+      "id": "7b2908f0623bc1d5",
+      "title": "Why adults are buying toys",
+      "url": "https://www.aljazeera.com/video/money-works/2026/11/10/why-adults-are-buying-toys?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-11-10T06:38:57.000Z",
+      "summary": "How nostalgia is making adults buy toys"
+    },
+    {
+      "id": "3bd1590ced0d816e",
+      "title": "Palestine Weekly: West Bank on fire – and Gaza’s tents under water",
+      "url": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "middle_east",
+      "publishedAt": "2026-11-10T06:37:13.000Z",
+      "summary": "More than 2,000 Gaza buildings risk collapse amid floods, with 400,000 displaced in vulnerable zones, says government."
+    },
+    {
+      "id": "f6d40c4c7e861e50",
+      "title": "The swan sanctuary wetland fighting climate change",
+      "url": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-11-10T06:30:29.000Z",
+      "summary": "The global campaign to restore the \"soggy secret weapon\" that can combat against climate change."
+    },
+    {
+      "id": "56a96824ea5f9f74",
+      "title": "Luka Doncic’s 32 points help Lakers beat Hawks; Wembanyama powers Spurs",
+      "url": "https://www.aljazeera.com/sports/2026/11/10/nba-doncic-lakers-wembanyama-spurs-curry-warriors?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-11-10T06:22:35.000Z",
+      "summary": "Doncic has been averaging 40 points per game this season with the Lakers on top of the NBA Western Conference."
+    },
+    {
+      "id": "35b188861f22b056",
+      "title": "Khor Mor drone attack raises fears over Iraq’s energy security",
+      "url": "https://www.aljazeera.com/news-analysis/2026/11/10/khor-mor-drone-attack-raises-fears-over-iraqs-energy-security?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-11-10T06:22:00.000Z",
+      "summary": "Drone strike disrupts electricity supply in Iraq's semi-autonomous Kurdish region, renewing concerns about armed groups."
+    },
+    {
+      "id": "555aa9709aa3ba4a",
+      "title": "Meet Stephanie Case - the first woman to run 100 miles in Antarctica",
+      "url": "https://www.bbc.co.uk/sport/articles/cm98z8w9kx02o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-10T06:20:04.000Z",
+      "summary": "Stephanie Case makes history by becoming the first woman to complete extreme 100-mile race in Antarctica."
+    },
+    {
+      "id": "bef760cb54cf83e8",
+      "title": "Florida’s red wall is cracking, but Democrats are missing their chance",
+      "url": "https://www.aljazeera.com/opinions/2026/11/10/floridas-red-wall-is-cracking-but-democrats-are-missing-their-chance?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-11-10T06:16:43.000Z",
+      "summary": "The midterms exposed the vulnerability of Republican dominance in Florida."
+    },
+    {
+      "id": "de3126eed1fae40a",
+      "title": "Cricket Australia will not open another investigation into ‘sandpapergate’",
+      "url": "https://www.aljazeera.com/sports/2026/11/10/cricket-australia-will-not-open-another-investigation-into-sandpapergate?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "asia_pacific",
+      "publishedAt": "2026-11-10T06:13:00.000Z",
+      "summary": "'We’re comfortable with the outcome of the investigation,' Cricket Australia chief says after Khawaja's revelations."
+    },
+    {
+      "id": "f3536fd7bf5b1067",
+      "title": "36 Platoons of BGB Deployed in Dhaka-Gazipur-Narayanganj",
+      "url": "https://www.bd24live.com/36-platoons-of-bgb-deployed-in-dhaka-gazipur-narayanganj/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-11-10T06:10:12.000Z",
+      "summary": "To ensure the overall security of industrial areas, 36 platoons of Border Guard Bangladesh (BGB) have been deployed in Dhaka, Gazipur, and Narayanganj. This initiative has been taken to ensure… The post 36 Platoons of BGB Deployed in Dhaka-Gazipur-Narayanganj appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "c4ea0c72d4fd83af",
+      "title": "Can the Republican Party survive Trump?",
+      "url": "https://www.aljazeera.com/opinions/2026/11/10/can-the-republican-party-survive-trump?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-11-10T06:08:54.000Z",
+      "summary": "The party faces a battle for its future after the midterms, but Democrats may ultimately determine whether it recovers."
+    },
+    {
+      "id": "d3663036915a766d",
+      "title": "Watch: Rivals - Fury v Joshua on BBC iPlayer",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0034cyd?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-10T06:00:00.000Z",
+      "summary": "The inside story of heavyweight boxing's long-awaited showdown"
+    },
+    {
+      "id": "0be66fd32acaa218",
+      "title": "Firms tied to West Bank settlements win $15m UK deals despite sanctions",
+      "url": "https://www.aljazeera.com/news/2026/11/10/firms-tied-to-west-bank-settlements-win-15m-uk-deals-despite-sanctions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "diplomacy",
+      "region": "europe",
+      "publishedAt": "2026-11-10T05:39:50.000Z",
+      "summary": "Former Labour leader Jeremy Corbyn called the findings ‘outrageous and frankly insulting to the public’."
+    },
+    {
+      "id": "04fa41398289204f",
+      "title": "Moscow summit tests Russia’s waning grip on former Soviet allies",
+      "url": "https://www.aljazeera.com/news/2026/11/10/moscow-summit-tests-russias-waning-grip-on-former-soviet-allies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "diplomacy",
+      "region": "europe",
+      "publishedAt": "2026-11-10T05:38:50.000Z",
+      "summary": "The CSTO's influence is declining as Armenia turns away, while former allies pursue independent partnerships."
+    },
+    {
+      "id": "cc5c64825d357445",
+      "title": "Trump says more US attacks on Iran 'highly unlikely'",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-11-10T05:33:25.000Z",
+      "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change."
+    },
+    {
+      "id": "b11c0e8b006a4d87",
+      "title": "Israeli forces kill 14-year-old Palestinian boy in occupied West Bank",
+      "url": "https://www.aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-11-10T05:23:57.000Z",
+      "summary": "Israel's military says its soldiers opened fire to prevent Palestinians from throwing stones at vehicles in Burqa."
+    },
+    {
+      "id": "1997991eff89cf69",
+      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "ai_innovation",
+      "region": "asia_pacific",
+      "publishedAt": "2026-11-10T05:22:39.000Z",
+      "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites."
+    },
+    {
+      "id": "70f8657028476bd0",
+      "title": "Poland’s political rivals join ‘March of Silence’ for shooting victims",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/polands-political-rivals-join-march-of-silence-for-shooting-victims?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-11-10T05:12:54.000Z",
+      "summary": "President Karol Nawrocki and Prime Minister Donald Tusk joined thousands in Krakow’s ‘March of Silence’."
     },
     {
       "id": "b73cf5a8859e487f",
@@ -18,38 +268,108 @@
       "source": "BBC World",
       "category": "world_politics",
       "region": "global",
-      "publishedAt": "2026-11-09T23:59:50.000Z",
+      "publishedAt": "2026-11-10T03:58:13.000Z",
       "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
     },
     {
-      "id": "dabd95b17fd86c19",
-      "title": "Iran war live: Trump says war ‘effectively over’, Iran demands ‘surrender’",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-11-09T23:55:23.000Z",
-      "summary": "US President made the remarks following a meeting with the Qatari PM in Washington, DC."
+      "id": "b638471dfe3b7f30",
+      "title": "Prime Minister Departs for Turkey to Attend COP-31 Summit",
+      "url": "https://www.bd24live.com/prime-minister-departs-for-turkey-to-attend-cop-31-summit/",
+      "source": "BD24Live",
+      "category": "diplomacy",
+      "region": "bangladesh",
+      "publishedAt": "2026-11-10T02:40:14.000Z",
+      "summary": "Prime Minister Tarique Rahman has departed Dhaka for Turkey to attend the 31st World Climate Conference (COP-31). He left Dhaka’s Hazrat Shahjalal International Airport on a Turkish Airlines flight shortly… The post Prime Minister Departs for Turkey to Attend COP-31 Summit appeared first on Bangla Online News Portal."
     },
     {
-      "id": "9592e8d8c88f5bdd",
-      "title": "US congressman files resolution to impeach Defence Secretary Pete Hegseth",
-      "url": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
+      "id": "d6bc285f76e1c355",
+      "title": "Senate advances bill to speed up projects from gas pipelines to clean energy",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
+      "source": "The Guardian Environment",
+      "category": "environment",
       "region": "americas",
-      "publishedAt": "2026-11-09T23:53:03.000Z",
-      "summary": "Outgoing Republican lawmaker Thomas Massie calls on Congress to oust Hegseth over accusations of unlawful orders."
+      "publishedAt": "2026-11-10T02:28:00.000Z",
+      "summary": "Key environmental groups come out against bipartisan Baaja bill over fears it could spur datacenters and ICE jails The Senate on Monday advanced bipartisan legislation aimed at speeding up permitting reviews for datacenters and other infrastructure projects, in the first major action since last week’s election that soundly repudiated Donald Trump and congressional Republicans. It’s a bill that would make it easier to"
     },
     {
-      "id": "4097731caf3d1bc0",
-      "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
-      "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
+      "id": "2bdeca1d3ef13b90",
+      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-11-10T01:55:22.000Z",
+      "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI."
+    },
+    {
+      "id": "f51bdb4ccb477417",
+      "title": "'Cruise for life' ship seized in Singapore",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
       "region": "global",
-      "publishedAt": "2026-11-09T23:52:12.000Z",
-      "summary": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]"
+      "publishedAt": "2026-11-10T01:49:06.000Z",
+      "summary": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money."
+    },
+    {
+      "id": "0516ea5f7bab7cf0",
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-11-10T01:38:49.000Z",
+      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year."
+    },
+    {
+      "id": "664cd57db4858ea1",
+      "title": "Slight fall in carbon emissions from fossil fuels as Iran war drives renewables push",
+      "url": "https://www.theguardian.com/environment/2026/nov/10/slight-fall-in-carbon-emissions-from-fossil-fuels-as-iran-war-drives-renewables-push",
+      "source": "The Guardian Environment",
+      "category": "environment",
+      "region": "middle_east",
+      "publishedAt": "2026-11-10T01:00:23.000Z",
+      "summary": "However, authors of a comprehensive assessment to be presented at Cop31 warn talk of a global turnaround premature Cop31 live – latest updates Soaring oil and gas prices following the war in Iran have encouraged people to look beyond fossil fuels, leading to an easing of climate-damaging carbon emissions this year. Carbon dioxide from oil, gas and coal is forecast to flatline for 2026, based on data from the year so "
+    },
+    {
+      "id": "bf867bae9b42ccfc",
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-11-10T00:28:49.000Z",
+      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to be the biggest creative unlock in modern history. The last time we saw anything close to this was really "
+    },
+    {
+      "id": "0d290cd3d891ad99",
+      "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-11-10T00:14:03.000Z",
+      "summary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home."
+    },
+    {
+      "id": "877a3fe52067f8fc",
+      "title": "The superpower battle over energy – and what it means for your bills",
+      "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-11-10T00:08:28.000Z",
+      "summary": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?"
+    },
+    {
+      "id": "cde1c7f12663a83d",
+      "title": "What could China get from Jensen Huang?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "asia_pacific",
+      "publishedAt": "2026-11-09T23:51:58.000Z",
+      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about $99 billion worth of equity investments in frontier AI labs, neoclouds, infrastruc"
     },
     {
       "id": "4edab097578155a9",
@@ -62,26 +382,6 @@
       "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal."
     },
     {
-      "id": "790b51c356c0f7c4",
-      "title": "Trump, Rubio defend Hegseth as impeachment bid nears",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-rubio-defend-hegseth-as-impeachment-bid-nears?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-11-09T23:47:11.000Z",
-      "summary": "President Trump has lashed out at efforts to impeach Defense Secretary Pete Hegseth over the US war on Iran."
-    },
-    {
-      "id": "0516ea5f7bab7cf0",
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-11-09T23:45:14.000Z",
-      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year."
-    },
-    {
       "id": "740faade1b2d2f18",
       "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
       "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
@@ -92,84 +392,14 @@
       "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial."
     },
     {
-      "id": "77ab6d27402665c2",
-      "title": "US Supreme Court allows border wall in Big Bend National Park to proceed",
-      "url": "https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
+      "id": "abf96dc82d2c9df6",
+      "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+      "source": "BleepingComputer",
+      "category": "environment",
       "region": "global",
-      "publishedAt": "2026-11-09T23:15:19.000Z",
-      "summary": "Lawsuit had sought to block border wall construction in national park by targeting waivers that sidestep protections."
-    },
-    {
-      "id": "3e484fed5ffe6536",
-      "title": "Trump defends Nvidia’s Huang after calling about spy scandal",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-11-09T23:13:44.000Z",
-      "summary": "Trump told reporters he believes Nvidia’s CEO Jensen Huang had no idea his alleged mistress was a suspected Chinese spy."
-    },
-    {
-      "id": "599d40dba928a03f",
-      "title": "Trump says war on Iran ‘effectively over’ after talks with Qatar’s PM",
-      "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-11-09T22:31:19.000Z",
-      "summary": "Iranian officials dismissed Trump's latest remarks as 'fake news' after the US president suggested an end to the war."
-    },
-    {
-      "id": "da270a2d258e737d",
-      "title": "Brady ends association with Birmingham City",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmd6d63vegd4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-09T22:18:17.000Z",
-      "summary": "NFL legend Tom Brady ends his association with top-of-the-table Championship side Birmingham City after three years."
-    },
-    {
-      "id": "10c38633112df0d6",
-      "title": "Pope meets with clergy abuse survivors in Argentina",
-      "url": "https://www.aljazeera.com/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-11-09T22:14:37.000Z",
-      "summary": "During private meetings with survivors, Pope Leo XIV pledged to reinforce safeguards and listen to victims."
-    },
-    {
-      "id": "26976df3b69c6b15",
-      "title": "Hungarian police reportedly detain brother of ex-PM Viktor Orban",
-      "url": "https://www.aljazeera.com/news/2026/11/9/hungarian-police-reportedly-detain-brother-of-ex-pm-viktor-orban?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-11-09T22:13:29.000Z",
-      "summary": "Aron Orban reportedly detained as Hungarian authorities raid properties linked to his business associates."
-    },
-    {
-      "id": "f1972cb95c9de0ae",
-      "title": "Wimborne to host Bradford in FA Cup second round - see full draw",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6wyrynd848jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-09T22:10:22.000Z",
-      "summary": "Seventh-tier side Wimborne Town will host League One Bradford City in the second round of the FA Cup, while former winners Leicester City will visit National League South side Dover Athletic."
-    },
-    {
-      "id": "289897390b6da44a",
-      "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
-      "url": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-11-09T21:48:38.000Z",
-      "summary": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist."
+      "publishedAt": "2026-11-09T21:26:25.000Z",
+      "summary": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let attackers take over vulnerable systems. [...]"
     },
     {
       "id": "bc8ac6caf1d1ffdc",
@@ -182,16 +412,6 @@
       "summary": "According to a new analysis by Forbes, the former Beatle now has a net worth of $1.4bn, placing him behind Jay-Z and Taylor Swift Paul McCartney has joined the ranks of the world’s billionaires. Forbes has valued the former Beatle’s net worth at $1.4bn (£1.04bn), making him the world’s third richest musician behind Jay-Z at $2.8bn (£2.01bn) and Taylor Swift at $2bn (£1.49bn). The magazine attributed McCartney’s wealt"
     },
     {
-      "id": "cdfb74b5c433329b",
-      "title": "York University breach exposed personal information dating to 2007",
-      "url": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-11-09T21:22:31.000Z",
-      "summary": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]"
-    },
-    {
       "id": "559d8541a2a4354b",
       "title": "The global pledge to use AI for climate good is a cruel joke",
       "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
@@ -200,16 +420,6 @@
       "region": "middle_east",
       "publishedAt": "2026-11-09T21:13:16.000Z",
       "summary": "Murat Kurum (left), Turkey’s minister of Environment, Urbanisation and Climate Change; and Chris Bowen, Australia's minister for Climate Change and Energy, raise their hands together at the COP31 UN Climate Change Conference in Antalya, Turkey, on November 9th, 2026. | Photo: AFP via Getty Images At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a no"
-    },
-    {
-      "id": "b8333a775b89ec71",
-      "title": "Republican lawmaker moves to impeach US Defense Secretary Hegseth",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/republican-lawmaker-moves-to-impeach-us-defense-secretary-hegseth?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-11-09T21:04:11.000Z",
-      "summary": "Republican Congressman Thomas Massie has introduced articles of impeachment against Defense Secretary Pete Hegseth."
     },
     {
       "id": "934c280124973cb0",
@@ -235,21 +445,11 @@
       "id": "29f9fa084fda38f9",
       "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
       "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
+      "source": "BBC Technology",
+      "category": "technology",
       "region": "global",
       "publishedAt": "2026-11-09T19:58:01.000Z",
       "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia."
-    },
-    {
-      "id": "bbd58cd81cc9c39f",
-      "title": "Air pollution soars as fog traps emissions in England’s urban areas",
-      "url": "https://www.theguardian.com/environment/2026/nov/09/air-pollution-soars-fog-traps-emissions-england-urban-areas",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "europe",
-      "publishedAt": "2026-11-09T19:13:59.000Z",
-      "summary": "Particles from fireworks and bonfires likely to have contributed to levels well above WHO’s daily guideline Air pollution soared to “very high” levels across urban parts of England on Monday as still, foggy weather kept emissions trapped after a weekend of fireworks and bonfires. Government monitoring showed 11 sites, mainly in London and Greater Manchester, reached the highest band on its 10-point index for particul"
     },
     {
       "id": "8ff20ff5f7ceec77",
@@ -270,26 +470,6 @@
       "region": "global",
       "publishedAt": "2026-11-09T19:00:00.000Z",
       "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable 5.2 is good at challenging software engineering problems, Anthropic says, and "
-    },
-    {
-      "id": "380d141cc04a0744",
-      "title": "Senate votes on bill to speed up projects from gas pipelines to clean energy",
-      "url": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "americas",
-      "publishedAt": "2026-11-09T18:42:32.000Z",
-      "summary": "Environmentalists torn over procedural vote to boost infrastructure projects but weaken environmental laws It’s a bill that would make it easier to build big infrastructure projects in America – everything from fossil fuel pipelines to transmission lines that would add more clean energy to the grid. And it would roll back environmental and social protections to achieve this goal. That is why climate advocates are tor"
-    },
-    {
-      "id": "5c9ed79046344c6f",
-      "title": "England wing Feyi-Waboso out of Nations Championship",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw5yny20m7jzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-09T18:33:37.000Z",
-      "summary": "England wing Immanuel Feyi-Waboso is ruled out of the rest of the Nations Championship as his injury misfortune continues."
     },
     {
       "id": "c45829c295b5290b",
@@ -322,46 +502,6 @@
       "summary": "Dunagan was six when he voiced the young deer in the classic cartoon, with an assistant director instructing him to pretend his own mother had died Donnie Dunagan, who voiced Bambi in the Walt Disney classic, as well as playing the son of Frankenstein opposite Basil Rathbone and Boris Karloff, has died aged 92. Dunagan was six when he was chosen to provide the voice of the young deer in the animation’s most heartbrea"
     },
     {
-      "id": "7ed1b4bc9c1f6109",
-      "title": "Trump questions midterm elections integrity after previously accepting results",
-      "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-11-09T17:47:29.000Z",
-      "summary": "Trump made the claims, without evidence, on Truth Social on Monday."
-    },
-    {
-      "id": "9ef112c38082d9eb",
-      "title": "High fossil fuel prices spread inflation ‘like a cancer’, UN climate chief tells Cop31",
-      "url": "https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31",
-      "source": "The Guardian Environment",
-      "category": "diplomacy",
-      "region": "middle_east",
-      "publishedAt": "2026-11-09T17:47:04.000Z",
-      "summary": "Simon Stiell makes opening address at summit in Turkey, where talks are under way about speeding up shift to electrification A global fossil fuel price crisis is “spreading inflation like a cancer” around the planet, the UN’s climate chief, Simon Stiell, told the opening plenary of critical UN climate talks in Turkey. Stiell joined Cop31 hosts Turkey and Australia, which is leading the negotiations, in promoting rene"
-    },
-    {
-      "id": "19d8c03236074545",
-      "title": "James Gunn is out as DC movie leader",
-      "url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-11-09T17:39:57.000Z",
-      "summary": "Soon, James Gunn and Peter Safran will no longer head up Skydance's DC Studios. After taking the helm of DC Studios as co-CEOs in 2022, Gunn and Safran are being replaced by former Marvel SVP of Production and Development Jeremy Latcham, Deadline reports. However, Gunn and Safran will \"continue to produce on various DC projects\" and are still working on the Superman followup Man of Tomorrow, Deadline says. Gunn also "
-    },
-    {
-      "id": "e8488aa8f2604046",
-      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-11-09T17:36:08.000Z",
-      "summary": "Step 1. Cut a hole in the box. | Image: The Verge I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - no relation to Jensen - is a former TV reporter. That was before she b"
-    },
-    {
       "id": "a62773ab2fdb0859",
       "title": "Kane and Bellingham air strong views in England World Cup review",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqr7y7813l04o?at_medium=RSS&at_campaign=rss",
@@ -370,36 +510,6 @@
       "region": "americas",
       "publishedAt": "2026-11-09T17:30:23.000Z",
       "summary": "England players are understood to have aired strong views about their World Cup semi-final defeat by Argentina in a team meeting."
-    },
-    {
-      "id": "94b62c68283c1ed6",
-      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-11-09T17:06:18.000Z",
-      "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine."
-    },
-    {
-      "id": "1e1b00862ccbd2eb",
-      "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
-      "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-11-09T16:33:55.000Z",
-      "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life"
-    },
-    {
-      "id": "787e5d26a563ef62",
-      "title": "Cop31 as it happened: world leaders gather for crucial climate crisis talks",
-      "url": "https://www.theguardian.com/environment/live/2026/nov/09/cop31-climate-crisis-talks-turkey-latest-news-updates",
-      "source": "The Guardian Environment",
-      "category": "diplomacy",
-      "region": "europe",
-      "publishedAt": "2026-11-09T15:45:04.000Z",
-      "summary": "UN climate summit will focus on how to implement the targets needed to urgently cut greenhouse gas emissions What is at stake at the UN climate summit and what can it achieve? Key players at the climate talks Next up is the Australian climate change minister, Chris Bowen, who is president of the negotiations here in Antalya. This is his big moment to set the tone for the next two weeks, and he said even though the 1."
     },
     {
       "id": "14ac043ed736c7d5",
@@ -452,16 +562,6 @@
       "summary": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say."
     },
     {
-      "id": "f6d3f81f6b16c5b1",
-      "title": "Incident-by-incident: Was it a bad weekend for VAR?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-09T14:34:19.000Z",
-      "summary": "Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?"
-    },
-    {
       "id": "e361d7dac5660770",
       "title": "Love affair with Chinese spy, Nvidia chief Jensen Huang in trouble",
       "url": "https://www.bd24live.com/love-affair-with-chinese-spy-nvidia-chief-jensen-huang-in-trouble/",
@@ -490,16 +590,6 @@
       "region": "global",
       "publishedAt": "2026-11-09T13:28:56.000Z",
       "summary": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]"
-    },
-    {
-      "id": "64cdd2ec012f5b10",
-      "title": "Government's EV targets expected to be reduced this week",
-      "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-11-09T12:06:22.000Z",
-      "summary": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission."
     },
     {
       "id": "eb126a9a99017be9",
@@ -542,6 +632,16 @@
       "summary": "The latest in our ongoing series of writers highlighting their go-to comfort films is a reminder of the dark joys that can be found in David Fincher’s devilish thriller “When I think of my wife, I always think of the back of her head,” narrates Ben Affleck in the opening scene of Gone Girl, David Fincher’s 2014 adaptation of the bestselling thriller novel. “I picture cracking her lovely skull, unspooling her brains, "
     },
     {
+      "id": "f5d931b8a61f09d4",
+      "title": "U2: Carnaval de Luz review – rousing, restorative rock from a band ready to take on the world again",
+      "url": "https://www.theguardian.com/music/2026/nov/09/u2-carnaval-de-luz-review",
+      "source": "The Guardian Culture",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-11-09T10:00:06.000Z",
+      "summary": "(Island) On their first album of new songs in nearly a decade, even earnest Bono-isms carry weight amid music that is impassioned and rejuvenated Even artists who enjoy a seemingly unstoppable imperial period eventually seem to encounter spells of turbulence when the creative planets no longer align – which has been the story of U2’s last 20 years. Try as they might, nothing has matched their earlier albums – especia"
+    },
+    {
       "id": "dadb5e3098d6c8a7",
       "title": "The climate case for AI has not been made",
       "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
@@ -572,16 +672,6 @@
       "summary": "Scientists are predictng this could be the hottest year on record as the COP31 climate summit opens."
     },
     {
-      "id": "324a921e57ef5024",
-      "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-      "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-11-09T07:10:11.000Z",
-      "summary": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?"
-    },
-    {
       "id": "033dd50f3b375092",
       "title": "Hasina’s Passport Request is Political Grandstanding: Chief Prosecutor",
       "url": "https://www.bd24live.com/hasinas-passport-request-is-political-grandstanding-chief-prosecutor/",
@@ -592,6 +682,16 @@
       "summary": "Former Prime Minister Sheikh Hasina’s application for a new passport and National ID (NID) was dismissed as mere ‘political grandstanding’ by Chief Prosecutor Md. Aminul Islam. The prosecution is set… The post Hasina’s Passport Request is Political Grandstanding: Chief Prosecutor appeared first on Bangla Online News Portal."
     },
     {
+      "id": "a7eb6118cb39d86d",
+      "title": "Robert Pattinson has auditioned for James Bond – and finally the 007 race is interesting | Sian Cain",
+      "url": "https://www.theguardian.com/film/2026/nov/09/robert-pattinson-nicholas-hoult-josh-oconnor-new-james-bond-contenders",
+      "source": "The Guardian Culture",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-11-09T05:29:22.000Z",
+      "summary": "Hollywood’s weirdest man has entered the fray and the casting decision that has dragged on and on suddenly feels exciting for the first time Why does anyone want to play James Bond? The franchise seems to spit out its leads, leaving them wrecked and disillusioned. “I’d like to kill him,” Sean Connery famously said of Bond, that “dull, prosaic English policeman”; it was Daniel Craig who finally managed to do it, a fif"
+    },
+    {
       "id": "cfe913d82290cf04",
       "title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
       "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
@@ -600,6 +700,16 @@
       "region": "americas",
       "publishedAt": "2026-11-09T02:11:25.000Z",
       "summary": "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tour Pope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth must benefit all in a speech met with rapturous applause in Buenos Aires. “The economy must be at the service of the people, rather than people being at the service of the economy,” h"
+    },
+    {
+      "id": "6e77e459d57d712d",
+      "title": "A glimmer of good news for Britain's sleepy dormouse",
+      "url": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-11-09T00:56:43.000Z",
+      "summary": "New figures suggest hazel dormice may be recovering after decades of decline, with warmer summers boosting survival."
     },
     {
       "id": "8782d430b8042581",
@@ -620,26 +730,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-11-08T16:55:18.000Z",
       "summary": "Expatriate Bangladeshis sent home $878.56 million in remittances during the first seven days of November. In Bangladeshi currency (at an exchange rate of BDT 124.32 per dollar), this amounts to… The post Remittance of $880 Million in First 7 Days of November appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "86e973ce66484a5a",
-      "title": "Tesla Nears Halt of Cybertruck Production",
-      "url": "https://www.bd24live.com/tesla-nears-halt-of-cybertruck-production/",
-      "source": "BD24Live",
-      "category": "cybersecurity",
-      "region": "bangladesh",
-      "publishedAt": "2026-11-08T15:55:19.000Z",
-      "summary": "Due to lower-than-expected sales, US car manufacturer Tesla is planning to stop production of its electric pickup truck, the Cybertruck. By mid-2027, the vehicle’s production line will be moved from… The post Tesla Nears Halt of Cybertruck Production appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "e48fbcd92e5bc16b",
-      "title": "Wage Board to Convene for Determining Minimum Wage of Garment Workers",
-      "url": "https://www.bd24live.com/wage-board-to-convene-for-determining-minimum-wage-of-garment-workers/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-11-08T15:40:15.000Z",
-      "summary": "The Minimum Wage Board is set to hold its second meeting to recommend the minimum wage for all categories of workers and employees in the readymade garment (RMG) industry. The… The post Wage Board to Convene for Determining Minimum Wage of Garment Workers appeared first on Bangla Online News Portal."
     },
     {
       "id": "c782da04cc8e560e",
@@ -792,16 +882,6 @@
       "summary": "Paul Mackenzie convicted over deaths of children and one adult after followers were ordered to starve themselves and their families The leader of a Kenyan doomsday sect has been sentenced to 200 years in prison for the murders of 190 children and one adult in one of the world’s worst cult disasters in recent history. The sentence, comprising 100 years for murder by starvation and 100 years by direct homicide, came tw"
     },
     {
-      "id": "eaa49bafa7aea993",
-      "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "economy_business",
-      "region": "europe",
-      "publishedAt": "2026-11-06T13:25:50.000Z",
-      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry."
-    },
-    {
       "id": "8501e4352b410f50",
       "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
       "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
@@ -812,26 +892,6 @@
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in…"
     },
     {
-      "id": "7068198d8957fae8",
-      "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
-      "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "europe",
-      "publishedAt": "2026-11-06T01:22:39.000Z",
-      "summary": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains."
-    },
-    {
-      "id": "24ec5a41874742f1",
-      "title": "The engine parts that 'fight the laws of the universe'",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-11-06T00:06:06.000Z",
-      "summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make."
-    },
-    {
       "id": "f6509a5374c6e06c",
       "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
       "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
@@ -840,26 +900,6 @@
       "region": "asia_pacific",
       "publishedAt": "2026-11-05T23:16:53.000Z",
       "summary": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough."
-    },
-    {
-      "id": "f228f9911f9a26f3",
-      "title": "Investigation into 'major fish kill' after pollution incident",
-      "url": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-11-05T14:51:45.000Z",
-      "summary": "The pollution caused the death of brown and migratory sea trout in the Inler river."
-    },
-    {
-      "id": "88fc5c5265f9c3fe",
-      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
-      "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
-      "source": "Krebs on Security",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-11-03T02:24:31.000Z",
-      "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's access to more than 10 million additional compromised systems, including o"
     },
     {
       "id": "7b52cc872b82842a",
@@ -910,6 +950,16 @@
       "region": "americas",
       "publishedAt": "2026-09-25T21:44:40.000Z",
       "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims."
+    },
+    {
+      "id": "d0db026dbc4bae1f",
+      "title": "‘Huge wave’ of carbon storage projects causes alarm in small-town USA as oil firms eye billions in subsidies",
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/carbon-sequestration-projects-oil-companies-subsidies",
+      "source": "The Guardian Environment",
+      "category": "environment",
+      "region": "americas",
+      "publishedAt": "2026-07-12T12:00:18.000Z",
+      "summary": "Dozens of projects are in development across US despite concerns over environmental and health risks The plan to bury carbon under remote Indiana farmland is supposed to be a slam dunk for the climate, according to its supporters – all generously funded by US tax dollars. But as far as Melissa Harrison and some other residents of Clymers, Indiana, are concerned, it just might be the end of their town. “This is our pl"
     }
   ]
 }
