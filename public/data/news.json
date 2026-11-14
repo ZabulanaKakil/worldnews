@@ -1,6 +1,396 @@
 {
-  "generatedAt": "2026-11-14T11:20:31.626Z",
+  "generatedAt": "2026-11-14T17:53:25.898Z",
   "articles": [
+    {
+      "id": "c22638193fd4f14f",
+      "title": "Cursor confirms security breach led to malicious Claude Code extension",
+      "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-11-14T17:27:25.000Z",
+      "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]"
+    },
+    {
+      "id": "b73cbd69999870eb",
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-11-14T17:16:36.000Z",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
+    },
+    {
+      "id": "ff41af820af3a73f",
+      "title": "LGBTQ+ protesters defy crackdown in Turkey to march with Cop31 activists",
+      "url": "https://www.theguardian.com/world/2026/nov/14/lgbtq-protesters-defy-crackdown-in-turkey-to-march-with-cop31-activists",
+      "source": "The Guardian Environment",
+      "category": "diplomacy",
+      "region": "middle_east",
+      "publishedAt": "2026-11-14T17:08:18.000Z",
+      "summary": "Civil society campaigners form protective cordon around LGBTQ+ campaigners as they unfurl flags and placards Queer and gay protesters defied a crackdown on LGBTQ+ rights in Turkey to lead a civil society climate march on Saturday in the city hosting this year’s UN climate summit. Turkey’s LGBTQ+ groups have faced increased persecution since September, with police targeting activists in their homes or at the offices o"
+    },
+    {
+      "id": "abf19525b3dce613",
+      "title": "Bangladesh’s SAFF Final Dream Shattered by Last-Minute Goal",
+      "url": "https://www.bd24live.com/bangladeshs-saff-final-dream-shattered-by-last-minute-goal/",
+      "source": "BD24Live",
+      "category": "sports",
+      "region": "bangladesh",
+      "publishedAt": "2026-11-14T17:05:21.000Z",
+      "summary": "Bangladesh’s dream of reaching the SAFF Championship final has ended. Hamza Chowdhury and his teammates were knocked out from the semi-finals after a 1-0 defeat to Pakistan in front of… The post Bangladesh’s SAFF Final Dream Shattered by Last-Minute Goal appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "e444d439f3881937",
+      "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
+      "url": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "europe",
+      "publishedAt": "2026-11-14T16:53:39.000Z",
+      "summary": "Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia."
+    },
+    {
+      "id": "82f5e85e9b4f5e12",
+      "title": "Portugal vs Denmark LIVE: UEFA Nations League",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-14T16:45:00.000Z",
+      "summary": "Follow updates from the Group A4 clash, including the build-up, analysis and live text commentary of the game."
+    },
+    {
+      "id": "c66b116c6458f2d5",
+      "title": "Magnificent Wales beat New Zealand for first time since 1953",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c63dgev0p8pgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-14T16:38:04.000Z",
+      "summary": "Wales celebrate a first victory against New Zealand since 1953 with a brilliant 35-28 win to spark astonishing scenes in Cardiff."
+    },
+    {
+      "id": "66c043ee991592fd",
+      "title": "Highlights: Wales beat New Zealand for first time in 73 years",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/videos/ckdd10y25mm1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-14T16:35:13.000Z",
+      "summary": "Watch the best of the action as Wales beat New Zealand for the first time in 73 years"
+    },
+    {
+      "id": "bbc45fa1f0b166b8",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-11-14T16:29:48.000Z",
+      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos."
+    },
+    {
+      "id": "a9cffb91e248d876",
+      "title": "Tenerife boss says Owono's 12-match ban 'feels light'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmjeq0x815zko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-14T16:26:49.000Z",
+      "summary": "Tenerife boss Alvaro Cervera reacts to goalkeeper Jesus Owono's 12-match ban as the club prepare for their first game since the death of Jesus de Miguel."
+    },
+    {
+      "id": "9d270eda10ee5fc7",
+      "title": "Italy fines Meta $880m over photo privacy",
+      "url": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-11-14T16:16:15.000Z",
+      "summary": "Regulator said Meta's 'lack of cooperation' and the large number of people affected contributed to size of the fine."
+    },
+    {
+      "id": "539c2372cca11fbc",
+      "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-11-14T16:13:43.000Z",
+      "summary": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people."
+    },
+    {
+      "id": "51fc1e718d5a3193",
+      "title": "EU calls for immediate humanitarian access to Gaza",
+      "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "disasters",
+      "region": "middle_east",
+      "publishedAt": "2026-11-14T15:57:22.000Z",
+      "summary": "The EU said that “Israel must enable the work of the UN and its agencies\" after the group was blocked access into Gaza."
+    },
+    {
+      "id": "1f2022faf1d00be2",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "asia_pacific",
+      "publishedAt": "2026-11-14T15:53:55.000Z",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
+    },
+    {
+      "id": "06978ec1f9977f48",
+      "title": "Chelsea go top with 1-0 win against Man City",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm702wwpj9keo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-14T15:50:34.000Z",
+      "summary": "Chelsea return to the top of the Women's Super League with a crucial victory over rivals Manchester City who went down to 10 players in the second half."
+    },
+    {
+      "id": "579d4415c1c86c98",
+      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+      "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "africa",
+      "publishedAt": "2026-11-14T15:42:54.000Z",
+      "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa."
+    },
+    {
+      "id": "845c14c4b71caf60",
+      "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "americas",
+      "publishedAt": "2026-11-14T15:36:37.000Z",
+      "summary": "Israeli forces occupied a Palestinian-American’s home in the occupied West Bank for 17 days."
+    },
+    {
+      "id": "06a66c47d423ecc3",
+      "title": "Don’t Let Sheikh Hasina Hijack Bangladesh’s India Policy: Dan Mozena",
+      "url": "https://www.bd24live.com/dont-let-sheikh-hasina-hijack-bangladeshs-india-policy-dan-mozena/",
+      "source": "BD24Live",
+      "category": "war_conflict",
+      "region": "bangladesh",
+      "publishedAt": "2026-11-14T15:30:27.000Z",
+      "summary": "Former US Ambassador to Bangladesh, Dan Mozena, has warned against allowing Sheikh Hasina’s presence in India to dictate the bilateral relationship between Bangladesh and India. According to him, Bangladesh’s national… The post Don’t Let Sheikh Hasina Hijack Bangladesh’s India Policy: Dan Mozena appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "b4b7cebb78ac169f",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-11-14T15:15:57.000Z",
+      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
+    },
+    {
+      "id": "ce0c4eafd3848150",
+      "title": "NASA’s Voyager 1 to hit new space distance record of one light-day",
+      "url": "https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-11-14T15:14:54.000Z",
+      "summary": "The probe was launched in 1977, and it continues to relay space-related data back to a team of NASA scientists."
+    },
+    {
+      "id": "af31477f46549c77",
+      "title": "Here are our favorite deals from REI’s giant Holiday Sale",
+      "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-11-14T15:00:00.000Z",
+      "summary": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come across, but if you’re looking to save on outdoor gear or pick up something for an upcoming trip, REI’s annual Holiday Sale, which runs through November 23rd, is worth checking out. As usual, the outdo"
+    },
+    {
+      "id": "24d261995a2fd142",
+      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "source": "The Verge",
+      "category": "ai_innovation",
+      "region": "americas",
+      "publishedAt": "2026-11-14T15:00:00.000Z",
+      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on the board of OpenAI, when she was one of four board members who voted to fire Sam Altman. That inciden"
+    },
+    {
+      "id": "3a590a7807dd3b52",
+      "title": "Why US Democrats are expected to keep Schumer and Jeffries in power",
+      "url": "https://www.aljazeera.com/news-analysis/2026/11/14/why-us-democrats-are-expected-to-keep-schumer-and-jeffries-in-power?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-11-14T14:57:04.000Z",
+      "summary": "The prospect of keeping the Congressional leaders in power is exposing long-running tensions in the party."
+    },
+    {
+      "id": "140e4b84405fe357",
+      "title": "Empower conference: officials and youth discuss peace and security",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/empower-conference-officials-and-youth-discuss-peace-and-security?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-11-14T14:49:37.000Z",
+      "summary": "At the Empower Conference in Doha, officials gathered with youth to discuss initiatives for global peace and security."
+    },
+    {
+      "id": "572e29abdb04ba01",
+      "title": "Netanyahu May Fall, But Far-Right Policies Could Endure in Israel",
+      "url": "https://www.bd24live.com/netanyahu-may-fall-but-far-right-policies-could-endure-in-israel/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-11-14T14:45:26.000Z",
+      "summary": "Political efforts to remove Israeli Prime Minister Benjamin Netanyahu from power are intensifying. Amid discussions about a potential new government, two far-right leaders from his administration—Finance Minister Bezalel Smotrich and… The post Netanyahu May Fall, But Far-Right Policies Could Endure in Israel appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "e97b300a5cc82040",
+      "title": "When tech founders leave, what happens to their companies?",
+      "url": "https://www.aljazeera.com/economy/2026/11/14/when-tech-founders-leave-what-happens-to-their-companies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-11-14T14:24:36.000Z",
+      "summary": "Nvidia could lose 30 percent of its value following cofounder Jensen Huang's decision to step down, analysts warns."
+    },
+    {
+      "id": "b949c91d21538e3b",
+      "title": "What we know about the ground stop and what to do if you're affected",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-11-14T14:20:57.000Z",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
+    },
+    {
+      "id": "3a8b9e9e9ca9330c",
+      "title": "Second catch attempt for SpaceX Starship rocket",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-11-14T14:18:41.000Z",
+      "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean."
+    },
+    {
+      "id": "a1341764d45aa65d",
+      "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+      "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+      "source": "The Verge",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-11-14T14:18:36.000Z",
+      "summary": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be available in supported service areas\" - meaning you'll only be able to buy one if you live in one of the cities where Tesla currently operates its Robotaxi service. The price of a Cybercab is "
+    },
+    {
+      "id": "43072a0e44b93d39",
+      "title": "McIlroy fades as Hatton leads in Dubai",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cqkgm00ykp7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-14T14:09:23.000Z",
+      "summary": "Rory McIlroy's hopes of an eighth Race to Dubai title are dented as Tyrrell Hatton takes the outright lead into the fourth round of the DP World Tour Championship."
+    },
+    {
+      "id": "b2c3cafa03ffd7ff",
+      "title": "Indigenous students retrace Lewis and Clark’s historic journey: ‘We can’t protect what we cannot see’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/lewis-clark-indigenous-students",
+      "source": "The Guardian Environment",
+      "category": "environment",
+      "region": "americas",
+      "publishedAt": "2026-11-14T14:00:46.000Z",
+      "summary": "Two centuries after the expedition, Indigenous students are conducting a new wildlife survey along the route In 1804, when Thomas Jefferson dispatched Meriwether Lewis and William Clark and their Corps of Discovery to explore the newly acquired land west of the Mississippi, the president’s primary aim was political: Americans needed to establish presence, power and trade routes in these territories before the Europea"
+    },
+    {
+      "id": "e4f9c8ab34fe1eca",
+      "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+      "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-11-14T14:00:00.000Z",
+      "summary": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size gamepad, plus a couple of 8BitDo's Zero 2 controllers for games that don't use analog thumbsticks. I've spent years hunting for an alternative that pairs the size of the Zero 2 with as much of the funct"
+    },
+    {
+      "id": "74df709ec353b6ce",
+      "title": "Young musicians connect a community across the Line of Control",
+      "url": "https://www.aljazeera.com/editorial/longform/2026/11/14/young-musicians-connect-a-community-across-the-line-of-control?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-11-14T13:56:07.000Z",
+      "summary": "Sharing Shina songs online, musicians in Kashmir, Ladakh and Gilgit-Baltistan renew ties across the divide."
+    },
+    {
+      "id": "805ca87f4ae9c983",
+      "title": "India Advances to SAFF Final After Beating Bhutan",
+      "url": "https://www.bd24live.com/india-advances-to-saff-final-after-beating-bhutan/",
+      "source": "BD24Live",
+      "category": "sports",
+      "region": "bangladesh",
+      "publishedAt": "2026-11-14T13:10:13.000Z",
+      "summary": "Defending champions India have secured their spot in the SAFF Championship final after defeating Bhutan 2-1 in the first semi-final. Naushad Moosa’s disciples clinched victory in the match held on… The post India Advances to SAFF Final After Beating Bhutan appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "a98f0444419e7ba6",
+      "title": "Bangladesh Bank Sells $420 Million from Reserves",
+      "url": "https://www.bd24live.com/bangladesh-bank-sells-420-million-from-reserves/",
+      "source": "BD24Live",
+      "category": "economy_business",
+      "region": "bangladesh",
+      "publishedAt": "2026-11-14T13:05:18.000Z",
+      "summary": "To strengthen foreign exchange reserves, Bangladesh Bank had purchased a significant amount of dollars from commercial banks in the last fiscal year. However, within a single fiscal year, it has… The post Bangladesh Bank Sells $420 Million from Reserves appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "0c38acd5b68acf21",
+      "title": "Underwater salt mine closure in Ohio raises safety and supply concerns for winter",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/salt-mine-ohio-flooding-safety-winter",
+      "source": "The Guardian Environment",
+      "category": "environment",
+      "region": "global",
+      "publishedAt": "2026-11-14T13:00:45.000Z",
+      "summary": "Questions remain about reason for leak, safety of drinking water and where salt can be sourced for roads during winter When water last month began gushing through a crack in the ceiling of a Morton Salt mine in Ohio, the company had only one option: shut the mine down for good. For locals in and around Fairport Harbor, it means the loss of 77 jobs; but for the wider region, which depends on its salt reserves to keep "
+    },
+    {
+      "id": "46bebd4375b452a7",
+      "title": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
+      "url": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
+      "source": "The Guardian World",
+      "category": "weather_climate",
+      "region": "americas",
+      "publishedAt": "2026-11-14T13:00:44.000Z",
+      "summary": "People around the world have contended with unprecedented weather events and their fatal effects caused by the climate catastrophe After the world’s hottest summer since records began in 1850, the death toll from extreme weather in 2026 is already in the high tens of thousands. That is a conservative estimate and is certain to rise much higher. As Cop31 continues and scientists warn that climate breakdown may be acce"
+    },
+    {
+      "id": "0d92420b4658d6c9",
+      "title": "Dengue Claims 8 More Lives, 1,674 Hospitalized",
+      "url": "https://www.bd24live.com/dengue-claims-8-more-lives-1674-hospitalized/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-11-14T12:20:11.000Z",
+      "summary": "The dengue outbreak continues in the country. In the last 24 hours, eight more people have died from the Aedes mosquito-borne disease. During the same period, 1,674 people have been… The post Dengue Claims 8 More Lives, 1,674 Hospitalized appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "c5473d8178416800",
+      "title": "Tareque Rahman Included in List of 500 Most Influential Muslims in the World",
+      "url": "https://www.bd24live.com/tareque-rahman-included-in-list-of-500-most-influential-muslims-in-the-world/",
+      "source": "BD24Live",
+      "category": "world_politics",
+      "region": "bangladesh",
+      "publishedAt": "2026-11-14T11:45:13.000Z",
+      "summary": "Bangladesh’s Prime Minister, Tareque Rahman, has been included in the list of the 500 most influential Muslim personalities in the world. The Jordan-based Royal Islamic Strategic Studies Centre (RISSC) included… The post Tareque Rahman Included in List of 500 Most Influential Muslims in the World appeared first on Bangla Online News Portal."
+    },
     {
       "id": "20cde3514952065c",
       "title": "How to spot November's planetary parade in the pre-dawn sky",
@@ -22,86 +412,6 @@
       "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April."
     },
     {
-      "id": "b4b7cebb78ac169f",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-11-14T10:30:38.000Z",
-      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
-    },
-    {
-      "id": "376252749c81d238",
-      "title": "South Sudan postpones first-ever national elections until February",
-      "url": "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "africa",
-      "publishedAt": "2026-11-14T10:30:32.000Z",
-      "summary": "The vote, first expected in 2022, will now be held on February 11, according to the country's election commission."
-    },
-    {
-      "id": "f9aba1bf25de4659",
-      "title": "Sabalenka crashes out of season-ending WTA Finals after losing to Svitolina",
-      "url": "https://www.aljazeera.com/sports/2026/11/14/aryna-sabalenka-elina-svitolina-wta-finals-indian-wells-semifinals-tennis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-11-14T10:03:12.000Z",
-      "summary": "World number two Sabalenka's season came to a disappointing end after she failed to reach the WTA Finals semifinals."
-    },
-    {
-      "id": "3b3e81935ad94e12",
-      "title": "Sooryavanshi becomes youngest captain in men's T20s",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/ckvg2exrj5elo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "asia_pacific",
-      "publishedAt": "2026-11-14T09:53:45.000Z",
-      "summary": "Teenage India sensation Vaibhav Sooryavanshi breaks the record held by Croatia's Zach Vukusic as the youngest captain in top-level men's Twenty20 cricket."
-    },
-    {
-      "id": "337f5525e9951358",
-      "title": "Migrant caravan heads to US from Mexico after Democrats’ midterm win",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-11-14T09:43:54.000Z",
-      "summary": "A migrant caravan of more than a thousand people is heading towards the US border from southern Mexico."
-    },
-    {
-      "id": "8a55f1471afa82a8",
-      "title": "Netanyahu may fall, but his far-right legacy in Israel is going nowhere",
-      "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-11-14T09:43:27.000Z",
-      "summary": "Israel’s far-right is accused of embedding a hardline agenda so deeply that reversing it may prove almost impossible."
-    },
-    {
-      "id": "5a2c3172ef036d37",
-      "title": "Pochettino bids emotional farewell to US football ahead of Man Utd move",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/pochettino-bids-emotional-farewell-to-us-football-ahead-of-man-utd-move?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-14T09:27:59.000Z",
-      "summary": "Mauricio Pochettino has bid an emotional farewell to US football as he prepares to take charge of Manchester United."
-    },
-    {
-      "id": "8b4ab94f90985dcc",
-      "title": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
-      "url": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-11-14T09:19:43.000Z",
-      "summary": "Analysts say the pact, agreed amid the US-Iran war, aims to deter attacks rather than build an offensive alliance."
-    },
-    {
       "id": "f67fe2d54ca9ab6e",
       "title": "Tuchel to remind England of anti-racism protocols before Spain game",
       "url": "https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo?at_medium=RSS&at_campaign=rss",
@@ -110,66 +420,6 @@
       "region": "europe",
       "publishedAt": "2026-11-14T09:13:30.000Z",
       "summary": "Manager Thomas Tuchel will remind England's players of Uefa's anti-racism protocols before Sunday's Nations League fixture against Spain in Madrid."
-    },
-    {
-      "id": "9a74fa6d1a45e3cb",
-      "title": "Nearly $20m found in Hungary’s forests, buildings amid corruption probe",
-      "url": "https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-11-14T09:08:21.000Z",
-      "summary": "An ex-minister faces a bribery probe as Hungary's new government investigates alleged corruption during Orban's rule."
-    },
-    {
-      "id": "a460e2e1d7f71f2f",
-      "title": "Hungary seizes $18m cash tied to ex-Orban-era minister in probe",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/hungary-seizes-18m-cash-tied-to-ex-orban-era-minister-in-probe?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-11-14T08:39:07.000Z",
-      "summary": "Anti-corruption authorities in Hungary say they found around $18 million in hidden cash."
-    },
-    {
-      "id": "2be9e3bcac9f6a0b",
-      "title": "Six goals to go - will McGinn catch Dalglish & Law?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cke89156y10zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-14T07:49:46.000Z",
-      "summary": "After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?"
-    },
-    {
-      "id": "8861a9f56b32c402",
-      "title": "England boxer missed Worlds over sex-test mix-up",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/c9ly4lerj8m3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-14T07:43:44.000Z",
-      "summary": "George Francis was left “broken” after he was banned from competing at the Under-19 World Championships because his team did not organise a sex verification test to prove he is male."
-    },
-    {
-      "id": "b949c91d21538e3b",
-      "title": "What we know about the ground stop and what to do if you're affected",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-11-14T07:42:11.000Z",
-      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
-    },
-    {
-      "id": "affa23d75e391d81",
-      "title": "The challenge that brought Nunes out of retirement",
-      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c6e3dw87pyjeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-14T07:00:15.000Z",
-      "summary": "Amanda Nunes says the prospect of fighting Kayla Harrison and putting women's MMA back in the spotlight convinced her to come out of retirement to fight at UFC 334 on Saturday."
     },
     {
       "id": "b890f3d60e5fd4fd",
@@ -192,26 +442,6 @@
       "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
     },
     {
-      "id": "86baf08d621bf726",
-      "title": "How a reunion with scout Bompastor solved Chelsea's striker issue",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5lyey8p8yv4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-14T06:37:49.000Z",
-      "summary": "Chelsea striker Melvine Malard and manager Sonia Bompastor tell the story of their 12-year footballing relationship."
-    },
-    {
-      "id": "1f2022faf1d00be2",
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "asia_pacific",
-      "publishedAt": "2026-11-14T05:52:31.000Z",
-      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
-    },
-    {
       "id": "b62918e3958ce0e5",
       "title": "Allegations of Ball Tampering with Vaseline",
       "url": "https://www.bd24live.com/allegations-of-ball-tampering-with-vaseline/",
@@ -232,16 +462,6 @@
       "summary": "The US Federal Aviation Administration (FAA) has withdrawn its directive to halt air travel across the United States. After instability was observed in radar and communication systems at 3:36 PM… The post US Lifts Aviation Ban After Four Hours appeared first on Bangla Online News Portal."
     },
     {
-      "id": "cb10287d8841153b",
-      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-11-14T01:53:04.000Z",
-      "summary": "A view of an information board at the Chicago O'Hare International Airport, filled with waiting passengers on November 13, 2026. Photo by Jacek Boczarski/Anadolu via Getty Images) | Anadolu via Getty Images Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours afte"
-    },
-    {
       "id": "86326d8411dc0868",
       "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
       "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
@@ -252,24 +472,14 @@
       "summary": "The next title in the series is expected to be the biggest video game release ever."
     },
     {
-      "id": "4dd993c12b8d3bbc",
-      "title": "Setback for SpaceX Starship rocket's double-catch test",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-11-14T00:01:01.000Z",
-      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean."
-    },
-    {
-      "id": "897be557d9621f0c",
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-11-13T23:49:11.000Z",
-      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their product research on Reddit or Google, and make it more likely shoppers end up at Amazon even if th"
+      "id": "3ac6e9e1d97874cf",
+      "title": "France edge past South Africa after thriller in Nations Championship",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6eq4npqy7e0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "africa",
+      "publishedAt": "2026-11-13T23:43:05.000Z",
+      "summary": "France hold their nerve to beat South Africa by just two points, winning 21-19 at the Stade de France, to make it four wins from five in the Nations Championship and putting the home side in a strong position to top the northern hemisphere standings."
     },
     {
       "id": "02c0709ac6da0bd3",
@@ -292,16 +502,6 @@
       "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade."
     },
     {
-      "id": "6367a45c7899dba9",
-      "title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-13T22:53:17.000Z",
-      "summary": "What can Manchester United fans expect from their new manager Mauricio Pochettino? BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs."
-    },
-    {
       "id": "af0af5bd2b8c2073",
       "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
       "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
@@ -320,16 +520,6 @@
       "region": "americas",
       "publishedAt": "2026-11-13T20:45:10.000Z",
       "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card to the wallet, your Dots agents can use it to buy things in response to your prompts, b"
-    },
-    {
-      "id": "6adf46133f912752",
-      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-11-13T20:30:00.000Z",
-      "summary": "The CMF Speaker S comes in four colors: white, dark gray, orange, and turquoise. | Image: CMF by Nothing Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 discount and the lowest price we’ve seen on Nothing’s newfangled wir"
     },
     {
       "id": "0eafef0758a746fc",
@@ -352,16 +542,6 @@
       "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China."
     },
     {
-      "id": "488216bef258df13",
-      "title": "Democratic Senate leader Schumer set to face leadership challenge",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-11-13T19:03:10.000Z",
-      "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes."
-    },
-    {
       "id": "435dd2f084e3c951",
       "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
       "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
@@ -372,16 +552,6 @@
       "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
     },
     {
-      "id": "fc60676e9ff7d167",
-      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "americas",
-      "publishedAt": "2026-11-13T18:34:45.000Z",
-      "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer."
-    },
-    {
       "id": "4483d6e5aeea5bb1",
       "title": "Prime Minister Expected to Unveil Tourism Master Plan Next Month",
       "url": "https://www.bd24live.com/prime-minister-expected-to-unveil-tourism-master-plan-next-month/",
@@ -390,26 +560,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-11-13T18:25:26.000Z",
       "summary": "Prime Minister Tareque Rahman is expected to unveil Bangladesh’s long-awaited National Tourism Master Plan this December. This will pave the way for implementing an integrated development strategy around approximately 1,500… The post Prime Minister Expected to Unveil Tourism Master Plan Next Month appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "e336355e3c52547c",
-      "title": "Estonia bans Russian athletes as backlash intensifies",
-      "url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-11-13T17:54:33.000Z",
-      "summary": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine."
-    },
-    {
-      "id": "d48e0a35d413332c",
-      "title": "‘You cannot build peace on a burning planet,’ UN chief tells Cop31 in farewell speech",
-      "url": "https://www.theguardian.com/environment/2026/nov/13/cop31-antonio-guterres-united-nations-climate-action",
-      "source": "The Guardian Environment",
-      "category": "diplomacy",
-      "region": "global",
-      "publishedAt": "2026-11-13T17:00:14.000Z",
-      "summary": "António Guterres says climate action central to every aspect of UN’s work, as leaders depart Cop31 and talks go on Tackling the climate crisis is central to all of human life and must be at the forefront of global governance, the outgoing UN secretary general has said in an emotional farewell address at the Cop31 climate summit. “You cannot build peace on a burning planet,” António Guterres said at his final climate "
     },
     {
       "id": "4bad7499c4e7419e",
@@ -440,26 +590,6 @@
       "region": "global",
       "publishedAt": "2026-11-13T16:21:43.000Z",
       "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]"
-    },
-    {
-      "id": "766a7da95cd16073",
-      "title": "Right to make green challenges to planning decisions under threat, say UK lawyers",
-      "url": "https://www.theguardian.com/environment/2026/nov/13/right-to-make-green-challenges-planning-decisions-under-threat-aarhus-convention",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "europe",
-      "publishedAt": "2026-11-13T15:27:43.000Z",
-      "summary": "Exclusive: Government in ‘private meetings’ about removing cost cap protections under Aarhus convention The government is considering stripping back legal protections that limit the costs community groups face when challenging planning decisions that threaten nature. The Aarhus convention, an environmental treaty that was signed into law by the UK in 2005, guarantees the legal right to participate in democratic proce"
-    },
-    {
-      "id": "6bc2f875b75fea19",
-      "title": "Diabetes Risk Can Be Significantly Reduced Through Preventive Measures: Prime Minister",
-      "url": "https://www.bd24live.com/diabetes-risk-can-be-significantly-reduced-through-preventive-measures-prime-minister/",
-      "source": "BD24Live",
-      "category": "war_conflict",
-      "region": "bangladesh",
-      "publishedAt": "2026-11-13T12:45:15.000Z",
-      "summary": "Prime Minister Tareque Rahman stated that increasing awareness about diabetes and adopting preventive measures can significantly reduce the risk and complications of the disease. He said that even individuals with… The post Diabetes Risk Can Be Significantly Reduced Through Preventive Measures: Prime Minister appeared first on Bangla Online News Portal."
     },
     {
       "id": "60b3b411bf6c1e54",
@@ -512,16 +642,6 @@
       "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned…"
     },
     {
-      "id": "a62c651f75197488",
-      "title": "Microsoft confirms Windows activation failures after November updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-11-13T09:36:18.000Z",
-      "summary": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]"
-    },
-    {
       "id": "3e0df8f7dd7a383a",
       "title": "Heat pumps: How much heat does your home really need?",
       "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
@@ -540,26 +660,6 @@
       "region": "europe",
       "publishedAt": "2026-11-13T08:49:19.000Z",
       "summary": "Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week Storm Charles has brought destructive weather to the Iberian peninsula this week, particularly in Portugal and the far south of Spain. Heavy rain and strong south-westerly winds arrived first in the Portuguese island of Madeira, before the system headed towards the mainland on 11 November. A wind gust of 84.5mp"
-    },
-    {
-      "id": "ba3648b9dd8b8e94",
-      "title": "President: Corruption, Mismanagement Must Be Eliminated to Restore Public Trust in Healthcare",
-      "url": "https://www.bd24live.com/president-corruption-mismanagement-must-be-eliminated-to-restore-public-trust-in-healthcare/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-11-13T08:45:21.000Z",
-      "summary": "President Mirza Fakhrul Islam Alamgir commented that despite a long time, patient-friendly healthcare has not been ensured in the country. He stated that people’s trust in the healthcare system will… The post President: Corruption, Mismanagement Must Be Eliminated to Restore Public Trust in Healthcare appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "2a43c2b05661b5b6",
-      "title": "Government Plans to Launch Circular Waterway Around Dhaka: Shipping Minister",
-      "url": "https://www.bd24live.com/government-plans-to-launch-circular-waterway-around-dhaka-shipping-minister/",
-      "source": "BD24Live",
-      "category": "environment",
-      "region": "bangladesh",
-      "publishedAt": "2026-11-13T06:35:17.000Z",
-      "summary": "The government has undertaken an initiative to launch a circular waterway system around Dhaka by freeing its surrounding rivers from encroachment and pollution. To this end, plans have been made… The post Government Plans to Launch Circular Waterway Around Dhaka: Shipping Minister appeared first on Bangla Online News Portal."
     },
     {
       "id": "bb2bdcf23be3c11a",
@@ -592,16 +692,6 @@
       "summary": "From the moment a contortionist crawls out of a bank vault, the 12-day hunt for the culprits is a thrilling ride. Just suspend your disbelief a bit and strap in for a fantastic time A contortionist crawls out of a safety deposit box in the wall of an underground Swiss bank vault, legs wrapped around his waist, feet resting on his lumbar spine, landing on hands and displaced knees on the tiled floor. You know what? SO"
     },
     {
-      "id": "9bffe100742a9663",
-      "title": "Gold Price Drops by Tk 9,856 Per Bhori in Four Consecutive Decreases in Bangladesh",
-      "url": "https://www.bd24live.com/gold-price-drops-by-tk-9856-per-bhori-in-four-consecutive-decreases-in-bangladesh/",
-      "source": "BD24Live",
-      "category": "economy_business",
-      "region": "bangladesh",
-      "publishedAt": "2026-11-13T04:50:12.000Z",
-      "summary": "Gold prices have fallen again in the domestic market. The Bangladesh Jewellers Association (Bajus) has set the new price of 22-carat gold at Tk 2,158 less per bhori (including VAT).… The post Gold Price Drops by Tk 9,856 Per Bhori in Four Consecutive Decreases in Bangladesh appeared first on Bangla Online News Portal."
-    },
-    {
       "id": "d0b76d74c8061015",
       "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
       "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
@@ -622,36 +712,6 @@
       "summary": "Pro-democracy activist Nathan Law and journalist Danny Vincent on the sentencing of the iconic Hong Kong campaigner Joshua Wong to another 10 years in prison. Send your comments and questions to tif.questions@theguardian.com He has been leading protests since he was 14. Joshua Wong has been on the cover of Time magazine, the focus of a Netflix documentary and an icon for Hong Kong’s pro-democracy movement. Wong has b"
     },
     {
-      "id": "ae03dce4a80ade9d",
-      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-11-12T22:25:30.000Z",
-      "summary": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]"
-    },
-    {
-      "id": "7bc35835d741b9d1",
-      "title": "Dozens of protesters arrested after staging sit-in at Chuck Schumer’s DC office",
-      "url": "https://www.theguardian.com/us-news/2026/nov/12/protesters-arrested-chuck-schumer-office-dc",
-      "source": "The Guardian Environment",
-      "category": "weather_climate",
-      "region": "americas",
-      "publishedAt": "2026-11-12T22:12:56.000Z",
-      "summary": "Protesters with the Sunrise Movement youth climate group push for new Senate leadership and ending the filibuster Dozens of protesters with the Sunrise Movement, a youth climate organization, were arrested after staging a sit-in inside Senate minority leader Chuck Schumer’s Washington DC office Thursday According to the Sunrise Movement, 54 people were arrested, among a few hundred who joined the protest from across "
-    },
-    {
-      "id": "b78e3dc15aa84c67",
-      "title": "President: Country’s Islamic Scholars Show the Path of Truth and Humanity",
-      "url": "https://www.bd24live.com/president-countrys-islamic-scholars-show-the-path-of-truth-and-humanity/",
-      "source": "BD24Live",
-      "category": "war_conflict",
-      "region": "bangladesh",
-      "publishedAt": "2026-11-12T16:05:13.000Z",
-      "summary": "President Mirza Fakhrul Islam Alamgir stated that the country’s Islamic scholars (Alem society) guide towards truth and humanity. He emphasized that the Alem society must play an effective role in… The post President: Country’s Islamic Scholars Show the Path of Truth and Humanity appeared first on Bangla Online News Portal."
-    },
-    {
       "id": "697484e58734a992",
       "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
       "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
@@ -670,16 +730,6 @@
       "region": "global",
       "publishedAt": "2026-11-12T14:29:59.000Z",
       "summary": "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer."
-    },
-    {
-      "id": "a3bb5c29ee8c5728",
-      "title": "Remittances Reach $1.52 Billion in First 11 Days of November",
-      "url": "https://www.bd24live.com/remittances-reach-1-52-billion-in-first-11-days-of-november/",
-      "source": "BD24Live",
-      "category": "world_politics",
-      "region": "bangladesh",
-      "publishedAt": "2026-11-12T14:05:15.000Z",
-      "summary": "Expatriates have sent remittances totaling USD 1.524 billion to the country in the first 11 days of November. During the same period last year, remittances stood at USD 1.231 billion.… The post Remittances Reach $1.52 Billion in First 11 Days of November appeared first on Bangla Online News Portal."
     },
     {
       "id": "8cd3f6a3ff63d502",
@@ -730,26 +780,6 @@
       "region": "middle_east",
       "publishedAt": "2026-11-12T11:03:53.000Z",
       "summary": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey."
-    },
-    {
-      "id": "58aa7bbabce22d8e",
-      "title": "Trump the ‘biggest loser’ for scrapping climate action, John Kerry says at Cop31",
-      "url": "https://www.theguardian.com/environment/2026/nov/12/trump-loser-john-kerry-cop31",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "middle_east",
-      "publishedAt": "2026-11-12T11:00:48.000Z",
-      "summary": "Kerry decries president for ceding clean-energy dominance to China and says climate crisis still a key issue for voters Donald Trump is the “biggest loser we’ve seen in a long time” for scrapping action on the climate crisis and ceding the clean energy race to China, former US secretary of state John Kerry has said. Kerry, speaking at the Cop31 climate summit in Turkey, criticized Trump for withdrawing the US from th"
-    },
-    {
-      "id": "302faaca3278e389",
-      "title": "PM Seeks Grants, Not Loans, to Combat Climate Change Impacts",
-      "url": "https://www.bd24live.com/pm-seeks-grants-not-loans-to-combat-climate-change-impacts/",
-      "source": "BD24Live",
-      "category": "war_conflict",
-      "region": "bangladesh",
-      "publishedAt": "2026-11-12T10:20:16.000Z",
-      "summary": "Prime Minister Tarique Rahman has called for grants instead of new loans for vulnerable developing countries to combat the damage caused by climate change. He also put forward a five-point… The post PM Seeks Grants, Not Loans, to Combat Climate Change Impacts appeared first on Bangla Online News Portal."
     },
     {
       "id": "1b57960bdd8a6814",
@@ -822,14 +852,14 @@
       "summary": "A ten-year strategy to raise £500m from the Duchy of Cornwall will see farms sold off across England."
     },
     {
-      "id": "f1a0a6422feeb01d",
-      "title": "Collision of two trains in Egypt kills at least seven",
-      "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+      "id": "5e3b84d424b799dc",
+      "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+      "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
       "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "africa",
-      "publishedAt": "2026-11-08T17:51:17.000Z",
-      "summary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said. The crash occurred in al-Ayyat district in Giza province, about 50km (30 miles) south of Cairo, when a train travelling to Fayoum province crashed into the rear of a train "
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-11-10T15:39:26.000Z",
+      "summary": "Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red Crescent Lewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sending humanitarian aid to the territory. The seven-time Formula One world champion has spoken out about conflict and humanitarian crises in the region, and has called for peace. He has frequently posted on social "
     },
     {
       "id": "8b2c7dd4ea3d6067",
@@ -880,16 +910,6 @@
       "region": "americas",
       "publishedAt": "2026-10-10T00:17:42.000Z",
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity."
-    },
-    {
-      "id": "2f00e10788a5b09d",
-      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-      "source": "Krebs on Security",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-10-07T13:48:45.000Z",
-      "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace compa"
     },
     {
       "id": "d0db026dbc4bae1f",
