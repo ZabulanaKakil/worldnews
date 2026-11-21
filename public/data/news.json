@@ -1,15 +1,285 @@
 {
-  "generatedAt": "2026-11-21T17:17:44.996Z",
+  "generatedAt": "2026-11-21T22:59:51.202Z",
   "articles": [
     {
-      "id": "7f6ef1317b4c53d0",
-      "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
-      "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
-      "source": "The Guardian Environment",
+      "id": "a7443cbf336a11b3",
+      "title": "Match of the Day",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-22T09:00:00.000Z",
+      "summary": "Highlights from seven Premier League games, including leaders Arsenal at Newcastle."
+    },
+    {
+      "id": "e77668fcaf05b930",
+      "title": "Will COP31 end with a new global climate deal?",
+      "url": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
       "category": "diplomacy",
+      "region": "middle_east",
+      "publishedAt": "2026-11-21T22:44:52.000Z",
+      "summary": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey."
+    },
+    {
+      "id": "e6456e5503095cbf",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-11-21T22:19:43.000Z",
+      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
+    },
+    {
+      "id": "00ef758f6eebfb1a",
+      "title": "Bahrain says Iranian attack hits industrial facility",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-11-21T22:02:03.000Z",
+      "summary": "Bahrain says Iranian attack hits industrial facility"
+    },
+    {
+      "id": "081dae9c4fcadce7",
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-11-21T22:01:19.000Z",
+      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner."
+    },
+    {
+      "id": "a522922d23fb5abc",
+      "title": "Bahrain says Iranian attack causes fire at industrial facility",
+      "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-11-21T21:31:03.000Z",
+      "summary": "Bahrain reports no injuries, as Iran's IRGC says it targeted US military positions at two bases in al-Riffa and Awali."
+    },
+    {
+      "id": "f535e7966c4d380e",
+      "title": "Impunity fuels surge in settler violence across occupied West Bank",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-11-21T21:11:54.000Z",
+      "summary": "Impunity fuels surge in settler violence across occupied West Bank"
+    },
+    {
+      "id": "4f04c376c3528a3e",
+      "title": "Indian man jailed over plot to kill Sikh separatist in US",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-11-21T21:09:18.000Z",
+      "summary": "An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist."
+    },
+    {
+      "id": "6065a0be7457fb5c",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-11-21T21:05:29.000Z",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
+    },
+    {
+      "id": "86f0477b81c7304b",
+      "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+      "url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-11-21T21:02:18.000Z",
+      "summary": "The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says."
+    },
+    {
+      "id": "9bdf0bf26f453b9d",
+      "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+      "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "diplomacy",
+      "region": "middle_east",
+      "publishedAt": "2026-11-21T20:56:35.000Z",
+      "summary": "Iran's foreign minister says reopening the strait is 'not difficult' if the US accepts reasonable conditions."
+    },
+    {
+      "id": "c0005d41a811757e",
+      "title": "Thousands protest across Europe over living costs and housing",
+      "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
       "region": "europe",
-      "publishedAt": "2026-11-21T16:50:28.000Z",
-      "summary": "EU thought to have backing of 130 countries in last-ditch push to get fossil fuels mentioned in outcome of UN climate summit. Although not quite deserted, the halls of the Cop31 conference centre are considerably less peopled today. A few people wander back and forth with their backpacks on. Young Turkish support staff walk around in groups. It’s possible to find a seat at the tables next to the food stalls. Those, h"
+      "publishedAt": "2026-11-21T20:47:50.000Z",
+      "summary": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe."
+    },
+    {
+      "id": "f91620b08acb61c3",
+      "title": "AOC challenged over AIPAC’s influence on Democratic leadership",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-11-21T20:38:20.000Z",
+      "summary": "US Representative AOC was challenged by an activist over her support for Hakeem Jeffries, in light of his ties to AIPAC."
+    },
+    {
+      "id": "ba26ed8932cc0594",
+      "title": "Why is the US Army detonating lead-rich explosives in Iowa?",
+      "url": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "environment",
+      "region": "global",
+      "publishedAt": "2026-11-21T20:15:13.000Z",
+      "summary": "The delayed blasts have stoked environmental fears and concerns about health effects in the state."
+    },
+    {
+      "id": "b734da75db98d895",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "source": "The Verge",
+      "category": "diplomacy",
+      "region": "global",
+      "publishedAt": "2026-11-21T20:03:37.000Z",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the International Committee of the Red Cross, the guardian"
+    },
+    {
+      "id": "d9c237f9f9d2deb0",
+      "title": "Arsenal go six points clear after lively draw at Newcastle",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-21T19:59:35.000Z",
+      "summary": "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table."
+    },
+    {
+      "id": "278310ee4ec96319",
+      "title": "Evanilson strikes again as Bournemouth beat Forest",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-21T19:59:17.000Z",
+      "summary": "Evanilson scores in his sixth consecutive Premier League game, as Bournemouth defeat Nottingham Forest 2-0 at the Vitality Stadium."
+    },
+    {
+      "id": "bb210a3d06cd295d",
+      "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-21T19:59:13.000Z",
+      "summary": "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge. They move up to sixth in the Premier League."
+    },
+    {
+      "id": "c538077113d84c70",
+      "title": "Man City drop points to Fulham despite superb Anderson volley",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c30rkq9xyk8eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-21T19:59:08.000Z",
+      "summary": "Elliot Anderson's fantastic volley earns Manchester City a first Premier League point in over a month as they come from behind to hold Fulham."
+    },
+    {
+      "id": "a3b4d983bd1dc8d9",
+      "title": "Teenager Williams-Barnett shines as Spurs beat Ipswich",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-21T19:59:02.000Z",
+      "summary": "Tottenham Hotspur teenager Luca Williams-Barnett starres for Roberto de Zerbi's side as they comfortably beat Ipswich Town."
+    },
+    {
+      "id": "ca102cc1395825c5",
+      "title": "Coventry beat Palace in Frank's first game after late own goal",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-21T19:58:52.000Z",
+      "summary": "A Dwight McNeil own goal in the 85th minute gives Coventry City a 3-2 win to move three points clear of the relegation zone, as Thomas Frank's first game in charge at Crystal Palace ends in defeat in the Premier League."
+    },
+    {
+      "id": "10470f49cb66437b",
+      "title": "Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured",
+      "url": "https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-21T19:53:00.000Z",
+      "summary": "League leaders Arsenal miss the chance to go eight points clear of second placed Brighton, who play on Sunday."
+    },
+    {
+      "id": "0030647adba7bbb9",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "europe",
+      "publishedAt": "2026-11-21T19:20:22.000Z",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel."
+    },
+    {
+      "id": "55cf756e93e3ee12",
+      "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-11-21T18:42:38.000Z",
+      "summary": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv."
+    },
+    {
+      "id": "9a6c51be99a53f53",
+      "title": "FBI national crime database suffers suspected breach: Reports",
+      "url": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-11-21T18:19:10.000Z",
+      "summary": "The reported hacking is the latest in ​a string of breaches and outages affecting the US government."
+    },
+    {
+      "id": "e404ddc0f78d1796",
+      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-11-21T18:01:58.000Z",
+      "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]"
+    },
+    {
+      "id": "4a2cc3ef26b4ec83",
+      "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+      "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+      "source": "The Guardian World",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-11-21T17:46:55.000Z",
+      "summary": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night. Fausto Isidro Meza Flores, known as “El Chapo Isidro”, was arrested along with two other alleged leaders of his gang after a gun battle that triggered widespread p"
+    },
+    {
+      "id": "72e10ada77f80652",
+      "title": "The FBI and USDA were reportedly hacked",
+      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+      "source": "The Verge",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-11-21T17:42:27.000Z",
+      "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law enforcement use to share information, including warrants and missing persons. President Donald Trump late"
     },
     {
       "id": "1dc994ba1408e752",
@@ -20,66 +290,6 @@
       "region": "global",
       "publishedAt": "2026-11-21T16:35:15.000Z",
       "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information."
-    },
-    {
-      "id": "f57c98c75aeb235e",
-      "title": "England beat New Zealand by record margin",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6742znzggeyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-21T16:28:09.000Z",
-      "summary": "England stun New Zealand, beating the three-time world champions by 25 points - compounding the All Blacks' disappointment after their loss to Wales last week."
-    },
-    {
-      "id": "8d4f77e5d3f8df4c",
-      "title": "McConnell shines as 11-try Scotland dismantle Japan",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx2x00w08keo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "asia_pacific",
-      "publishedAt": "2026-11-21T16:23:11.000Z",
-      "summary": "A Liam McConnell hat-trick inspires Scotland in an 11-try Nations Championship rout of Japan at Murrayfield."
-    },
-    {
-      "id": "a6d589e15ce719e4",
-      "title": "India’s opposition stages protests against Meta over account removals",
-      "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "technology",
-      "region": "asia_pacific",
-      "publishedAt": "2026-11-21T16:14:01.000Z",
-      "summary": "Indian Youth Congress issues a seven-day 'ultimatum' to the US technology giant, urging it to lift all restrictions."
-    },
-    {
-      "id": "715cb9f2568cd9df",
-      "title": "Superb England run up record win over New Zealand",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-21T16:08:59.000Z",
-      "summary": "England's revival roars up a gear as they beat New Zealand by a record margin after former captain Lewis Moody leads the hosts' response to the haka."
-    },
-    {
-      "id": "2bc33f25a2a2f8f2",
-      "title": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-21T16:07:19.000Z",
-      "summary": "Manchester City spent £327m overhauling their midfield in the summer - but how does Enzo Maresca find the right balance?"
-    },
-    {
-      "id": "1c31fdd42708a15f",
-      "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
-      "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "americas",
-      "publishedAt": "2026-11-21T16:03:16.000Z",
-      "summary": "Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI’s most wanted list and faces US drug charges."
     },
     {
       "id": "d076d43d17d46be9",
@@ -112,46 +322,6 @@
       "summary": "On the occasion of Armed Forces Day, the Chiefs of Army, Navy, and Air Force paid a courtesy call on the President and Commander-in-Chief of the Armed Forces, Mirza Fakhrul… The post Chiefs of Three Services Meet President appeared first on Bangla Online News Portal."
     },
     {
-      "id": "c08cc6806a5ec8a5",
-      "title": "US midterms 2026: What happens before the new Congress takes office?",
-      "url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-11-21T15:49:32.000Z",
-      "summary": "What happens between the US midterm elections and January, when Democrats take control of Congress?"
-    },
-    {
-      "id": "302c535782206241",
-      "title": "French presidential candidate blames media for racist attack",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-11-21T15:46:18.000Z",
-      "summary": "French presidential candidate blames media for racist attack"
-    },
-    {
-      "id": "7687b6bbf0897e8e",
-      "title": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino",
-      "url": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-11-21T15:20:43.000Z",
-      "summary": "Africa's CAF join South America's CONMEBOL in giving unanimous support of FIFA President Gianni Infantino's re-election."
-    },
-    {
-      "id": "f43706994c8a8b37",
-      "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
-      "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "middle_east",
-      "publishedAt": "2026-11-21T15:01:18.000Z",
-      "summary": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine."
-    },
-    {
       "id": "72ec0e983f289ff1",
       "title": "Can Anthropic afford to put safety first?",
       "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
@@ -172,36 +342,6 @@
       "summary": "The Liberty 5 Pro are Soundcore’s most ambitious earbuds to date. | Photo: John Higgins / The Verge If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, which normally retail for $169.99 and come in four colors (black, white, blue, and pink) all of which ar"
     },
     {
-      "id": "e6456e5503095cbf",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-11-21T14:54:24.000Z",
-      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
-    },
-    {
-      "id": "b1c12e20579f6b00",
-      "title": "Man City claw back 1-1 draw with Fulham to end three-game losing streak",
-      "url": "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-21T14:35:52.000Z",
-      "summary": "Rodrigo Muniz set Fulham on the way but Elliot Anderson volley earns Manchester City a valuable Premier League point."
-    },
-    {
-      "id": "cd1868f5e5d724cc",
-      "title": "Newcastle United vs Arsenal LIVE: Premier League",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/21/newcastle-united-vs-arsenal-live-premier-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-21T14:30:00.000Z",
-      "summary": "Follow updates from the Premier League clash, including the build-up, analysis and live text commentary of the game."
-    },
-    {
       "id": "af1782b7b10c7ad9",
       "title": "FBI reportedly hacked again, this time targeting nationwide police database",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
@@ -210,26 +350,6 @@
       "region": "global",
       "publishedAt": "2026-11-21T14:26:04.000Z",
       "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies. [...]"
-    },
-    {
-      "id": "d44ba41a26971033",
-      "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
-      "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "middle_east",
-      "publishedAt": "2026-11-21T14:15:36.000Z",
-      "summary": "Iran's FM Araghchi says there is 'major strategic debate' about the future of Iran's nuclear doctrine."
-    },
-    {
-      "id": "7e0c6c28808bb49b",
-      "title": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-11-21T14:06:06.000Z",
-      "summary": "Jerusalem Daily: Gaza faces deadly strikes and health crisis"
     },
     {
       "id": "3288017868145fdd",
@@ -242,36 +362,6 @@
       "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
     },
     {
-      "id": "6065a0be7457fb5c",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-11-21T13:15:21.000Z",
-      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
-    },
-    {
-      "id": "f3e8fd8370666360",
-      "title": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
-      "url": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "asia_pacific",
-      "publishedAt": "2026-11-21T13:08:59.000Z",
-      "summary": "Australia beat England by three wickets with only one ball to spare as Nikhil Chaudhary's 66 leads charge in Melbourne."
-    },
-    {
-      "id": "2c56bb2eff958df6",
-      "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
-      "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
-      "source": "The Verge",
-      "category": "economy_business",
-      "region": "asia_pacific",
-      "publishedAt": "2026-11-21T13:00:00.000Z",
-      "summary": "Both 18 Pro phones feature rear displays used for selfies, notifications, and AI apps. Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was when Xiaomi last tried it on 2021's Mi 11 Ultra - not to ment"
-    },
-    {
       "id": "54b520608b5bb2a0",
       "title": "The game of the year is finally here",
       "url": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
@@ -282,26 +372,6 @@
       "summary": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about nuclear radiation and F1 brains and phone scammers, watching about 10 minutes of Madden before bailing, playing a lot of Madde"
     },
     {
-      "id": "32827fd8185c37a8",
-      "title": "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
-      "url": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-11-21T12:49:20.000Z",
-      "summary": "Mathematicians say the claimed proof, made with Claude, could be historic, but it may take weeks to understand it."
-    },
-    {
-      "id": "ea73b4bb4e303959",
-      "title": "Australia's Chaudhary downs England in tetchy first T20",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cme39qlevnrqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "asia_pacific",
-      "publishedAt": "2026-11-21T12:24:33.000Z",
-      "summary": "Unlikely Australia international Nikhil Chaudhary rattles England and secures a tense and tetchy final-over victory in the first T20."
-    },
-    {
       "id": "3a714cb2cecf5285",
       "title": "Prime Minister Calls on Government and Armed Forces to Work with Shared Vision",
       "url": "https://www.bd24live.com/prime-minister-calls-on-government-and-armed-forces-to-work-with-shared-vision/",
@@ -310,16 +380,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-11-21T12:05:17.000Z",
       "summary": "Prime Minister Tarique Rahman commented that if the democratic government and the armed forces are inspired by the spirit of ‘Bangladesh First’, no one will ever dare to turn Bangladesh… The post Prime Minister Calls on Government and Armed Forces to Work with Shared Vision appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "fa49b65383c7db36",
-      "title": "Haitians excited but uneasy as El Salvador troops fight gangs",
-      "url": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
-      "source": "The Guardian World",
-      "category": "war_conflict",
-      "region": "americas",
-      "publishedAt": "2026-11-21T11:00:57.000Z",
-      "summary": "Foreign combatants in Port-au-Prince welcomed by many after years of gang control but some fear offensive could exacerbate volatile situation A bullet-peppered mural of the Haitian striker Emmanuel Sanon covers the facade of Port-au-Prince’s main football ground. But more than two years have passed since any sports stars graced the pitch. In 2024, as the surrounding city was almost entirely captured by heavily armed "
     },
     {
       "id": "209781b3e02141ee",
@@ -352,26 +412,6 @@
       "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain."
     },
     {
-      "id": "ed7d7d422019badd",
-      "title": "Trafalgar Square Christmas tree felled in Norway",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-11-21T08:10:03.000Z",
-      "summary": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two."
-    },
-    {
-      "id": "5b6d68201647bf4f",
-      "title": "Wales hungry to show they are not one-hit wonders",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6n83rj3v9zmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "asia_pacific",
-      "publishedAt": "2026-11-21T07:37:23.000Z",
-      "summary": "Wales must kick on when they host Australia in the Nations Championship on Saturday, fresh from making history against New Zealand."
-    },
-    {
       "id": "95efcf49474f1cf7",
       "title": "Man convicted of starting Palisades fire in Los Angeles",
       "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
@@ -400,16 +440,6 @@
       "region": "global",
       "publishedAt": "2026-11-21T00:06:11.000Z",
       "summary": "We put four AI models to the test to see if they could save us money on a new TV."
-    },
-    {
-      "id": "f09991d0722c32f5",
-      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-      "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-11-21T00:01:39.000Z",
-      "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates."
     },
     {
       "id": "8fd43904506f05ba",
@@ -462,6 +492,17 @@
       "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
     },
     {
+      "id": "5da4a841770acb6b",
+      "title": "oPt: Gaza Strip | Learning Spaces Assessment Report (November 2026)",
+      "url": "https://reliefweb.int/report/occupied-palestinian-territory/gaza-strip-learning-spaces-assessment-report-november-2026",
+      "source": "ReliefWeb",
+      "category": "weather_climate",
+      "region": "middle_east",
+      "publishedAt": "2026-11-20T22:27:27.000Z",
+      "summary": "Country: occupied Palestinian territory Source: Education Cluster Please refer to the attached file. The assessment covered 962 learning spaces across Gaza’s five governorates between 21 May and 12 August 2026, reporting 581,111 enrolments and 15,709 teachers. In the absence of permanent education infrastructure, Temporary learning spaces, community-led initiatives and private learning spaces have sustained education",
+      "image": "https://reliefweb.int/attachments/540a00ed-46e4-449d-af68-226a30523849/Gaza%20Learning%20Spaces%20Assessment%20Report_Nov2026_Final.pdf"
+    },
+    {
       "id": "7d6e66323c7e25a4",
       "title": "Public Trust is the True Strength of the Armed Forces: President",
       "url": "https://www.bd24live.com/public-trust-is-the-true-strength-of-the-armed-forces-president/",
@@ -472,16 +513,6 @@
       "summary": "President Mirza Fakhrul Islam Alamgir commented that public trust is the true strength of the armed forces. He stated that it is the nation’s expectation that members of the armed… The post Public Trust is the True Strength of the Armed Forces: President appeared first on Bangla Online News Portal."
     },
     {
-      "id": "cd20192c016e23d5",
-      "title": "Cop31 talks go into overtime as debate rages over lack of fossil fuels in draft deal",
-      "url": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
-      "source": "The Guardian Environment",
-      "category": "diplomacy",
-      "region": "africa",
-      "publishedAt": "2026-11-20T20:04:46.000Z",
-      "summary": "African ministers say they ‘didn’t come here to beg’, with civil society groups calling it the ‘worst Cop ever’ Crucial climate talks headed into overtime on the last official day of the Cop31 UN summit as countries continued to argue over a draft deal that was silent on fossil fuels, with a host of other contentious issues complicating negotiations. Nearly 200 countries struggled to bridge their differences after tw"
-    },
-    {
       "id": "6b12cfc6bbd79e07",
       "title": "White House removes cyber-security chief after series of tech outages",
       "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
@@ -490,16 +521,6 @@
       "region": "global",
       "publishedAt": "2026-11-20T19:03:56.000Z",
       "summary": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports."
-    },
-    {
-      "id": "ff1ac79152d36081",
-      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
-      "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "americas",
-      "publishedAt": "2026-11-20T18:51:43.000Z",
-      "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications circuits. [...]"
     },
     {
       "id": "62e54e88f6ffaa5c",
@@ -522,16 +543,6 @@
       "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…"
     },
     {
-      "id": "4f9d2c8e6fc9fa7e",
-      "title": "Factious climate talks enter overtime without new draft deal in sight – as it happened",
-      "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-      "source": "The Guardian Environment",
-      "category": "diplomacy",
-      "region": "global",
-      "publishedAt": "2026-11-20T18:11:16.000Z",
-      "summary": "Fossil fuels and climate finance among deep divisions that have pushed UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit. Civil society organisations have a special status at UN climate treaty summits. They have the right to observe and even intervene in negotiations, although decisions are ultimately t"
-    },
-    {
       "id": "a3c2fe0cc16af19e",
       "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
       "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
@@ -540,16 +551,6 @@
       "region": "europe",
       "publishedAt": "2026-11-20T17:49:48.000Z",
       "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
-    },
-    {
-      "id": "2ef0bc67f6683c60",
-      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-11-20T17:30:00.000Z",
-      "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]"
     },
     {
       "id": "81cde0f962af5891",
@@ -593,17 +594,6 @@
       "publishedAt": "2026-11-20T15:14:28.000Z",
       "summary": "Country: Central African Republic Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. HIGHLIGHTS Despite a still volatile context, some humanitarian movements have resumed around Zémio. Infrastructure has been installed in Ouham-Pendé to help prevent agro-pastoral conflicts and reduce tensions between herders and farmers. 3,900 students received school kits in Kaga-Bandor",
       "image": "https://reliefweb.int/attachments/dde04af6-f932-492f-b877-9b32f64b386e/CAR%20Situation%20Report%20_17112026.pdf"
-    },
-    {
-      "id": "e81a5ad0a2a51952",
-      "title": "Accountability to Affected Populations (AAP) Working Group South Sudan Meeting Minutes - 24 June 2026",
-      "url": "https://reliefweb.int/report/south-sudan/accountability-affected-populations-aap-working-group-south-sudan-meeting-minutes-24-june-2026",
-      "source": "ReliefWeb",
-      "category": "disasters",
-      "region": "africa",
-      "publishedAt": "2026-11-20T15:11:18.000Z",
-      "summary": "Country: South Sudan Source: International Organization for Migration Please refer to the attached file.",
-      "image": "https://reliefweb.int/attachments/b748c0fb-57fe-4030-9591-b3bf3a1f6fd3/June%20AAP%20WG%20Meeting%20Minutes%202026.pdf"
     },
     {
       "id": "b51d8e8f4f7ec997",
@@ -716,16 +706,6 @@
       "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change."
     },
     {
-      "id": "873938936f49b81d",
-      "title": "Race to be next UN secretary general exposes divisions among world powers",
-      "url": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
-      "source": "The Guardian World",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-11-20T05:00:24.000Z",
-      "summary": "Debate about dominance of permanent five members could reignite if major powers block Costa Rican frontrunner The race to become the next UN secretary general could reach a decisive moment on Friday when a UN security council vote is likely to reveal whether the Costa Rican frontrunner for the post would be blocked by the big powers. If so, the setback will reignite a debate about the dominance of the permanent five "
-    },
-    {
       "id": "8a2c6e7946ac5fcf",
       "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
       "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
@@ -816,16 +796,6 @@
       "summary": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permits Environmentalists in South Africa are racing to replant five centuries-old baobabs after the 20-tonne trees were dug up by an exporter, who tried to ship them thousands of miles to Georgia. The baobabs arrived at a reserve in Timbavati, in north-eastern South Africa, on Wednesday, where they will be replanted and"
     },
     {
-      "id": "212c68681c2b6a16",
-      "title": "What a billion-dollar deal says about the US battery market",
-      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
-      "source": "MIT Tech Review",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-11-19T11:00:00.000Z",
-      "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than…"
-    },
-    {
       "id": "d378c6585f08ba45",
       "title": "5 Best Essay Writing Services in 2026 That Stand Above the Competition",
       "url": "https://www.bd24live.com/5-best-essay-writing-services-in-2026-that-stand-above-the-competition/",
@@ -886,6 +856,16 @@
       "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich."
     },
     {
+      "id": "86ccedcc526f03d8",
+      "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
+      "source": "The Guardian World",
+      "category": "world_politics",
+      "region": "americas",
+      "publishedAt": "2026-11-18T22:31:41.000Z",
+      "summary": "Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel Moïse A Florida pastor with dual Haitian-American citizenship was convicted on Wednesday of US charges arising from the 2021 assassination of the Haitian president Jovenel Moïse. Christian Emmanuel Sanon was found guilty on charges including conspiring to kill Moïse after a nearly eight-week trial in federal cour"
+    },
+    {
       "id": "0345ade38a1fb5a1",
       "title": "Torrential rain causes widespread flooding in South Florida",
       "url": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
@@ -904,6 +884,16 @@
       "region": "global",
       "publishedAt": "2026-11-18T14:42:44.000Z",
       "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and…"
+    },
+    {
+      "id": "09255c05fe568ce2",
+      "title": "The Download: AI learns to smell and hydropower struggles",
+      "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+      "source": "MIT Tech Review",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-11-18T13:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,” “peachy,”…"
     },
     {
       "id": "a07a220f1ce2eab0",
@@ -936,14 +926,14 @@
       "summary": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in Gaza Fears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay, if the court rules on Thursday that the Myanmar government committed genocide against the Rohingya. The ICJ has never found a state responsible for committing geno"
     },
     {
-      "id": "08462d802c665aeb",
-      "title": "What's gone wrong at Britain's worst bathing site?",
-      "url": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "weather_climate",
-      "region": "europe",
-      "publishedAt": "2026-11-18T06:12:44.000Z",
-      "summary": "The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water quality tests."
+      "id": "17d933df44a600d1",
+      "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+      "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+      "source": "The Guardian World",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-11-18T05:00:32.000Z",
+      "summary": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loans The European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landmark pact with the authoritarian government of Abdel Fatah al-Sisi. The charge relates to a €7.4bn deal promised by Ursula von der Leyen, the European Commission president, to al-Sisi on a high-profile"
     },
     {
       "id": "aa16c77ad64a274b",
@@ -964,6 +954,16 @@
       "region": "europe",
       "publishedAt": "2026-11-11T18:06:01.000Z",
       "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that all point to a 36-year-old man living in St. Petersburg, Russia."
+    },
+    {
+      "id": "88fc5c5265f9c3fe",
+      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+      "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+      "source": "Krebs on Security",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-11-03T02:24:31.000Z",
+      "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's access to more than 10 million additional compromised systems, including o"
     }
   ]
 }
