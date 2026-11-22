@@ -1,15 +1,105 @@
 {
-  "generatedAt": "2026-11-21T22:59:51.202Z",
+  "generatedAt": "2026-11-22T03:01:09.288Z",
   "articles": [
     {
-      "id": "a7443cbf336a11b3",
-      "title": "Match of the Day",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
+      "id": "cc2d2e437dddc183",
+      "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+      "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "middle_east",
+      "publishedAt": "2026-11-22T02:14:18.000Z",
+      "summary": "Israeli forces continue to destroy residential buildings as part of a 'gradual displacement' policy, a Gaza mayor says."
+    },
+    {
+      "id": "4bbb56eb63a5115b",
+      "title": "Bessent confirms he’s living on US military base over Iran fears",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-11-22T02:05:50.000Z",
+      "summary": "US Treasury Secretary Scott Bessent says he’s still living at a US military base, two weeks after an Israeli warning."
+    },
+    {
+      "id": "6065a0be7457fb5c",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
       "region": "global",
-      "publishedAt": "2026-11-22T09:00:00.000Z",
-      "summary": "Highlights from seven Premier League games, including leaders Arsenal at Newcastle."
+      "publishedAt": "2026-11-22T01:25:03.000Z",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
+    },
+    {
+      "id": "f08a5c30857039ef",
+      "title": "Moviegoers head for the exits as quake strikes Peru",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "global",
+      "publishedAt": "2026-11-22T01:07:19.000Z",
+      "summary": "Moviegoers head for the exits as quake strikes Peru"
+    },
+    {
+      "id": "d99cad22816ef4a2",
+      "title": "Clashes erupt across France in another night of protest",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-11-22T00:37:32.000Z",
+      "summary": "French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations."
+    },
+    {
+      "id": "1dc994ba1408e752",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-11-22T00:10:44.000Z",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information."
+    },
+    {
+      "id": "ddaa8bee5407263c",
+      "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-11-21T23:59:03.000Z",
+      "summary": "Bahrain has condemned Iran's strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge."
+    },
+    {
+      "id": "eeb9f631e187c36a",
+      "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
+      "url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-11-21T23:44:00.000Z",
+      "summary": "Joseph Aoun says 'two fundamental obstacles, inseparably linked' mean Lebanon cannot fully celebrate its independence."
+    },
+    {
+      "id": "05012a1aeec66e0c",
+      "title": "Iran faces a ‘silent economic war’, says Iranian president",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "middle_east",
+      "publishedAt": "2026-11-21T23:18:14.000Z",
+      "summary": "Iran faces a ‘silent economic war’, says Iranian president"
+    },
+    {
+      "id": "1143a4a0aca7cfa1",
+      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-11-21T22:59:58.000Z",
+      "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]"
     },
     {
       "id": "e77668fcaf05b930",
@@ -20,6 +110,26 @@
       "region": "middle_east",
       "publishedAt": "2026-11-21T22:44:52.000Z",
       "summary": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey."
+    },
+    {
+      "id": "b320503a5150efac",
+      "title": "Can win over All Blacks finally break England's boom-bust cycle?",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregx71gjro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-21T22:27:36.000Z",
+      "summary": "Twelve months ago, England beat New Zealand and flopped in the following Six Nations. Can their 2026 success pave the way to more permanent success?"
+    },
+    {
+      "id": "54244d6b07624c1e",
+      "title": "Diplomats race to compromise on fossil fuels as Cop31 teeters on brink of failure – as it happened",
+      "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
+      "source": "The Guardian Environment",
+      "category": "diplomacy",
+      "region": "europe",
+      "publishedAt": "2026-11-21T22:25:25.000Z",
+      "summary": "EU thought to have backing of 130 countries in last-ditch push to get cause of climate crisis mentioned in outcome of UN summit Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout Although not quite deserted, the halls of the Cop31 conference centre are considerably less peopled today. A few people wander back and forth with their backpacks on. Young Turkish support staff walk a"
     },
     {
       "id": "e6456e5503095cbf",
@@ -82,16 +192,6 @@
       "summary": "An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist."
     },
     {
-      "id": "6065a0be7457fb5c",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-11-21T21:05:29.000Z",
-      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
-    },
-    {
       "id": "86f0477b81c7304b",
       "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
       "url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
@@ -100,46 +200,6 @@
       "region": "americas",
       "publishedAt": "2026-11-21T21:02:18.000Z",
       "summary": "The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says."
-    },
-    {
-      "id": "9bdf0bf26f453b9d",
-      "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
-      "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "diplomacy",
-      "region": "middle_east",
-      "publishedAt": "2026-11-21T20:56:35.000Z",
-      "summary": "Iran's foreign minister says reopening the strait is 'not difficult' if the US accepts reasonable conditions."
-    },
-    {
-      "id": "c0005d41a811757e",
-      "title": "Thousands protest across Europe over living costs and housing",
-      "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-11-21T20:47:50.000Z",
-      "summary": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe."
-    },
-    {
-      "id": "f91620b08acb61c3",
-      "title": "AOC challenged over AIPAC’s influence on Democratic leadership",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-11-21T20:38:20.000Z",
-      "summary": "US Representative AOC was challenged by an activist over her support for Hakeem Jeffries, in light of his ties to AIPAC."
-    },
-    {
-      "id": "ba26ed8932cc0594",
-      "title": "Why is the US Army detonating lead-rich explosives in Iowa?",
-      "url": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-11-21T20:15:13.000Z",
-      "summary": "The delayed blasts have stoked environmental fears and concerns about health effects in the state."
     },
     {
       "id": "b734da75db98d895",
@@ -202,6 +262,16 @@
       "summary": "Tottenham Hotspur teenager Luca Williams-Barnett starres for Roberto de Zerbi's side as they comfortably beat Ipswich Town."
     },
     {
+      "id": "a53331e9c25dd5bd",
+      "title": "Villa's home woes continue as Sunderland earn point",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5j9m227l42do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-21T19:58:56.000Z",
+      "summary": "Aston Villa's struggles at home this season continue as they are held to a goalless draw by Sunderland in the Premier League."
+    },
+    {
       "id": "ca102cc1395825c5",
       "title": "Coventry beat Palace in Frank's first game after late own goal",
       "url": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o?at_medium=RSS&at_campaign=rss",
@@ -210,16 +280,6 @@
       "region": "global",
       "publishedAt": "2026-11-21T19:58:52.000Z",
       "summary": "A Dwight McNeil own goal in the 85th minute gives Coventry City a 3-2 win to move three points clear of the relegation zone, as Thomas Frank's first game in charge at Crystal Palace ends in defeat in the Premier League."
-    },
-    {
-      "id": "10470f49cb66437b",
-      "title": "Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured",
-      "url": "https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-21T19:53:00.000Z",
-      "summary": "League leaders Arsenal miss the chance to go eight points clear of second placed Brighton, who play on Sunday."
     },
     {
       "id": "0030647adba7bbb9",
@@ -232,26 +292,6 @@
       "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel."
     },
     {
-      "id": "55cf756e93e3ee12",
-      "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "europe",
-      "publishedAt": "2026-11-21T18:42:38.000Z",
-      "summary": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv."
-    },
-    {
-      "id": "9a6c51be99a53f53",
-      "title": "FBI national crime database suffers suspected breach: Reports",
-      "url": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-11-21T18:19:10.000Z",
-      "summary": "The reported hacking is the latest in ​a string of breaches and outages affecting the US government."
-    },
-    {
       "id": "e404ddc0f78d1796",
       "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
@@ -262,16 +302,6 @@
       "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]"
     },
     {
-      "id": "4a2cc3ef26b4ec83",
-      "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
-      "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
-      "source": "The Guardian World",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-11-21T17:46:55.000Z",
-      "summary": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night. Fausto Isidro Meza Flores, known as “El Chapo Isidro”, was arrested along with two other alleged leaders of his gang after a gun battle that triggered widespread p"
-    },
-    {
       "id": "72e10ada77f80652",
       "title": "The FBI and USDA were reportedly hacked",
       "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
@@ -280,16 +310,6 @@
       "region": "global",
       "publishedAt": "2026-11-21T17:42:27.000Z",
       "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law enforcement use to share information, including warrants and missing persons. President Donald Trump late"
-    },
-    {
-      "id": "1dc994ba1408e752",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-11-21T16:35:15.000Z",
-      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information."
     },
     {
       "id": "d076d43d17d46be9",
@@ -330,16 +350,6 @@
       "region": "americas",
       "publishedAt": "2026-11-21T15:00:00.000Z",
       "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to say that Anthropic has become one of the most valuable companies on the planet. The real story is what"
-    },
-    {
-      "id": "aae4689cb140d41f",
-      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
-      "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-11-21T14:55:28.000Z",
-      "summary": "The Liberty 5 Pro are Soundcore’s most ambitious earbuds to date. | Photo: John Higgins / The Verge If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, which normally retail for $169.99 and come in four colors (black, white, blue, and pink) all of which ar"
     },
     {
       "id": "af1782b7b10c7ad9",
@@ -786,14 +796,14 @@
       "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor Carlo Pulitano connected a donated liver to a…"
     },
     {
-      "id": "231820123331092f",
-      "title": "Race to replant five South African baobabs after export blocked",
-      "url": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
-      "source": "The Guardian World",
-      "category": "war_conflict",
-      "region": "africa",
-      "publishedAt": "2026-11-19T11:03:24.000Z",
-      "summary": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permits Environmentalists in South Africa are racing to replant five centuries-old baobabs after the 20-tonne trees were dug up by an exporter, who tried to ship them thousands of miles to Georgia. The baobabs arrived at a reserve in Timbavati, in north-eastern South Africa, on Wednesday, where they will be replanted and"
+      "id": "212c68681c2b6a16",
+      "title": "What a billion-dollar deal says about the US battery market",
+      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+      "source": "MIT Tech Review",
+      "category": "environment",
+      "region": "global",
+      "publishedAt": "2026-11-19T11:00:00.000Z",
+      "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than…"
     },
     {
       "id": "d378c6585f08ba45",
@@ -854,16 +864,6 @@
       "region": "global",
       "publishedAt": "2026-11-18T23:42:07.000Z",
       "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich."
-    },
-    {
-      "id": "86ccedcc526f03d8",
-      "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
-      "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-11-18T22:31:41.000Z",
-      "summary": "Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel Moïse A Florida pastor with dual Haitian-American citizenship was convicted on Wednesday of US charges arising from the 2021 assassination of the Haitian president Jovenel Moïse. Christian Emmanuel Sanon was found guilty on charges including conspiring to kill Moïse after a nearly eight-week trial in federal cour"
     },
     {
       "id": "0345ade38a1fb5a1",
