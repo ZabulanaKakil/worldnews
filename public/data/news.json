@@ -1,66 +1,481 @@
 {
-  "generatedAt": "2026-11-25T12:39:04.294Z",
+  "generatedAt": "2026-11-25T22:20:54.476Z",
   "articles": [
     {
-      "id": "c41d449de7fa0141",
-      "title": "Three months on from Nepal's devastating floods, thousands of children face a new threat: winter",
-      "url": "https://reliefweb.int/report/nepal/three-months-nepals-devastating-floods-thousands-children-face-new-threat-winter",
-      "source": "ReliefWeb",
-      "category": "disasters",
-      "region": "americas",
-      "publishedAt": "2026-11-25T12:33:09.000Z",
-      "summary": "Country: Nepal Source: UN Children's Fund KATHMANDU, 25 November 2026 – Nearly three months after the devastating floods that struck Nepal on 26 August, thousands of children and families remain on a long road to recovery. While floodwaters receded, a new crisis is emerging as winter approaches, threatening children who have already lost homes, belongings, schools and access to essential services. The floods along th"
+      "id": "22b0bd5b31c3841e",
+      "title": "At least 31 killed in massive fire as fuel tanker crashes on Cairo highway",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "africa",
+      "publishedAt": "2026-11-25T22:18:06.000Z",
+      "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital."
     },
     {
-      "id": "d7e97e00174a338f",
-      "title": "DR Congo: République Démocratique du Congo - Épidémie de maladie à virus Ebola - Aperçu de la situation, semaine 47 - à la date du 22 novembre 2026",
-      "url": "https://reliefweb.int/report/democratic-republic-congo/republique-democratique-du-congo-epidemie-de-maladie-virus-ebola-apercu-de-la-situation-semaine-47-la-date-du-22-novembre-2026",
-      "source": "ReliefWeb",
-      "category": "disasters",
+      "id": "9cc2f0fccd0c2768",
+      "title": "Isak scores twice as clinical Liverpool beat Brugge",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
       "region": "global",
-      "publishedAt": "2026-11-25T12:33:06.000Z",
-      "summary": "Country: Democratic Republic of the Congo Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file.",
-      "image": "https://reliefweb.int/attachments/2e91a9d3-dad1-41c6-b8d3-156de579eaaa/OCHA_DRC_EVD_Weekly%20MVE%20Outbreak_semaine%2047.pdf"
+      "publishedAt": "2026-11-25T22:12:19.000Z",
+      "summary": "Liverpool defeat Club Brugge in a clinical performance thanks to goals from Alexander Isak and Florian Wirtz, bouncing back after a defeat in their last Champions League match."
     },
     {
-      "id": "12c5d294923bb304",
-      "title": "The rising cost of Thanksgiving",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/the-rising-cost-of-thanksgiving?traffic_source=rss",
+      "id": "e09d1a5bc43a6fee",
+      "title": "At least 30 killed as fuel tanker crash ignites large fire on Cairo highway",
+      "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+      "source": "The Guardian World",
+      "category": "creativity_arts",
+      "region": "africa",
+      "publishedAt": "2026-11-25T22:10:12.000Z",
+      "summary": "Blaze on ring road surrounding Egyptian capital injures at least 25 people and leaves cars and motorcycles charred A crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killing at least 30 people, Egyptian authorities said. The blaze on the ring road, a key artery that encircles the Egyptian capital, also injured at least 25 people and left more than two dozen cars and motor"
+    },
+    {
+      "id": "6a8c5680b12be42e",
+      "title": "Gordon stars in comfortable Barca win over Sabah",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6z74ljxjv2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-25T22:07:02.000Z",
+      "summary": "Anthony Gordon scores Barcelona's opening two goals as they ease past Sabah with a 4-1 win in the Champions League."
+    },
+    {
+      "id": "35f5012cfe865ac3",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "source": "The Verge",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-11-25T21:51:26.000Z",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come to market. First spotted by Patentlyze, the patent - which was "
+    },
+    {
+      "id": "5bf92bb92f083686",
+      "title": "North Korea expels Swiss diplomat in sanctions row",
+      "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "diplomacy",
+      "region": "asia_pacific",
+      "publishedAt": "2026-11-25T21:51:17.000Z",
+      "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing."
+    },
+    {
+      "id": "5e06964da99252d7",
+      "title": "US stocks fall further as fears over AI intensify",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-11-25T21:43:18.000Z",
+      "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%."
+    },
+    {
+      "id": "50dc750f20c5868f",
+      "title": "1Password customer data stolen after employee GitHub account breach",
+      "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-11-25T21:33:33.000Z",
+      "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]"
+    },
+    {
+      "id": "757ff2b8c81e993a",
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-11-25T21:31:10.000Z",
+      "summary": "The discount chain has fallen into administration after its owners failed to find a buyer."
+    },
+    {
+      "id": "412427e94140185e",
+      "title": "Regulator chief 'has stomach' to face Man City",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-25T21:27:35.000Z",
+      "summary": "The chair of English football's independent regulator tells MPs he \"has the stomach\" to take potential action against Manchester City."
+    },
+    {
+      "id": "4e2b54c848cb3e3b",
+      "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+      "url": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-11-25T12:29:09.000Z",
-      "summary": "In the US, consumers are shelling out more money for food this Thanksgiving holiday."
+      "region": "middle_east",
+      "publishedAt": "2026-11-25T21:03:51.000Z",
+      "summary": "About 200,000 tents need replacing, Gaza’s municipalities say, as the EU urges Israel to reopen all crossings."
     },
     {
-      "id": "64f7009351147723",
-      "title": "Catalan separatist Puigdemont to return to Spain on December 12",
-      "url": "https://www.aljazeera.com/news/2026/11/25/catalan-separatist-puigdemont-to-return-to-spain-on-december?traffic_source=rss",
+      "id": "70c7f2ffaae30eac",
+      "title": "US Education Department probes Virginia schools after sexual abuse scandal",
+      "url": "https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-11-25T20:52:32.000Z",
+      "summary": "Virginia schools face scrutiny after revelations of abuse and widespread failures in mandatory staff background checks."
+    },
+    {
+      "id": "be8c07ad1fd785cd",
+      "title": "Baby Aliyah steals the show during Australian Senate debate",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "asia_pacific",
+      "publishedAt": "2026-11-25T20:42:41.000Z",
+      "summary": "Australian Senator Fatima Payman addressed the Senate with her six-month-old daughter, Aliyah, in her arms"
+    },
+    {
+      "id": "32159436ea20c59d",
+      "title": "Dubois to defend title against Parker in Manchester",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/cmde1zjykky6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-25T20:37:40.000Z",
+      "summary": "WBO heavyweight world champion Daniel Dubois will make the second defence of his title against former WBO champion Joseph Parker next year at Co-op Live in Manchester on 30 January."
+    },
+    {
+      "id": "a6de90daa78ad678",
+      "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+      "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+      "source": "The Verge",
+      "category": "technology",
+      "region": "global",
+      "publishedAt": "2026-11-25T20:31:48.000Z",
+      "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have had this for a very long time, but now it's on WhatsApp too. If you think of a text at an inconvenient time or don't want to forget to fire off a birthday message at 4AM, you can draft it an"
+    },
+    {
+      "id": "cc26b0338bcd9be8",
+      "title": "What’s behind Europe’s protests?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/25/whats-behind-europes-protests?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "war_conflict",
       "region": "europe",
-      "publishedAt": "2026-11-25T12:25:46.000Z",
-      "summary": "Former regional leader says he will unveil his proposal for a renewed Catalan independence push on December 17."
+      "publishedAt": "2026-11-25T20:30:22.000Z",
+      "summary": "Increase in protests and industrial disputes across EU and UK."
     },
     {
-      "id": "ac827f246f4f53da",
-      "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "africa",
-      "publishedAt": "2026-11-25T12:24:12.000Z",
-      "summary": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart."
+      "id": "20f8919b89c52603",
+      "title": "Netanyahu says corruption trial ‘must end’ as court suggests dropping case",
+      "url": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-11-25T20:29:22.000Z",
+      "summary": "The judges' recommendations came as Israel's longest-serving prime minister fights for his political survival."
     },
     {
-      "id": "214efa0d55bd22d5",
-      "title": "Bangladesh garment workers protest over new wages",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bangladesh-garment-workers-protest-over-new-wages?traffic_source=rss",
+      "id": "25db82505ca9c69b",
+      "title": "All hostages rescued after Colombian security forces storm supermarket, police say",
+      "url": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
+      "source": "The Guardian World",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-11-25T20:20:23.000Z",
+      "summary": "Unclear if ‘hostage-taker’ who was killed may have been a hostage as daylong siege in Cartagena shopping centre ends Colombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed and one man police described as a hostage-taker was killed. Abelardo de la Espriella, the far-right president, travelled to the Caribbean port cit"
+    },
+    {
+      "id": "dcbc95e56c7e5e68",
+      "title": "Migrant wrongly deported by Trump leaves US for Spain",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/migrant-wrongly-deported-by-trump-leaves-us-for-spain?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-11-25T20:14:28.000Z",
+      "summary": "Kilmar Abrego Garcia has arrived in Spain with his wife after a 20-month legal battle with the Trump administration."
+    },
+    {
+      "id": "64ad2464319a099d",
+      "title": "DR Congo: République démocratique du Congo : Epidémie d’Ebola et facteurs contextuels - provinces de Ituri, Nord-Kivu, Sud-Kivu, Tshopo, Haut-Uele, Bas-Uele, Nord-Ubangi et Sud-Ubangi - 20 Novembre 2026",
+      "url": "https://reliefweb.int/report/democratic-republic-congo/republique-democratique-du-congo-epidemie-debola-et-facteurs-contextuels-provinces-de-ituri-nord-kivu-sud-kivu-tshopo-haut-uele-bas-uele-nord-ubangi-et-sud-ubangi-20-novembre-2026",
+      "source": "ReliefWeb",
+      "category": "disasters",
+      "region": "global",
+      "publishedAt": "2026-11-25T20:14:03.000Z",
+      "summary": "Country: Democratic Republic of the Congo Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic.",
+      "image": "https://reliefweb.int/attachments/e05d06a2-ae81-4c5d-b0e7-9244eda5734c/RDC_MVE_Contexte_20261120.pdf"
+    },
+    {
+      "id": "914f9c921c659667",
+      "title": "Lululemon founder stuns Canadian women’s leadership conference with sexist comments",
+      "url": "https://www.theguardian.com/world/2026/nov/25/lululemon-founder-comments-canada-womens-leadership-conference",
+      "source": "The Guardian World",
+      "category": "technology",
+      "region": "americas",
+      "publishedAt": "2026-11-25T19:57:49.000Z",
+      "summary": "Chip Wilson said men importing brides from Thailand was due to women waiting too long to have children The controversial founder of Lululemon suggested women in Canada are having too few children and this could lead some men to bring in brides from Thailand, in remarks that stunned audience members at a women’s leadership conference. Chip Wilson, who built the Vancouver yoga-wear startup into a global athleisure empi"
+    },
+    {
+      "id": "5ffb45ca43ca8539",
+      "title": "Elderly man with Alzheimer’s rescued after 11 days in Amazon jungle",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/aje-onl-nf_man-with-alzheimers-rescued-after-11-days-in-amazon-251126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "war_conflict",
+      "region": "americas",
+      "publishedAt": "2026-11-25T19:57:08.000Z",
+      "summary": "A 74-year-old man with Alzheimer's has been found alive after missing for 11 days in Brazil's Amazon rainforest."
+    },
+    {
+      "id": "dcbe89162bc877af",
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "global",
+      "publishedAt": "2026-11-25T19:54:52.000Z",
+      "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising."
+    },
+    {
+      "id": "f1fe281b5dc845fa",
+      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+      "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-11-25T19:47:39.000Z",
+      "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases."
+    },
+    {
+      "id": "85abd60cc433735f",
+      "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+      "url": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
+      "source": "The Verge",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-11-25T19:45:51.000Z",
+      "summary": "Debris flies into the air after the Army detonated several tons of highly-volatile, degraded lead azide on the grounds of the Iowa Army Ammunition Plant on November 25th, 2026. | Photo: Getty Images Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today a"
+    },
+    {
+      "id": "d589425eee592ff7",
+      "title": "Conflict Response in Baidoa, Somalia: Situation Report #2 (November 25, 2026)",
+      "url": "https://reliefweb.int/report/somalia/conflict-response-baidoa-somalia-situation-report-2-november-25-2026",
+      "source": "ReliefWeb",
+      "category": "disasters",
+      "region": "global",
+      "publishedAt": "2026-11-25T19:35:13.000Z",
+      "summary": "Country: Somalia Source: International Medical Corps Please refer to the attached file. FAST FACTS The conflict in Baidoa, Somalia, has resulted in significant damage to civilian infrastructure and public buildings while displacing residents and increasing humanitarian needs across the district. The deteriorating security situation has disrupted access to essential services, including healthcare, and increased the nu",
+      "image": "https://reliefweb.int/attachments/7af1c407-27e7-45b6-be0e-b50e256e03fa/IntlMedCorps-Somalia_BaidoaConflict_SitRep02.pdf"
+    },
+    {
+      "id": "c00de60f4419fe8c",
+      "title": "1Password breach leaked customer names and emails, but not passwords",
+      "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+      "source": "The Verge",
+      "category": "cybersecurity",
+      "region": "global",
+      "publishedAt": "2026-11-25T19:10:15.000Z",
+      "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident. It's unclear how many users are affected. The password manager began investigating the incident on November 19th, after an attacker "
+    },
+    {
+      "id": "3124a9cbb7aea826",
+      "title": "Glasner criticises Forest players yet to learn English",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-25T18:32:55.000Z",
+      "summary": "Nottingham Forest manager Oliver Glasner has questioned why some of his squad cannot speak English after being in the country for a number of years."
+    },
+    {
+      "id": "df3f47fa254608fb",
+      "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "creativity_arts",
+      "region": "global",
+      "publishedAt": "2026-11-25T17:30:16.000Z",
+      "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago"
+    },
+    {
+      "id": "0a648ab09d71acda",
+      "title": "The Verge’s guide to the best gifts under $100",
+      "url": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
+      "source": "The Verge",
+      "category": "economy_business",
+      "region": "global",
+      "publishedAt": "2026-11-25T17:00:00.000Z",
+      "summary": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely to leave you with lingering guilt or lead to insurmountable debt. As reviewers, shoppers, and endless tinkerers ourselves, we're well-versed in recommending stuff in this price tier. Below, you'll find our"
+    },
+    {
+      "id": "62b8b1208d88f948",
+      "title": "US announces new tariffs on host of countries including China",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "creativity_arts",
+      "region": "americas",
+      "publishedAt": "2026-11-25T16:21:34.000Z",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU."
+    },
+    {
+      "id": "9687f2fd44e68551",
+      "title": "Democratic Republic of the Congo, Kenya, Nigeria, Uganda | Ebola Bundibugyo virus disease outbreak and EU response - DG ECHO Daily Map | 25/11/2026",
+      "url": "https://reliefweb.int/map/democratic-republic-congo/democratic-republic-congo-kenya-nigeria-uganda-ebola-bundibugyo-virus-disease-outbreak-and-eu-response-dg-echo-daily-map-25112026",
+      "source": "ReliefWeb",
+      "category": "disasters",
+      "region": "europe",
+      "publishedAt": "2026-11-25T16:17:38.000Z",
+      "summary": "Country: Democratic Republic of the Congo Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations Please refer to the attached Map.",
+      "image": "https://reliefweb.int/attachments/c2d3367a-d610-5c81-ae62-87bfb8a6ee2c/ECDM_20261125_DRC_Ebola_update.pdf"
+    },
+    {
+      "id": "6c0770c18f0a16e8",
+      "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+      "source": "BleepingComputer",
+      "category": "cybersecurity",
+      "region": "americas",
+      "publishedAt": "2026-11-25T16:13:40.000Z",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and lighting systems. [...]"
+    },
+    {
+      "id": "968a8c33218dc53b",
+      "title": "Canadian astronaut welcomes baby girl  from space station",
+      "url": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "global",
+      "publishedAt": "2026-11-25T15:41:39.000Z",
+      "summary": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station."
+    },
+    {
+      "id": "b401d4078f050843",
+      "title": "Cluster Éducation Mali - Situation des Écoles, octobre 2026",
+      "url": "https://reliefweb.int/report/mali/cluster-education-mali-situation-des-ecoles-octobre-2026",
+      "source": "ReliefWeb",
+      "category": "disasters",
+      "region": "global",
+      "publishedAt": "2026-11-25T15:14:43.000Z",
+      "summary": "Country: Mali Sources: Education Cluster, Save the Children, UN Children's Fund Please refer to the attached Infographic.",
+      "image": "https://reliefweb.int/attachments/63501ca9-f38c-47e1-9f9c-450f11d1f2d1/Cluster%20Education%20Mali%20-%20Situation%20des%20Ecoles%2C%20octobre%202026.pdf"
+    },
+    {
+      "id": "1731aed2b10138d4",
+      "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
+      "url": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+      "source": "BleepingComputer",
+      "category": "ai_innovation",
+      "region": "global",
+      "publishedAt": "2026-11-25T15:00:10.000Z",
+      "summary": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams handle more engagements, and keep sensitive client data within their own infrastructure. [...]"
+    },
+    {
+      "id": "c19c7418d08645f9",
+      "title": "CAR: République centrafricaine : Aperçu des incidents ayant affecté les travailleurs humanitaires (octobre 2026)",
+      "url": "https://reliefweb.int/report/central-african-republic/republique-centrafricaine-apercu-des-incidents-ayant-affecte-les-travailleurs-humanitaires-octobre-2026",
+      "source": "ReliefWeb",
+      "category": "disasters",
+      "region": "africa",
+      "publishedAt": "2026-11-25T14:49:37.000Z",
+      "summary": "Country: Central African Republic Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. Depuis janvier 2026, 96 incidents ont affecté les travailleurs humanitaires en République centrafricaine. En octobre, 12 incidents ont été signalés, contre 14 en septembre, soit une baisse de 14 %. Parmi les incidents enregistrés en octobre, six étaient de nature criminelle, dont trois c",
+      "image": "https://reliefweb.int/attachments/b67cd549-09d7-43c6-8ecf-4f9aa04cf2d3/OCHA_CAR_Snapshot_incidents_2026_FR_OCT_VF.pdf"
+    },
+    {
+      "id": "63311661b0b61958",
+      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "war_conflict",
+      "region": "europe",
+      "publishedAt": "2026-11-25T14:46:41.000Z",
+      "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine."
+    },
+    {
+      "id": "fda5cb89141e1c01",
+      "title": "New York's annual Thanksgiving Parade threatened by approaching storm",
+      "url": "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science & Environment",
+      "category": "weather_climate",
+      "region": "americas",
+      "publishedAt": "2026-11-25T14:41:42.000Z",
+      "summary": "Strong winds and heavy rain are expected to impact celebrations across the USA, with the risk that the famous Macy's Thanksgiving Day parade could be impacted."
+    },
+    {
+      "id": "60998bca02a04f17",
+      "title": "China sends first foreign astronaut to ISS rival as it globalises space operations",
+      "url": "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space",
+      "source": "The Guardian World",
+      "category": "creativity_arts",
+      "region": "asia_pacific",
+      "publishedAt": "2026-11-25T14:18:29.000Z",
+      "summary": "Muhammad Zeeshan Ali – the first Pakistani to reach orbit – greeted with Chinese ‘space handshake’ at Tiangong station China has flown the first foreign astronaut to its Tiangong space station, starting what it says will be the globalisation of its space operations as the US-led International Space Station (ISS) enters its final years of operation. Floating through a hatch to enter Tiangong, Pakistan’s Muhammad Zeesh"
+    },
+    {
+      "id": "136cccad95b9c7a1",
+      "title": "US Imposes New Tariffs on 14 Countries Including Bangladesh",
+      "url": "https://www.bd24live.com/us-imposes-new-tariffs-on-14-countries-including-bangladesh/",
+      "source": "BD24Live",
+      "category": "world_politics",
       "region": "bangladesh",
-      "publishedAt": "2026-11-25T12:23:41.000Z",
-      "summary": "Bangladesh has raised the minimum monthly wage for garment workers by 36% to 17,000 taka, about $138."
+      "publishedAt": "2026-11-25T14:15:12.000Z",
+      "summary": "US President Donald Trump has announced new tariffs as part of his declared trade policy. Under this, goods from 14 countries and regions, including Bangladesh, will face new tariffs when… The post US Imposes New Tariffs on 14 Countries Including Bangladesh appeared first on Bangla Online News Portal."
+    },
+    {
+      "id": "22d4a5c8d4f65f89",
+      "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+      "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-11-25T14:06:13.000Z",
+      "summary": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say."
+    },
+    {
+      "id": "381dbf930b795e37",
+      "title": "Swiss tourist killed and British and Americans injured by elephants in Cameroon",
+      "url": "https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon",
+      "source": "The Guardian World",
+      "category": "diplomacy",
+      "region": "americas",
+      "publishedAt": "2026-11-25T14:03:18.000Z",
+      "summary": "Alain Throo, insurance executive based in London, reportedly gored and later died on hike near Mount Cameroon national park A Swiss tourist has been killed and British and American tourists have been injured when a group of hikers encountered a herd of elephants in Cameroon. The group of six tourists, four British, one Swiss and one American, accompanied by local guides, were hiking near the village of Bakingili in t"
+    },
+    {
+      "id": "8b91ced6cd1c43fe",
+      "title": "Somalia Acute Food Insecurity Situation Overview - Rural, Urban and IDP Food Security Outcomes: Projection Update October - December 2026",
+      "url": "https://reliefweb.int/map/somalia/somalia-acute-food-insecurity-situation-overview-rural-urban-and-idp-food-security-outcomes-projection-update-october-december-2026",
+      "source": "ReliefWeb",
+      "category": "disasters",
+      "region": "global",
+      "publishedAt": "2026-11-25T14:03:08.000Z",
+      "summary": "Country: Somalia Source: Food Security and Nutrition Analysis Unit - Somalia Please refer to the attached Map.",
+      "image": "https://reliefweb.int/attachments/61ab122d-6a61-5845-9f25-0c825a586aac/FSNAU_IPC_AFI_Combined_Gu_Projection_Update_Baidoa_Oct_Dec_2026.pdf"
+    },
+    {
+      "id": "b0999e2cd47849b0",
+      "title": "Energy bills to rise by 26% from January after gas prices surge",
+      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "environment",
+      "region": "global",
+      "publishedAt": "2026-11-25T13:42:08.000Z",
+      "summary": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year."
+    },
+    {
+      "id": "53da1665c4872caf",
+      "title": "Sterling - from England icon to suspended jail sentence",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-25T12:42:57.000Z",
+      "summary": "Fourteen years after making his Premier League debut at 17, Raheem Sterling has been given a suspended prison sentence."
+    },
+    {
+      "id": "012cce45dc773f1b",
+      "title": "Dottin out to 'free ball' after historic WBBL decision",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cx7v2rm8477ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "region": "global",
+      "publishedAt": "2026-11-25T12:34:42.000Z",
+      "summary": "Brisbane's Sarah Glenn bowls to an empty set of stumps to dismiss Melbourne Renegade's Deandra Dottin after she is deemed too slow to reach the crease and face her first delivery."
     },
     {
       "id": "44d855b7b1d63e4a",
@@ -73,26 +488,6 @@
       "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia."
     },
     {
-      "id": "7587b73bee51cdd6",
-      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-      "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "africa",
-      "publishedAt": "2026-11-25T12:20:17.000Z",
-      "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm."
-    },
-    {
-      "id": "f27b37a48498093f",
-      "title": "Russian strikes on Ukraine cause power outages in five regions",
-      "url": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "environment",
-      "region": "europe",
-      "publishedAt": "2026-11-25T12:19:17.000Z",
-      "summary": "A Ukrainian official says attacks on Zaporizhia and Dnipropetrovsk regions damaged a number of energy sites."
-    },
-    {
       "id": "6473c91106013970",
       "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
       "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
@@ -101,159 +496,6 @@
       "region": "global",
       "publishedAt": "2026-11-25T12:12:11.000Z",
       "summary": "The BBC speaks to three people about steps they take to keep their energy bills under control."
-    },
-    {
-      "id": "97372a67edae671f",
-      "title": "Number of internally displaced people in Myanmar (As of 16 Nov 2026)",
-      "url": "https://reliefweb.int/report/myanmar/number-internally-displaced-people-myanmar-16-nov-2026",
-      "source": "ReliefWeb",
-      "category": "disasters",
-      "region": "global",
-      "publishedAt": "2026-11-25T12:03:31.000Z",
-      "summary": "Country: Myanmar Source: UN High Commissioner for Refugees Please refer to the attached Infographic.",
-      "image": "https://reliefweb.int/attachments/dfc73959-bbbb-5f93-acdd-206e04ddbfd6/261116%20Myanmar%20displacement%20overview%20one%20page.pdf"
-    },
-    {
-      "id": "ededaab949f17ba5",
-      "title": "Number of internally displaced people in Myanmar (As of 09 Nov 2026)",
-      "url": "https://reliefweb.int/report/myanmar/number-internally-displaced-people-myanmar-09-nov-2026",
-      "source": "ReliefWeb",
-      "category": "disasters",
-      "region": "global",
-      "publishedAt": "2026-11-25T12:03:23.000Z",
-      "summary": "Country: Myanmar Source: UN High Commissioner for Refugees Please refer to the attached Infographic.",
-      "image": "https://reliefweb.int/attachments/1b5295e9-72da-5b33-aa67-f5f7aab505db/261109%20Myanmar%20displacement%20overview%20one%20page.pdf"
-    },
-    {
-      "id": "265f0f0618a494b7",
-      "title": "Number of internally displaced people in Myanmar (As of 02 Nov 2026)",
-      "url": "https://reliefweb.int/report/myanmar/number-internally-displaced-people-myanmar-02-nov-2026",
-      "source": "ReliefWeb",
-      "category": "disasters",
-      "region": "global",
-      "publishedAt": "2026-11-25T12:03:11.000Z",
-      "summary": "Country: Myanmar Source: UN High Commissioner for Refugees Please refer to the attached Infographic.",
-      "image": "https://reliefweb.int/attachments/e5a62395-29ef-5151-9876-4d3604cca477/261102%20Myanmar%20displacement%20overview%20one%20page.pdf"
-    },
-    {
-      "id": "f998bf0356b3eb7b",
-      "title": "Overnight RSF drone attacks kill 19 in Sudan",
-      "url": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "africa",
-      "publishedAt": "2026-11-25T11:58:15.000Z",
-      "summary": "The attacks on Blue Nile state also wounded at least 20 people – in a drone war that is quickly escalating."
-    },
-    {
-      "id": "6a8de31b668eb66d",
-      "title": "Ex-England star Sterling given suspended sentence for dangerous driving",
-      "url": "https://www.aljazeera.com/sports/2026/11/25/ex-england-star-sterling-given-suspended-sentence-for-dangerous-driving?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "global",
-      "publishedAt": "2026-11-25T11:50:52.000Z",
-      "summary": "Raheem Sterling admitted inhaling 'laughing ⁠gas' and driving erratically before ​crashing his car."
-    },
-    {
-      "id": "47b843d1a1ac3d32",
-      "title": "Fire breaks out following drone strikes on a residential area in Al Damazin",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/fire-breaks-out-following-drone-strikes-on-a-residential-area-in-al-damazin?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "war_conflict",
-      "region": "africa",
-      "publishedAt": "2026-11-25T11:50:50.000Z",
-      "summary": "Flames seen engulfing a house in Sudan’s Blue Nile state, following a large-scale drone strike carried out by the RSF."
-    },
-    {
-      "id": "7be6167e3f615802",
-      "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-      "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "weather_climate",
-      "region": "global",
-      "publishedAt": "2026-11-25T11:45:16.000Z",
-      "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal."
-    },
-    {
-      "id": "b0999e2cd47849b0",
-      "title": "Energy bills to rise by 26% from January after gas prices surge",
-      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-11-25T11:44:26.000Z",
-      "summary": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year."
-    },
-    {
-      "id": "26d4149666ba9f1e",
-      "title": "Sinner uncertain for Australian Open after undergoing knee surgery",
-      "url": "https://www.aljazeera.com/sports/2026/11/25/sinner-uncertain-for-australian-open-after-undergoing-knee-surgery?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "sports",
-      "region": "asia_pacific",
-      "publishedAt": "2026-11-25T11:42:02.000Z",
-      "summary": "The five-time Grand Slam champion has not played a match since winning Wimbledon in July."
-    },
-    {
-      "id": "35aa1b0a85c3eb98",
-      "title": "After Brexit, is Britain heading back to the EU?",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/11/25/after-brexit-is-britain-heading-back-to-the-eu?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-11-25T11:40:51.000Z",
-      "summary": "A decade after the Brexit vote, a new deal brings Britain and the EU closer, with economic gains for both sides."
-    },
-    {
-      "id": "0cf0056562015959",
-      "title": "World: Día internacional para la eliminación de la violencia contra la mujer",
-      "url": "https://reliefweb.int/report/world/dia-internacional-para-la-eliminacion-de-la-violencia-contra-la-mujer",
-      "source": "ReliefWeb",
-      "category": "disasters",
-      "region": "global",
-      "publishedAt": "2026-11-25T11:33:14.000Z",
-      "summary": "Country: World Source: Caritas Con motivo del Día Internacional para la eliminación de la violencia contra la mujer, Caritas Internationalis se une a la comunidad internacional para reafirmar que esta cuestión es urgente y de justicia. El compromiso de defender la dignidad de cada persona constituye el núcleo mismo de la misión de Caritas Internationalis y es la base de todas nuestras acciones. The post DÍA INTERNACI"
-    },
-    {
-      "id": "870d8193a3d66404",
-      "title": "Afghanistan: Disminuye el número de afganos registrados en las rutas hacia Europa, pero los viajes siguen siendo largos y costosos",
-      "url": "https://reliefweb.int/report/afghanistan/disminuye-el-numero-de-afganos-registrados-en-las-rutas-hacia-europa-pero-los-viajes-siguen-siendo-largos-y-costosos",
-      "source": "ReliefWeb",
-      "category": "economy_business",
-      "region": "europe",
-      "publishedAt": "2026-11-25T11:33:12.000Z",
-      "summary": "Countries: Afghanistan, Albania, Bosnia and Herzegovina, France, Germany, Italy, Montenegro, Northern Mariana Islands (The United States of America), Serbia Source: International Organization for Migration Ginebra, 25 de noviembre de 2026 – Los nacionales afganos que transitan por la ruta de los Balcanes Occidentales describen trayectos que duran meses y cuestan miles de euros, según nuevos datos de la Organización I"
-    },
-    {
-      "id": "e75fd510275b5ce6",
-      "title": "Technical workshop in Syria advances disaster risk knowledge for inclusive multi-hazard early warning systems and anticipatory action",
-      "url": "https://reliefweb.int/report/syrian-arab-republic/technical-workshop-syria-advances-disaster-risk-knowledge-inclusive-multi-hazard-early-warning-systems-and-anticipatory-action",
-      "source": "ReliefWeb",
-      "category": "disasters",
-      "region": "europe",
-      "publishedAt": "2026-11-25T11:33:10.000Z",
-      "summary": "Country: Syrian Arab Republic Source: UN Office for Disaster Risk Reduction Understanding who is at risk, where vulnerabilities lie and how hazards interact is fundamental to developing effective early warning systems. In Syria, this requires particular attention to population displacement, disrupted infrastructure and the availability of reliable risk information. From 16 to 18 November 2026, the technical workshop "
-    },
-    {
-      "id": "ead0e52ad149bf35",
-      "title": "Lincoln sack head coach duo Cohen and Shaw",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmglrzg3zx9no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-25T11:32:28.000Z",
-      "summary": "Lincoln sack head coaches Chris Cohen and Tom Shaw just six months after they took joint charge of the Championship side."
-    },
-    {
-      "id": "8c16b7571cd63257",
-      "title": "Israeli strike kills Hamas official, his wife and children",
-      "url": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "creativity_arts",
-      "region": "middle_east",
-      "publishedAt": "2026-11-25T11:24:37.000Z",
-      "summary": "The air strike hit their Gaza apartment amid escalating Israeli attacks, the Interior Ministry says."
     },
     {
       "id": "8278a9cdfd2ebaec",
@@ -266,20 +508,10 @@
       "summary": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]"
     },
     {
-      "id": "b82f9dda8fe5f97d",
-      "title": "China misusing Interpol to target dissidents, says leading UK lawyer",
-      "url": "https://www.theguardian.com/world/2026/nov/25/china-misusing-interpol-target-dissidents-uk-lawyer",
-      "source": "The Guardian World",
-      "category": "diplomacy",
-      "region": "europe",
-      "publishedAt": "2026-11-25T11:00:46.000Z",
-      "summary": "Concerns over Beijing’s use of ‘red notices’ as Hong Kong prepares to host police organisation’s general assembly China is misusing Interpol to target and silence dissidents, a leading British lawyer has claimed, as Hong Kong prepares to host the police organisation’s general assembly for the first time. Ben Keith, a specialist in “red notices” - the Interpol system under which national authorities are requested to l"
-    },
-    {
       "id": "303ff3bc2b57190e",
       "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
       "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "source": "BBC Technology",
       "category": "economy_business",
       "region": "global",
       "publishedAt": "2026-11-25T10:52:09.000Z",
@@ -326,14 +558,14 @@
       "summary": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife."
     },
     {
-      "id": "a384067828c71744",
-      "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
-      "source": "BleepingComputer",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-11-25T10:10:20.000Z",
-      "summary": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]"
+      "id": "96e69d61748884f1",
+      "title": "Protesters call on Israel to free Palestinian student held without charge",
+      "url": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world_politics",
+      "region": "middle_east",
+      "publishedAt": "2026-11-25T10:03:42.000Z",
+      "summary": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge."
     },
     {
       "id": "2ec2a7809d5f4ec6",
@@ -356,16 +588,6 @@
       "summary": "Writer-director Beth de Araújo witnessed a brutal sexual assault as a child and has turned her experience into one of the year’s most powerful movies The film-maker Beth de Araújo likens the personal experience that inspired Josephine, her disquieting second feature, to a slow-acting poison. Early one Saturday morning when she was eight years old, Araújo and her father were playing soccer in Golden Gate Park, near th"
     },
     {
-      "id": "137a1d0e5e2d5df0",
-      "title": "Iowa town shelters in place as army prepares to detonate entire US stockpile of lead azide",
-      "url": "https://www.theguardian.com/us-news/2026/nov/25/iowa-controlled-blast-lead-azide",
-      "source": "The Guardian Environment",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-11-25T10:00:12.000Z",
-      "summary": "Controlled blast to proceed after multiple delays and outpouring of concern about potential health and environmental effects The US Army is set to detonate the nation’s entire stockpile of lead azide in Iowa on Wednesday morning, moving ahead after multiple delays and despite an outpouring of public concern about potential health and environmental effects. The controlled blast is planned to dispose of 9,700lb (4,400k"
-    },
-    {
       "id": "08c56a732e276df5",
       "title": "What will the energy cap changes mean for my bills?",
       "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
@@ -386,16 +608,6 @@
       "summary": "The Executive Committee of the National Economic Council (ECNEC) has approved 10 development projects involving an expenditure of BDT 24,110.66 crore. Among the approved projects, five are new, four are… The post ECNEC Approves 10 Projects Worth BDT 24,000 Crore appeared first on Bangla Online News Portal."
     },
     {
-      "id": "cd850f778418557a",
-      "title": "All hostages rescued after Colombian security forces storm supermarket, says president",
-      "url": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
-      "source": "The Guardian World",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-11-25T09:26:25.000Z",
-      "summary": "Operation in which one hostage-taker was killed ends daylong siege in Cartagena shopping centre, where 30 people were initially held Colombian security forces have stormed a supermarket in the Caribbean city of Cartagena, ending a daylong hostage siege, with the president saying all those held had been rescued and one hostage-taker killed. Several explosions were heard before security forces entered the building, whe"
-    },
-    {
       "id": "0ab421bad5f38f6a",
       "title": "Government to Provide Bicycles to 3 Lakh Meritorious Female Students; Prime Minister Inspects",
       "url": "https://www.bd24live.com/government-to-provide-bicycles-to-3-lakh-meritorious-female-students-prime-minister-inspects/",
@@ -404,66 +616,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-11-25T09:15:14.000Z",
       "summary": "Prime Minister Tarique Rahman rode and inspected samples of bicycles brought for three lakh meritorious female students from classes six to ten across the country. On Wednesday (November 25) morning,… The post Government to Provide Bicycles to 3 Lakh Meritorious Female Students; Prime Minister Inspects appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "7294d0e7248e781d",
-      "title": "Khawaja 'disappointed' by Cummins' personal attack",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c6grexq2jpero?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "asia_pacific",
-      "publishedAt": "2026-11-25T08:37:44.000Z",
-      "summary": "Former Australia batter Usman Khawaja says it was \"never about me versus Pat\" as the 2018 sandpapergate scandal rumbles on."
-    },
-    {
-      "id": "a0f5ce200e9667fd",
-      "title": "How Fin Smith's carrying is giving England an extra dimension",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckr5gvr5yz24o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-25T07:51:31.000Z",
-      "summary": "Fin Smith is only 5ft 10in tall and less than 14 stone, but the fly-half has become one of England's most prolific ball carriers."
-    },
-    {
-      "id": "2913d39c92e85e7b",
-      "title": "Players in limbo after NZ netball league collapses",
-      "url": "https://www.bbc.co.uk/sport/netball/articles/cq0k6gjgrzn4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-25T07:17:16.000Z",
-      "summary": "Parris Mason on concerns about her netball future after the collapse of the domestic league in New Zealand."
-    },
-    {
-      "id": "6ee1ad78a93463be",
-      "title": "Two children among six dead after plane crash off Mississippi coast",
-      "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-11-25T07:08:22.000Z",
-      "summary": "Divers found the bodies of four adults and two boys, aged 8 and 10, in the fuselage, the US Coast Guard said."
-    },
-    {
-      "id": "a698562c778c3e3c",
-      "title": "Are Man Utd this season's Tottenham?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "global",
-      "publishedAt": "2026-11-25T06:22:36.000Z",
-      "summary": "Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Manchester United in danger of being the new Spurs?"
-    },
-    {
-      "id": "029cca9860df4be7",
-      "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-11-25T06:00:36.000Z",
-      "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft."
     },
     {
       "id": "ac6f71f9be93eb7d",
@@ -489,21 +641,11 @@
       "id": "562140ec3da4bf6e",
       "title": "US attorney general dodges questions about Nvidia investigation",
       "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "source": "BBC Technology",
       "category": "world_politics",
       "region": "global",
       "publishedAt": "2026-11-25T03:44:07.000Z",
       "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement."
-    },
-    {
-      "id": "581e5c1f41061093",
-      "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "diplomacy",
-      "region": "asia_pacific",
-      "publishedAt": "2026-11-25T03:15:12.000Z",
-      "summary": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty."
     },
     {
       "id": "e5490d1eeeb24778",
@@ -514,16 +656,6 @@
       "region": "bangladesh",
       "publishedAt": "2026-11-25T03:05:17.000Z",
       "summary": "After extensive discussions and negotiations, the Minimum Wage Board has determined the new minimum wage for garment workers. With the consensus of both owner and worker representatives and votes from… The post Garment Workers’ Minimum Wage Set at Tk 17,000, Effective from December appeared first on Bangla Online News Portal."
-    },
-    {
-      "id": "d0450afbd514cf5b",
-      "title": "Thomas Markle charged in US for possessing child sex abuse images",
-      "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world_politics",
-      "region": "global",
-      "publishedAt": "2026-11-25T01:40:42.000Z",
-      "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material."
     },
     {
       "id": "78b6f2c607bc0240",
@@ -556,16 +688,6 @@
       "summary": "India's food inflation is broadening, squeezing household budgets."
     },
     {
-      "id": "d741bfe4ee459f63",
-      "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
-      "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
-      "source": "The Verge",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-11-25T01:00:00.000Z",
-      "summary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthorized access to a limited subset of its systems.\" It hasn't offered any information about the full scope or source of the breach, but FinCEN has taken some systems offline as a precau"
-    },
-    {
       "id": "38429e639d7994e8",
       "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
       "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
@@ -576,16 +698,6 @@
       "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war."
     },
     {
-      "id": "8733aea43cf5bb06",
-      "title": "US preparing to unveil plan for new tariffs on global trading partners",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "creativity_arts",
-      "region": "americas",
-      "publishedAt": "2026-11-25T00:38:01.000Z",
-      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU."
-    },
-    {
       "id": "43286dac7b5b48ff",
       "title": "Why tiny cars are taking off across Europe",
       "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
@@ -594,26 +706,6 @@
       "region": "europe",
       "publishedAt": "2026-11-25T00:34:05.000Z",
       "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic."
-    },
-    {
-      "id": "0e76b936c67df8e8",
-      "title": "The Verge’s 2026 gift guide for dads",
-      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-11-24T23:59:29.000Z",
-      "summary": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we're here to guide you. We've curated this year's gift list with the modern father in mind, whether he's a gamer, creator, chef, or simply a gadget lover. There'"
-    },
-    {
-      "id": "3226fba6fee6b280",
-      "title": "Bellingham plays down Zidane comparison after wonder goal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "region": "europe",
-      "publishedAt": "2026-11-24T23:54:10.000Z",
-      "summary": "Jose Mourinho says Jude Bellingham is the best midfielder in the world, but the Real Madrid star played down comparisons to Zinedine Zidane."
     },
     {
       "id": "74cd2e51b041e0f7",
@@ -636,16 +728,6 @@
       "summary": "Monthly tide records were set across the city, with some expected to hit even higher tomorrow Explainer: What to know about flooding in California over Thanksgiving California is grappling with the stress test of record-high or close to record-high November tides up and down the coast this week, with flooding of low-lying roadways in San Francisco and an evacuation of one community in northern California. Local resid"
     },
     {
-      "id": "6893da16357aef91",
-      "title": "Huawei found guilty of stealing trade secrets",
-      "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
-      "source": "The Verge",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-11-24T22:23:27.000Z",
-      "summary": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from several companies, including T-Mobile, Cisco, and Motorola. The Department of Justice's 2018 criminal indictment against Hua"
-    },
-    {
       "id": "79398502653ae16d",
       "title": "Climate scientists urge US lawmakers to vote no on sweeping permitting bill",
       "url": "https://www.theguardian.com/us-news/2026/nov/24/climate-scientists-lawmakers-baaja",
@@ -654,56 +736,6 @@
       "region": "americas",
       "publishedAt": "2026-11-24T22:09:57.000Z",
       "summary": "Open letter warns Baaja, intended to expedite energy and infrastructure projects, will cause irreversible climate harm A group of more than 120 climate scientists have urged US lawmakers to not pass contentious legislation to speed up the building of energy projects, datacenters and other infrastructure, amid a growing backlash to the sweeping permitting bill. In an open letter to members of the House of Representati"
-    },
-    {
-      "id": "c1ce791e8a7ff560",
-      "title": "GTA VI PC recompilation project shut down by Take-Two",
-      "url": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
-      "source": "The Verge",
-      "category": "cybersecurity",
-      "region": "global",
-      "publishedAt": "2026-11-24T21:39:14.000Z",
-      "summary": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown notice from GTA VI publisher Take-Two. Leonida was designed to translate a leaked GTA VI Xbox build to run natively on Windows. Cyberleek, the leaker who posted multiple GTA VI gameplay videos over t"
-    },
-    {
-      "id": "7cd6b30b8c4b330a",
-      "title": "TikTok was down",
-      "url": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-11-24T20:27:27.000Z",
-      "summary": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do, following a slew of other outages over the past couple of weeks. Videos sometimes wouldn't load in the For You feed on my iPhone, and search results occasionally didn't show up as expected in the app on iOS or Android, or on the web. Even trying to pull up a profile would show"
-    },
-    {
-      "id": "f5cbfc43f84057a3",
-      "title": "Will I get the £100 energy payment and when will I receive it?",
-      "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "environment",
-      "region": "global",
-      "publishedAt": "2026-11-24T20:16:24.000Z",
-      "summary": "Here is what you need to know about the payment that millions will receive from January."
-    },
-    {
-      "id": "a2270576031dfdfe",
-      "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
-      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-      "source": "The Verge",
-      "category": "technology",
-      "region": "global",
-      "publishedAt": "2026-11-24T20:02:03.000Z",
-      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang reportedly called claims that President Donald Trump was directly involved i"
-    },
-    {
-      "id": "76c0f204636cfbe0",
-      "title": "Life expectancy in Cuba falls for first time since 1950 amid economic crisis",
-      "url": "https://www.theguardian.com/world/2026/nov/24/cuba-life-expectancy-decline",
-      "source": "The Guardian World",
-      "category": "diplomacy",
-      "region": "global",
-      "publishedAt": "2026-11-24T19:07:26.000Z",
-      "summary": "WHO chief says life expectancy has fallen from 78.8 years in 2020 to 74.4 in 2025, figures that predate US fuel blockade Life expectancy has fallen for the first time in Cuba since 1950 as the island reels from a severe economic crisis, the head of the World Health Organization (WHO) said on Tuesday. On a visit to Havana, WHO chief Tedros Adhanom Ghebreyesus said life expectancy had fallen from 78.8 years in 2020 to "
     },
     {
       "id": "39699510ecce237a",
@@ -736,16 +768,6 @@
       "summary": "The UK Health Security Agency says this year's number of deaths is twice that of the previous record year."
     },
     {
-      "id": "f08a3a11998a0bb0",
-      "title": "Outcry grows over Labour plan to exempt most brownfield sites from nature protection rules",
-      "url": "https://www.theguardian.com/politics/2026/nov/24/outcry-uk-plans-to-exempt-brownfield-sites-nature-protection-rules",
-      "source": "The Guardian Environment",
-      "category": "environment",
-      "region": "europe",
-      "publishedAt": "2026-11-24T14:00:47.000Z",
-      "summary": "Chancellor’s decision to exempt plots up to 1.5 hectares allows developers to dodge rules aiming to reverse wildlife declines An outcry is growing over the UK chancellor’s removal of most brownfield housing plots from a legal requirement for developers to measurably enhance nature. John Healey’s decision in the budget to exempt brownfield plots of up to 1.5 hectares from biodiversity net gain (BNG) laws effectively m"
-    },
-    {
       "id": "9130e8e5d4d21af3",
       "title": "Armed Forces Ready to Face Any Challenge: Prime Minister",
       "url": "https://www.bd24live.com/armed-forces-ready-to-face-any-challenge-prime-minister/",
@@ -756,16 +778,6 @@
       "summary": "Prime Minister Tareque Rahman has stated that Bangladesh’s armed forces are highly organized, professional, and prepared to face any challenge. He made the remark on Tuesday (November 24) after inspecting… The post Armed Forces Ready to Face Any Challenge: Prime Minister appeared first on Bangla Online News Portal."
     },
     {
-      "id": "34a7a200317fae20",
-      "title": "Summer heat deaths in 2026 reached record high of 5,258 in England",
-      "url": "https://www.theguardian.com/environment/2026/nov/24/summer-heat-deaths-record-high-england",
-      "source": "The Guardian Environment",
-      "category": "world_politics",
-      "region": "europe",
-      "publishedAt": "2026-11-24T12:39:50.000Z",
-      "summary": "Figure for May to September is far higher than previous peak of 2,985 since records began a decade ago More than 5,200 deaths in England in 2026 were linked to summer heat, the highest provisional annual total since records began a decade ago, according to the UK Health Security Agency. The government agency said 5,258 deaths were associated with extreme heat between May and September 2026. Continue reading..."
-    },
-    {
       "id": "b00b6703bd8eadb6",
       "title": "Storms targeting both US coasts threaten to snarl Thanksgiving travel for millions",
       "url": "https://www.bbc.co.uk/weather/articles/c5742nplemnno?at_medium=RSS&at_campaign=rss",
@@ -774,16 +786,6 @@
       "region": "global",
       "publishedAt": "2026-11-24T11:40:46.000Z",
       "summary": "Two storms, including a major Nor'easter on the east coast, are expected to impact millions of people celebrating the holiday with family and friends."
-    },
-    {
-      "id": "3e5d8203eeaacb87",
-      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "economy_business",
-      "region": "global",
-      "publishedAt": "2026-11-24T10:53:37.000Z",
-      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value."
     },
     {
       "id": "665aa3f9c5b67458",
@@ -836,16 +838,6 @@
       "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public."
     },
     {
-      "id": "690d3989b8595b2f",
-      "title": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
-      "url": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
-      "source": "The Guardian World",
-      "category": "world_politics",
-      "region": "americas",
-      "publishedAt": "2026-11-23T22:41:48.000Z",
-      "summary": "Carney watches on as comedian lampoons US leader and his interest in men’s backsides at correspondents’ event Ottawa Canada’s prime minister, Mark Carney, was joined on stage in Ottawa by a Donald Trump impersonator who mocked the US president to raucous laughter from a crowd of politicians and journalists at a parliamentary press gallery dinner on Saturday. With coiffed hair and an ill-fitting suit, comedian Mark Cr"
-    },
-    {
       "id": "85bf3fa7bbb089d5",
       "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
       "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
@@ -876,16 +868,6 @@
       "summary": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks."
     },
     {
-      "id": "4ac87be26a58980a",
-      "title": "How important are Nvidia and Jensen Huang to the US economy?",
-      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "creativity_arts",
-      "region": "global",
-      "publishedAt": "2026-11-23T16:12:35.000Z",
-      "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom."
-    },
-    {
       "id": "f0e982e46d7a0eb3",
       "title": "The rise and fall and rise again of Jensen Huang",
       "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
@@ -894,36 +876,6 @@
       "region": "global",
       "publishedAt": "2026-11-23T15:49:52.000Z",
       "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return."
-    },
-    {
-      "id": "3caadce6b1b4eedc",
-      "title": "Five takeaways from the failed climate talks COP31",
-      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "diplomacy",
-      "region": "global",
-      "publishedAt": "2026-11-23T06:33:50.000Z",
-      "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history."
-    },
-    {
-      "id": "4043799923c5739c",
-      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "diplomacy",
-      "region": "asia_pacific",
-      "publishedAt": "2026-11-23T05:15:06.000Z",
-      "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\"."
-    },
-    {
-      "id": "4a0cf59d88b27639",
-      "title": "What's next after no deal at COP31 climate summit?",
-      "url": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science & Environment",
-      "category": "diplomacy",
-      "region": "middle_east",
-      "publishedAt": "2026-11-22T18:28:48.000Z",
-      "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal."
     },
     {
       "id": "db418ce47ddfc6bb",
@@ -936,26 +888,6 @@
       "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…"
     },
     {
-      "id": "4701e23384073745",
-      "title": "California’s coastal communities on alert as biggest waves in years hit state",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
-      "source": "The Guardian World",
-      "category": "weather_climate",
-      "region": "asia_pacific",
-      "publishedAt": "2026-11-20T09:03:20.000Z",
-      "summary": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recorded Multiple coastal hazard warnings were issued this week across California as successive areas of low pressure generated powerful swells and large breaking waves for coastal communities. Beaches and piers were closed last weekend as large waves crashed into California’s coastline. Offshore National Oceanic and Atmosphe"
-    },
-    {
-      "id": "559e5e0e0969842a",
-      "title": "A human liver has been kept alive outside the body for a record seven weeks",
-      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
-      "source": "MIT Tech Review",
-      "category": "ai_innovation",
-      "region": "asia_pacific",
-      "publishedAt": "2026-11-19T12:00:00.000Z",
-      "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor Carlo Pulitano connected a donated liver to a…"
-    },
-    {
       "id": "aa16c77ad64a274b",
       "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
       "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
@@ -964,6 +896,46 @@
       "region": "global",
       "publishedAt": "2026-11-18T02:52:04.000Z",
       "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing malicious software silently injected into sites like the BBC, CNN, Equifax, Ledger and Zoom, was exacerbat"
+    },
+    {
+      "id": "19e4c0ea29a8289d",
+      "title": "Who Runs the Ransomware Group Qilin?",
+      "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "region": "europe",
+      "publishedAt": "2026-11-11T18:06:01.000Z",
+      "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that all point to a 36-year-old man living in St. Petersburg, Russia."
+    },
+    {
+      "id": "7b52cc872b82842a",
+      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "region": "americas",
+      "publishedAt": "2026-10-19T13:48:56.000Z",
+      "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that"
+    },
+    {
+      "id": "8012d0a0ea8bbb17",
+      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
+      "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "region": "europe",
+      "publishedAt": "2026-10-14T14:22:49.000Z",
+      "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions."
+    },
+    {
+      "id": "d0db026dbc4bae1f",
+      "title": "‘Huge wave’ of carbon storage projects causes alarm in small-town USA as oil firms eye billions in subsidies",
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/carbon-sequestration-projects-oil-companies-subsidies",
+      "source": "The Guardian Environment",
+      "category": "environment",
+      "region": "americas",
+      "publishedAt": "2026-07-12T12:00:18.000Z",
+      "summary": "Dozens of projects are in development across US despite concerns over environmental and health risks The plan to bury carbon under remote Indiana farmland is supposed to be a slam dunk for the climate, according to its supporters – all generously funded by US tax dollars. But as far as Melissa Harrison and some other residents of Clymers, Indiana, are concerned, it just might be the end of their town. “This is our pl"
     }
   ]
 }
